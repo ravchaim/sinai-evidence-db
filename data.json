@@ -663,7 +663,7 @@
       },
       "s": "Yehuda HaLevi, Kuzari I:25–27, I:87–95, II:26–30",
       "u": "https://www.sefaria.org/Kuzari.1.25",
-      "review_caveat": "Accurate representation of a real, influential philosophical text, but it restates the internal eyewitness-transmission argument in systematic form rather than adding independent evidence, and does not acknowledge that critical scholars have long challenged the argument's key premise — that mass legendary elaboration or gradual retrojection of a national-revelation claim is as implausible as the Kuzari argument assumes — a genuinely contested point in the literature on this specific argument."
+      "review_caveat": "Grade predates this project's later adversarial pressure-testing of this exact argument (the \"Kuzari debate,\" 2026-08-25), which reached a narrower and better-supported conclusion than either this entry or its original WEAK-MODERATE grade: the mass-witness transmission structure genuinely makes LATE fabrication harder to introduce than a private-revelation claim (worth MODERATE to MODERATE-STRONG on that narrow point), but this does not establish that the event's content was accurate at its origin -- no dated fabrication mechanism was ever produced on either side of that debate, and the entry should not be read as closing that gap."
     },
     {
       "layer": "core",
@@ -4072,7 +4072,7 @@
       },
       "s": "Kuzari (Judah HaLevi) – Wikipedia",
       "u": "https://en.wikipedia.org/wiki/Kuzari",
-      "review_caveat": "The sole source (theapj.com) is an apologetics advocacy site, not academic scholarship - a single-source, apologetics-only citation. Despite the \"game-theoretic\" framing, no actual formal model (payoff matrix, etc.) is given, and known scholarly rebuttals to the Kuzari Principle (e.g., gradual legend accretion not requiring any single living liar) are not engaged."
+      "review_caveat": "Overreaches past what this project's own later adversarial testing (the \"Kuzari debate,\" 2026-08-25) actually validated: this entry concludes the national-revelation claim is positioned as \"historical reality with no plausible fabrication mechanism,\" but the debate held that structural difficulty-to-fabricate-late is real and non-trivial without establishing actual historical accuracy at the point of origin -- neither side could supply a dated, positive fabrication mechanism, which is a narrower and more defensible finding than this entry's conclusion. The argument also still presupposes, rather than independently establishes, that all three fabrication vectors would in fact have been detected and denied."
     },
     {
       "layer": "coherence",
