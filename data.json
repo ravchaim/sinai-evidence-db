@@ -4504,24 +4504,6 @@
     {
       "layer": "archaeology",
       "t": {
-        "en": "The Tel Dan Stele",
-        "he": "מצבת תל דן",
-        "fr": "La stèle de Tel Dan",
-        "es": "La estela de Tel Dan"
-      },
-      "e": {
-        "en": "An Aramaic inscription discovered in 1993–94 containing the phrase בֵּית דָּוִד (Beit David — 'House of David') — the first extra-biblical inscription confirming the Davidic dynasty as recognized by contemporaneous enemies (Biran & Naveh, IEJ 43, 1993; 45, 1995). This refuted the Copenhagen School's claim that David was legendary and corroborates the biblical account of the Davidic dynasty's political significance.",
-        "he": "כתובת ארמית שהתגלתה ב-1993-94 המכילה את הביטוי בֵּית דָּוִד — הכתובת החוץ-מקראית הראשונה המאשרת את שושלת דוד כמוכרת על ידי אויבים בני-הזמן (בירן ונווה, IEJ 43, 1993; 45, 1995). הדבר הפריך את טענת אסכולת קופנהגן שדוד היה אגדי ומאשש את התיאור המקראי של המשמעות הפוליטית של שושלת דוד.",
-        "fr": "Une inscription araméenne découverte en 1993-94 contenant la phrase Beit David (« Maison de David ») — la première inscription extra-biblique confirmant la dynastie davidique telle que reconnue par des ennemis contemporains (Biran & Naveh, IEJ 43, 1993 ; 45, 1995). Cela a réfuté l'affirmation de l'École de Copenhague selon laquelle David était légendaire et corrobore le récit biblique de l'importance politique de la dynastie davidique.",
-        "es": "Una inscripción aramea descubierta en 1993-94 que contiene la frase Beit David (\"Casa de David\") — la primera inscripción extrabíblica que confirma la dinastía davídica reconocida por enemigos contemporáneos (Biran y Naveh, IEJ 43, 1993; 45, 1995). Esto refutó la afirmación de la Escuela de Copenhague de que David era legendario y corrobora el relato bíblico de la importancia política de la dinastía davídica."
-      },
-      "s": "Tel Dan inscription – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Tel_Dan_stele",
-      "date_sort": -840
-    },
-    {
-      "layer": "archaeology",
-      "t": {
         "en": "The Siloam Inscription",
         "he": "כתובת השילוח",
         "fr": "L'inscription de Siloé",
@@ -4644,7 +4626,8 @@
       },
       "s": "Gezer calendar – Wikipedia",
       "u": "https://en.wikipedia.org/wiki/Gezer_calendar",
-      "date_sort": -925
+      "date_sort": -925,
+      "review_caveat": "The classification of the Gezer Calendar's script and language as specifically 'Hebrew' (vs. Phoenician/Old Canaanite) is disputed among epigraphers -- Rollston and Naveh argue no linguistic feature is distinctively Hebrew, while Albright and Sivan argued for Hebrew -- the entry presents a contested identification as settled."
     },
     {
       "layer": "archaeology",
@@ -4662,7 +4645,8 @@
       },
       "s": "Khirbet Qeiyafa ostracon – Wikipedia",
       "u": "https://en.wikipedia.org/wiki/Khirbet_Qeiyafa_ostracon",
-      "date_sort": -1000
+      "date_sort": -1000,
+      "review_caveat": "The ostracon's language and content are actively disputed among epigraphers -- while Galil (2009) read it as Hebrew narrative text, Millard, Demsky, and Rollston argue no linguistic markers securely identify it as Hebrew and that it may simply be a list of names; the entry presents one contested reading as settled."
     },
     {
       "layer": "archaeology",
@@ -4825,7 +4809,7 @@
         "fr": "Des dépêches militaires quotidiennes d'une forteresse judahite utilisent des noms divins, des noms personnels, et un langage administratif cohérent avec le monde de la Torah/Tanakh. Cela ancre le cadre biblique dans la réalité bureaucratique ordinaire et sans éclat de l'époque plutôt que dans une invention littéraire tardive.",
         "es": "Despachos militares cotidianos de una fortaleza judaíta usan nombres divinos, nombres personales, y lenguaje administrativo consistente con el mundo de la Torá/Tanaj. Esto ancla el entorno bíblico en la realidad burocrática ordinaria y poco glamorosa de la época en lugar de una invención literaria tardía."
       },
-      "s": "Arad ostraca – Wikipedia",
+      "s": "Aharoni, Arad Inscriptions (Israel Exploration Society, 1981); Wikipedia",
       "u": "https://en.wikipedia.org/wiki/Arad_ostraca",
       "date_sort": -600
     },
@@ -4843,7 +4827,7 @@
         "fr": "Des registres fiscaux/d'expédition du Royaume du Nord utilisent des noms de lieux, des noms de clans, et un système de datation qui s'alignent avec le récit biblique de la société israélite à l'époque — corroborant la géographie et la structure administrative que présupposent la Torah et les livres ultérieurs.",
         "es": "Registros de impuestos/envíos del Reino del Norte usan nombres de lugares, nombres de clanes, y un sistema de datación que se alinean con el relato bíblico de la sociedad israelita de la época — corroborando la geografía y estructura administrativa que presuponen la Torá y los libros posteriores."
       },
-      "s": "Samaria ostraca – Wikipedia",
+      "s": "Reisner, Fisher & Lyon, Harvard Excavations at Samaria (1924); Wikipedia",
       "u": "https://en.wikipedia.org/wiki/Samaria_ostraca",
       "date_sort": -770
     },
@@ -4992,7 +4976,8 @@
       },
       "s": "Slavery in ancient Israel – Wikipedia",
       "u": "https://en.wikipedia.org/wiki/Slavery_in_the_Bible",
-      "date_sort": -1400
+      "date_sort": -1400,
+      "review_caveat": "This is Kenneth Kitchen's 'fossilization' argument; a published rebuttal (BAR, 'The Kitchen Debate') notes Joseph's 20-shekel price is separately explained by his age as a minor (matching the age-based valuation table in Lev. 27:5), which weakens the claim that the price specifically pins the story's origin to the early 2nd millennium BCE rather than reflecting a different, non-chronological rationale."
     },
     {
       "layer": "archaeology",
@@ -5010,39 +4995,22 @@
       },
       "s": "Tel Zayit - Wikipedia",
       "u": "https://en.wikipedia.org/wiki/Tel_Zayit",
-      "date_sort": -950
+      "date_sort": -950,
+      "review_caveat": "The abecedary's script is widely described as the general 'Canaanite alphabet' rather than distinctively Hebrew/Israelite -- at least one academic study argues it may reflect Phoenician rather than Israelite scribal culture -- so its use to demonstrate specifically Israelite literacy, and by extension to refute late-Pentateuch-composition theories, overstates what the find secures."
     },
     {
       "layer": "archaeology",
       "t": {
-        "en": "The Seal of King Hezekiah — First Royal Bulla Found in Scientific Excavation (Restated)",
-        "he": "חותם המלך חזקיהו — הבולה המלכותית הראשונה שנמצאה בחפירה מדעית (חזרה)",
-        "fr": "Le sceau du roi Ézéchias — première boulle royale trouvée en fouille scientifique (répété)",
-        "es": "El sello del rey Ezequías — primera bula real encontrada en excavación científica (repetido)"
+        "en": "The Solomonic Six-Chamber Gates — Identical Architecture at Three Named Biblical Sites",
+        "he": "שערי שלמה בעלי שישה התאים — ארכיטקטורה זהה בשלושה אתרים מקראיים נקובים בשם",
+        "fr": "Les portes salomoniennes à six chambres — architecture identique sur trois sites bibliques nommés",
+        "es": "Las puertas salomónicas de seis cámaras — arquitectura idéntica en tres sitios bíblicos nombrados"
       },
       "e": {
-        "en": "Restated from entry 221: a royal seal impression bearing King Hezekiah's name, recovered in controlled excavation, is cited as direct archaeological confirmation of a specific biblical king's historical existence and royal title.",
-        "he": "חזרה מתוך ערך 221: חותם מלכותי הנושא את שמו של המלך חזקיהו, שהתגלה בחפירה מבוקרת, מובא כאישוש ארכיאולוגי ישיר לקיומו ההיסטורי ולתואר המלכותי של מלך מקראי ספציפי.",
-        "fr": "Répété à partir de l'entrée 221 : une empreinte de sceau royal portant le nom du roi Ézéchias, récupérée lors d'une fouille contrôlée, est citée comme confirmation archéologique directe de l'existence historique et du titre royal d'un roi biblique spécifique.",
-        "es": "Repetido de la entrada 221: una impresión de sello real que lleva el nombre del rey Ezequías, recuperada en una excavación controlada, se cita como confirmación arqueológica directa de la existencia histórica y el título real de un rey bíblico específico."
-      },
-      "s": "Hezekiah – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Hezekiah",
-      "date_sort": -700
-    },
-    {
-      "layer": "archaeology",
-      "t": {
-        "en": "The Solomonic Six-Chamber Gates — Identical Architecture at Three Named Biblical Sites (Restated)",
-        "he": "שערי שלמה בעלי שישה התאים — ארכיטקטורה זהה בשלושה אתרים מקראיים נקובים בשם (חזרה)",
-        "fr": "Les portes salomoniennes à six chambres — architecture identique sur trois sites bibliques nommés (répété)",
-        "es": "Las puertas salomónicas de seis cámaras — arquitectura idéntica en tres sitios bíblicos nombrados (repetido)"
-      },
-      "e": {
-        "en": "Restated from entry 222: matching six-chambered gate architecture found at Hazor, Megiddo, and Gezer — the three cities named together in 1 Kings 9:15 as built by Solomon — is cited as archaeological confirmation of a specific biblical building claim, though the dating of these gates to Solomon's reign specifically, versus a later Omride-dynasty construction, remains debated among archaeologists (the 'Low Chronology' controversy).",
-        "he": "חזרה מתוך ערך 222: ארכיטקטורת שערים בעלי שישה תאים זהה שנמצאה בחצור, מגידו וגזר — שלוש הערים הנקובות יחד במלכים א ט:טו כבנויות על ידי שלמה — מובאת כאישוש ארכיאולוגי לטענה בנייה מקראית ספציפית, אף שתיארוך שערים אלה לתקופת שלמה ספציפית, לעומת בנייה מאוחרת יותר מתקופת שושלת עמרי, נותר שנוי במחלוקת בקרב ארכיאולוגים (מחלוקת \"הכרונולוגיה הנמוכה\").",
-        "fr": "Répété à partir de l'entrée 222 : une architecture de portes à six chambres identique trouvée à Hatsor, Megiddo, et Guézer — les trois villes nommées ensemble en 1 Rois 9:15 comme construites par Salomon — est citée comme confirmation archéologique d'une revendication biblique spécifique de construction, bien que la datation de ces portes au règne de Salomon spécifiquement, par rapport à une construction ultérieure de la dynastie omride, reste débattue parmi les archéologues (la controverse de la « chronologie basse »).",
-        "es": "Repetido de la entrada 222: una arquitectura de puertas de seis cámaras idéntica encontrada en Jazor, Meguido y Gezer — las tres ciudades nombradas juntas en 1 Reyes 9:15 como construidas por Salomón — se cita como confirmación arqueológica de una afirmación bíblica específica de construcción, aunque la datación de estas puertas al reinado de Salomón específicamente, frente a una construcción posterior de la dinastía omrida, sigue siendo debatida entre arqueólogos (la controversia de la 'cronología baja')."
+        "en": "Matching six-chambered gate architecture found at Hazor, Megiddo, and Gezer — the three cities named together in 1 Kings 9:15 as built by Solomon — is cited as archaeological confirmation of a specific biblical building claim, though the dating of these gates to Solomon's reign specifically, versus a later Omride-dynasty construction, remains debated among archaeologists (the 'Low Chronology' controversy).",
+        "he": "ארכיטקטורת שערים בעלי שישה תאים זהה שנמצאה בחצור, מגידו וגזר — שלוש הערים הנקובות יחד במלכים א ט:טו כבנויות על ידי שלמה — מובאת כאישוש ארכיאולוגי לטענה בנייה מקראית ספציפית, אף שתיארוך שערים אלה לתקופת שלמה ספציפית, לעומת בנייה מאוחרת יותר מתקופת שושלת עמרי, נותר שנוי במחלוקת בקרב ארכיאולוגים (מחלוקת \"הכרונולוגיה הנמוכה\").",
+        "fr": "une architecture de portes à six chambres identique trouvée à Hatsor, Megiddo, et Guézer — les trois villes nommées ensemble en 1 Rois 9:15 comme construites par Salomon — est citée comme confirmation archéologique d'une revendication biblique spécifique de construction, bien que la datation de ces portes au règne de Salomon spécifiquement, par rapport à une construction ultérieure de la dynastie omride, reste débattue parmi les archéologues (la controverse de la « chronologie basse »).",
+        "es": "una arquitectura de puertas de seis cámaras idéntica encontrada en Jazor, Meguido y Gezer — las tres ciudades nombradas juntas en 1 Reyes 9:15 como construidas por Salomón — se cita como confirmación arqueológica de una afirmación bíblica específica de construcción, aunque la datación de estas puertas al reinado de Salomón específicamente, frente a una construcción posterior de la dinastía omrida, sigue siendo debatida entre arqueólogos (la controversia de la 'cronología baja')."
       },
       "s": "Solomonic gates – Wikipedia",
       "u": "https://en.wikipedia.org/wiki/Tel_Hazor",
@@ -5102,7 +5070,8 @@
       },
       "s": "https://en.wikipedia.org/wiki/Ugaritic_texts",
       "u": "https://en.wikipedia.org/wiki/Ugaritic_texts",
-      "date_sort": -1350
+      "date_sort": -1350,
+      "review_caveat": "This argument sets up a strawman version of critical scholarship: even under documentary-hypothesis or late-redaction models, most scholars hold that specific polemical and cultic content (including anti-Canaanite material) can preserve genuinely ancient traditions carried forward by later redactors, so the intensity of the polemic does not by itself decide the compositional date."
     },
     {
       "layer": "archaeology",
@@ -5213,7 +5182,8 @@
       },
       "s": "https://en.wikipedia.org/wiki/Hezekiah",
       "u": "https://en.wikipedia.org/wiki/Hezekiah",
-      "date_sort": -700
+      "date_sort": -700,
+      "review_caveat": "The bulla was recovered from a secondary refuse-fill context near the Royal Building, not in primary in-situ stratigraphic position, despite early press framing describing it as found 'in situ' -- this affects the precision of any stratigraphic dating claims, though the reading of the inscription itself is not in dispute."
     },
     {
       "layer": "archaeology",
@@ -5250,7 +5220,8 @@
       },
       "s": "https://en.wikipedia.org/wiki/House_of_David",
       "u": "https://en.wikipedia.org/wiki/House_of_David",
-      "date_sort": -840
+      "date_sort": -840,
+      "review_caveat": "This entry's 'proves' framing overstates the case: while the Tel Dan reading is broadly accepted, the Mesha Stele's 'House of David' reading remains genuinely contested among epigraphers (Richelle & Burlingame 2023 call it 'purely hypothetical' even after Lemaire & Delorme's re-imaging), so the two-nation 'independent double-attestation' argument rests on one solid leg and one disputed leg, not two equally secure ones."
     },
     {
       "layer": "archaeology",
@@ -5268,7 +5239,8 @@
       },
       "s": "https://en.wikipedia.org/wiki/Cyrus_Cylinder",
       "u": "https://en.wikipedia.org/wiki/Cyrus_Cylinder",
-      "date_sort": -539
+      "date_sort": -539,
+      "review_caveat": "The claim that Cyrus's policy was uniquely non-standard overstates the case; historians (e.g., Amelie Kuhrt) note the Cylinder is Babylon-specific rhetoric contrasting Cyrus with Nabonidus rather than a documented general policy, and that repatriation/temple-restoration was also practiced by earlier Assyrian kings (e.g., Esarhaddon) for the same reasons of local stabilization -- so the 'flawless, non-standard alignment' framing overstates how unprecedented this policy actually was."
     },
     {
       "layer": "archaeology",
@@ -5307,24 +5279,6 @@
       "s": "Israel Antiquities Authority / Excavation Publication",
       "date_sort": -750,
       "review_caveat": "The seal itself, if authentic, is unremarkable and plausible evidence of scribal administration, but the citation is to an apologetics website (biblearchaeology.org) rather than a primary IAA excavation report or peer-reviewed publication despite invoking IAA authority, a sourcing gap worth flagging."
-    },
-    {
-      "layer": "archaeology",
-      "t": {
-        "en": "The Tattannu Tablet — Governor Tattenai Confirmed (VAS 4 152)",
-        "he": "לוח תנתנו — אישורו של הפחה תתני (VAS 4 152)",
-        "fr": "La tablette de Tattannu — le gouverneur Tattenaï confirmé (VAS 4 152)",
-        "es": "La tablilla de Tattannu — el gobernador Tatenai confirmado (VAS 4 152)"
-      },
-      "e": {
-        "en": "A cuneiform promissory note (VAS 4 152) dated to Darius I's 20th year (502 BCE) lists a servant of 'Tattannu, Governor Across-the-River' as a witness. This matches Ezra 5:3's naming of 'Tattenai, governor of the province Beyond the River' and is widely identified with the same official, providing extrabiblical confirmation of the biblical governor.",
-        "he": "שטר חוב בכתב יתדות (VAS 4 152) המתוארך לשנת 20 לדריוש הראשון (502 לפסה\"נ) מונה עבד של 'תנתנו, פחת עבר-הנהר' כעד. זה תואם את אזכורו של עזרא ה:ג את 'תתני, פחת עבר הנהר' ומזוהה באופן נרחב עם אותו פקיד, ומספק אישור חוץ-מקראי לפחות המקראי.",
-        "fr": "Une note promissoire cunéiforme (VAS 4 152) datée de la 20e année de Darius Ier (502 av. J.-C.) mentionne un serviteur de « Tattannu, gouverneur d'au-delà du Fleuve » comme témoin. Cela correspond à la mention par Esdras 5:3 de « Tattenaï, gouverneur de la province au-delà du Fleuve » et est largement identifié au même officiel, fournissant une confirmation extrabiblique du gouverneur biblique.",
-        "es": "Un pagaré cuneiforme (VAS 4 152) fechado en el año 20 de Darío I (502 a.C.) menciona a un sirviente de 'Tattannu, gobernador de Más-allá-del-Río' como testigo. Esto coincide con la mención en Esdras 5:3 de 'Tatenai, gobernador de la provincia de Más-allá-del-Río' y se identifica ampliamente con el mismo funcionario, proporcionando confirmación extrabíblica del gobernador bíblico."
-      },
-      "u": "https://en.wikipedia.org/wiki/Tattenai",
-      "s": "British Museum / VAS catalogue",
-      "date_sort": -502
     },
     {
       "layer": "archaeology",
@@ -5420,24 +5374,6 @@
       "u": "https://en.wikipedia.org/wiki/Ark_of_the_Covenant",
       "date_sort": -1446,
       "review_caveat": "No physical Ark has ever been found or could be, so despite its 'archaeology' framing this is a textual-comparative argument (a legitimate one, per Kitchen's ANE treaty parallels) rather than physical evidence; the Talmudic detail about the broken tablets is a much later rabbinic tradition, not a source contemporary with the events, and should not be weighted as independent corroboration."
-    },
-    {
-      "layer": "archaeology",
-      "t": {
-        "en": "The Moabite Ostracon at Jericho — Evidence of Moabite Control (Iron Age IIA)",
-        "he": "האוסטרקון המואבי ביריחו — עדות לשליטה מואבית (ברזל IIA)",
-        "fr": "L'ostracon moabite à Jéricho — preuve d'un contrôle moabite (âge du Fer IIA)",
-        "es": "El ostracón moabita en Jericó — evidencia de control moabita (Edad del Hierro IIA)"
-      },
-      "e": {
-        "en": "Excavations at Tell es-Sultan (ancient Jericho), conducted 2019–2023 by the joint Italian-Palestinian expedition led by Lorenzo Nigro and Jehad Yasine, uncovered an ostracon inscribed in a dialect closely resembling that of the Mesha Stele (the Moabite Stone). Found near the site of a former Middle Bronze Age temple on the tell, the inscription dates to Iron Age IIA (960–840 BCE) and leads the excavators to conclude that Jericho was likely under Moabite political control during this period. Judges 3:12–30 recounts that Eglon, king of Moab, oppressed Israel from a base associated with Jericho ('the City of Palm Trees,' Judges 3:13) during roughly this era. This is independent, non-textual, non-biblical evidence for Moabite political presence in the Jordan Valley at the general time and place the biblical narrative describes — the ostracon does not name Eglon or confirm specific narrative details, but it does corroborate the broader geopolitical situation (Moabite control over territory in this region) that the account presupposes.",
-        "he": "חפירות בתל א-סולטאן (יריחו העתיקה), שנערכו בשנים 2019-2023 על ידי המשלחת המשותפת האיטלקית-פלסטינית בהנהגת לורנצו ניגרו וג'יהאד יאסין, חשפו אוסטרקון החקוק בניב הדומה מאוד לזה של מצבת מישע (אבן מואב). האוסטרקון, שנמצא ליד אתר מקדש מתקופת הברונזה התיכונה בתל, מתוארך לתקופת הברזל IIA (960-840 לפנה\"ס), ומוביל את החופרים למסקנה שיריחו הייתה ככל הנראה תחת שליטה מדינית מואבית בתקופה זו. שופטים ג:יב-ל מספר שעגלון מלך מואב דיכא את ישראל ממוקד הקשור ליריחו ('עיר התמרים', שופטים ג:יג) בסביבות תקופה זו. זוהי ראיה בלתי תלויה, לא-טקסטואלית ולא-מקראית לנוכחות מדינית מואבית בבקעת הירדן בזמן ובמקום הכלליים שהנרטיב המקראי מתאר — האוסטרקון אינו נוקב בשמו של עגלון ואינו מאשש את פרטי הנרטיב הספציפיים, אך הוא מאשש את המצב הגאופוליטי הרחב יותר (שליטה מואבית בטריטוריה באזור זה) שהסיפור מניח כמובן מאליו.",
-        "fr": "Des fouilles à Tell es-Sultan (l'ancienne Jéricho), menées de 2019 à 2023 par l'expédition conjointe italo-palestinienne dirigée par Lorenzo Nigro et Jehad Yasine, ont mis au jour un ostracon inscrit dans un dialecte très proche de celui de la stèle de Mesha (la Pierre moabite). Trouvé près du site d'un ancien temple de l'âge du Bronze moyen sur le tell, l'inscription date de l'âge du Fer IIA (960-840 av. J.-C.) et amène les fouilleurs à conclure que Jéricho était probablement sous contrôle politique moabite à cette période. Juges 3:12-30 raconte qu'Eglon, roi de Moab, opprima Israël depuis une base associée à Jéricho (« la Ville des Palmiers », Juges 3:13) à peu près à cette époque. Il s'agit d'une preuve indépendante, non textuelle et non biblique, de la présence politique moabite dans la vallée du Jourdain, au moment et à l'endroit généraux que décrit le récit biblique — l'ostracon ne nomme pas Eglon et ne confirme pas les détails narratifs spécifiques, mais il corrobore la situation géopolitique plus large (contrôle moabite sur le territoire de cette région) que le récit présuppose.",
-        "es": "Excavaciones en Tell es-Sultan (la antigua Jericó), realizadas entre 2019 y 2023 por la expedición conjunta ítalo-palestina dirigida por Lorenzo Nigro y Jehad Yasine, descubrieron un ostracón inscrito en un dialecto muy similar al de la Estela de Mesha (la Piedra Moabita). Hallado cerca del sitio de un antiguo templo de la Edad del Bronce Medio en el tell, la inscripción data de la Edad del Hierro IIA (960-840 a.C.) y lleva a los excavadores a concluir que Jericó estuvo probablemente bajo control político moabita durante este período. Jueces 3:12-30 relata que Eglón, rey de Moab, oprimió a Israel desde una base asociada con Jericó ('la Ciudad de las Palmeras', Jueces 3:13) aproximadamente en esta época. Esta es evidencia independiente, no textual y no bíblica, de presencia política moabita en el valle del Jordán en el momento y lugar generales que describe el relato bíblico — el ostracón no nombra a Eglón ni confirma los detalles narrativos específicos, pero sí corrobora la situación geopolítica más amplia (control moabita sobre el territorio de esta región) que el relato presupone."
-      },
-      "s": "Nigro, L. & Yasine, J., \"Interim Report on the Excavations at Tell es-Sultan Ancient Jericho (2019–2023)\", Vicino Oriente XXIX (2024)",
-      "u": "https://iris.uniroma1.it/retrieve/c19bebaa-2701-47df-83b5-25726d821c17/Nigro_interim-report-excavations_2024.pdf",
-      "date_sort": -900
     },
     {
       "layer": "comparative",
@@ -6182,7 +6118,8 @@
       },
       "s": "\"First evidence of bronze production in the Iron Age I southern Levant: A direct link to the Arabah copper polity,\" PLOS ONE (2025)",
       "u": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0329175",
-      "date_sort": -1000
+      "date_sort": -1000,
+      "review_caveat": "The cited PLOS ONE paper (Eshel et al. 2025) proposes only that Timna and Faynan copper reached el-Ahwat via a 'joint polity' -- it does not identify that polity as Davidic or Israelite, and the title's 'Davidic-Era Control of Edom' framing is the dataset's own inference, not the paper's conclusion. Mainstream Timna scholarship (e.g., Erez Ben-Yosef) instead argues Timna was run by an independent Edomite polity, with direct evidence of Israelite/Judahite control specifically lacking and actively disputed."
     },
     {
       "layer": "archaeology",
@@ -6200,7 +6137,8 @@
       },
       "s": "Temple Mount Sifting Project (2025)",
       "u": "https://tmsifting.org/en/2025/07/30/asayahu/",
-      "date_sort": -620
+      "date_sort": -620,
+      "review_caveat": "This bulla comes from the Temple Mount Sifting Project, which processes soil illegally bulldozed from the Temple Mount by the Waqf in 1999 and dumped in the Kidron Valley -- a disturbed, unstratified secondary context, not a controlled in-situ excavation. This is a different, more securely archaeological find than an unrelated antiquities-market 'Asayahu servant of the king' bulla of disputed authenticity that sometimes gets confused with it, but the dumped-soil provenance is still a real limitation worth noting alongside the 'highly plausible' identification."
     },
     {
       "layer": "archaeology",
@@ -6312,24 +6250,6 @@
     {
       "layer": "archaeology",
       "t": {
-        "en": "First Assyrian Inscription Found in Jerusalem — A Tribute Demand to the King of Judah",
-        "he": "הכתובת האשורית הראשונה שנמצאה בירושלים — דרישת מס ממלך יהודה",
-        "fr": "Première inscription assyrienne trouvée à Jérusalem — une demande de tribut au roi de Juda",
-        "es": "Primera inscripción asiria encontrada en Jerusalén — una demanda de tributo al rey de Judá"
-      },
-      "e": {
-        "en": "In October 2025, IAA archaeologists sifting soil from excavations near the Temple Mount's Ophel/Western Wall area found a 2.5cm pottery sherd inscribed in Akkadian cuneiform, dated to the late 8th–7th century BCE. Petrographic analysis showed the clay originated from the Tigris basin, confirming it traveled from Assyria as official correspondence rather than being a local copy. The text is a royal demand for overdue tribute payment 'by the first of Av,' with a threat attached if it went unpaid. This is the first Assyrian inscription ever found in Jerusalem, and corroborates the tribute dynamic between Assyria and Judah described in 2 Kings 18:13-16, from the hostile side's own administrative record rather than the biblical account.",
-        "he": "באוקטובר 2025, ארכיאולוגים ברשות העתיקות שניפו עפר מחפירות ליד אזור העופל/הכותל המערבי מצאו שבר קדרה בן 2.5 ס\"מ חקוק בכתב-יתדות אכדי, מתוארך לסוף המאה ה-8/7 לפנה\"ס. ניתוח פטרוגרפי הראה שהחימר מקורו באגן הטיגריס, ומאשר שהוא הגיע מאשור כהתכתבות רשמית ולא כעותק מקומי. הטקסט הוא דרישה מלכותית לתשלום מס באיחור \"עד ראש אב\", עם איום מצורף אם לא ישולם. זוהי הכתובת האשורית הראשונה שנמצאה אי-פעם בירושלים, ומאששת את דינמיקת המס בין אשור ליהודה המתוארת במלכים ב יח:יג-טז, מהתיעוד המנהלי של הצד העוין עצמו ולא מהתיאור המקראי.",
-        "fr": "En octobre 2025, des archéologues de l'IAA tamisant de la terre provenant de fouilles près de la zone de l'Ophel/du Mur occidental du Mont du Temple ont trouvé un tesson de poterie de 2,5 cm inscrit en cunéiforme akkadien, daté de la fin du VIIIe-VIIe siècle av. J.-C. Une analyse pétrographique a montré que l'argile provenait du bassin du Tigre, confirmant qu'elle voyagea depuis l'Assyrie comme correspondance officielle plutôt qu'une copie locale. Le texte est une demande royale de paiement de tribut en retard « d'ici le premier d'Av », avec une menace attachée en cas de non-paiement. C'est la première inscription assyrienne jamais trouvée à Jérusalem, et elle corrobore la dynamique du tribut entre l'Assyrie et Juda décrite dans 2 Rois 18:13-16, depuis le propre registre administratif du camp hostile plutôt que le récit biblique.",
-        "es": "En octubre de 2025, arqueólogos de la IAA que tamizaban tierra de excavaciones cerca del área del Ofel/Muro Occidental encontraron un fragmento de cerámica de 2,5 cm inscrito en cuneiforme acadio, fechado a finales del siglo VIII-VII a.C. El análisis petrográfico mostró que la arcilla se originó en la cuenca del Tigris, confirmando que viajó desde Asiria como correspondencia oficial en lugar de ser una copia local. El texto es una demanda real de pago de tributo atrasado \"para el primero de Av\", con una amenaza adjunta si no se pagaba. Esta es la primera inscripción asiria jamás encontrada en Jerusalén, y corrobora la dinámica del tributo entre Asiria y Judá descrita en 2 Reyes 18:13-16, desde el propio registro administrativo del bando hostil en lugar del relato bíblico."
-      },
-      "s": "Israel Antiquities Authority / Times of Israel, Jerusalem Post (Oct. 2025)",
-      "u": "https://www.timesofisrael.com/biblical-tax-notice-1st-ever-assyrian-inscription-found-near-jerusalems-temple-mount/",
-      "date_sort": -720
-    },
-    {
-      "layer": "archaeology",
-      "t": {
         "en": "The Bethlehem Bulla — Earliest Extra-Biblical Reference to Bethlehem",
         "he": "הבולה מבית לחם — האזכור החוץ-מקראי המוקדם ביותר לבית לחם",
         "fr": "La boulle de Bethléem — la plus ancienne référence extra-biblique à Bethléem",
@@ -6343,7 +6263,8 @@
       },
       "s": "Israel Antiquities Authority / Biblical Archaeology Society",
       "u": "https://www.biblicalarchaeology.org/daily/earliest-history-of-bethlehem-documented-by-first-temple-period-bulla-from-the-city-of-david/",
-      "date_sort": -700
+      "date_sort": -700,
+      "review_caveat": "Like other City of David-area bullae, this seal impression comes from sifted soil removed during excavation rather than a primary in-situ archaeological layer, which is why its exact date depends on the excavator's own paleographic judgment (Hezekiah/Manasseh/Josiah era) rather than direct stratigraphic dating."
     },
     {
       "layer": "archaeology",
@@ -6488,7 +6409,8 @@
       },
       "s": "Shekel – Wikipedia",
       "u": "https://en.wikipedia.org/wiki/Shekel",
-      "date_sort": -700
+      "date_sort": -700,
+      "review_caveat": "The entry's own text concedes this weight dates centuries later than the Exodus-era setting of Shemos 38:26, so it can at most corroborate that the beka was a real administrative unit in First Temple Judah -- it cannot itself demonstrate that the vocabulary or system existed at the time the text describes; framing it as proof of the Torah's 'absolute precision' overstates what a single later-period artifact shows."
     },
     {
       "layer": "literary",
@@ -6523,7 +6445,8 @@
       },
       "s": "Merneptah Stele; Kitchen, On the Reliability of the Old Testament (2003); Hasel, BASOR 296 (1994)",
       "u": "https://en.wikipedia.org/wiki/Merneptah_Stele",
-      "date_sort": -1208
+      "date_sort": -1208,
+      "review_caveat": "This entry conflates two different claims: the stele shows Israel existed as a recognizable people by 1208 BCE, but that says nothing about when the Torah's text itself was composed. Even under critical/late-redaction dating models, the Israelite people could have existed for centuries before their scriptures reached final form -- 'Israel existed early' and 'the text was written early' are separate claims, and this entry's 'predating critical dating of Torah composition' framing runs them together."
     },
     {
       "layer": "archaeology",
@@ -6559,7 +6482,8 @@
       },
       "s": "Garfinkel et al., Khirbet Qeiyafa vols. 1–3; Wikipedia",
       "u": "https://en.wikipedia.org/wiki/Khirbet_Qeiyafa",
-      "date_sort": -1000
+      "date_sort": -1000,
+      "review_caveat": "The site's identification as specifically Judahite, its identification with biblical Sha'arayim, and the conclusion that it disproves 'no state before the 9th century' are all actively disputed in the literature, not settled consensus -- Israel Finkelstein rejects the Judahite/Sha'arayim identification outright (arguing the supposed second gate isn't a gate), and other scholars (Na'aman, Koch) argue on ceramic/architectural grounds that the site is Canaanite rather than Judahite. The entry presents one side of a live minimalist/maximalist debate as established fact."
     },
     {
       "layer": "archaeology",
@@ -6633,7 +6557,8 @@
       },
       "s": "Faust, 'Israel's Ethnogenesis' (2006); Wikipedia (Four-room house)",
       "u": "https://en.wikipedia.org/wiki/Four-room_house",
-      "date_sort": -1150
+      "date_sort": -1150,
+      "review_caveat": "The Faust/Bunimovitz 'ethnic marker' thesis is real and published, but the claim of 'no Canaanite or Philistine antecedents' is contested -- scholars including Ziony Zevit note similar pillared four-room-type houses at non-Israelite sites (e.g., Tell Kaisan, Tell Abu Hawam IV, Tell Qasile X), complicating the claim that this architecture is uniquely and exclusively Israelite."
     },
     {
       "layer": "archaeology",
@@ -6651,7 +6576,8 @@
       },
       "s": "Monsen, 'The Temple of Ain Dara' (2012); Wikipedia",
       "u": "https://en.wikipedia.org/wiki/Ain_Dara_temple",
-      "date_sort": -1000
+      "date_sort": -1000,
+      "review_caveat": "Monson's identification of Ain Dara as the 'closest' architectural parallel to Solomon's Temple is his own influential but not unanimous conclusion; some scholars argue the Tell Ta'yinat temple (8th century BCE) is actually the closer parallel, though this doesn't undermine the entry's broader, more defensible point that the biblical description matches real period-appropriate Levantine temple architecture generally."
     },
     {
       "layer": "genetics",
@@ -6860,7 +6786,8 @@
       },
       "s": "Kitchen, 'Reliability' (2003); Bryce, 'The Kingdom of the Hittites' (2005)",
       "u": "https://en.wikipedia.org/wiki/Cave_of_the_Patriarchs",
-      "date_sort": -1800
+      "date_sort": -1800,
+      "review_caveat": "The specifically-Hittite legal-parallel reading of Genesis 23 (originating with Manfred Lehmann, 1953) has been significantly challenged by later scholarship, which argues the negotiation dialogue is too general to match any single ANE contract genre and that attempts to trace specific Hittite/Mesopotamian contract forms in the patriarchal narratives have 'generally been unsuccessful.' The valid point -- that the Hittite Empire was unknown before Hattusa's 1906 excavation, ruling out post-hoc fabrication of some ANE parallel -- doesn't establish that the parallel is specifically and precisely Hittite as opposed to a more general regional negotiation custom."
     },
     {
       "layer": "archaeology",
@@ -6878,7 +6805,8 @@
       },
       "s": "Kitchen, 'Reliability' (2003), pp. 344–345; Wikipedia (Slavery in ancient Israel)",
       "u": "https://en.wikipedia.org/wiki/Slavery_in_the_Bible",
-      "date_sort": -1400
+      "date_sort": -1400,
+      "review_caveat": "This specific 'price fossilization' argument originates with Kitchen (2003) rather than being independently established consensus; the underlying cuneiform slave-price data across periods and regions is sparse and variable, and using a single price point to date textual composition is a technique specific to this apologetic literature rather than a standard method in mainstream ANE economic history."
     },
     {
       "layer": "archaeology",
@@ -7844,7 +7772,8 @@
         "es": "Una estatua de basalto del siglo IX a.C. del rey Hadad-yitī de Guzana lleva inscripciones dedicatorias paralelas en acadio (38 líneas) y arameo (23 líneas) — la inscripción en arameo antiguo más larga y temprana conocida (KAI 309). Confirma que el arameo ya era una lengua literaria y administrativa plenamente desarrollada un siglo o más antes del período exílico en el que los críticos a veces han situado las porciones arameas de la Biblia hebrea (Esdras, Daniel), debilitando el argumento de que su presencia exige una fecha de composición tardía. La maldición final de la inscripción contra quien desfigure la estatua también es paralela al lenguaje y formato de maldición de pacto que se encuentra en Levítico 26 y Deuteronomio 28."
       },
       "s": "Tell Fekheriyeh bilingual inscription — Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Tell_Fekherya_bilingual_inscription"
+      "u": "https://en.wikipedia.org/wiki/Tell_Fekherya_bilingual_inscription",
+      "review_caveat": "The claim that this 9th-century BCE Old Aramaic inscription 'weakens the argument' for a late date of Ezra/Daniel's Aramaic conflates two distinct stages of the language. Ezra and Daniel are written in Achaemenid-era Imperial Aramaic, a later dialect distinguished from Old Aramaic (Tell Fekheriyeh, Sefire) on lexical and grammatical grounds; even conservative Aramaicists such as Kenneth Kitchen conclude the language of Daniel is compatible with any date from the 5th to early 2nd century BCE. Demonstrating that Aramaic was a mature literary language by the 9th century BCE does not address the specific linguistic features scholars actually use to date Ezra/Daniel's Imperial Aramaic, so it does not weaken the critical late-dating argument as claimed."
     },
     {
       "layer": "archaeology",
@@ -8395,7 +8324,8 @@
       },
       "s": "Kennedy, Titus. \"The Bronze Age Destruction of Jericho, Archaeology, and the Book of Joshua.\" Religions 14 (2023): 796.",
       "u": "https://doi.org/10.3390/rel14060796",
-      "date_sort": -1400
+      "date_sort": -1400,
+      "review_caveat": "High-precision radiocarbon dating of short-lived cereal grain from Jericho's actual destruction layer (Bruins & van der Plicht, Radiocarbon 37, 1995; reaffirmed 2020) places the destruction at 1562 BCE plus or minus 38 years -- independently corroborating Kenyon's ~1550 BCE Middle Bronze Age date, not the ~1400 BCE Late Bronze Age 'conquest-era' date this entry's title asserts. This is the strongest available absolute (non-ceramic, non-textual) dating evidence for the site, and the entry does not mention it, relying instead on scarab evidence and a 2023 minority synthesis."
     },
     {
       "layer": "history_corrob",
@@ -8611,7 +8541,8 @@
       },
       "s": "Sukenik, N., Iluz, D., Amar, Z., Varvak, A., Shamir, O., & Ben-Yosef, E., \"Early evidence of royal purple dyed textile from Timna Valley (Israel)\", PLOS ONE 16(1): e0245897 (2021)",
       "u": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0245897",
-      "date_sort": -1000
+      "date_sort": -1000,
+      "review_caveat": "The Timna 'Slaves' Hill' site itself is attributed by its excavators (Ben-Yosef et al.) to Edomite, not Israelite, control during this period. This find corroborates that genuine argaman dye and the trade networks needed to produce it existed in the region and era -- it does not corroborate that the society operating this specific site was Israelite."
     },
     {
       "layer": "transmission",
@@ -8805,7 +8736,8 @@
       },
       "s": "Vainstub, D. et al., \"A Canaanite's Wish to Eradicate Lice on an Inscribed Ivory Comb from Lachish,\" Jerusalem Journal of Archaeology (2022)",
       "u": "https://cris.huji.ac.il/en/publications/a-canaanites-wish-to-eradicate-lice-on-an-inscribed-ivory-comb-fr-2/",
-      "date_sort": -1700
+      "date_sort": -1700,
+      "review_caveat": "The comb's ~1700 BCE dating and its status as the 'earliest' complete Canaanite sentence rest on the excavators' own paleographic/contextual dating, which other scholars have publicly disputed in favor of a later date; comparable Sinai proto-alphabetic inscriptions are themselves dated anywhere from the 19th to 13th century BCE, so the 'earliest' superlative should be read as contested, not settled."
     },
     {
       "layer": "archaeology",
@@ -8877,7 +8809,8 @@
       },
       "s": "Rollston, C. et al., \"The Jerubbaal Inscription from Khirbet al-Ra'i,\" Jerusalem Journal of Archaeology (2021)",
       "u": "https://jjar.huji.ac.il/journal-edition/khirbet-al-ra%E2%80%98i",
-      "date_sort": -1075
+      "date_sort": -1075,
+      "review_caveat": "The diagnostic first letter of the name (the 'Y' that distinguishes 'Yrb'l'/Jerubbaal from a bare 'rb'l') is damaged and reconstructed, not directly legible -- Rollston et al.'s own 2021 publication presents it as a plausible restoration, not a certain reading. The entry's claim that the inscription 'preserves exactly this name' overstates the certainty of that reconstruction."
     },
     {
       "layer": "archaeology",
@@ -9300,7 +9233,8 @@
         "es": "La sinagoga de Dura-Europos, en Siria, decorada alrededor del año 244 d.C. y preservada gracias a haber quedado enterrada bajo un terraplén defensivo antes del abandono de la ciudad, contiene el ciclo más extenso de pinturas murales bíblicas conservado de la Antigüedad — unos 70 paneles que representan escenas de la Torá y otros libros bíblicos, incluidos dos grandes paneles del Éxodo de Egipto y el cruce del Mar Rojo, y una representación de la Atadura de Isaac (Akedá, Génesis 22). Un motivo recurrente llamativo es la \"Mano de Dios\" que emerge de la parte superior de varios paneles — apareciendo en la escena del cruce del Mar Rojo y cinco veces en el panel de los huesos secos de Ezequiel — un caso poco común de presencia divina representada visualmente en el arte judío antiguo. Independientemente de cualquier manuscrito bíblico, la decoración mural de esta comunidad de la diáspora del siglo III d.C. demuestra que el mismo relato central de la Torá — el Éxodo, la Akedá, y la providencia divina sobre la historia de Israel — era el vocabulario visual y religioso compartido de comunidades judías ordinarias y geográficamente distantes, siglos antes de que el texto pudiera plausiblemente ser una invención tardía."
       },
       "s": "Kraeling, C.H., The Synagogue (Yale, 1956)",
-      "u": "https://en.wikipedia.org/wiki/Dura-Europos_synagogue"
+      "u": "https://en.wikipedia.org/wiki/Dura-Europos_synagogue",
+      "review_caveat": "The closing argument is chronologically confused: no mainstream 'late invention' theory dates final Torah composition anywhere near 244 CE (the latest common critical dating is the Persian period, 5th-4th century BCE, many centuries earlier than Dura-Europos). The frescoes demonstrate the narrative's currency in a 3rd-century diaspora community; they do not, and cannot, rebut a compositional dating already many centuries in the past by that point."
     },
     {
       "layer": "transmission",
@@ -9334,7 +9268,8 @@
         "es": "Excavaciones en Cafarnaúm, a orillas del mar de Galilea (Corbo y Loffreda, 1969-1974), revelaron una sinagoga monumental de piedra caliza blanca, ornamentada con columnas de estilo corintio, fechada mediante unas 10.000 monedas de bronce halladas bajo su suelo a finales del siglo IV o principios del V d.C. Excavaciones bajo esta estructura descubrieron muros de basalto bien construidos y un suelo de basalto pertenecientes a una sinagoga anterior, que coincide en dimensiones y orientación con el edificio posterior, con material recuperado sobre y bajo ese suelo que la fecha en el siglo I d.C. La sinagoga posterior, más elaborada, fue construida deliberadamente directamente sobre la cimentación de basalto anterior en lugar de en otro lugar de la ciudad, lo que indica una tradición continua, de siglos de duración, de culto comunitario en el mismo sitio — evidencia física del tipo de sinagoga galilea del siglo I, coherente con el panorama más amplio de una institución sinagogal establecida y en funcionamiento mucho antes de la posterior reconstrucción monumental del sitio."
       },
       "s": "Corbo, V. & Loffreda, S., Capernaum excavations (1969-1974)",
-      "u": "https://en.wikipedia.org/wiki/Capernaum"
+      "u": "https://en.wikipedia.org/wiki/Capernaum",
+      "review_caveat": "Both datings in this entry are contested by specialists. Jodi Magness has argued in peer-reviewed work that the limestone synagogue is no earlier than the 5th-6th century CE (not 4th-5th), and has disputed whether the underlying basalt remains represent a purpose-built 1st-century synagogue rather than reused 1st-century town architecture. The entry presents the excavators' (Corbo/Loffreda) original dating as settled fact without noting this live scholarly dispute."
     },
     {
       "layer": "archaeology",
@@ -9549,12 +9484,12 @@
         "es": "El sello de Adenyahu 'asher al habayit' — un título bíblico de mayordomo real atestiguado en arcilla"
       },
       "e": {
-        "en": "A clay seal impression (bulla) from First Temple-period debris excavated by Eli Shukron beneath Robinson's Arch in 2013, and identified in 2019 by a volunteer with the Temple Mount Sifting Project, reads 'Adenyahu Asher Al HaBayit' — 'Adenyahu, who is over the house.' The title 'asher al ha-bayit' ('who is over the house') is the Bible's standard designation for the most senior royal steward under the kings of Judah and Israel (e.g., 1 Kings 4:6, 18:3; 2 Kings 18:18; Isaiah 22:15, of Shebna), and the bulla is dated on paleographic grounds to the 7th century BCE. Its appearance on an authentic, archaeologically-excavated seal impression is independent epigraphic confirmation that this specific biblical administrative title was in genuine bureaucratic use in exactly the period and setting the biblical text describes, rather than being a later literary invention.",
-        "he": "חותמת חרס (בולה) מהריסות תקופת בית ראשון, שנחפרה בידי אלי שוקרון מתחת לקשת רובינסון ב-2013 וזוהתה ב-2019 בידי מתנדב בפרויקט סינון עפר הר הבית, נושאת את הכיתוב \"אדניהו אשר על הבית\". התואר \"אשר על הבית\" הוא הכינוי המקראי הרגיל לבכיר משרתי המלך תחת מלכי יהודה וישראל (למשל, מלכים א ד:ו, יח:ג; מלכים ב יח:יח; ישעיהו כב:טו, לגבי שבנא), והבולה מתוארכת על בסיס פליאוגרפי למאה השביעית לפנה\"ס. הופעתו על חותמת אותנטית שנחפרה ארכיאולוגית מהווה אישוש אפיגרפי בלתי תלוי לכך שתואר מנהלי מקראי ספציפי זה היה בשימוש בירוקרטי אמיתי בדיוק בתקופה ובהקשר שהטקסט המקראי מתאר, ולא המצאה ספרותית מאוחרת.",
-        "fr": "Une empreinte de sceau en argile (bulle) provenant de débris de l'époque du Premier Temple, fouillée par Eli Shukron sous l'arche de Robinson en 2013 et identifiée en 2019 par un bénévole du Temple Mount Sifting Project, porte l'inscription « Adenyahu Asher Al HaBayit » — « Adenyahu, qui est sur la maison ». Le titre « asher al ha-bayit » (« qui est sur la maison ») est la désignation biblique standard du plus haut intendant royal sous les rois de Juda et d'Israël (par ex. 1 Rois 4:6, 18:3 ; 2 Rois 18:18 ; Ésaïe 22:15, à propos de Shebna), et la bulle est datée sur des critères paléographiques du VIIe siècle av. J.-C. Son apparition sur une empreinte de sceau authentique, fouillée archéologiquement, constitue une confirmation épigraphique indépendante que ce titre administratif biblique spécifique était en usage bureaucratique réel exactement à la période et dans le contexte que décrit le texte biblique, plutôt qu'une invention littéraire tardive.",
-        "es": "Una impronta de sello de arcilla (bula) procedente de escombros del período del Primer Templo, excavada por Eli Shukron bajo el Arco de Robinson en 2013 e identificada en 2019 por un voluntario del Proyecto de Cribado del Monte del Templo, dice 'Adenyahu Asher Al HaBayit' — 'Adenyahu, que está sobre la casa'. El título 'asher al ha-bayit' ('que está sobre la casa') es la designación bíblica estándar del mayordomo real más alto bajo los reyes de Judá e Israel (p. ej., 1 Reyes 4:6, 18:3; 2 Reyes 18:18; Isaías 22:15, sobre Sebná), y la bula se data por criterios paleográficos en el siglo VII a.C. Su aparición en una impronta de sello auténtica, excavada arqueológicamente, constituye una confirmación epigráfica independiente de que este título administrativo bíblico específico estaba en uso burocrático real exactamente en el período y contexto que describe el texto bíblico, y no es una invención literaria tardía."
+        "en": "A clay seal impression (bulla) from First Temple-period debris excavated by Eli Shukron beneath Robinson's Arch in 2013, and identified in 2019 by a volunteer with the City of David's own wet-sifting excavation program, reads 'Adenyahu Asher Al HaBayit' — 'Adenyahu, who is over the house.' The title 'asher al ha-bayit' ('who is over the house') is the Bible's standard designation for the most senior royal steward under the kings of Judah and Israel (e.g., 1 Kings 4:6, 18:3; 2 Kings 18:18; Isaiah 22:15, of Shebna), and the bulla is dated on paleographic grounds to the 7th century BCE. Its appearance on an authentic, archaeologically-excavated seal impression is independent epigraphic confirmation that this specific biblical administrative title was in genuine bureaucratic use in exactly the period and setting the biblical text describes, rather than being a later literary invention.",
+        "he": "חותמת חרס (בולה) מהריסות תקופת בית ראשון, שנחפרה בידי אלי שוקרון מתחת לקשת רובינסון ב-2013 וזוהתה ב-2019 בידי מתנדב בתוכנית הניפוי הרטוב של עיר דוד עצמה, נושאת את הכיתוב \"אדניהו אשר על הבית\". התואר \"אשר על הבית\" הוא הכינוי המקראי הרגיל לבכיר משרתי המלך תחת מלכי יהודה וישראל (למשל, מלכים א ד:ו, יח:ג; מלכים ב יח:יח; ישעיהו כב:טו, לגבי שבנא), והבולה מתוארכת על בסיס פליאוגרפי למאה השביעית לפנה\"ס. הופעתו על חותמת אותנטית שנחפרה ארכיאולוגית מהווה אישוש אפיגרפי בלתי תלוי לכך שתואר מנהלי מקראי ספציפי זה היה בשימוש בירוקרטי אמיתי בדיוק בתקופה ובהקשר שהטקסט המקראי מתאר, ולא המצאה ספרותית מאוחרת.",
+        "fr": "Une empreinte de sceau en argile (bulle) provenant de débris de l'époque du Premier Temple, fouillée par Eli Shukron sous l'arche de Robinson en 2013 et identifiée en 2019 par un bénévole du propre programme de tamisage humide de la Cité de David, porte l'inscription « Adenyahu Asher Al HaBayit » — « Adenyahu, qui est sur la maison ». Le titre « asher al ha-bayit » (« qui est sur la maison ») est la désignation biblique standard du plus haut intendant royal sous les rois de Juda et d'Israël (par ex. 1 Rois 4:6, 18:3 ; 2 Rois 18:18 ; Ésaïe 22:15, à propos de Shebna), et la bulle est datée sur des critères paléographiques du VIIe siècle av. J.-C. Son apparition sur une empreinte de sceau authentique, fouillée archéologiquement, constitue une confirmation épigraphique indépendante que ce titre administratif biblique spécifique était en usage bureaucratique réel exactement à la période et dans le contexte que décrit le texte biblique, plutôt qu'une invention littéraire tardive.",
+        "es": "Una impronta de sello de arcilla (bula) procedente de escombros del período del Primer Templo, excavada por Eli Shukron bajo el Arco de Robinson en 2013 e identificada en 2019 por un voluntario del propio programa de cribado húmedo de la Ciudad de David, dice 'Adenyahu Asher Al HaBayit' — 'Adenyahu, que está sobre la casa'. El título 'asher al ha-bayit' ('que está sobre la casa') es la designación bíblica estándar del mayordomo real más alto bajo los reyes de Judá e Israel (p. ej., 1 Reyes 4:6, 18:3; 2 Reyes 18:18; Isaías 22:15, sobre Sebná), y la bula se data por criterios paleográficos en el siglo VII a.C. Su aparición en una impronta de sello auténtica, excavada arqueológicamente, constituye una confirmación epigráfica independiente de que este título administrativo bíblico específico estaba en uso burocrático real exactamente en el período y contexto que describe el texto bíblico, y no es una invención literaria tardía."
       },
-      "s": "Eli Shukron excavation (2013); Temple Mount Sifting Project identification (2019); City of David official report",
+      "s": "Eli Shukron excavation (2013); City of David wet-sifting program identification (2019); City of David official report",
       "u": "https://cityofdavid.org.il/en/adneyahu-asher-al-habayit-eng/"
     },
     {
@@ -9589,7 +9524,8 @@
         "es": "Durante las excavaciones de Eilat Mazar en el Ofel en 2009, al sur del Monte del Templo, se recuperó una pequeña bula de arcilla que dice 'leYesha'yahu nvy' — '[perteneciente] a Yesha'yahu (Isaías) nvy'. La última palabra está dañada en su borde; si la letra faltante fuera un álef, la palabra se leería 'navi' ('profeta'), lo que convertiría a esta bula en la primera impronta de sello extrabíblica conocida que nombra al profeta Isaías de su propia mano. La bula fue hallada a menos de 3 metros de una bula excavada por separado que dice '[perteneciente] a Ezequías, hijo de Acaz, rey de Judá', y ambas se datan a finales del siglo VIII-principios del VII a.C. — precisamente el período en que Isaías es descrito como el profeta contemporáneo y consejero de Ezequías (2 Reyes 19:2, 20:1; Isaías 37:2, 38:1). Debido a la letra final dañada, la identificación con el profeta es una lectura plausible pero no probada, no una certeza — la propia Mazar la presentó con esta salvedad. De ser correcta, sería un caso notable de los sellos de dos figuras bíblicas apareciendo lado a lado en el mismo cuadro de excavación."
       },
       "s": "Eilat Mazar, Ophel excavations (2009 find, identified 2018); Hebrew University of Jerusalem",
-      "u": "https://www.timesofisrael.com/in-find-of-biblical-proportions-proof-of-prophet-isaiah-believed-unearthed/"
+      "u": "https://www.timesofisrael.com/in-find-of-biblical-proportions-proof-of-prophet-isaiah-believed-unearthed/",
+      "review_caveat": "The bulla was recovered via wet-sieving of excavated debris, not found in situ -- its precise findspot relative to the Hezekiah bulla (also wet-sieved) is less exact than 'less than 10 feet away' implies. Epigraphist Haggai Misgav has separately argued that the title 'prophet' is inherently implausible on a bulla used to seal a sack of trade goods, a structural objection to the 'navi' reading independent of the damaged final letter; some assessments have put the odds of this being the biblical Isaiah at well under even."
     },
     {
       "layer": "archaeology",
