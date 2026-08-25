@@ -2227,7 +2227,8 @@
         "es": "El Sinaí se transmite a través de muchos nodos independientes, haciendo implausible una fabricación coordinada."
       },
       "s": "Network Theory",
-      "u": "https://en.wikipedia.org/wiki/Network_theory"
+      "u": "https://en.wikipedia.org/wiki/Network_theory",
+      "review_caveat": "Data-hygiene issue, not a scholarly dispute: a thin duplicate of the Kuzari-style transmission argument developed more fully elsewhere in this database, with no independent model, data, or citation of its own."
     },
     {
       "layer": "sociological",
@@ -2278,7 +2279,8 @@
         "es": "Repetido de la entrada 253: la erudición crítica a menudo propone que gran parte de la Torá fue compuesta durante el reinado del rey Josías (siglo VII a.C.). Pero esto requeriría convencer a toda una población de que habían olvidado cientos de leyes — Shabat, kashrut, circuncisión, Pésaj, Sucot, tefilín, mezuzá — que sus antepasados nunca habían observado. Una población tiene memorias familiares. El éxito de tal fraude requeriría inventar simultáneamente una revelación nacional, leyes nacionales y festividades nacionales, y luego convencer a todos de que lo habían olvidado todo. La dificultad sociológica es mucho mayor de lo que reconoce cualquier proponente de la teoría de composición tardía."
       },
       "s": "Josiah – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Josiah"
+      "u": "https://en.wikipedia.org/wiki/Josiah",
+      "review_caveat": "Overstates the critical-scholarship position into a straw man -- mainstream source criticism holds many listed practices existed earlier and were centralized/reinterpreted under Josiah, not invented from nothing; 2 Kings 23 itself frames this as intensification of existing practice."
     },
     {
       "layer": "sociological",
@@ -2295,7 +2297,8 @@
         "es": "Repetido de la entrada 254: la Torá crea recreaciones anuales: Pésaj (con su comida, hierbas amargas, Hagadá), Shavuot, Sucot (con cabañas físicas). Estas no son creencias abstractas sino prácticas encarnadas que involucran comidas, rituales, reuniones públicas, calendarios y participación familiar a través de generaciones. Una memoria nacional fabricada solo puede sobrevivir si nadie recuerda la ausencia de esas festividades. Las grandes prácticas anuales recurrentes son mucho más difíciles de inventar retrospectivamente que las historias. La transmisión exitosa de estas festividades aboga por la continuidad con una memoria auténtica en lugar de una invención tardía."
       },
       "s": "Passover – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Passover"
+      "u": "https://en.wikipedia.org/wiki/Passover",
+      "review_caveat": "A plausibility argument, not empirical evidence -- does not engage Hobsbawm & Ranger's documented cases of invented or reshaped traditions achieving sincere communal buy-in within a generation."
     },
     {
       "layer": "sociological",
@@ -2312,7 +2315,8 @@
         "es": "Repetido de la entrada 255: la mayoría de los pueblos antiguos desaparecieron tras perder su Estado: hititas, filisteos, edomitas, moabitas, amonitas. La Torá predice repetidamente que Israel sobrevivirá a pesar del exilio y la dispersión. La característica notable no es meramente la supervivencia judía sino que civilizaciones hostiles registraron la existencia de Israel y a menudo ellas mismas desaparecieron mientras Israel sobrevivía. Este argumento es más fuerte que un argumento de supervivencia genérico porque incluye grupos de comparación: usar el destino histórico de pueblos comparables como línea base hace cuantificable la improbabilidad estadística de la supervivencia judía sin el mecanismo vinculante de la Torá."
       },
       "s": "Jewish continuity – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Jewish_diaspora"
+      "u": "https://en.wikipedia.org/wiki/Jewish_diaspora",
+      "review_caveat": "Claims the improbability is 'quantifiable' but supplies no actual quantification, base rate, or model; also ignores real partial counter-examples (Samaritans, Assyrian/Syriac Christians)."
     },
     {
       "layer": "sociological",
@@ -2329,7 +2333,8 @@
         "es": "Repetido de la entrada 257: si la Torá hubiera sido escrita después de que Salomón construyera el Templo en Jerusalén, ¿por qué nunca identifica a Jerusalén como el lugar elegido? Deuteronomio dice repetidamente \"el lugar que Dios escogerá\" sin nombrarlo. Un autor posterior que ya supiera que Jerusalén era la ubicación del Templo naturalmente la identificaría — especialmente si el texto pretendía legitimar las reformas de Josías. La vaguedad deliberada encaja con un contexto pre-Templo mucho mejor que uno post-Templo. La ausencia de Jerusalén en las leyes de centralización de la Torá es uno de los argumentos más fuertes contra una composición tardía."
       },
       "s": "Deuteronomy – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Deuteronomy"
+      "u": "https://en.wikipedia.org/wiki/Deuteronomy",
+      "review_caveat": "Ignores the standard critical-scholarship explanation (Mosaic pseudepigraphal convention -- writing in Moses' voice, set before Jerusalem existed as an Israelite city) for the very phenomenon it treats as unexplained."
     },
     {
       "layer": "sociological",
@@ -3383,7 +3388,8 @@
         "es": "En Números 35, la Torá establece seis \"Ciudades de Refugio\" donde una persona que comete homicidio accidental puede huir para evitar al vengador de sangre. Esta ley equilibra perfectamente la antigua y sagrada obligación de la familia de vengar la sangre (que la Torá no abole, ya que reconoce la santidad de la vida humana) con la necesidad del debido proceso y la distinción entre asesinato y negligencia. Crea una síntesis perfecta y pragmática de justicia y misericordia sin violar las normas culturales de la época."
       },
       "s": "https://en.wikipedia.org/wiki/Cities_of_Refuge",
-      "u": "https://en.wikipedia.org/wiki/Cities_of_Refuge"
+      "u": "https://en.wikipedia.org/wiki/Cities_of_Refuge",
+      "review_caveat": "Cites no comparative scholarship; the directly relevant Hittite treaty asylum parallel (CTH 61, 62) is not engaged, so the implicit uniqueness claim is unsupported."
     },
     {
       "layer": "comparative",
@@ -6782,7 +6788,8 @@
         "es": "\"Una misma ley para el natural y el extranjero\" (Éx 12:49; Lev 24:22; Núm 15:15-16). En contraste, los códigos legales del antiguo Cercano Oriente (Hammurabi, Eshnunna, hitita, asirio) todos imponen penas basadas en clase: noble frente a plebeyo frente a esclavo. La Torá elimina las distinciones de clase en el derecho civil/penal — sin precedentes en la historia legal antigua. Refleja una autoría divina que trasciende las jerarquías sociales humanas."
       },
       "s": "Kitchen, 'Reliability' (2003); Open Yale Courses, RLST 145, Lecture 10",
-      "u": "https://oyc.yale.edu/religious-studies/rlst-145/lecture-10"
+      "u": "https://oyc.yale.edu/religious-studies/rlst-145/lecture-10",
+      "review_caveat": "Partly sourced to a devotional blog, not peer-reviewed scholarship; also overstates the Torah's own provisions -- debt-slavery is permitted (Deut 15), vow-annulment rights are unequal by sex (Num 30), and the priesthood is hereditary."
     },
     {
       "layer": "meta",
