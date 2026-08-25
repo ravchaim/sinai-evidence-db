@@ -5218,24 +5218,6 @@
     {
       "layer": "archaeology",
       "t": {
-        "en": "The Destruction Layer at Tel Shiloh",
-        "he": "שכבת ההרס בתל שילה",
-        "fr": "La couche de destruction à Tel Silo",
-        "es": "La capa de destrucción en Tel Silo"
-      },
-      "e": {
-        "en": "Jeremiah 7:12-14 quotes an older tradition warning that G-d will destroy the Tabernacle at Shiloh just as He destroyed the sanctuary at Silo if Israel does not repent. 1 Samuel 4 records the Philistine capture of the Ark and the death of Eli's sons at Shiloh. Excavations at Tel Shiloh (Danish expeditions, 1920s-1930s; Israeli expeditions, 1980s) reveal a massive, violent destruction layer precisely dated to the mid-11th century BCE (the time of Eli and Samuel), after which the site was largely abandoned. This physical destruction layer validates the biblical narrative of a catastrophic divine judgment at Israel's first religious capital.",
-        "he": "ירמיהו ז:יב-יד מצטט מסורת ישנה יותר המזהירה שהאל יהרוס את המשכן בשילה כפי שהרס את המקדש בסילו אם ישראל לא ישוב בתשובה. שמואל א ד מתעד את לכידת הארון בידי הפלישתים ומות בני עלי בשילה. חפירות בתל שילה (משלחות דניות, שנות ה-20-30; משלחות ישראליות, שנות ה-80) מגלות שכבת הרס עצומה ואלימה המתוארכת בדיוק לאמצע המאה ה-11 לפנה\"ס (תקופת עלי ושמואל), שלאחריה ננטש האתר ברובו. שכבת הרס פיזית זו מאמתת את הנרטיב המקראי של דין אלוקי קטסטרופלי בבירה הדתית הראשונה של ישראל.",
-        "fr": "Jérémie 7:12-14 cite une tradition plus ancienne avertissant que Dieu détruira le Tabernacle à Silo tout comme Il a détruit le sanctuaire à Silo si Israël ne se repent pas. 1 Samuel 4 rapporte la capture de l'Arche par les Philistins et la mort des fils d'Éli à Silo. Les fouilles à Tel Silo (expéditions danoises, années 1920-1930 ; expéditions israéliennes, années 1980) révèlent une couche de destruction massive et violente datée précisément du milieu du XIe siècle av. J.-C. (l'époque d'Éli et de Samuel), après quoi le site fut largement abandonné. Cette couche de destruction physique valide le récit biblique d'un jugement divin catastrophique dans la première capitale religieuse d'Israël.",
-        "es": "Jeremías 7:12-14 cita una tradición más antigua que advierte que Dios destruirá el Tabernáculo en Silo tal como destruyó el santuario en Silo si Israel no se arrepiente. 1 Samuel 4 registra la captura del Arca por los filisteos y la muerte de los hijos de Elí en Silo. Excavaciones en Tel Silo (expediciones danesas, años 1920-1930; expediciones israelíes, años 1980) revelan una capa de destrucción masiva y violenta fechada precisamente a mediados del siglo XI a.C. (la época de Elí y Samuel), tras lo cual el sitio fue en gran parte abandonado. Esta capa de destrucción física valida la narrativa bíblica de un juicio divino catastrófico en la primera capital religiosa de Israel."
-      },
-      "s": "https://en.wikipedia.org/wiki/Shiloh_(biblical_city)",
-      "u": "https://en.wikipedia.org/wiki/Shiloh_(biblical_city)",
-      "date_sort": -1050
-    },
-    {
-      "layer": "archaeology",
-      "t": {
         "en": "The Chemistry of Iron Gall Ink (Dyo)",
         "he": "הכימיה של דיו עפצים-ברזל (דיו)",
         "fr": "La chimie de l'encre ferrogallique (Dyo)",
@@ -5305,7 +5287,7 @@
       "u": "https://biblearchaeology.org/abr-announces-three-significant-discoveries-at-shiloh-from-2026-season/",
       "s": "Associates for Biblical Research (ABR) / Shiloh Excavation Report",
       "date_sort": -1200,
-      "review_caveat": "The Associates for Biblical Research is an explicitly faith-affiliated excavation organization rather than a neutral academic body, and this is a preliminary, single-source report on an ongoing dig without independent peer-reviewed confirmation of the 'Tabernacle-proportioned' interpretive claim, which should be weighed with more caution than the entry conveys."
+      "review_caveat": "Associates for Biblical Research is a faith-affiliated excavation body, not a neutral academic one, and this is a preliminary single-source report without independent peer review. More specifically: Finkelstein's 1993 peer-reviewed excavation of the same site concluded it was largely unoccupied through most of the circa 1400-1100 BCE window the Tabernacle tradition requires -- that mainstream finding is the direct counterweight to this entry's 'Tabernacle's home for 300+ years' framing, not just general institutional bias."
     },
     {
       "layer": "archaeology",
@@ -6291,7 +6273,7 @@
       "s": "Bryan Windle / Associates for Biblical Research (2026)",
       "u": "https://biblearchaeologyreport.com/2026/06/24/three-discoveries-from-season-eight-at-biblical-shiloh/",
       "date_sort": -1600,
-      "review_caveat": "As with the earlier Shiloh Season 8 entry, this comes from the Associates for Biblical Research, a faith-affiliated excavation team, reported via its own outlet rather than independent peer review; the stratigraphic sequence described is plausible archaeological practice, but the interpretive framing as specifically confirming Torah claims should be weighed with the same institutional-bias caution."
+      "review_caveat": "As with the earlier Shiloh Season 8 entry, this comes from the Associates for Biblical Research, a faith-affiliated excavation team, reported via its own outlet rather than independent peer review. More specifically: Finkelstein's 1993 peer-reviewed excavation of the same site concluded it was largely unoccupied through most of the circa 1400-1100 BCE window the Tabernacle tradition requires -- that mainstream finding is the direct counterweight here, not just general institutional-bias caution."
     },
     {
       "layer": "transmission",
@@ -6398,7 +6380,7 @@
       "s": "Associates for Biblical Research",
       "u": "https://biblearchaeologyreport.com/2024/12/14/help-me-dig-at-shiloh-in-2025/",
       "date_sort": -1350,
-      "review_caveat": "This is sourced to an ABR fundraising/recruitment blog post ('Help Me Dig at Shiloh in 2025'), not a peer-reviewed publication, which is a clear single-source apologetics-only sourcing concern; the specific comparison to Bamidbar 31:54 (a one-time war-spoil memorial dedication) is also a considerable interpretive stretch from a general votive/ritual-deposit pit."
+      "review_caveat": "This is sourced to an ABR fundraising/recruitment blog post ('Help Me Dig at Shiloh in 2025'), not a peer-reviewed publication -- a single-source apologetics-only sourcing concern -- and the comparison to Bamidbar 31:54 (a one-time war-spoil memorial dedication) is a considerable interpretive stretch from a general votive/ritual-deposit pit. More specifically: Finkelstein's 1993 peer-reviewed excavation of the same site concluded it was largely unoccupied through most of the circa 1400-1100 BCE window the Tabernacle tradition requires -- that mainstream finding is the direct counterweight, not just general institutional bias."
     },
     {
       "layer": "history_corrob",
@@ -6613,7 +6595,8 @@
       },
       "s": "Finkelstein, 'Shiloh' (1993); ABR Shiloh Excavation Reports; Wikipedia",
       "u": "https://en.wikipedia.org/wiki/Shiloh_(biblical_city)",
-      "date_sort": -1050
+      "date_sort": -1050,
+      "review_caveat": "The destruction event itself may be real, but citing Finkelstein 1993 here is selective: his own excavation's broader conclusion is that the site was largely unoccupied through much of the centuries preceding this destruction, which undercuts the '300+ years of continuous tabernacle presence' premise that gives the destruction its claimed religious significance. The layer does not, by itself, confirm continuous occupation before it."
     },
     {
       "layer": "archaeology",
