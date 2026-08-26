@@ -1017,7 +1017,7 @@
       },
       "s": "Biblical Hebrew – Wikipedia",
       "u": "https://en.wikipedia.org/wiki/Biblical_Hebrew",
-      "review_caveat": "This is one of several linguistics-layer entries making the same core wayyiqtol/archaic-verb-system antiquity argument -- see also 'The Vav-Consecutive and Linguistic Fossilization' and 'Antiquity of the Wayyiqtol Narrative Syntax,' which already carry redundancy caveats. The field is also genuinely split on using archaic morphology as a composition-date tool: Young, Rezetko, and Ehrensvard argue Early/Late Biblical Hebrew is not a reliable chronological marker, a controversy this entry does not acknowledge."
+      "review_caveat": "This is one of several linguistics-layer entries making the same core wayyiqtol/archaic-verb-system antiquity argument -- see also 'The Vav-Consecutive and Linguistic Fossilization' and 'Antiquity of the Wayyiqtol Narrative Syntax,' which already carry redundancy caveats. The field is also genuinely split on using archaic morphology as a composition-date tool: Young, Rezetko, and Ehrensvard argue Early/Late Biblical Hebrew is not a reliable chronological marker, a controversy this entry does not acknowledge. A direct quantitative test against Avi Hurvitz's own diagnostic standard (see cowork/hurvitz_test_results.md) confirms a genuine, genre-controlled Late Biblical Hebrew decline in wayyiqtol density, consistent with this entry's general claim -- but the same test found the archaic poems' own narrative core does not show elevated wayyiqtol density versus classical prose (82.1% vs. 78.8%, once genre is controlled); the feature's antiquity as a broad marker of pre-Mishnaic Hebrew doesn't extend to dating these specific poems as older than classical narrative prose."
     },
     {
       "layer": "linguistics",
@@ -1035,7 +1035,7 @@
       },
       "s": "Song of the Sea – Wikipedia",
       "u": "https://en.wikipedia.org/wiki/Song_of_the_Sea",
-      "review_caveat": "This is one of at least four linguistics-layer entries making the identical Cross & Freedman argument about archaic features in Shemos 15/Devarim 32 (see the already-caveated 'Archaic Poetry of Shemos 15 and Devarim 32' and 'Archaic Linguistic Features in Poetic Core Texts'); presenting it as separate evidence inflates the apparent count of independent support for a single claim."
+      "review_caveat": "This is one of at least four linguistics-layer entries making the identical Cross & Freedman argument about archaic features in Shemos 15/Devarim 32 (see the already-caveated 'Archaic Poetry of Shemos 15 and Devarim 32' and 'Archaic Linguistic Features in Poetic Core Texts'); presenting it as separate evidence inflates the apparent count of independent support for a single claim. A direct quantitative test of the specific archaic features cited for this poem elsewhere in this layer -- the -mo suffix, the zu relative particle, energic nun, wayyiqtol density (cowork/hurvitz_test_results.md) -- found none support treating Exodus 15 as demonstrably older than classical Hebrew prose under Hurvitz's own three-criterion standard; several turned out to be general poetic-register markers (also found in Psalms, Job, Isaiah) rather than markers of this poem's specific antiquity."
     },
     {
       "layer": "linguistics",
@@ -1053,7 +1053,7 @@
       },
       "s": "Blessing of Jacob – Wikipedia",
       "u": "https://en.wikipedia.org/wiki/Blessing_of_Jacob",
-      "review_caveat": "This is one of at least four linguistics-layer entries making the identical Cross & Freedman archaic-poetry argument about the same two poems (Genesis 49, Deuteronomy 32) -- see the already-caveated 'Archaic Poetry of Shemos 15 and Devarim 32' and 'Archaic Linguistic Features in Poetic Core Texts,' which cover this exact material."
+      "review_caveat": "This is one of at least four linguistics-layer entries making the identical Cross & Freedman archaic-poetry argument about the same two poems (Genesis 49, Deuteronomy 32) -- see the already-caveated 'Archaic Poetry of Shemos 15 and Devarim 32' and 'Archaic Linguistic Features in Poetic Core Texts,' which cover this exact material. The specific archaic pronominal suffix (-mo) this entry cites was directly tested (cowork/hurvitz_test_results.md): it fails Hurvitz's own diagnostic standard -- its 117 occurrences cluster in poetry generally (Psalms, Job, Isaiah), not specifically in Genesis 49/Deuteronomy 32, and it never occurs in Late Biblical Hebrew at all, so it cannot function as the early/late contrast the argument requires."
     },
     {
       "layer": "linguistics",
@@ -1088,7 +1088,7 @@
       },
       "s": "Biblical Hebrew – Wikipedia",
       "u": "https://en.wikipedia.org/wiki/Biblical_Hebrew",
-      "review_caveat": "A real linguistic feature, but 'virtually impossible... to artificially recreate' is asserted without derivation, and this is substantially the same core claim made independently in three other linguistics-layer entries (Antiquity of the Hebrew Verbal System, Wayyiqtol Narrative Syntax, Archaic Poetry entries) — significant redundancy across the layer."
+      "review_caveat": "A real linguistic feature, but 'virtually impossible... to artificially recreate' is asserted without derivation, and this is substantially the same core claim made independently in three other linguistics-layer entries (Antiquity of the Hebrew Verbal System, Wayyiqtol Narrative Syntax, Archaic Poetry entries) -- significant redundancy across the layer. Genre-controlled quantitative testing (cowork/hurvitz_test_results.md) confirms wayyiqtol/vav-consecutive does show a real decline in Late Biblical Hebrew, so the general claim about its post-exilic rarity holds up -- but this doesn't establish 'impossible to recreate' or date any specific passage: the same test found the feature's density in the Torah's own archaic poems does not exceed classical prose once genre is controlled."
     },
     {
       "layer": "linguistics",
@@ -1123,7 +1123,7 @@
       },
       "s": "Vav-consecutive – Wikipedia",
       "u": "https://en.wikipedia.org/wiki/Vav-consecutive",
-      "review_caveat": "The underlying grammatical fact is real, but this is essentially a third restatement of the same wayyiqtol/vav-consecutive antiquity argument already made in two other linguistics entries in this set, inflating the apparent count of independent evidence for a single underlying claim."
+      "review_caveat": "The underlying grammatical fact is real, but this is essentially a third restatement of the same wayyiqtol/vav-consecutive antiquity argument already made in two other linguistics entries in this set, inflating the apparent count of independent evidence for a single underlying claim. This project's own Hurvitz-methodology test (cowork/hurvitz_test_results.md) confirms the core claim -- wayyiqtol density does show a genuine, genre-controlled decline in securely late books (Ezra/Nehemiah/Esther/Daniel, 14-24 point drops vs. classical prose), the strongest-surviving result in that test set. But 'supporting the traditional timeline of origin' oversells it: once genre is controlled, the archaic poems' own narrative-clause wayyiqtol density (82.1%) is not lower than classical prose (78.8%) -- it's higher -- so this feature doesn't distinguish these specific poems as older than classical Torah narrative."
     },
     {
       "layer": "linguistics",
@@ -1141,7 +1141,7 @@
       },
       "s": "https://en.wikipedia.org/wiki/Song_of_the_Sea",
       "u": "https://en.wikipedia.org/wiki/Song_of_the_Sea",
-      "review_caveat": "Legitimate underlying claim, but this is at least the third or fourth entry in the linguistics layer making essentially the identical Cross/Freedman archaic-poetry argument about the same two poems — heavy redundancy inflating the apparent independent evidence count."
+      "review_caveat": "Legitimate underlying claim, but this is at least the third or fourth entry in the linguistics layer making essentially the identical Cross/Freedman archaic-poetry argument about the same two poems -- heavy redundancy inflating the apparent independent evidence count. The individual features underlying this claim were tested directly against Hurvitz's own diagnostic standard (cowork/hurvitz_test_results.md): the -mo suffix, the zu particle, and energic nun all fail (found broadly across poetic literature, not concentrated in these two poems specifically), and wayyiqtol density in these poems' narrative core is not depressed relative to classical prose once genre is controlled. 'Exceptionally difficult to fabricate' is not demonstrated by this testing -- none of the specific fossils cited turn out to distinguish these poems from ordinary biblical poetic register."
     },
     {
       "layer": "linguistics",
@@ -1159,7 +1159,7 @@
       },
       "s": "https://en.wikipedia.org/wiki/Biblical_Hebrew",
       "u": "https://en.wikipedia.org/wiki/Biblical_Hebrew",
-      "review_caveat": "This -mo suffix argument duplicates content in the already-caveated 'Archaic Linguistic Features in Poetic Core Texts' entry, which explicitly discusses the same -mo suffix in the same two poems (Shemos 15, Devarim 32) as one of several redundant linguistics-layer entries on this topic."
+      "review_caveat": "This -mo suffix argument duplicates content in the already-caveated 'Archaic Linguistic Features in Poetic Core Texts' entry, which explicitly discusses the same -mo suffix in the same two poems (Shemos 15, Devarim 32) as one of several redundant linguistics-layer entries on this topic. Directly tested against Hurvitz's own three-criterion standard (cowork/hurvitz_test_results.md, feature #2): fails both testable criteria. Of 117 occurrences, distribution clusters in poetry generally (Psalms, Job, Isaiah) rather than specifically in Shemos 15/Bereishis 49, and there is no classical-prose counterpart being displaced; the suffix never appears in Late Biblical Hebrew at all, so it cannot support the early/late contrast this entry claims."
     },
     {
       "layer": "linguistics",
@@ -6733,7 +6733,7 @@
       },
       "s": "Cross & Freedman, 'Studies in Ancient Yahwistic Poetry' (1975); Tigay, JBL 90 (1971)",
       "u": "https://en.wikipedia.org/wiki/Song_of_the_Sea",
-      "review_caveat": "A real, specific, checkable linguistic claim with legitimate citations. However, this is essentially the fourth or fifth entry in the linguistics layer making the identical Cross & Freedman archaic-poetry argument about the same three poems, substantially inflating the apparent count of independent supporting evidence."
+      "review_caveat": "A real, specific, checkable linguistic claim with legitimate citations. However, this is essentially the fourth or fifth entry in the linguistics layer making the identical Cross & Freedman archaic-poetry argument about the same three poems, substantially inflating the apparent count of independent supporting evidence. The -mo suffix specifically cited here fails direct testing against Hurvitz's own diagnostic standard (cowork/hurvitz_test_results.md): its 117 occurrences cluster in biblical poetry generally, not specifically in these three poems, and it is absent from Late Biblical Hebrew, so it does not function as the kind of datable linguistic fossil this entry claims. The other features listed (yah short form, tertiary verb forms, qataltu perfective) were not part of this project's testing and remain unverified by it either way."
     },
     {
       "layer": "linguistics",
