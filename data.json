@@ -1005,24 +1005,6 @@
     {
       "layer": "linguistics",
       "t": {
-        "en": "The Poetic Parallelism of the Song of the Sea (Shemos 15)",
-        "he": "המקבילות השירית של שירת הים (שמות טו)",
-        "fr": "Le parallélisme poétique du Cantique de la mer (Exode 15)",
-        "es": "El paralelismo poético del Cántico del Mar (Éxodo 15)"
-      },
-      "e": {
-        "en": "The Song of the Sea (Ex. 15:1–21) exhibits archaic linguistic features: the old afformative-taw suffix, archaic pronouns, and Ugaritic-style bicola. Frank Moore Cross and David Noel Freedman (Studies in Ancient Yahwistic Poetry, 1950, rev. 1997) argued on linguistic and prosodic grounds that it is among the oldest extant Hebrew poetry, possibly originating in the 13th–12th centuries BCE — inconsistent with late-composition theories and supporting the antiquity of the Shemos tradition.",
-        "he": "שירת הים (שמות טו:א-כא) מציגה מאפיינים לשוניים ארכאיים: סיומת האפורמטיב-תו העתיקה, כינויים ארכאיים, וביקולה בסגנון אוגריתי. פרנק מור קרוס ודייויד נואל פרידמן (Studies in Ancient Yahwistic Poetry, 1950, מהדורה מתוקנת 1997) טענו על בסיס לשוני ופרוזודי שהיא נמנית עם השירה העברית העתיקה ביותר הקיימת, שמקורה אפשרי במאות ה-13-12 לפנה\"ס — דבר שאינו מתיישב עם תיאוריות של חיבור מאוחר ותומך בעתיקות מסורת יציאת מצרים.",
-        "fr": "Le Cantique de la mer (Ex. 15:1-21) présente des caractéristiques linguistiques archaïques : l'ancien suffixe afformatif-tav, des pronoms archaïques, et des bicola de style ougaritique. Frank Moore Cross et David Noel Freedman (Studies in Ancient Yahwistic Poetry, 1950, rév. 1997) ont soutenu, sur des bases linguistiques et prosodiques, qu'il figure parmi les plus anciens poèmes hébreux existants, provenant peut-être des XIIIe-XIIe siècles av. J.-C. — incompatible avec les théories de composition tardive et soutenant l'ancienneté de la tradition de l'Exode.",
-        "es": "El Cántico del Mar (Éx. 15:1-21) exhibe rasgos lingüísticos arcaicos: el antiguo sufijo aformativo-tav, pronombres arcaicos y bicolones de estilo ugarítico. Frank Moore Cross y David Noel Freedman (Studies in Ancient Yahwistic Poetry, 1950, rev. 1997) argumentaron por motivos lingüísticos y prosódicos que se encuentra entre la poesía hebrea más antigua existente, posiblemente originada en los siglos XIII-XII a.C. — incompatible con las teorías de composición tardía y en apoyo de la antigüedad de la tradición del Éxodo."
-      },
-      "s": "Song of the Sea – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Song_of_the_Sea",
-      "review_caveat": "This is one of at least four linguistics-layer entries making the identical Cross & Freedman argument about archaic features in Shemos 15/Devarim 32 (see the already-caveated 'Archaic Poetry of Shemos 15 and Devarim 32' and 'Archaic Linguistic Features in Poetic Core Texts'); presenting it as separate evidence inflates the apparent count of independent support for a single claim. A direct quantitative test of the specific archaic features cited for this poem elsewhere in this layer -- the -mo suffix, the zu relative particle, energic nun, wayyiqtol density (cowork/hurvitz_test_results.md) -- found none support treating Exodus 15 as demonstrably older than classical Hebrew prose under Hurvitz's own three-criterion standard; several turned out to be general poetic-register markers (also found in Psalms, Job, Isaiah) rather than markers of this poem's specific antiquity."
-    },
-    {
-      "layer": "linguistics",
-      "t": {
         "en": "The Blessing of Jacob (Bereishis 49) and the Song of Moses (Devarim 32)",
         "he": "ברכת יעקב (בראשית מט) ושירת האזינו (דברים לב)",
         "fr": "La bénédiction de Jacob (Genèse 49) et le Cantique de Moïse (Deutéronome 32)",
@@ -1071,24 +1053,6 @@
       },
       "s": "Homan, To Your Tents, O Israel! (Brill, 2002); Hoffmeier, Israel in Egypt (1997); Kitchen, On the Reliability of the Old Testament (2003)",
       "u": "https://brill.com/display/title/8060"
-    },
-    {
-      "layer": "linguistics",
-      "t": {
-        "en": "Archaic Poetry of Shemos 15 and Devarim 32",
-        "he": "שירה ארכאית בשמות טו ובדברים לב",
-        "fr": "La poésie archaïque d'Exode 15 et de Deutéronome 32",
-        "es": "La poesía arcaica de Éxodo 15 y Deuteronomio 32"
-      },
-      "e": {
-        "en": "Linguists (such as Frank Moore Cross and Richard Friedman) identify Shemos 15 (the Song of the Sea) and Devarim 32 (the Song of Moses) as containing archaic Hebrew morphology, syntax, and vocabulary that significantly predate standard Biblical Hebrew. These poems are embedded directly into the Sinai/Shemos narrative. If the Torah was compiled out of whole cloth during the Babylonian Exile (6th century BCE), the presence of these linguistic fossils—which are exceptionally difficult to fabricate retroactively—would be inexplicable. Their presence supports the argument that the core texts surrounding the Sinai event originate from the era they claim to describe.",
-        "he": "בלשנים (כגון פרנק מור קרוס וריצ'רד פרידמן) מזהים בשמות טו (שירת הים) ובדברים לב (שירת האזינו) מורפולוגיה, תחביר ואוצר מילים עבריים ארכאיים, הקודמים באופן משמעותי לעברית המקראית הסטנדרטית. שירים אלה משובצים ישירות בתוך נרטיב סיני/יציאת מצרים. אילו התורה חוברה יש מאין בתקופת הגלות הבבלית (המאה ה-6 לפנה\"ס), נוכחות מאובנים לשוניים אלה — הקשים ביותר לזיוף לאחור — הייתה בלתי מוסברת. נוכחותם תומכת בטענה שהטקסטים המרכזיים סביב אירוע סיני מקורם בתקופה שהם טוענים לתאר.",
-        "fr": "Des linguistes (tels que Frank Moore Cross et Richard Friedman) identifient dans Exode 15 (le Cantique de la mer) et Deutéronome 32 (le Cantique de Moïse) une morphologie, une syntaxe et un vocabulaire hébreux archaïques qui précèdent significativement l'hébreu biblique standard. Ces poèmes sont directement intégrés au récit du Sinaï/de l'Exode. Si la Torah avait été compilée de toutes pièces durant l'exil babylonien (VIe siècle av. J.-C.), la présence de ces fossiles linguistiques — exceptionnellement difficiles à fabriquer rétroactivement — serait inexplicable. Leur présence soutient l'argument selon lequel les textes centraux entourant l'événement du Sinaï proviennent de l'époque qu'ils prétendent décrire.",
-        "es": "Los lingüistas (como Frank Moore Cross y Richard Friedman) identifican en Éxodo 15 (el Cántico del Mar) y Deuteronomio 32 (el Cántico de Moisés) morfología, sintaxis y vocabulario hebreos arcaicos que preceden significativamente al hebreo bíblico estándar. Estos poemas están incrustados directamente en la narrativa del Sinaí/Éxodo. Si la Torá hubiera sido compilada de la nada durante el exilio babilónico (siglo VI a.C.), la presencia de estos fósiles lingüísticos — excepcionalmente difíciles de fabricar retroactivamente — sería inexplicable. Su presencia respalda el argumento de que los textos centrales en torno al evento del Sinaí se originan en la época que afirman describir."
-      },
-      "s": "https://en.wikipedia.org/wiki/Song_of_the_Sea",
-      "u": "https://en.wikipedia.org/wiki/Song_of_the_Sea",
-      "review_caveat": "Legitimate underlying claim, but this is at least the third or fourth entry in the linguistics layer making essentially the identical Cross/Freedman archaic-poetry argument about the same two poems -- heavy redundancy inflating the apparent independent evidence count. The individual features underlying this claim were tested directly against Hurvitz's own diagnostic standard (cowork/hurvitz_test_results.md): the -mo suffix, the zu particle, and energic nun all fail (found broadly across poetic literature, not concentrated in these two poems specifically), and wayyiqtol density in these poems' narrative core is not depressed relative to classical prose once genre is controlled. 'Exceptionally difficult to fabricate' is not demonstrated by this testing -- none of the specific fossils cited turn out to distinguish these poems from ordinary biblical poetic register."
     },
     {
       "layer": "linguistics",
