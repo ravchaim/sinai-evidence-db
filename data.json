@@ -965,7 +965,8 @@
       },
       "s": "Smithsonian Magazine (Oct 2025); Egyptian Ministry of Tourism and Antiquities",
       "u": "https://www.smithsonianmag.com/smart-news/archaeologists-discover-3500-year-old-egyptian-military-fortress-in-the-sinai-desert-180987542/",
-      "review_caveat": "The claim about a chain of Egyptian coastal fortresses (the 'Ways of Horus') is generally well established in Egyptology, but this specific 2025 find is sourced only to the apologetics-oriented Armstrong Institute of Biblical Archaeology rather than a primary Egyptian Ministry of Antiquities release or peer-reviewed report, despite attributing the announcement to that ministry — a sourcing gap worth flagging even if the underlying fortress is real."
+      "review_caveat": "The claim about a chain of Egyptian coastal fortresses (the 'Ways of Horus') is generally well established in Egyptology, but this specific 2025 find is sourced only to the apologetics-oriented Armstrong Institute of Biblical Archaeology rather than a primary Egyptian Ministry of Antiquities release or peer-reviewed report, despite attributing the announcement to that ministry — a sourcing gap worth flagging even if the underlying fortress is real.",
+      "date_sort": -1500
     },
     {
       "layer": "history_corrob",
@@ -7789,7 +7790,9 @@
         "es": "Excavaciones submarinas en el antiguo puerto de Dor (Josué 11:2; 12:23; Jueces 1:27; 1 Reyes 4:11), dirigidas por Assaf Yasur-Landau (Universidad de Haifa), recuperaron tres cargamentos distintos de barcos de la Edad del Hierro que abarcan los siglos XI-VI a.C., publicados en Antiquity (agosto de 2025). El cargamento más antiguo (siglo XI a.C.) muestra un comercio extenso con Egipto y Chipre; el cargamento intermedio (finales del siglo IX-principios del VIII a.C.) muestra una caída marcada en ese comercio, consistente con evidencia terrestre del declive de la conectividad de Dor bajo control israelita en este período; el cargamento más reciente (finales del siglo VII-principios del VI a.C.) muestra una recuperación del comercio internacional bajo las condiciones de la era asiria. Este es un registro económico genuinamente independiente — sedimento y carga, no texto — y su patrón de auge-declive-recuperación coincide con la trayectoria más amplia de la fortuna de la región durante el período bíblico, aunque el propio artículo de los excavadores no establece ninguna conexión directa con un versículo específico."
       },
       "s": "Yasur-Landau et al., Antiquity (Aug 2025)",
-      "u": "https://www.cambridge.org/core/journals/antiquity/article/iron-age-ship-cargoes-from-the-harbour-of-dor-israel/D44019724498E1221A1E026E25FFEA04"
+      "u": "https://www.cambridge.org/core/journals/antiquity/article/iron-age-ship-cargoes-from-the-harbour-of-dor-israel/D44019724498E1221A1E026E25FFEA04",
+      "date_sort": -1100,
+      "review_caveat": "This find spans three separate cargoes across roughly five centuries (11th, 9th-8th, and 7th-6th century BCE); the timeline date_sort here reflects only the earliest of the three, chosen so the entry appears on the chronological chart -- not the full range the find actually covers."
     },
     {
       "layer": "transmission",
@@ -8186,7 +8189,8 @@
         "es": "El Papiro Anastasi VI, un informe fronterizo egipcio del siglo XIII a.C., registra a un funcionario egipcio otorgando a grupos shasu (pastores semitas occidentales) permiso para llevar sus rebaños a través de la región fortificada cercana a Tjeku (el Wadi Tumilat, junto a Pitón) hacia el delta oriental durante un período de escasez. Esto no identifica a estos shasu en particular como israelitas, y no debe presentarse como tal. Lo que sí establece es que la frontera egipcia oriental que describe la Torá — una zona fronteriza controlada pero permeable por la que grupos semitas entraban y salían de Egipto bajo supervisión administrativa egipcia — está atestiguada de forma independiente como la realidad operativa normal de esa región y época, y no como una geografía inventada por conveniencia narrativa."
       },
       "s": "https://en.wikipedia.org/wiki/Shasu",
-      "u": "https://en.wikipedia.org/wiki/Shasu"
+      "u": "https://en.wikipedia.org/wiki/Shasu",
+      "date_sort": -1250
     },
     {
       "layer": "archaeology",
@@ -8203,7 +8207,8 @@
         "es": "El Papiro Anastasi I (siglo XIII a.C.) es una carta satírica de formación de escribas en la que un funcionario llamado Hori se burla de la ignorancia de un colega sobre la geografía y las realidades militares de Canaán. Entre sus advertencias exageradas sobre los viajes por pasos montañosos estrechos, describe guerreros de 'cuatro o cinco codos, de la cabeza a los pies, de rostro feroz' — aproximadamente entre 2,1 y 2,6 metros. Algunos eruditos han notado la semejanza con Números 13:33, donde los espías israelitas informan haber visto a los 'hijos de Anac' en Canaán y se describen a sí mismos como langostas en comparación. El texto egipcio es explícitamente una obra de sátira escriba que usa la hipérbole con fines retóricos, no un informe etnográfico literal — la misma cautela de género probablemente se aplica al relato bíblico, mejor entendido como una expresión del miedo y desánimo de los espías que como una descripción física literal. Lo que el paralelo establece es que describir a los habitantes de Canaán en términos exagerados y desmesurados era una convención literaria reconocida, compartida entre fuentes egipcias e israelitas de la época, no un detalle inventado de forma aislada por una u otra."
       },
       "s": "Wilson (trans.), Ancient Near Eastern Texts (ANET); Hoffmeier, Ancient Israel in Sinai (2005)",
-      "u": "https://en.wikipedia.org/wiki/Papyrus_Anastasi_I"
+      "u": "https://en.wikipedia.org/wiki/Papyrus_Anastasi_I",
+      "date_sort": -1250
     },
     {
       "layer": "archaeology",
@@ -8220,7 +8225,8 @@
         "es": "El Papiro Anastasi III, un texto administrativo/escriba del Reino Nuevo, contiene el topónimo pr-ḥwt-ḥrt, que los egiptólogos (incluido James Hoffmeier) identifican como la fuente del Pi-Hahirot bíblico, junto con referencias a un cuerpo de agua ('el mar') y a Baal-Zefón — los mismos tres términos que aparecen juntos en Éxodo 14:2, describiendo dónde acamparon los israelitas antes de cruzar el mar. La convergencia de estos tres términos específicos, cada uno vinculado a un cuerpo de agua en el delta nororiental del Nilo, dentro de una única fuente egipcia independiente, es una correspondencia geográfica notable. Esto no confirma el evento del Éxodo en sí, pero sí muestra que el grupo específico de topónimos de Éxodo 14:2 corresponde a una agrupación geográfica real y atestiguada en documentos administrativos egipcios de la era ramésida, y no a un escenario inventado."
       },
       "s": "Hoffmeier, Israel in Egypt (1997); Egyptological identification of pr-ḥwt-ḥrt with Pi-Hahiroth",
-      "u": "https://en.wikipedia.org/wiki/Pi-HaHiroth"
+      "u": "https://en.wikipedia.org/wiki/Pi-HaHiroth",
+      "date_sort": -1250
     },
     {
       "layer": "literary",
@@ -8980,7 +8986,8 @@
         "es": "En octubre de 2025, la Autoridad de Antigüedades de Israel anunció el descubrimiento de un pequeño fragmento de cerámica (~2,5 cm) con una inscripción cuneiforme acadia, cerca del Muro Occidental del Monte del Templo, en el Parque Arqueológico Davidson de Jerusalén — hallado en escombros acumulados en el borde de un canal de drenaje de la época del Segundo Templo, probablemente procedente de una estructura colapsada del Primer Templo. Fechada en torno a los siglos VIII-VII a.C., la inscripción se interpreta como una exigencia real asiria dirigida al rey de Judá por un tributo atrasado, con una fecha límite declarada ('el primero de Av') y una advertencia de consecuencias por impago. Los investigadores (Zilberstein, Vukosavović, Cohen-Weinberger, de la IAA, y Zilberg, de la Universidad Bar-Ilan) proponen que data del reinado de Senaquerib, dirigida a Ezequías, Manasés o el joven Josías — la misma relación de vasallaje descrita en 2 Reyes 18:13-16. Esta es la primera inscripción asiria del período del Primer Templo hallada jamás en la propia Jerusalén, en lugar de en un yacimiento asirio — evidencia física directa, procedente de la correspondencia administrativa del propio imperio, de la relación de tributo que describe el texto. Al momento de escribir esto, el hallazgo solo se ha anunciado mediante comunicado de prensa; aún no se ha publicado un informe de excavación revisado por pares."
       },
       "s": "Israel Antiquities Authority / City of David (Oct 2025)",
-      "u": "https://cityofdavid.org.il/en/assyrian-inscription/"
+      "u": "https://cityofdavid.org.il/en/assyrian-inscription/",
+      "date_sort": -700
     },
     {
       "layer": "archaeology",
@@ -8997,7 +9004,8 @@
         "es": "Excavaciones en Tel Rehov, en el valle del Jordán, descubrieron un apiario intacto de la Edad del Hierro IIA (siglos X-IX a.C., período de la Monarquía Unida) — aproximadamente 180 colmenas cilíndricas de arcilla dispuestas en hileras, la instalación más antigua y grande de este tipo hallada hasta ahora en el antiguo Cercano Oriente. Restos preservados de larvas, pupas y zánganos, junto con residuos lipídicos que confirman cera de abeja calentada, permitieron un análisis morfométrico de la anatomía de las abejas, que identificó a la población como Apis mellifera anatoliaca — una subespecie nativa de Anatolia (Turquía actual), no la abeja local, lo que implica que las colmenas fueron pobladas deliberadamente mediante comercio o transporte a larga distancia. Los críticos han argumentado que \"una tierra que fluye leche y miel\" (p. ej., Éxodo 3:8) exagera o se refiere solo al jarabe de dátiles, ya que se asumía que la apicultura organizada estaba ausente del Levante a comienzos de la Edad del Hierro. Este hallazgo demuestra que sí existió en la región una apicultura sofisticada, a gran escala y con suministro internacional durante el período monárquico bíblico."
       },
       "s": "Mazar & Panitz-Cohen, Tel Rehov Vol. II: The Apiary; Bloch et al., PNAS 107(25), 2010",
-      "u": "https://www.pnas.org/doi/10.1073/pnas.1003265107"
+      "u": "https://www.pnas.org/doi/10.1073/pnas.1003265107",
+      "date_sort": -900
     },
     {
       "layer": "archaeology",
@@ -9014,7 +9022,8 @@
         "es": "Khirbet el-Mastarah, un sitio de aproximadamente 1 hectárea en el valle medio del Jordán, justo al norte de Jericó, consiste en recintos de piedra redondeados y estructuras de muros bajos en lugar de viviendas permanentes. Excavado por el Jordan Valley Excavation Project (Ralph Hawkins y David Ben-Shlomo, desde 2017), la capa de ocupación más temprana data de la transición de la Edad del Hierro I (c. 1200 a.C.), identificada mediante análisis estratigráfico de cerámica. La arquitectura — grandes corrales redondeados aptos para encerrar ovejas y cabras, estructuras humanas permanentes mínimas, y una ubicación oculta en una bifurcación de wadi alejada de las carreteras principales — coincide con la huella esperada de una población pastoral, seminomada, en lugar de una aldea agrícola asentada. Situado precisamente en el punto donde una población que entrara en Canaán desde el valle del Jordán (cf. Josué 3-4) se habría establecido primero, el sitio es propuesto por sus excavadores como evidencia física de la fase intermedia, previa a la aldea, del asentamiento israelita temprano, antes del cambio a las casas permanentes de cuatro habitaciones halladas más tarde en las tierras altas centrales."
       },
       "s": "Hawkins, R. & Ben-Shlomo, D., \"Khirbet el-Mastarah: An Early Israelite Settlement?\", Biblical Archaeology Review",
-      "u": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/khirbet-el-mastarah-jordan-valley-origin-ancient-israel/"
+      "u": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/khirbet-el-mastarah-jordan-valley-origin-ancient-israel/",
+      "date_sort": -1200
     },
     {
       "layer": "linguistics",
@@ -9066,7 +9075,8 @@
         "es": "En agosto de 2026, una misión arqueológica egipcia anunció el descubrimiento de un dintel de arenisca roto en Tell Abu Seifi (Qantara Este, en la frontera oriental del Delta/norte del Sinaí en Egipto), inscrito en tres caras con los títulos de Ramsés II y una referencia a la restauración de una estatua de 'Horus, Señor de Mesen' — fortaleciendo la identificación del sitio con la ciudad del Reino Nuevo, Mesen, conocida por textos egipcios. El sitio se encuentra en la Ruta Militar de Horus (el 'Camino de Horus'), el corredor costero fuertemente fortificado que conectaba Egipto con Canaán, y que algunos estudiosos relacionan con la ruta descrita en Éxodo 13:17 — 'Dios no los llevó por el camino de la tierra de los filisteos, aunque era más cerca; porque dijo Dios: Para que no se arrepienta el pueblo cuando vea la guerra, y se vuelva a Egipto.' El hallazgo añade confirmación física y fechada de que este corredor fronterizo estaba guarnecido y administrativamente activo en el período ramesída, la era generalmente propuesta para el Éxodo, sin probar por sí mismo ningún evento bíblico específico."
       },
       "s": "EgyptToday; Daily News Egypt (Aug 2026)",
-      "u": "https://www.dailynewsegypt.com/2026/08/15/new-archaeological-discovery-at-tell-abu-saifi-sheds-light-on-ancient-horus-military-road/"
+      "u": "https://www.dailynewsegypt.com/2026/08/15/new-archaeological-discovery-at-tell-abu-saifi-sheds-light-on-ancient-horus-military-road/",
+      "date_sort": -1250
     },
     {
       "layer": "archaeology",
@@ -9083,7 +9093,8 @@
         "es": "En julio de 2026, la Autoridad de Antigüedades de Israel y la Universidad de Tel Aviv anunciaron el descubrimiento de enormes vigas de madera de sicómoro carbonizadas en la excavación del estacionamiento Giv'ati en la Ciudad de David de Jerusalén — los soportes del techo de un patio interior de un edificio del período del Primer Templo. Las vigas colapsaron en un incendio intenso y posteriormente quedaron selladas bajo yeso de pared fundido, una combinación inusual que preservó la madera durante unos 2.600 años. El hallazgo está vinculado a la destrucción babilónica de Jerusalén en 586 a.C. (2 Reyes 25; Jeremías 52). El número inusualmente alto de anillos de crecimiento de las vigas ofrece a los investigadores el potencial de una datación mucho más precisa de lo habitual para este período, lo que podría acotar la fecha de la destrucción a una década aproximadamente. Restos orgánicos tan bien preservados y vinculados tan directamente a un incendio descrito son raros en la arqueología levantina, y proporcionan evidencia física tangible de un evento conocido de otro modo solo por el texto."
       },
       "s": "Israel Antiquities Authority / Tel Aviv University (July 2026)",
-      "u": "https://www.timesofisrael.com/rare-well-preserved-iron-age-wood-offers-evidence-of-first-temples-destruction-in-jerusalem/"
+      "u": "https://www.timesofisrael.com/rare-well-preserved-iron-age-wood-offers-evidence-of-first-temples-destruction-in-jerusalem/",
+      "date_sort": -586
     },
     {
       "layer": "archaeology",
@@ -9100,7 +9111,8 @@
         "es": "Un estudio revisado por pares de 2026 en la revista Levant, que utiliza datación por radiocarbono en muestras de vida corta (cebada carbonizada) de la fortaleza de la Edad del Hierro en Ein Hatzeva, data su construcción entre 791 y 772 a.C. — la primera mitad del siglo VIII a.C., antes de que la región quedara bajo hegemonía asiria. Los paralelos arquitectónicos con sitios israelitas del norte llevan a los investigadores a atribuir la construcción y operación de la fortaleza al Reino del Norte de Israel, en lugar de a Judá o a una iniciativa asiria posterior. Ein Hatzeva controlaba rutas clave a través del Arabá vinculadas al comercio con el sur de Arabia. La nueva datación respalda un período de alcance territorial y control comercial israelita significativos bajo reyes como Joás o Yeroboam II — coincidiendo con el panorama bíblico de expansión y prosperidad israelita del norte en este período (p. ej., 2 Reyes 14:25)."
       },
       "s": "Levant journal (2026)",
-      "u": "https://www.tandfonline.com/doi/full/10.1080/00758914.2026.2639908"
+      "u": "https://www.tandfonline.com/doi/full/10.1080/00758914.2026.2639908",
+      "date_sort": -780
     },
     {
       "layer": "coherence",
@@ -9134,7 +9146,8 @@
         "es": "El Arco de Tito, un arco triunfal romano en Roma dedicado alrededor del año 81 d.C., contiene un relieve profundo que representa a soldados romanos en una procesión triunfal portando el botín saqueado del Templo de Jerusalén tras su destrucción en el año 70 d.C.: la menorá dorada de siete brazos, la mesa dorada de los panes de la proposición, y las trompetas de plata utilizadas en el servicio del Templo. Esta es la representación más antigua y famosa que se conserva de estos objetos fuera del propio texto bíblico, tallada por el mismo imperio que destruyó el Templo, sin motivo alguno para inventar o exagerar los objetos rituales judíos. Proporciona una confirmación física independiente, no judía y contemporánea, tanto de la realidad histórica de la destrucción romana del Segundo Templo (Flavio Josefo, La Guerra de los Judíos) como de la forma específica del mobiliario ritual que la Torá describe para el Tabernáculo anterior (Éxodo 25) y, por extensión, sus sucesores en el Templo."
       },
       "s": "Arch of Titus, Rome, c. 81 CE",
-      "u": "https://en.wikipedia.org/wiki/Arch_of_Titus"
+      "u": "https://en.wikipedia.org/wiki/Arch_of_Titus",
+      "date_sort": 81
     },
     {
       "layer": "archaeology",
@@ -9152,7 +9165,8 @@
       },
       "s": "Kraeling, C.H., The Synagogue (Yale, 1956)",
       "u": "https://en.wikipedia.org/wiki/Dura-Europos_synagogue",
-      "review_caveat": "The closing argument is chronologically confused: no mainstream 'late invention' theory dates final Torah composition anywhere near 244 CE (the latest common critical dating is the Persian period, 5th-4th century BCE, many centuries earlier than Dura-Europos). The frescoes demonstrate the narrative's currency in a 3rd-century diaspora community; they do not, and cannot, rebut a compositional dating already many centuries in the past by that point."
+      "review_caveat": "The closing argument is chronologically confused: no mainstream 'late invention' theory dates final Torah composition anywhere near 244 CE (the latest common critical dating is the Persian period, 5th-4th century BCE, many centuries earlier than Dura-Europos). The frescoes demonstrate the narrative's currency in a 3rd-century diaspora community; they do not, and cannot, rebut a compositional dating already many centuries in the past by that point.",
+      "date_sort": 244
     },
     {
       "layer": "transmission",
@@ -9187,7 +9201,8 @@
       },
       "s": "Corbo, V. & Loffreda, S., Capernaum excavations (1969-1974)",
       "u": "https://en.wikipedia.org/wiki/Capernaum",
-      "review_caveat": "Both datings in this entry are contested by specialists. Jodi Magness has argued in peer-reviewed work that the limestone synagogue is no earlier than the 5th-6th century CE (not 4th-5th), and has disputed whether the underlying basalt remains represent a purpose-built 1st-century synagogue rather than reused 1st-century town architecture. The entry presents the excavators' (Corbo/Loffreda) original dating as settled fact without noting this live scholarly dispute."
+      "review_caveat": "This site has two dated phases: an earlier 1st-century CE basalt foundation and a later, more elaborate 4th/5th-century CE structure built on top of it. The timeline date_sort reflects the earlier foundation, the more historically significant claim (an early functioning synagogue), not the later monumental rebuild that was the one precisely coin-dated by excavators.",
+      "date_sort": 50
     },
     {
       "layer": "archaeology",
@@ -9204,7 +9219,8 @@
         "es": "Las excavaciones en Ramat Rachel, justo al sur de Jerusalén, han recuperado aproximadamente el 85% de todas las improntas de sello 'Yehud' conocidas del período persa (impresiones en asas de tinajas de almacenamiento que marcan la provincia de Judá) halladas en toda la región — unas 280 de los aproximadamente 330 ejemplares documentados. El estudio exhaustivo de Oded Lipschits y David Vanderhooft identificó funcionarios provinciales específicos nombrados entre las improntas, incluidos los gobernadores previamente desconocidos Jehoezer y Ahiyab. Esta concentración establece a Ramat Rachel como el centro administrativo principal de Yehud en el período persa, proporcionando una confirmación física, no textual, exactamente del tipo de estructura de gobernanza provincial en funcionamiento — con gobernadores nombrados que administraban impuestos y producción bajo autoridad persa — que los libros de Esdras y Nehemías describen para este mismo período."
       },
       "s": "Lipschits, O. & Vanderhooft, D., The Yehud Stamp Impressions (Eisenbrauns, 2011)",
-      "u": "https://en.wikipedia.org/wiki/Ramat_Rachel"
+      "u": "https://en.wikipedia.org/wiki/Ramat_Rachel",
+      "date_sort": -450
     },
     {
       "layer": "comparative",
@@ -9255,7 +9271,9 @@
         "es": "Las excavaciones en el Monte Gerizim, dirigidas por Yitzhak Magen (1983-2006), descubrieron un recinto sagrado samaritano y un complejo de templo, junto con una gran ciudad circundante del período helenístico. La expansión posterior y mayor del sitio está bien fechada en el período helenístico bajo Antíoco III (c. 200 a.C.), y la destrucción del templo por el gobernante asmoneo Juan Hircano en el 110 a.C. está igualmente bien establecida, tanto por las excavaciones como por Flavio Josefo. Sin embargo, la fecha de fundación original del templo sigue siendo una disputa académica genuina y no resuelta: Flavio Josefo (Antigüedades 11.8.2) fecha su construcción alrededor de la conquista de Alejandro Magno (332 a.C.), mientras que Magen argumentó a favor de una fundación sustancialmente anterior, a mediados del siglo V a.C. — una afirmación que el análisis posterior de sus propios datos estratigráficos publicados no ha podido confirmar. Sea cual sea la fecha de fundación correcta, el sitio proporciona evidencia física sólida y no textual de la realidad histórica del templo samaritano y del cisma judeo-samaritano descrito por Flavio Josefo y 2 Macabeos, y de la existencia de un centro cultual rival, basado en la Torá, distinto de Jerusalén — directamente relevante para las propias afirmaciones textuales del Pentateuco samaritano."
       },
       "s": "Magen, Y., Mount Gerizim Excavations, vols. I-II",
-      "u": "https://en.wikipedia.org/wiki/Mount_Gerizim_Temple"
+      "u": "https://en.wikipedia.org/wiki/Mount_Gerizim_Temple",
+      "date_sort": -332,
+      "review_caveat": "The timeline date_sort uses Josephus's proposed founding date (~332 BCE); excavator Yitzhak Magen argued for a substantially earlier mid-5th-century BCE date, a claim the entry notes subsequent analysis could not confirm. The founding date remains a genuine, unresolved scholarly dispute."
     },
     {
       "layer": "transmission",
@@ -9375,7 +9393,8 @@
         "es": "El Edificio 100, una estructura monumental de la Edad del Hierro excavada en el estacionamiento de Givati en la Ciudad de David en Jerusalén (Universidad de Tel Aviv y Autoridad de Antigüedades de Israel, dirigida por Yuval Gadot y Yiftach Shalev), fue destruido en la conquista babilónica de 586 a.C. El tamizado húmedo de sus escombros recuperó más de 1.500 fragmentos de marfil tallado — uno de los mayores conjuntos de este tipo hallados en Israel — reensamblados en placas decorativas que probablemente adornaron un trono o silla de madera importado, posiblemente elaborado por artesanos asirios. En el mismo edificio, el análisis químico de residuos de tinajas de almacenamiento (algunas con sellos reales de roseta) detectó vainillina, mostrando que el vino servido allí estaba aromatizado con vainilla, una especia que de otro modo no está atestiguada en la región en este período, y que apunta a redes comerciales de larga distancia que llegaban hasta el sur de Arabia o más allá (Amir et al., PLOS ONE, 2022). Juntos, el marfil y el vino especiado indican que la élite de Jerusalén, en vísperas de la destrucción babilónica, tenía acceso a bienes de lujo importados y redes comerciales del tipo que la Biblia asocia con la corte real (p. ej., la 'casa de marfil' de 1 Reyes 22:39; Amós 6:4). Esto corrobora el panorama general de una capital rica y conectada internacionalmente, sin probar ningún versículo específico."
       },
       "s": "Amir et al., PLOS ONE (2022); IAA/Tel Aviv University excavations, Givati Parking Lot, Building 100",
-      "u": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266085"
+      "u": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266085",
+      "date_sort": -586
     },
     {
       "layer": "archaeology",
@@ -9392,7 +9411,8 @@
         "es": "Una impronta de sello de arcilla (bula) procedente de escombros del período del Primer Templo, excavada por Eli Shukron bajo el Arco de Robinson en 2013 e identificada en 2019 por un voluntario del propio programa de cribado húmedo de la Ciudad de David, dice 'Adenyahu Asher Al HaBayit' — 'Adenyahu, que está sobre la casa'. El título 'asher al ha-bayit' ('que está sobre la casa') es la designación bíblica estándar del mayordomo real más alto bajo los reyes de Judá e Israel (p. ej., 1 Reyes 4:6, 18:3; 2 Reyes 18:18; Isaías 22:15, sobre Sebná), y la bula se data por criterios paleográficos en el siglo VII a.C. Su aparición en una impronta de sello auténtica, excavada arqueológicamente, constituye una confirmación epigráfica independiente de que este título administrativo bíblico específico estaba en uso burocrático real exactamente en el período y contexto que describe el texto bíblico, y no es una invención literaria tardía."
       },
       "s": "Eli Shukron excavation (2013); City of David wet-sifting program identification (2019); City of David official report",
-      "u": "https://cityofdavid.org.il/en/adneyahu-asher-al-habayit-eng/"
+      "u": "https://cityofdavid.org.il/en/adneyahu-asher-al-habayit-eng/",
+      "date_sort": -650
     },
     {
       "layer": "archaeology",
@@ -9409,7 +9429,9 @@
         "es": "En 2024, arqueólogos de la Autoridad de Antigüedades de Israel y la Universidad de Tel Aviv, trabajando en el estacionamiento de Givati en la Ciudad de David en Jerusalén, descubrieron un enorme foso tallado en roca — de al menos 30 metros de ancho y 9 metros de profundidad — que había sido señalado por exploradores del siglo XIX (Charles Warren) pero nunca comprendido del todo. El foso dividía la Ciudad de David en dos, separando el área asociada con el palacio real y el Monte del Templo del resto del asentamiento, y requirió un esfuerzo de construcción monumental y organizado centralmente para tallar la roca natural. Los excavadores conectan este elemento con el 'Milo' bíblico (del hebreo 'relleno'), una fortificación mencionada repetidamente en relación con las defensas de Jerusalén y asociada con reyes desde David hasta Ezequías (2 Samuel 5:9; 1 Reyes 9:15, 24, 11:27; 2 Crónicas 32:5). Aunque la identificación de este elemento específico con el Milo bíblico sigue siendo una interpretación de los excavadores y no una certeza, el descubrimiento confirma de forma independiente que los gobernantes de la Jerusalén de la Edad del Hierro emprendieron proyectos de fortificación a gran escala y de gran inversión, del tipo que describe el texto bíblico."
       },
       "s": "Israel Antiquities Authority / Tel Aviv University excavation announcement (2024), Givati Parking Lot",
-      "u": "https://cityofdavid.org.il/en/150-years/"
+      "u": "https://cityofdavid.org.il/en/150-years/",
+      "review_caveat": "The timeline date_sort reflects the earliest end of the range floated by excavators (possibly Middle Bronze Age, ~2000 BCE, before David) -- the moat's origin is genuinely unknown; confirmed use continued into King Josiah's time (~7th century BCE).",
+      "date_sort": -2000
     },
     {
       "layer": "archaeology",
@@ -9427,7 +9449,8 @@
       },
       "s": "Eilat Mazar, Ophel excavations (2009 find, identified 2018); Hebrew University of Jerusalem",
       "u": "https://www.timesofisrael.com/in-find-of-biblical-proportions-proof-of-prophet-isaiah-believed-unearthed/",
-      "review_caveat": "The bulla was recovered via wet-sieving of excavated debris, not found in situ -- its precise findspot relative to the Hezekiah bulla (also wet-sieved) is less exact than 'less than 10 feet away' implies. Epigraphist Haggai Misgav has separately argued that the title 'prophet' is inherently implausible on a bulla used to seal a sack of trade goods, a structural objection to the 'navi' reading independent of the damaged final letter; some assessments have put the odds of this being the biblical Isaiah at well under even."
+      "review_caveat": "The bulla was recovered via wet-sieving of excavated debris, not found in situ -- its precise findspot relative to the Hezekiah bulla (also wet-sieved) is less exact than 'less than 10 feet away' implies. Epigraphist Haggai Misgav has separately argued that the title 'prophet' is inherently implausible on a bulla used to seal a sack of trade goods, a structural objection to the 'navi' reading independent of the damaged final letter; some assessments have put the odds of this being the biblical Isaiah at well under even.",
+      "date_sort": -700
     },
     {
       "layer": "archaeology",
@@ -9444,7 +9467,8 @@
         "es": "Un pequeño tiesto de cerámica inscrito, excavado en Tel Laquis en 2018 y publicado en la revista Antiquity en 2021 (Höflmayer et al.), porta un puñado de letras alfabéticas tempranas y fue hallado en un contexto datado con seguridad por radiocarbono en aproximadamente 1450 a.C. — siglos antes de la mayoría de las inscripciones alfabéticas previamente conocidas del sur del Levante. Esto retrasa la presencia documentada de la escritura alfabética en Canaán y ayuda a cerrar una brecha cronológica ('el eslabón perdido') entre el origen del alfabeto en la región del Sinaí/Egipto y su uso posterior generalizado en el Israel y Judá de la Edad del Hierro, el sistema de escritura en el que se transmitió la propia Biblia hebrea. El hallazgo no afecta directamente a ningún relato bíblico específico, pero corrobora que una tradición de escritura alfabética funcional estaba presente en Canaán siglos antes de la fecha tradicionalmente asignada a la composición de la Torá — debilitando afirmaciones más antiguas de que el antiguo Israel surgió en un entorno funcionalmente analfabeto, incapaz de producir o transmitir textos escritos."
       },
       "s": "Höflmayer et al., Antiquity (2021), Austrian Academy of Sciences excavation",
-      "u": "https://www.cambridge.org/core/journals/antiquity/article/early-alphabetic-writing-in-the-ancient-near-east-the-missing-link-from-tel-lachish/C73F769B7CF3A7E4E2607958A096B7D8"
+      "u": "https://www.cambridge.org/core/journals/antiquity/article/early-alphabetic-writing-in-the-ancient-near-east-the-missing-link-from-tel-lachish/C73F769B7CF3A7E4E2607958A096B7D8",
+      "date_sort": -1450
     },
     {
       "layer": "archaeology",
@@ -9497,7 +9521,8 @@
         "es": "En 2024, la expedición arqueológica ítalo-palestina conjunta (Universidad Sapienza de Roma, dirigida por Lorenzo Nigro) que excava en Tell es-Sultan — la antigua Jericó — publicó un informe preliminar que describe un ostracón inscrito hallado cerca de los restos de un templo de la Edad del Bronce Medio. La inscripción está escrita en un dialecto noroccidental semítico muy similar a la lengua de la Estela de Mesha (moabita), y se data por bases estratigráficas en la Edad del Hierro IIA, aproximadamente 960-840 a.C. A partir de este hallazgo y otros asociados, los excavadores concluyeron que Jericó estuvo probablemente bajo influencia o control político moabita durante parte de este período. Jueces 3:12-30 describe a Eglón, rey de Moab, oprimiendo a Israel durante dieciocho años desde una base cercana a 'la Ciudad de las Palmeras' — un nombre identificado en otra parte de la Torá con Jericó (Deuteronomio 34:3). Aunque el hallazgo del ostracón no data ni confirma de forma independiente el relato específico de Eglón, proporciona un respaldo arqueológico real e independiente a la afirmación más amplia que el texto asume: que Moab ejerció control político sobre la región de Jericó en algún momento de la época general descrita en Jueces — un detalle inusual y fácilmente refutable que un autor tardío habría incluido si no estuviera basado en la historia política real de la región."
       },
       "s": "Nigro & Yasine, 'Interim Report on the Excavations at Tell es-Sultan Ancient Jericho (2019–2023),' Vicino Oriente XXIX (2024)",
-      "u": "https://www.vicino-oriente-journal.it/index.php/vicinooriente/article/view/458"
+      "u": "https://www.vicino-oriente-journal.it/index.php/vicinooriente/article/view/458",
+      "date_sort": -900
     },
     {
       "layer": "history_corrob",
