@@ -6249,29 +6249,6 @@
     {
       "layer": "archaeology",
       "t": {
-        "en": "The Tel Dan Stele",
-        "he": "מצבת תל דן",
-        "fr": "La stèle de Tel Dan",
-        "es": "La estela de Tel Dan"
-      },
-      "e": {
-        "en": "An Aramaic inscription discovered in 1993–94 containing the phrase בֵּית דָּוִד (Beit David — 'House of David') — the first extra-biblical inscription confirming the Davidic dynasty as recognized by contemporaneous enemies (Biran & Naveh, IEJ 43, 1993; 45, 1995). This refuted the Copenhagen School's claim that David was legendary and corroborates the biblical account of the Davidic dynasty's political significance.",
-        "he": "כתובת ארמית שהתגלתה ב-1993-94 המכילה את הביטוי בֵּית דָּוִד — הכתובת החוץ-מקראית הראשונה המאשרת את שושלת דוד כמוכרת על ידי אויבים בני-הזמן (בירן ונווה, IEJ 43, 1993; 45, 1995). הדבר הפריך את טענת אסכולת קופנהגן שדוד היה אגדי ומאשש את התיאור המקראי של המשמעות הפוליטית של שושלת דוד.",
-        "fr": "Une inscription araméenne découverte en 1993-94 contenant la phrase Beit David (« Maison de David ») — la première inscription extra-biblique confirmant la dynastie davidique telle que reconnue par des ennemis contemporains (Biran & Naveh, IEJ 43, 1993 ; 45, 1995). Cela a réfuté l'affirmation de l'École de Copenhague selon laquelle David était légendaire et corrobore le récit biblique de l'importance politique de la dynastie davidique.",
-        "es": "Una inscripción aramea descubierta en 1993-94 que contiene la frase Beit David (\"Casa de David\") — la primera inscripción extrabíblica que confirma la dinastía davídica reconocida por enemigos contemporáneos (Biran y Naveh, IEJ 43, 1993; 45, 1995). Esto refutó la afirmación de la Escuela de Copenhague de que David era legendario y corrobora el relato bíblico de la importancia política de la dinastía davídica."
-      },
-      "s": "Tel Dan inscription – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Tel_Dan_inscription",
-      "date_sort": -840,
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "places": [
-        "dan"
-      ]
-    },
-    {
-      "layer": "archaeology",
-      "t": {
         "en": "The Siloam Inscription",
         "he": "כתובת השילוח",
         "fr": "L'inscription de Siloé",
@@ -6335,7 +6312,8 @@
       "u": "https://en.wikipedia.org/wiki/Cyrus_Cylinder",
       "date_sort": -539,
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "highlight_rank": 9
     },
     {
       "layer": "archaeology",
@@ -6556,26 +6534,6 @@
     {
       "layer": "archaeology",
       "t": {
-        "en": "The Taylor Prism / Sennacherib's Annals",
-        "he": "פריזמת טיילור / אנלי סנחריב",
-        "fr": "Le prisme de Taylor / les annales de Sennachérib",
-        "es": "El prisma de Taylor / los anales de Senaquerib"
-      },
-      "e": {
-        "en": "Multiple cuneiform prism copies record Sennacherib's 701 BCE campaign, naming Hezekiah of Judah, listing 46 Judahite fortified cities captured (consistent with Micah 1's lament), and recording tribute matching 2 Kings 18 with extraordinary specificity. The prism's account of not capturing Jerusalem, while claiming military dominance, aligns with the biblical account's claim of divine deliverance (Isa. 37:36–37), making both accounts simultaneously coherent.",
-        "he": "עותקי פריזמה מרובים בכתב-יתדות מתעדים את מסע 701 לפנה\"ס של סנחריב, נוקבים בשמו של חזקיהו מיהודה, מפרטים 46 ערים יהודיות מבוצרות שנכבשו (עולה בקנה אחד עם קינת מיכה א), ומתעדים מס התואם למלכים ב יח בספציפיות יוצאת דופן. תיאור הפריזמה על אי-כיבוש ירושלים, בעוד שהיא טוענת לשליטה צבאית, תואם את טענת התיאור המקראי להצלה אלוקית (ישעיהו לז:לו-לז), מה שהופך את שני התיאורים לקוהרנטיים בו-זמנית.",
-        "fr": "Plusieurs copies du prisme en cunéiforme rapportent la campagne de 701 av. J.-C. de Sennachérib, nommant Ézéchias de Juda, listant 46 villes fortifiées judahites capturées (cohérent avec la lamentation de Michée 1), et enregistrant un tribut correspondant à 2 Rois 18 avec une spécificité extraordinaire. Le récit du prisme de ne pas avoir capturé Jérusalem, tout en revendiquant la domination militaire, s'aligne avec la revendication du récit biblique de délivrance divine (Ésaïe 37:36-37), rendant les deux récits simultanément cohérents.",
-        "es": "Múltiples copias del prisma en cuneiforme registran la campaña de Senaquerib del 701 a.C., nombrando a Ezequías de Judá, enumerando 46 ciudades fortificadas judaítas capturadas (consistente con el lamento de Miqueas 1), y registrando tributo que coincide con 2 Reyes 18 con extraordinaria especificidad. El relato del prisma de no haber capturado Jerusalén, mientras afirma dominio militar, se alinea con la afirmación del relato bíblico de liberación divina (Isaías 37:36-37), haciendo que ambos relatos sean simultáneamente coherentes."
-      },
-      "s": "Taylor Prism – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Taylor_Prism",
-      "date_sort": -701,
-      "consensus_status": "probabilistic",
-      "source_tier": "primary"
-    },
-    {
-      "layer": "archaeology",
-      "t": {
         "en": "The Nuzi Tablets — Patriarchal Customs Confirmed in Detail",
         "he": "לוחות נוזי — מנהגי האבות מאושרים בפירוט",
         "fr": "Les tablettes de Nuzi — les coutumes patriarcales confirmées en détail",
@@ -6775,49 +6733,6 @@
     {
       "layer": "archaeology",
       "t": {
-        "en": "The Shiloh Context Reassessed",
-        "he": "הקשר שילה בבחינה מחודשת",
-        "fr": "Le contexte de Silo réévalué",
-        "es": "El contexto de Silo reevaluado"
-      },
-      "e": {
-        "en": "Recent excavation reports describing cultic and administrative remains at Shiloh have been used to argue for continuity with the biblical tabernacle tradition.",
-        "he": "דוחות חפירה עדכניים המתארים שרידים טקסיים ומנהליים בשילה שימשו לטעון להמשכיות עם מסורת המשכן המקראית.",
-        "fr": "Des rapports de fouilles récents décrivant des vestiges cultuels et administratifs à Silo ont été utilisés pour argumenter en faveur d'une continuité avec la tradition biblique du Tabernacle.",
-        "es": "Informes de excavación recientes que describen restos cultuales y administrativos en Silo se han usado para argumentar a favor de la continuidad con la tradición bíblica del Tabernáculo."
-      },
-      "s": "Abel, F. -M.; Edward Robinson and the Identification of Biblical Sites; Journal of Biblical Literature; 58; pp. 367-368; DOI: 10.2307/3259708",
-      "u": "https://scholarlypublishingcollective.org/sblpress/jbl/article/58/4/365/196190",
-      "date_sort": -1200,
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "places": [
-        "shiloh"
-      ]
-    },
-    {
-      "layer": "archaeology",
-      "t": {
-        "en": "The Rujm el-Hiri Stone Circles",
-        "he": "מעגלי האבן של רוג'ם אל-הירי",
-        "fr": "Les cercles de pierre de Roujm el-Hiri",
-        "es": "Los círculos de piedra de Rujm el-Hiri"
-      },
-      "e": {
-        "en": "The monumental stone alignment in the Golan has been used as a reminder that the biblical world sat within a broader Bronze Age cultic landscape, even though its function remains debated.",
-        "he": "היישור האבני המונומנטלי ברמת הגולן שימש כתזכורת לכך שהעולם המקראי ישב בתוך נוף טקסי רחב יותר מתקופת הברונזה, אף שתפקידו נותר שנוי במחלוקת.",
-        "fr": "L'alignement de pierres monumental sur le Golan a servi de rappel que le monde biblique s'inscrivait dans un paysage cultuel plus large de l'âge du Bronze, même si sa fonction reste débattue.",
-        "es": "El alineamiento monumental de piedras en el Golán ha servido como recordatorio de que el mundo bíblico se situaba dentro de un paisaje cultual más amplio de la Edad del Bronce, aunque su función sigue siendo objeto de debate."
-      },
-      "s": "Murphy-O'Connor, Jerome; The Holy Land: An Oxford archaeological guide from earliest times to 1700; Oxford University Press",
-      "u": "https://books.google.com/books?id=m3Yy9FDcT8gC&pg=PT531",
-      "date_sort": -3000,
-      "consensus_status": "probabilistic",
-      "source_tier": "primary"
-    },
-    {
-      "layer": "archaeology",
-      "t": {
         "en": "The Mount Sinai Inscriptions at Serabit el-Khadim",
         "he": "כתובות הר סיני בסראביט אל-חאדם",
         "fr": "Les inscriptions du mont Sinaï à Serabit el-Khadim",
@@ -6837,26 +6752,6 @@
       "places": [
         "sinai"
       ]
-    },
-    {
-      "layer": "archaeology",
-      "t": {
-        "en": "The Ipuwer Papyrus and the Shemos Debate",
-        "he": "פפירוס איפוור והוויכוח על יציאת מצרים",
-        "fr": "Le papyrus Ipuwer et le débat sur l'Exode",
-        "es": "El papiro Ipuwer y el debate sobre el Éxodo"
-      },
-      "e": {
-        "en": "The papyrus is often invoked in Shemos discussions because of its plague-like imagery, though the parallel remains indirect and contested.",
-        "he": "הפפירוס מוזכר לעיתים קרובות בדיונים על יציאת מצרים בשל דימוייו דמויי-המכות, אף שהמקבילה נותרת עקיפה ושנויה במחלוקת.",
-        "fr": "Le papyrus est souvent invoqué dans les discussions sur l'Exode en raison de son imagerie évoquant des plaies, bien que le parallèle demeure indirect et contesté.",
-        "es": "El papiro se invoca a menudo en discusiones sobre el Éxodo debido a su imaginería similar a las plagas, aunque el paralelo sigue siendo indirecto y disputado."
-      },
-      "s": "Gardiner, Alan; Egypt of the Pharaohs: an introduction; University Press",
-      "u": "https://books.google.com/books?id=lzhBbsElbKAC&q=admonitions",
-      "date_sort": -1250,
-      "consensus_status": "probabilistic",
-      "source_tier": "primary"
     },
     {
       "layer": "archaeology",
@@ -6901,26 +6796,6 @@
     {
       "layer": "archaeology",
       "t": {
-        "en": "The 'Price of a Slave' and Economic Fossilization",
-        "he": "'מחיר העבד' והתאבנות כלכלית",
-        "fr": "Le « prix d'un esclave » et la fossilisation économique",
-        "es": "El 'precio de un esclavo' y la fosilización económica"
-      },
-      "e": {
-        "en": "In Bereishis 37, Joseph is sold for 20 shekels, and Shemos 21:32 sets the penalty for a gored slave at 30 shekels. Cuneiform records show that slave prices in the ancient Near East fluctuated precisely over centuries: 10–20 shekels in the early second millennium BCE (Patriarchal era), exactly 20 shekels in the Late Bronze/Early Iron Age (Moses/Joseph era), but rising to 50–60 shekels in the Neo-Assyrian period and 90–120 shekels by the Persian period. If the Torah were invented or edited in the 7th or 5th century BCE, the authors would have used contemporary prices; the preservation of the 20-shekel economy is a massive 'fossilized' fingerprint of Middle Kingdom/Late Bronze antiquity.",
-        "he": "בבראשית לז, יוסף נמכר ב-20 שקל, ושמות כא:לב קובע את הקנס עבור עבד שנגח בשור ב-30 שקל. תיעוד כתב-יתדות מראה שמחירי עבדים במזרח הקדום השתנו במדויק על פני מאות שנים: 10-20 שקל בתחילת האלף השני לפנה\"ס (תקופת האבות), בדיוק 20 שקל בתקופת הברונזה המאוחרת/ברזל המוקדם (תקופת משה/יוסף), אך עלו ל-50-60 שקל בתקופה הנאו-אשורית ו-90-120 שקל בתקופה הפרסית. אילו התורה הומצאה או נערכה במאה ה-7 או ה-5 לפנה\"ס, המחברים היו משתמשים במחירים בני-זמנם; שימור כלכלת ה-20-שקל הוא טביעת אצבע 'מאובנת' עצומה של עתיקות מהממלכה התיכונה/הברונזה המאוחרת.",
-        "fr": "Dans Genèse 37, Joseph est vendu pour 20 sicles, et Exode 21:32 fixe l'amende pour un esclave encorné à 30 sicles. Les registres cunéiformes montrent que les prix des esclaves au Proche-Orient ancien fluctuaient précisément à travers les siècles : 10-20 sicles au début du deuxième millénaire av. J.-C. (ère patriarcale), exactement 20 sicles à l'âge du Bronze récent/début de l'âge du Fer (ère de Moïse/Joseph), mais montant à 50-60 sicles à la période néo-assyrienne et 90-120 sicles à la période perse. Si la Torah avait été inventée ou éditée au VIIe ou Ve siècle av. J.-C., les auteurs auraient utilisé les prix contemporains ; la préservation de l'économie des 20 sicles est une empreinte « fossilisée » massive de l'ancienneté du Moyen Empire/âge du Bronze récent.",
-        "es": "En Génesis 37, José es vendido por 20 siclos, y Éxodo 21:32 establece la multa por un esclavo corneado en 30 siclos. Los registros cuneiformes muestran que los precios de esclavos en el antiguo Cercano Oriente fluctuaron precisamente a través de los siglos: 10-20 siclos a principios del segundo milenio a.C. (era patriarcal), exactamente 20 siclos en la Edad del Bronce Tardío/inicios de la Edad del Hierro (era de Moisés/José), pero subiendo a 50-60 siclos en el período neoasirio y 90-120 siclos para el período persa. Si la Torá hubiera sido inventada o editada en el siglo VII o V a.C., los autores habrían usado precios contemporáneos; la preservación de la economía de 20 siclos es una huella \"fosilizada\" masiva de la antigüedad del Reino Medio/Bronce Tardío."
-      },
-      "s": "Slavery in ancient Israel – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Slavery_in_ancient_Israel",
-      "date_sort": -1400,
-      "consensus_status": "probabilistic",
-      "source_tier": "popular"
-    },
-    {
-      "layer": "archaeology",
-      "t": {
         "en": "The 'Bitter Waters' Remedy and Egyptian Wilderness Knowledge",
         "he": "התרופה ל'מים המרים' וידע המדבר המצרי",
         "fr": "Le remède des « eaux amères » et la connaissance égyptienne du désert",
@@ -6935,26 +6810,6 @@
       "s": "Hoffmeier, James K.; Ancient Israel in Sinai: The Evidence for the Authenticity of the Wilderness Traditions; 2005; Oxford University Press",
       "u": "https://books.google.com/books?id=EVcSDAAAQBAJ&pg=PA162",
       "date_sort": -1550,
-      "consensus_status": "probabilistic",
-      "source_tier": "primary"
-    },
-    {
-      "layer": "archaeology",
-      "t": {
-        "en": "The Berlin Pedestal Relief 21687",
-        "he": "תבליט הכן הברליני 21687",
-        "fr": "Le relief du piédestal de Berlin 21687",
-        "es": "El relieve del pedestal de Berlín 21687"
-      },
-      "e": {
-        "en": "An Egyptian granite pedestal relief in the Berlin Museum contains a damaged West Asiatic name ring that Egyptologists reconstruct as an archaic hieroglyphic rendering of 'Israel.' Dated stylistically to the 18th Dynasty (c. 1400 BCE), this artifact potentially pushes back the earliest extra-biblical mention of Israel by over a century prior to the Merneptah Stele, providing physical evidence of an Israelite presence in or near Canaan closer to the traditional biblical timeline.",
-        "he": "תבליט כן גרניט מצרי במוזיאון ברלין מכיל טבעת שם אסייתית-מערבית פגומה שמצרולוגים משחזרים כהגייה הירוגליפית ארכאית של \"ישראל\". מתוארך סגנונית לשושלת ה-18 (כ-1400 לפנה\"ס), חפץ זה עשוי לדחוף לאחור את האזכור החוץ-מקראי המוקדם ביותר לישראל למעלה ממאה שנה לפני מצבת מרנפתח, ומספק ראיה פיזית לנוכחות ישראלית בכנען או בקרבתה קרוב יותר לציר הזמן המקראי המסורתי.",
-        "fr": "Un relief de piédestal en granit égyptien au Musée de Berlin contient un anneau de nom ouest-asiatique endommagé que les égyptologues reconstituent comme un rendu hiéroglyphique archaïque d'« Israël ». Daté stylistiquement de la XVIIIe dynastie (v. 1400 av. J.-C.), cet artefact recule potentiellement de plus d'un siècle la mention extra-biblique la plus ancienne d'Israël avant la stèle de Merenptah, fournissant une preuve physique d'une présence israélite en Canaan ou à proximité, plus proche de la chronologie biblique traditionnelle.",
-        "es": "Un relieve de pedestal de granito egipcio en el Museo de Berlín contiene un anillo de nombre asiático occidental dañado que los egiptólogos reconstruyen como una representación jeroglífica arcaica de \"Israel\". Fechado estilísticamente en la Dinastía XVIII (c. 1400 a.C.), este artefacto potencialmente retrotrae la mención extrabíblica más antigua de Israel más de un siglo antes de la Estela de Merenptah, proporcionando evidencia física de una presencia israelita en o cerca de Canaán más cercana a la cronología bíblica tradicional."
-      },
-      "s": "Michael G. Hasel; Egypt, Canaan and Israel: History, Imperialism, Ideology and Literature: Proceedings of a Conference at the University of Haifa, 3–7 May 2009; 2011; Brill; DOI: 10.1163/ej.9789004194939.i-370.27",
-      "u": "https://doi.org/10.1163/ej.9789004194939.i-370.27",
-      "date_sort": -1400,
       "consensus_status": "probabilistic",
       "source_tier": "primary"
     },
@@ -7047,27 +6902,6 @@
     {
       "layer": "archaeology",
       "t": {
-        "en": "Tall el-Hammam \"Airburst\" Destruction Layer",
-        "he": "שכבת ההרס 'משבר האוויר' בתל אל-חמאם",
-        "fr": "La couche de destruction par « explosion aérienne » de Tall el-Hammam",
-        "es": "La capa de destrucción por 'explosión aérea' de Tall el-Hammam"
-      },
-      "e": {
-        "en": "Excavations at Tall el-Hammam (located in the biblical \"Kikkar of the Jordan\") reveal a massive, sudden destruction layer dated to the Middle Bronze Age (approx. 1900–1700 BCE, aligning with the Patriarchal era in traditional chronology). The site exhibits extreme heat signatures—pottery vitrified into glass, mudbrick melted, and human bones showing microscopic diamond-like structures—consistent with a cosmic airburst event (similar to Tunguska), rather than standard warfare or fire. This provides striking physical corroboration for the Bereishis 19 description of a \"fiery\" destruction of Sodom that was \"like smoke from a furnace,\" located precisely in the geographical area specified by the text, suggesting the narrative preserves a real, anomalous catastrophic memory rather than a purely mythical invention.",
-        "he": "חפירות בתל אל-חמאם (הממוקם ב\"כיכר הירדן\" המקראית) מגלות שכבת הרס עצומה ופתאומית המתוארכת לתקופת הברונזה התיכונה (כ-1900-1700 לפנה\"ס, המתאמת עם תקופת האבות בכרונולוגיה המסורתית). האתר מציג חתימות חום קיצוני — קדרות שהתגבשה לזכוכית, לבני בוץ שהותכו, ועצמות אדם המראות מבנים מיקרוסקופיים דמויי-יהלום — עולים בקנה אחד עם אירוע משבר-אוויר קוסמי (בדומה לטונגוסקה), ולא לוחמה או שריפה סטנדרטית. הדבר מספק אישוש פיזי מרשים לתיאור בראשית יט של הרס \"אשי\" סדום שהיה \"כעשן הכבשן\", הממוקם בדיוק באזור הגיאוגרפי שהטקסט מציין, ומרמז שהנרטיב משמר זיכרון קטסטרופלי חריג ואמיתי ולא המצאה מיתולוגית טהורה.",
-        "fr": "Les fouilles à Tall el-Hammam (situé dans la « Kikkar du Jourdain » biblique) révèlent une couche de destruction massive et soudaine datée de l'âge du Bronze moyen (environ 1900-1700 av. J.-C., alignée avec l'ère patriarcale dans la chronologie traditionnelle). Le site présente des signatures thermiques extrêmes — poterie vitrifiée en verre, briques de boue fondues, et os humains montrant des structures microscopiques semblables à des diamants — cohérentes avec un événement d'explosion aérienne cosmique (similaire à Toungouska), plutôt qu'une guerre ou un incendie standard. Cela fournit une corroboration physique frappante pour la description de Genèse 19 d'une destruction « ardente » de Sodome qui était « comme la fumée d'une fournaise », située précisément dans la zone géographique spécifiée par le texte, suggérant que le récit préserve une mémoire catastrophique réelle et anormale plutôt qu'une invention purement mythique.",
-        "es": "Las excavaciones en Tall el-Hammam (ubicado en la \"Kikar del Jordán\" bíblica) revelan una capa de destrucción masiva y repentina fechada en la Edad del Bronce Medio (aproximadamente 1900-1700 a.C., alineándose con la era patriarcal en la cronología tradicional). El sitio exhibe firmas de calor extremo — cerámica vitrificada en vidrio, adobe fundido, y huesos humanos mostrando estructuras microscópicas similares a diamantes — consistentes con un evento de explosión aérea cósmica (similar a Tunguska), en lugar de guerra o fuego estándar. Esto proporciona una sorprendente corroboración física para la descripción de Génesis 19 de una destrucción \"ardiente\" de Sodoma que fue \"como el humo de un horno\", ubicada precisamente en el área geográfica especificada por el texto, sugiriendo que la narrativa preserva una memoria catastrófica real y anómala en lugar de una invención puramente mítica."
-      },
-      "s": "https://en.wikipedia.org/wiki/Tall_el-Hammam",
-      "u": "https://en.wikipedia.org/wiki/Tall_el-Hammam",
-      "date_sort": -1800,
-      "review_caveat": "The underlying 2021 Scientific Reports paper claiming a Tunguska-scale cosmic airburst destroyed Tall el-Hammam was formally retracted by the journal in April 2025, after published critiques from geologists (disputing the mineralogical/geochemical evidence) and physicists (showing the Tunguska comparison was misapplied). The site's identification as Sodom itself is also a minority position (championed by excavation director Steven Collins), not mainstream consensus. This entry's central physical claim should not be treated as scientifically established.",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular"
-    },
-    {
-      "layer": "archaeology",
-      "t": {
         "en": "Ugaritic Texts and Israelite Theological Distinctiveness",
         "he": "טקסטים אוגריתיים וייחודיות תיאולוגית ישראלית",
         "fr": "Les textes ougaritiques et la spécificité théologique israélite",
@@ -7084,29 +6918,6 @@
       "date_sort": -1350,
       "consensus_status": "probabilistic",
       "source_tier": "primary"
-    },
-    {
-      "layer": "archaeology",
-      "t": {
-        "en": "Absence of Pig Remains at Khirbet Qeiyafa",
-        "he": "היעדר שרידי חזיר בחירבת קיאפה",
-        "fr": "L'absence de restes de porc à Khirbet Qeiyafa",
-        "es": "La ausencia de restos de cerdo en Khirbet Qeiyafa"
-      },
-      "e": {
-        "en": "Faunal analysis at Khirbet Qeiyafa, a 10th-century BCE fortified Judahite city, reveals an almost complete absence of pig bones. This contrasts sharply with contemporary Philistine and Canaanite sites (such as Gath or Ekron) where pig remains are abundant. This demonstrates that the dietary distinctiveness commanded in Vayikra 11 and Devarim 14 was not a late, post-exilic literary fiction, but a practiced, archaeologically visible ethnic boundary marker already in the early Iron Age, matching the Torah's timeline for the emergence of Israel in Canaan.",
-        "he": "ניתוח פאונה בחירבת קיאפה, עיר יהודית מבוצרת מהמאה ה-10 לפנה\"ס, מגלה היעדר כמעט מוחלט של עצמות חזיר. הדבר מנוגד בחדות לאתרים פלישתיים וכנעניים בני-זמן (כמו גת או עקרון) שבהם שרידי חזיר שופעים. הדבר מדגים שהייחודיות התזונתית המצווה בויקרא יא ובדברים יד לא הייתה בדיה ספרותית מאוחרת ופוסט-גלותית, אלא סמן גבול אתני מעשי וניתן לזיהוי ארכיאולוגית כבר בתקופת הברזל המוקדמת, התואם את ציר הזמן של התורה להתהוות ישראל בכנען.",
-        "fr": "L'analyse faunique à Khirbet Qeiyafa, une ville judahite fortifiée du Xe siècle av. J.-C., révèle une absence presque complète d'os de porc. Cela contraste fortement avec les sites philistins et cananéens contemporains (tels que Gath ou Ekron) où les restes de porc abondent. Cela démontre que la distinction alimentaire ordonnée dans Lévitique 11 et Deutéronome 14 n'était pas une fiction littéraire tardive et post-exilique, mais un marqueur de frontière ethnique pratiqué et archéologiquement visible déjà au début de l'âge du Fer, correspondant à la chronologie de la Torah pour l'émergence d'Israël en Canaan.",
-        "es": "El análisis faunístico en Khirbet Qeiyafa, una ciudad judaíta fortificada del siglo X a.C., revela una ausencia casi completa de huesos de cerdo. Esto contrasta marcadamente con sitios filisteos y cananeos contemporáneos (como Gat o Ecrón) donde los restos de cerdo son abundantes. Esto demuestra que la distinción dietética ordenada en Levítico 11 y Deuteronomio 14 no era una ficción literaria tardía y postexílica, sino un marcador de límite étnico practicado y arqueológicamente visible ya en la Edad del Hierro temprana, coincidiendo con la línea temporal de la Torá para el surgimiento de Israel en Canaán."
-      },
-      "s": "https://en.wikipedia.org/wiki/Khirbet_Qeiyafa",
-      "u": "https://en.wikipedia.org/wiki/Khirbet_Qeiyafa",
-      "date_sort": -1000,
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "places": [
-        "khirbet-qeiyafa"
-      ]
     },
     {
       "layer": "archaeology",
@@ -7214,29 +7025,6 @@
     {
       "layer": "archaeology",
       "t": {
-        "en": "Hittite Property Law in the Machpelah Purchase",
-        "he": "דיני הקניין החתיים ברכישת המכפלה",
-        "fr": "Le droit de propriété hittite dans l'achat de Makhpéla",
-        "es": "El derecho de propiedad hitita en la compra de Majpelá"
-      },
-      "e": {
-        "en": "In Bereishis 23, Abraham purchases the Cave of Machpelah from Ephron the Hittite. The negotiations follow a highly specific, peculiar sequence: Abraham asks for the cave, Ephron offers to give it to him for free, Abraham insists on paying the full price, and Ephron then states the price as 400 shekels of silver, \"which is agreed between you and me.\" This exact legal choreography—offering a \"gift\" to avoid taxes, the counter-insistence on a formal sale, and the witnessing formula—perfectly mirrors Hittite property law discovered at Hattusa. The Hittite empire was entirely unknown to history until 1906; a post-exilic Jewish forger could not have fabricated this precise legal protocol.",
-        "he": "בבראשית כג, אברהם רוכש את מערת המכפלה מעפרון החתי. המשא ומתן עוקב אחר רצף ספציפי ומיוחד ביותר: אברהם מבקש את המערה, עפרון מציע לתת לו אותה בחינם, אברהם מתעקש לשלם את המחיר המלא, ואז עפרון קובע את המחיר כ-400 שקל כסף \"אשר ביני ובינך\". כוריאוגרפיה משפטית מדויקת זו — הצעת \"מתנה\" כדי להימנע ממס, ההתעקשות הנגדית על מכירה פורמלית, ונוסחת העדות — משקפת בדיוק את דיני הקניין החתיים שהתגלו בחתושה. האימפריה החתית הייתה בלתי ידועה לחלוטין להיסטוריה עד 1906; זייפן יהודי פוסט-גלותי לא היה יכול לזייף פרוטוקול משפטי מדויק זה.",
-        "fr": "Dans Genèse 23, Abraham achète la grotte de Makhpéla à Éphron le Hittite. Les négociations suivent une séquence hautement spécifique et particulière : Abraham demande la grotte, Éphron propose de la lui donner gratuitement, Abraham insiste pour payer le prix complet, et Éphron énonce alors le prix à 400 sicles d'argent, « qui sont convenus entre toi et moi ». Cette chorégraphie juridique exacte — offrir un « cadeau » pour éviter les taxes, la contre-insistance sur une vente formelle, et la formule de témoignage — reflète parfaitement le droit de propriété hittite découvert à Hattusa. L'empire hittite était totalement inconnu de l'histoire jusqu'en 1906 ; un faussaire juif post-exilique n'aurait pu fabriquer ce protocole juridique précis.",
-        "es": "En Génesis 23, Abraham compra la Cueva de Majpelá a Efrón el hitita. Las negociaciones siguen una secuencia altamente específica y peculiar: Abraham pide la cueva, Efrón se ofrece a dársela gratis, Abraham insiste en pagar el precio completo, y Efrón entonces declara el precio como 400 siclos de plata, \"lo cual es convenido entre tú y yo\". Esta coreografía legal exacta — ofrecer un \"regalo\" para evitar impuestos, la contrainsistencia en una venta formal, y la fórmula de testimonio — refleja perfectamente el derecho de propiedad hitita descubierto en Hattusa. El imperio hitita era totalmente desconocido para la historia hasta 1906; un falsificador judío postexílico no podría haber fabricado este preciso protocolo legal."
-      },
-      "s": "https://en.wikipedia.org/wiki/Cave_of_the_Patriarchs",
-      "u": "https://en.wikipedia.org/wiki/Cave_of_the_Patriarchs",
-      "date_sort": -1400,
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "places": [
-        "hebron"
-      ]
-    },
-    {
-      "layer": "archaeology",
-      "t": {
         "en": "The Ophel Bulla of King Hezekiah",
         "he": "בולת העופל של המלך חזקיהו",
         "fr": "La boulle de l'Ophel du roi Ézéchias",
@@ -7261,49 +7049,6 @@
     {
       "layer": "archaeology",
       "t": {
-        "en": "The Destruction Layer at Tel Shiloh",
-        "he": "שכבת ההרס בתל שילה",
-        "fr": "La couche de destruction à Tel Silo",
-        "es": "La capa de destrucción en Tel Silo"
-      },
-      "e": {
-        "en": "Jeremiah 7:12-14 quotes an older tradition warning that G-d will destroy the Tabernacle at Shiloh just as He destroyed the sanctuary at Silo if Israel does not repent. 1 Samuel 4 records the Philistine capture of the Ark and the death of Eli's sons at Shiloh. Excavations at Tel Shiloh (Danish expeditions, 1920s-1930s; Israeli expeditions, 1980s) reveal a massive, violent destruction layer precisely dated to the mid-11th century BCE (the time of Eli and Samuel), after which the site was largely abandoned. This physical destruction layer validates the biblical narrative of a catastrophic divine judgment at Israel's first religious capital.",
-        "he": "ירמיהו ז:יב-יד מצטט מסורת ישנה יותר המזהירה שהאל יהרוס את המשכן בשילה כפי שהרס את המקדש בסילו אם ישראל לא ישוב בתשובה. שמואל א ד מתעד את לכידת הארון בידי הפלישתים ומות בני עלי בשילה. חפירות בתל שילה (משלחות דניות, שנות ה-20-30; משלחות ישראליות, שנות ה-80) מגלות שכבת הרס עצומה ואלימה המתוארכת בדיוק לאמצע המאה ה-11 לפנה\"ס (תקופת עלי ושמואל), שלאחריה ננטש האתר ברובו. שכבת הרס פיזית זו מאמתת את הנרטיב המקראי של דין אלוקי קטסטרופלי בבירה הדתית הראשונה של ישראל.",
-        "fr": "Jérémie 7:12-14 cite une tradition plus ancienne avertissant que Dieu détruira le Tabernacle à Silo tout comme Il a détruit le sanctuaire à Silo si Israël ne se repent pas. 1 Samuel 4 rapporte la capture de l'Arche par les Philistins et la mort des fils d'Éli à Silo. Les fouilles à Tel Silo (expéditions danoises, années 1920-1930 ; expéditions israéliennes, années 1980) révèlent une couche de destruction massive et violente datée précisément du milieu du XIe siècle av. J.-C. (l'époque d'Éli et de Samuel), après quoi le site fut largement abandonné. Cette couche de destruction physique valide le récit biblique d'un jugement divin catastrophique dans la première capitale religieuse d'Israël.",
-        "es": "Jeremías 7:12-14 cita una tradición más antigua que advierte que Dios destruirá el Tabernáculo en Silo tal como destruyó el santuario en Silo si Israel no se arrepiente. 1 Samuel 4 registra la captura del Arca por los filisteos y la muerte de los hijos de Elí en Silo. Excavaciones en Tel Silo (expediciones danesas, años 1920-1930; expediciones israelíes, años 1980) revelan una capa de destrucción masiva y violenta fechada precisamente a mediados del siglo XI a.C. (la época de Elí y Samuel), tras lo cual el sitio fue en gran parte abandonado. Esta capa de destrucción física valida la narrativa bíblica de un juicio divino catastrófico en la primera capital religiosa de Israel."
-      },
-      "s": "Abel, F. -M.; Edward Robinson and the Identification of Biblical Sites; Journal of Biblical Literature; 58; pp. 367-368; DOI: 10.2307/3259708",
-      "u": "https://scholarlypublishingcollective.org/sblpress/jbl/article/58/4/365/196190",
-      "date_sort": -1050,
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "places": [
-        "shiloh"
-      ]
-    },
-    {
-      "layer": "archaeology",
-      "t": {
-        "en": "The Chemistry of Iron Gall Ink (Dyo)",
-        "he": "הכימיה של דיו עפצים-ברזל (דיו)",
-        "fr": "La chimie de l'encre ferrogallique (Dyo)",
-        "es": "La química de la tinta ferrogálica (Dyo)"
-      },
-      "e": {
-        "en": "Traditional Torah scribes use a specific recipe for ink known as *Dyo*—made from gall nuts, gum arabic, and copper sulfate (vitriol). Unlike standard ancient carbon ink, which sits on the surface of parchment and can be washed or scraped off, iron gall ink chemically binds with the collagen in the animal skin. As the parchment ages, the ink actually darkens and bonds more tightly to the fiber, making it virtually indestructible. The selection of this specific, highly stable chemical formula for Torah writing ensures the text becomes physically more permanent over time.",
-        "he": "סופרי תורה מסורתיים משתמשים במתכון ספציפי לדיו הידוע כ*דיו* — עשוי מעפצי עצים, גומי ערבי וגופרת נחושת (וויטריול). בשונה מדיו פחמן עתיק סטנדרטי, השוכן על פני הקלף וניתן לשטיפה או גירוד, דיו עפצים-ברזל נקשר כימית עם הקולגן בעור בעל החיים. ככל שהקלף מזדקן, הדיו למעשה מתכהה ונקשר בחוזקה רבה יותר לסיב, ומה שהופך אותו לבלתי ניתן להשמדה למעשה. בחירת נוסחה כימית ספציפית ויציבה ביותר זו לכתיבת התורה מבטיחה שהטקסט הופך פיזית לקבוע יותר עם הזמן.",
-        "fr": "Les scribes traditionnels de la Torah utilisent une recette spécifique pour l'encre connue sous le nom de *Dyo* — faite de noix de galle, de gomme arabique et de sulfate de cuivre (vitriol). Contrairement à l'encre de carbone ancienne standard, qui repose à la surface du parchemin et peut être lavée ou grattée, l'encre ferrogallique se lie chimiquement au collagène de la peau animale. À mesure que le parchemin vieillit, l'encre s'assombrit en fait et se lie plus étroitement à la fibre, la rendant pratiquement indestructible. Le choix de cette formule chimique spécifique et hautement stable pour l'écriture de la Torah garantit que le texte devienne physiquement plus permanent avec le temps.",
-        "es": "Los escribas tradicionales de la Torá usan una receta específica de tinta conocida como *Dyo* — hecha de nueces de agalla, goma arábiga y sulfato de cobre (vitriolo). A diferencia de la tinta de carbono antigua estándar, que se asienta sobre la superficie del pergamino y puede lavarse o rasparse, la tinta ferrogálica se une químicamente con el colágeno de la piel animal. A medida que el pergamino envejece, la tinta en realidad se oscurece y se une más fuertemente a la fibra, haciéndola virtualmente indestructible. La selección de esta fórmula química específica y altamente estable para la escritura de la Torá asegura que el texto se vuelva físicamente más permanente con el tiempo."
-      },
-      "s": "https://en.wikipedia.org/wiki/Iron_gall_ink",
-      "u": "https://en.wikipedia.org/wiki/Iron_gall_ink",
-      "date_sort": -200,
-      "consensus_status": "probabilistic",
-      "source_tier": "popular"
-    },
-    {
-      "layer": "archaeology",
-      "t": {
         "en": "\"Abraham's Gate\" at Tel Dan (Middle Bronze Age)",
         "he": "'שער אברהם' בתל דן (תקופת הברונזה התיכונה)",
         "fr": "La « Porte d'Abraham » à Tel Dan (âge du Bronze moyen)",
@@ -7322,71 +7067,6 @@
       "source_tier": "popular",
       "places": [
         "dan"
-      ]
-    },
-    {
-      "layer": "archaeology",
-      "t": {
-        "en": "The Independent Attestation of \"Beit David\" (House of David)",
-        "he": "האישוש הבלתי תלוי של 'בית דוד'",
-        "fr": "L'attestation indépendante de « Beit David » (Maison de David)",
-        "es": "La atestación independiente de 'Beit David' (Casa de David)"
-      },
-      "e": {
-        "en": "The Mesha Stele and the Tel Dan Stele both utilize a highly specific, archaic formula for mentioning the Davidic dynasty: \"House of David\" (Beit David). Prior to these discoveries, critics argued David was a totally mythical figure like King Arthur. The fact that two entirely different enemy nations (Moab and Aram), writing in different centuries and locations, both independently use the exact same, specific dynastic terminology proves that \"David\" was a universally recognized, historical founder of the Judean state, not a late fictional invention of Israelite priests.",
-        "he": "גם מצבת מישע וגם מצבת תל דן משתמשות בנוסחה ספציפית וארכאית ביותר להזכרת שושלת דוד: \"בית דוד\". לפני גילויים אלה, מבקרים טענו שדוד היה דמות אגדית לחלוטין כמו המלך ארתור. העובדה ששתי אומות אויב שונות לחלוטין (מואב וארם), הכותבות במאות ובמיקומים שונים, שתיהן משתמשות באופן בלתי תלוי באותה טרמינולוגיה שושלתית ספציפית מוכיחה ש\"דוד\" היה מייסד היסטורי מוכר אוניברסלית של מדינת יהודה, ולא המצאה בדיונית מאוחרת של כהנים ישראליים.",
-        "fr": "La stèle de Mesha et la stèle de Tel Dan utilisent toutes deux une formule hautement spécifique et archaïque pour mentionner la dynastie davidique : « Maison de David » (Beit David). Avant ces découvertes, les critiques soutenaient que David était une figure totalement mythique comme le roi Arthur. Le fait que deux nations ennemies entièrement différentes (Moab et Aram), écrivant à des siècles et lieux différents, utilisent toutes deux indépendamment exactement la même terminologie dynastique spécifique prouve que « David » était un fondateur historique universellement reconnu de l'État judéen, non une invention fictive tardive des prêtres israélites.",
-        "es": "Tanto la Estela de Mesa como la Estela de Tel Dan utilizan una fórmula altamente específica y arcaica para mencionar la dinastía davídica: \"Casa de David\" (Beit David). Antes de estos descubrimientos, los críticos argumentaban que David era una figura totalmente mítica como el Rey Arturo. El hecho de que dos naciones enemigas completamente diferentes (Moab y Aram), escribiendo en siglos y ubicaciones diferentes, ambas usen independientemente exactamente la misma terminología dinástica específica prueba que \"David\" era un fundador histórico universalmente reconocido del estado judaíta, no una invención ficticia tardía de sacerdotes israelitas."
-      },
-      "s": "https://en.wikipedia.org/wiki/House_of_David",
-      "u": "https://en.wikipedia.org/wiki/House_of_David",
-      "date_sort": -840,
-      "consensus_status": "probabilistic",
-      "source_tier": "popular"
-    },
-    {
-      "layer": "archaeology",
-      "t": {
-        "en": "The Cyrus Cylinder Policy vs. Standard Assyrian Deportation",
-        "he": "מדיניות גליל כורש לעומת הגליה אשורית סטנדרטית",
-        "fr": "La politique du cylindre de Cyrus face à la déportation assyrienne standard",
-        "es": "La política del cilindro de Ciro frente a la deportación asiria estándar"
-      },
-      "e": {
-        "en": "In the ancient Near East, if a king conquered a city, he would typically enslave the entire surviving population and deport them to his own capital to build monuments (as Assyria did to the Northern Kingdom). When the Persian King Cyrus conquered Babylon, his policy was to allow subjugated peoples to return to their homelands and rebuild their local temples. Ezra 1 perfectly documents this exact, highly unusual policy. The fact that the biblical text aligns flawlessly with a very specific, non-standard imperial policy of a specific Persian king validates the text's contemporary accuracy.",
-        "he": "במזרח הקדום, אם מלך כבש עיר, הוא בדרך כלל היה משעבד את כל האוכלוסייה השורדת ומגלה אותה לבירתו שלו לבניית אנדרטאות (כפי שעשתה אשור לממלכה הצפונית). כשהמלך הפרסי כורש כבש את בבל, מדיניותו הייתה לאפשר לעמים משועבדים לשוב למולדתם ולבנות מחדש את מקדשיהם המקומיים. עזרא א מתעד באופן מושלם מדיניות מדויקת וחריגה זו. העובדה שהטקסט המקראי מתיישר בצורה מושלמת עם מדיניות אימפריאלית ספציפית ולא-סטנדרטית מאוד של מלך פרסי מסוים מאמתת את הדיוק בן-הזמן של הטקסט.",
-        "fr": "Au Proche-Orient ancien, si un roi conquérait une ville, il réduisait typiquement en esclavage toute la population survivante et la déportait vers sa propre capitale pour construire des monuments (comme l'Assyrie l'a fait au Royaume du Nord). Lorsque le roi perse Cyrus conquit Babylone, sa politique était de permettre aux peuples subjugués de retourner dans leurs patries et de reconstruire leurs temples locaux. Esdras 1 documente parfaitement cette politique exacte et hautement inhabituelle. Le fait que le texte biblique s'aligne parfaitement avec une politique impériale très spécifique et non standard d'un roi perse particulier valide l'exactitude contemporaine du texte.",
-        "es": "En el antiguo Cercano Oriente, si un rey conquistaba una ciudad, típicamente esclavizaba a toda la población superviviente y la deportaba a su propia capital para construir monumentos (como hizo Asiria con el Reino del Norte). Cuando el rey persa Ciro conquistó Babilonia, su política fue permitir que los pueblos subyugados regresaran a sus tierras natales y reconstruyeran sus templos locales. Esdras 1 documenta perfectamente esta política exacta y muy inusual. El hecho de que el texto bíblico se alinee perfectamente con una política imperial muy específica y no estándar de un rey persa particular valida la precisión contemporánea del texto."
-      },
-      "s": "https://en.wikipedia.org/wiki/Cyrus_Cylinder",
-      "u": "https://en.wikipedia.org/wiki/Cyrus_Cylinder",
-      "date_sort": -539,
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "highlight_rank": 9
-    },
-    {
-      "layer": "archaeology",
-      "t": {
-        "en": "Shiloh's Monumental Structure, Season 8",
-        "he": "המבנה המונומנטלי בשילה, עונה 8",
-        "fr": "La structure monumentale de Shilo, saison 8",
-        "es": "La estructura monumental de Silo, temporada 8"
-      },
-      "e": {
-        "en": "ABR's ongoing excavation at Shiloh located the southern wall of a monumental building whose dimensions echo Tabernacle proportions; the area has yielded altar horns, ceramic pomegranates, and murex shells (source of priestly blue dye), matching the site identified as the Tabernacle's home for 300+ years (Josh 18:1).",
-        "he": "החפירה המתמשכת של ABR בשילה איתרה את הקיר הדרומי של מבנה מונומנטלי שמידותיו מהדהדות מידות המשכן; השטח הניב קרנות מזבח, רימוני חרס וקונכיות מורקס (מקור הצבע הכחול הכוהני), בהתאמה לאתר המזוהה כמשכן במשך למעלה מ-300 שנה (יהושע יח:א).",
-        "fr": "La fouille en cours d'ABR à Shilo a localisé le mur sud d'un bâtiment monumental dont les dimensions font écho aux proportions du Tabernacle; le secteur a livré des cornes d'autel, des grenades en céramique et des coquilles de murex (source du colorant bleu sacerdotal), correspondant au site identifié comme demeure du Tabernacle pendant plus de 300 ans (Jos 18:1).",
-        "es": "La excavación en curso de ABR en Silo localizó el muro sur de un edificio monumental cuyas dimensiones evocan las proporciones del Tabernáculo; el área ha producido cuernos de altar, granadas de cerámica y conchas de murex (fuente del tinte azul sacerdotal), coincidiendo con el sitio identificado como el hogar del Tabernáculo durante más de 300 años (Jos 18:1)."
-      },
-      "u": "https://www.biblicalarchaeology.org/departments/site-shiloh/",
-      "s": "Associates for Biblical Research (ABR) / Shiloh Excavation Report",
-      "date_sort": -1200,
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "highlight_rank": 20,
-      "places": [
-        "shiloh"
       ]
     },
     {
@@ -7432,89 +7112,6 @@
     {
       "layer": "archaeology",
       "t": {
-        "en": "Continuity of Cultic Objects",
-        "he": "המשכיות חפצים פולחניים",
-        "fr": "Continuité des objets cultuels",
-        "es": "Continuidad de objetos cultuales"
-      },
-      "e": {
-        "en": "Archaeological continuity of cultic objects matches Torah descriptions, supporting historical ritual practice.",
-        "he": "המשכיות ארכיאולוגית של חפצים פולחניים תואמת את תיאורי התורה, בתמיכה בפרקטיקה טקסית היסטורית.",
-        "fr": "La continuité archéologique des objets cultuels correspond aux descriptions de la Torah, soutenant une pratique rituelle historique.",
-        "es": "La continuidad arqueológica de objetos cultuales coincide con las descripciones de la Torá, respaldando una práctica ritual histórica."
-      },
-      "s": "Ancient Israelite religion",
-      "u": "https://en.wikipedia.org/wiki/Ancient_Israelite_religion",
-      "date_sort": -1000,
-      "consensus_status": "probabilistic",
-      "source_tier": "popular"
-    },
-    {
-      "layer": "archaeology",
-      "t": {
-        "en": "Priestly Garment Continuity",
-        "he": "המשכיות בגדי הכהונה",
-        "fr": "La continuité des vêtements sacerdotaux",
-        "es": "La continuidad de las vestimentas sacerdotales"
-      },
-      "e": {
-        "en": "Long-term stability of priestly garments supports a real, ancient ritual system rooted in Sinai.",
-        "he": "יציבות ארוכת-טווח של בגדי הכהונה תומכת במערכת טקסית אמיתית ועתיקה המושרשת בסיני.",
-        "fr": "La stabilité à long terme des vêtements sacerdotaux soutient un système rituel réel et ancien enraciné au Sinaï.",
-        "es": "La estabilidad a largo plazo de las vestimentas sacerdotales respalda un sistema ritual real y antiguo arraigado en el Sinaí."
-      },
-      "s": "Priestly garments",
-      "u": "https://en.wikipedia.org/wiki/Priestly_garments",
-      "date_sort": -1000,
-      "consensus_status": "probabilistic",
-      "source_tier": "popular"
-    },
-    {
-      "layer": "archaeology",
-      "t": {
-        "en": "Temple Architecture Alignment",
-        "he": "התאמת ארכיטקטורת המקדש",
-        "fr": "L'alignement de l'architecture du Temple",
-        "es": "La alineación de la arquitectura del Templo"
-      },
-      "e": {
-        "en": "Temple architecture aligns with Torah's tabernacle blueprint, suggesting continuity from an early cultic system.",
-        "he": "ארכיטקטורת המקדש מתיישרת עם תוכנית המשכן של התורה, ומרמזת על המשכיות ממערכת פולחנית מוקדמת.",
-        "fr": "L'architecture du Temple s'aligne avec le plan du Tabernacle de la Torah, suggérant une continuité depuis un système cultuel précoce.",
-        "es": "La arquitectura del Templo se alinea con el plano del Tabernáculo de la Torá, sugiriendo continuidad desde un sistema cultual temprano."
-      },
-      "s": "Solomon's Temple",
-      "u": "https://en.wikipedia.org/wiki/Solomon%27s_Temple",
-      "date_sort": -950,
-      "consensus_status": "probabilistic",
-      "source_tier": "popular"
-    },
-    {
-      "layer": "archaeology",
-      "t": {
-        "en": "The City of David Worship Structure — David's Tabernacle Site Identified",
-        "he": "מבנה הפולחן בעיר דוד — זוהה אתר משכן דוד",
-        "fr": "La structure de culte dans la Cité de David — le site du tabernacle de David identifié",
-        "es": "La estructura de culto en la Ciudad de David — el sitio del tabernáculo de David identificado"
-      },
-      "e": {
-        "en": "A 2025-announced find proposed as a possible early Israelite worship structure connected to David's era is cited as a very recent and still-developing claim, similarly warranting caution pending broader scholarly evaluation.",
-        "he": "ממצא שהוכרז ב-2025 המוצע כמבנה פולחני ישראלי מוקדם אפשרי הקשור לתקופת דוד מובא כטענה עדכנית ביותר והמתפתחת עדיין, המחייבת אף היא זהירות בהמתנה להערכה מחקרית רחבה יותר.",
-        "fr": "Une découverte annoncée en 2025, proposée comme une possible structure de culte israélite précoce liée à l'époque de David, est citée comme une revendication très récente et encore en développement, justifiant de même la prudence en attendant une évaluation académique plus large.",
-        "es": "Un hallazgo anunciado en 2025, propuesto como una posible estructura de culto israelita temprana relacionada con la era de David, se cita como una afirmación muy reciente y aún en desarrollo, que merece igualmente cautela en espera de una evaluación académica más amplia."
-      },
-      "s": "City of David – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/City_of_David",
-      "date_sort": -1000,
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "places": [
-        "jerusalem"
-      ]
-    },
-    {
-      "layer": "archaeology",
-      "t": {
         "en": "The Layer of Physical Evidence — The Holy Ark",
         "he": "שכבת הראיות הפיזיות — ארון הקודש",
         "fr": "La couche de preuves physiques — l'Arche sainte",
@@ -7531,49 +7128,6 @@
       "date_sort": -1312,
       "consensus_status": "probabilistic",
       "source_tier": "primary"
-    },
-    {
-      "layer": "archaeology",
-      "t": {
-        "en": "The Moabite Ostracon at Jericho and the Yedayah Temple Mount Bulla",
-        "he": "האוסטרקון המואבי ביריחו והבולה 'ידעיה' מהר הבית",
-        "fr": "L'ostracon moabite à Jéricho et la boulle « Yedayah » du Mont du Temple",
-        "es": "El ostracon moabita en Jericó y la bula 'Yedayá' del Monte del Templo"
-      },
-      "e": {
-        "en": "Additional small 2025 finds (a Moabite ostracon near Jericho and a Temple Mount-area bulla) are cited as incremental corroborating evidence for biblical-era administrative and religious activity; like entries 75–76, these are recent, preliminary findings still awaiting fuller scholarly review.",
-        "he": "ממצאים קטנים נוספים מ-2025 (אוסטרקון מואבי ליד יריחו ובולה מאזור הר הבית) מובאים כראיה מאששת הדרגתית לפעילות מנהלית ודתית מהתקופה המקראית; כמו ערכים 75-76, אלה ממצאים עדכניים ומוקדמיים הממתינים עדיין לביקורת מחקרית מלאה.",
-        "fr": "D'autres petites découvertes de 2025 (un ostracon moabite près de Jéricho et une boulle de la zone du Mont du Temple) sont citées comme preuves corroborantes incrémentales d'activité administrative et religieuse de l'époque biblique ; comme les entrées 75-76, ce sont des découvertes récentes et préliminaires encore en attente d'un examen académique plus complet.",
-        "es": "Otros pequeños hallazgos de 2025 (un ostracon moabita cerca de Jericó y una bula del área del Monte del Templo) se citan como evidencia corroborante incremental de actividad administrativa y religiosa de la era bíblica; al igual que las entradas 75-76, estos son hallazgos recientes y preliminares que aún esperan una revisión académica más completa."
-      },
-      "s": "Meyers, Eric M.; The Oxford Encyclopedia of Archaeology in the Near East; 1997; Oxford University Press",
-      "u": "https://books.google.com/books?id=KYzrAAAAMAAJ",
-      "date_sort": -700,
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "places": [
-        "jericho"
-      ]
-    },
-    {
-      "layer": "archaeology",
-      "t": {
-        "en": "The Absence of Solomonic Royal Inscriptions",
-        "he": "היעדר כתובות מלכותיות משלמה",
-        "fr": "L'absence d'inscriptions royales salomoniennes",
-        "es": "La ausencia de inscripciones reales de Salomón"
-      },
-      "e": {
-        "en": "Ancient kings solidified their legitimacy by building monumental architecture and leaving explicit boastful inscriptions taking credit for the work (e.g., \"I built this temple\"). The Bible describes Solomon building a magnificent Temple, yet there is not a single signature, boast, or royal inscription from Solomon anywhere in the archaeological record. The text goes out of its way to attribute all the architectural plans to David (1 Chron 28) and the wisdom to G-d, stripping the king of architectural glory. This anti-royal-propaganda stance perfectly matches the Torah's subversive theology, which robs human kings of divine credit.",
-        "he": "מלכים עתיקים ביססו את לגיטימיותם באמצעות בניית ארכיטקטורה מונומנטלית והשארת כתובות מתפארות מפורשות הזוקפות את הקרדיט על העבודה (למשל, \"אני בניתי מקדש זה\"). המקרא מתאר את שלמה בונה מקדש מפואר, ובכל זאת אין ולו חתימה, התפארות, או כתובת מלכותית אחת משלמה בשום מקום בתיעוד הארכיאולוגי. הטקסט טורח באופן מיוחד לייחס את כל תוכניות הבנייה לדוד (דברי הימים א כח) ואת החוכמה לאל, ומפשיט את המלך מכבוד אדריכלי. עמדה אנטי-תעמולתית-מלכותית זו תואמת בדיוק את התיאולוגיה החתרנית של התורה, השוללת ממלכים אנושיים קרדיט אלוקי.",
-        "fr": "Les rois anciens solidifiaient leur légitimité en construisant une architecture monumentale et en laissant des inscriptions explicitement vantardes s'attribuant le mérite du travail (par ex., « J'ai construit ce temple »). La Bible décrit Salomon construisant un magnifique Temple, pourtant il n'existe pas une seule signature, vantardise, ou inscription royale de Salomon dans tout le registre archéologique. Le texte s'efforce d'attribuer tous les plans architecturaux à David (1 Chr. 28) et la sagesse à Dieu, dépouillant le roi de la gloire architecturale. Cette posture anti-propagande royale correspond parfaitement à la théologie subversive de la Torah, qui prive les rois humains du crédit divin.",
-        "es": "Los reyes antiguos solidificaban su legitimidad construyendo arquitectura monumental y dejando inscripciones explícitamente jactanciosas atribuyéndose el mérito del trabajo (por ejemplo, \"Yo construí este templo\"). La Biblia describe a Salomón construyendo un magnífico Templo, sin embargo no hay ni una sola firma, jactancia o inscripción real de Salomón en todo el registro arqueológico. El texto se esfuerza por atribuir todos los planos arquitectónicos a David (1 Cr. 28) y la sabiduría a Dios, despojando al rey de la gloria arquitectónica. Esta postura antipropaganda real coincide perfectamente con la teología subversiva de la Torá, que priva a los reyes humanos del crédito divino."
-      },
-      "s": "https://en.wikipedia.org/wiki/Solomon%27s_Temple",
-      "u": "https://en.wikipedia.org/wiki/Solomon%27s_Temple",
-      "date_sort": -966,
-      "consensus_status": "probabilistic",
-      "source_tier": "popular"
     },
     {
       "layer": "comparative",
@@ -7594,29 +7148,6 @@
       "consensus_status": "contested",
       "source_tier": "popular",
       "date_sort": -1440
-    },
-    {
-      "layer": "archaeology",
-      "t": {
-        "en": "The Mount Ebal Lead Curse Tablet",
-        "he": "לוח הקללה העופרתי מהר עיבל",
-        "fr": "La tablette de plomb maudite du mont Ébal",
-        "es": "La tablilla de plomo maldita del Monte Ebal"
-      },
-      "e": {
-        "en": "Discovered in 2022 via advanced wet-sifting of debris from the Mount Ebal altar excavation, this tiny folded lead tablet allegedly contains a proto-alphabetic inscription invoking a curse in the name of the G-d YHW. If authenticated, it provides physical evidence of advanced Hebrew literacy and liturgical covenant actions at the exact biblical site mandated in Devarim 27. However, the find remains highly contested among mainstream epigraphers who question whether the markings are actual letters or natural weathering, requiring analytical caution.",
-        "he": "התגלה ב-2022 באמצעות ניפוי-רטוב מתקדם של פסולת מחפירת המזבח בהר עיבל, לוח עופרת קטן ומקופל זה מכיל לכאורה כתובת פרוטו-אלפביתית הקוראת קללה בשם האל יהו. אם יאומת, הוא מספק ראיה פיזית לאוריינות עברית מתקדמת ולפעולות ברית ליטורגיות באתר המקראי המדויק המצווה בדברים כז. עם זאת, הממצא נותר שנוי במחלוקת חריפה בקרב אפיגרפיסטים מרכזיים המפקפקים אם הסימונים הם אותיות ממשיות או בליה טבעית, המחייב זהירות אנליטית.",
-        "fr": "Découverte en 2022 via un tamisage humide avancé des débris de la fouille de l'autel du mont Ébal, cette minuscule tablette de plomb pliée contiendrait, allègue-t-on, une inscription proto-alphabétique invoquant une malédiction au nom du dieu YHW. Si authentifiée, elle fournirait une preuve physique d'une alphabétisation hébraïque avancée et d'actes d'alliance liturgiques précisément sur le site biblique prescrit dans Deutéronome 27. Cependant, la découverte reste hautement contestée parmi les épigraphistes traditionnels qui se demandent si les marques sont de véritables lettres ou une érosion naturelle, exigeant une prudence analytique.",
-        "es": "Descubierta en 2022 mediante tamizado húmedo avanzado de escombros de la excavación del altar del Monte Ebal, esta pequeña tablilla de plomo plegada supuestamente contiene una inscripción protoalfabética que invoca una maldición en el nombre del dios YHV. Si se autentica, proporcionaría evidencia física de alfabetización hebrea avanzada y actos litúrgicos de pacto exactamente en el sitio bíblico ordenado en Deuteronomio 27. Sin embargo, el hallazgo sigue siendo altamente disputado entre epigrafistas convencionales que cuestionan si las marcas son letras reales o desgaste natural, requiriendo cautela analítica."
-      },
-      "s": "Mount Ebal - Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Mount_Ebal",
-      "date_sort": -1200,
-      "consensus_status": "contested",
-      "source_tier": "popular",
-      "places": [
-        "mount-ebal"
-      ]
     },
     {
       "layer": "sociological",
@@ -7918,26 +7449,6 @@
       "consensus_status": "probabilistic",
       "source_tier": "popular",
       "date_sort": -1440
-    },
-    {
-      "layer": "archaeology",
-      "t": {
-        "en": "The Tomb of Thutmose II — Anchoring the Shemos Chronology",
-        "he": "קברו של תחותמס השני — עיגון כרונולוגיית יציאת מצרים",
-        "fr": "La tombe de Thoutmôsis II — ancrage de la chronologie de l'Exode",
-        "es": "La tumba de Tutmosis II — anclando la cronología del Éxodo"
-      },
-      "e": {
-        "en": "A 2025 archaeological discovery proposed by some researchers as relevant to dating the Pharaoh of the Shemos era is cited here as a very recent data point in the ongoing Shemos-chronology debate; given its recency, its significance has not yet been established through extensive peer review and should be treated as preliminary.",
-        "he": "תגלית ארכיאולוגית מ-2025 שהוצעה על ידי חלק מהחוקרים כרלוונטית לתיארוך הפרעה מתקופת יציאת מצרים מובאת כאן כנקודת נתונים עדכנית ביותר בוויכוח המתמשך על כרונולוגיית יציאת מצרים; בהתחשב בעדכניותה, משמעותה עדיין לא נקבעה באמצעות ביקורת עמיתים נרחבת ויש להתייחס אליה כטענה מוקדמית.",
-        "fr": "Une découverte archéologique de 2025 proposée par certains chercheurs comme pertinente pour la datation du pharaon de l'ère de l'Exode est citée ici comme un point de données très récent dans le débat en cours sur la chronologie de l'Exode ; étant donné sa nouveauté, sa signification n'a pas encore été établie par un examen approfondi par les pairs et doit être traitée comme préliminaire.",
-        "es": "Un descubrimiento arqueológico de 2025 propuesto por algunos investigadores como relevante para fechar al faraón de la era del Éxodo se cita aquí como un punto de datos muy reciente en el debate en curso sobre la cronología del Éxodo; dada su reciente aparición, su significancia aún no se ha establecido mediante una extensa revisión por pares y debe tratarse como preliminar."
-      },
-      "s": "Thutmose II – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Thutmose_II",
-      "date_sort": -1493,
-      "consensus_status": "probabilistic",
-      "source_tier": "popular"
     },
     {
       "layer": "archaeology",
@@ -8675,7 +8186,8 @@
       "source_tier": "primary",
       "places": [
         "shiloh"
-      ]
+      ],
+      "highlight_rank": 20
     },
     {
       "layer": "transmission",
@@ -8716,26 +8228,6 @@
       "consensus_status": "probabilistic",
       "source_tier": "primary",
       "date_sort": -1400
-    },
-    {
-      "layer": "archaeology",
-      "t": {
-        "en": "First Assyrian Inscription Found in Jerusalem — A Tribute Demand to the King of Judah",
-        "he": "הכתובת האשורית הראשונה שנמצאה בירושלים — דרישת מס ממלך יהודה",
-        "fr": "Première inscription assyrienne trouvée à Jérusalem — une demande de tribut au roi de Juda",
-        "es": "Primera inscripción asiria encontrada en Jerusalén — una demanda de tributo al rey de Judá"
-      },
-      "e": {
-        "en": "In October 2025, IAA archaeologists sifting soil from excavations near the Temple Mount's Ophel/Western Wall area found a 2.5cm pottery sherd inscribed in Akkadian cuneiform, dated to the late 8th–7th century BCE. Petrographic analysis showed the clay originated from the Tigris basin, confirming it traveled from Assyria as official correspondence rather than being a local copy. The text is a royal demand for overdue tribute payment 'by the first of Av,' with a threat attached if it went unpaid. This is the first Assyrian inscription ever found in Jerusalem, and corroborates the tribute dynamic between Assyria and Judah described in 2 Kings 18:13-16, from the hostile side's own administrative record rather than the biblical account.",
-        "he": "באוקטובר 2025, ארכיאולוגים ברשות העתיקות שניפו עפר מחפירות ליד אזור העופל/הכותל המערבי מצאו שבר קדרה בן 2.5 ס\"מ חקוק בכתב-יתדות אכדי, מתוארך לסוף המאה ה-8/7 לפנה\"ס. ניתוח פטרוגרפי הראה שהחימר מקורו באגן הטיגריס, ומאשר שהוא הגיע מאשור כהתכתבות רשמית ולא כעותק מקומי. הטקסט הוא דרישה מלכותית לתשלום מס באיחור \"עד ראש אב\", עם איום מצורף אם לא ישולם. זוהי הכתובת האשורית הראשונה שנמצאה אי-פעם בירושלים, ומאששת את דינמיקת המס בין אשור ליהודה המתוארת במלכים ב יח:יג-טז, מהתיעוד המנהלי של הצד העוין עצמו ולא מהתיאור המקראי.",
-        "fr": "En octobre 2025, des archéologues de l'IAA tamisant de la terre provenant de fouilles près de la zone de l'Ophel/du Mur occidental du Mont du Temple ont trouvé un tesson de poterie de 2,5 cm inscrit en cunéiforme akkadien, daté de la fin du VIIIe-VIIe siècle av. J.-C. Une analyse pétrographique a montré que l'argile provenait du bassin du Tigre, confirmant qu'elle voyagea depuis l'Assyrie comme correspondance officielle plutôt qu'une copie locale. Le texte est une demande royale de paiement de tribut en retard « d'ici le premier d'Av », avec une menace attachée en cas de non-paiement. C'est la première inscription assyrienne jamais trouvée à Jérusalem, et elle corrobore la dynamique du tribut entre l'Assyrie et Juda décrite dans 2 Rois 18:13-16, depuis le propre registre administratif du camp hostile plutôt que le récit biblique.",
-        "es": "En octubre de 2025, arqueólogos de la IAA que tamizaban tierra de excavaciones cerca del área del Ofel/Muro Occidental encontraron un fragmento de cerámica de 2,5 cm inscrito en cuneiforme acadio, fechado a finales del siglo VIII-VII a.C. El análisis petrográfico mostró que la arcilla se originó en la cuenca del Tigris, confirmando que viajó desde Asiria como correspondencia oficial en lugar de ser una copia local. El texto es una demanda real de pago de tributo atrasado \"para el primero de Av\", con una amenaza adjunta si no se pagaba. Esta es la primera inscripción asiria jamás encontrada en Jerusalén, y corrobora la dinámica del tributo entre Asiria y Judá descrita en 2 Reyes 18:13-16, desde el propio registro administrativo del bando hostil en lugar del relato bíblico."
-      },
-      "s": "Israel Antiquities Authority / City of David Foundation (Oct. 2025)",
-      "u": "https://cityofdavid.org.il/en/assyrian-inscription/",
-      "date_sort": -720,
-      "consensus_status": "probabilistic",
-      "source_tier": "primary"
     },
     {
       "layer": "archaeology",
@@ -9096,26 +8588,6 @@
     {
       "layer": "archaeology",
       "t": {
-        "en": "Four-Room House Architecture — Israelite Ethnic Marker (Iron Age I)",
-        "he": "ארכיטקטורת בית ארבעת החדרים — סמן אתני ישראלי (תקופת ברזל א)",
-        "fr": "L'architecture de la maison à quatre pièces — marqueur ethnique israélite (âge du Fer I)",
-        "es": "La arquitectura de la casa de cuatro habitaciones — marcador étnico israelita (Edad del Hierro I)"
-      },
-      "e": {
-        "en": "A distinctive 'four-room house' (three longitudinal rooms + one broad room) appears suddenly in the central highlands c. 1200–1000 BCE with no Canaanite or Philistine antecedents. This architectural footprint tracks the Israelite settlement pattern in Joshua/Judges. The house of Micah (Judges 17) and other biblical domestic scenes match this layout. Unique ethnic architecture corroborates the biblical emergence of Israel in the highlands.",
-        "he": "\"בית ארבעת החדרים\" המובחן (שלושה חדרים אורכיים + חדר רחב אחד) מופיע לפתע ברמות המרכזיות בכ-1200-1000 לפנה\"ס ללא קודמים כנעניים או פלישתיים. טביעת רגל ארכיטקטונית זו עוקבת אחר דפוס ההתיישבות הישראלי ביהושע/שופטים. בית מיכה (שופטים יז) וסצנות ביתיות מקראיות אחרות תואמות פריסה זו. ארכיטקטורה אתנית ייחודית זו מאששת את ההתהוות המקראית של ישראל ברמות.",
-        "fr": "Une « maison à quatre pièces » distincte (trois pièces longitudinales + une large pièce) apparaît soudainement dans les hautes terres centrales v. 1200-1000 av. J.-C. sans antécédents cananéens ou philistins. Cette empreinte architecturale suit le schéma de peuplement israélite dans Josué/Juges. La maison de Michée (Juges 17) et d'autres scènes domestiques bibliques correspondent à cette disposition. Cette architecture ethnique unique corrobore l'émergence biblique d'Israël dans les hautes terres.",
-        "es": "Una distintiva \"casa de cuatro habitaciones\" (tres habitaciones longitudinales + una habitación ancha) aparece repentinamente en las tierras altas centrales c. 1200-1000 a.C. sin antecedentes cananeos o filisteos. Esta huella arquitectónica rastrea el patrón de asentamiento israelita en Josué/Jueces. La casa de Micaía (Jueces 17) y otras escenas domésticas bíblicas coinciden con este diseño. Esta arquitectura étnica única corrobora el surgimiento bíblico de Israel en las tierras altas."
-      },
-      "s": "Bunimovitz, Schlomo; The four room house: Embodying Iron Age Israelite society; [[Near Eastern Archaeology (journal); 2003; Scholars Press, Atlanta, GA; 66; pp. 22–31; DOI: 10.2307/3210929",
-      "u": "https://doi.org/10.2307/3210929",
-      "date_sort": -1150,
-      "consensus_status": "probabilistic",
-      "source_tier": "primary"
-    },
-    {
-      "layer": "archaeology",
-      "t": {
         "en": "Ain Dara Temple — Architectural Parallel to Solomonic Temple",
         "he": "מקדש עין דארה — מקבילה ארכיטקטונית למקדש שלמה",
         "fr": "Le temple d'Ain Dara — parallèle architectural au Temple de Salomon",
@@ -9373,29 +8845,6 @@
       "consensus_status": "probabilistic",
       "source_tier": "popular",
       "date_sort": -1400
-    },
-    {
-      "layer": "archaeology",
-      "t": {
-        "en": "Machpelah Purchase — Hittite Property Law Protocol (Gen 23)",
-        "he": "רכישת המכפלה — פרוטוקול דיני הקניין החתי (בראשית כג)",
-        "fr": "L'achat de Makhpéla — protocole du droit de propriété hittite (Gen 23)",
-        "es": "La compra de Majpelá — protocolo del derecho de propiedad hitita (Gén 23)"
-      },
-      "e": {
-        "en": "Abraham's purchase of the Cave of Machpelah follows a precise Hittite legal choreography: request for cave → 'gift' offer (tax avoidance) → insistence on formal sale → price stated as '400 shekels, agreed between us' → public witnessing. This mirrors Hittite land-transfer tablets from Hattusa (discovered 1906). The Hittite Empire was entirely unknown until 1906; no post-exilic Jewish writer could have fabricated this authentic legal protocol.",
-        "he": "רכישת מערת המכפלה בידי אברהם עוקבת אחר כוריאוגרפיה משפטית חתית מדויקת: בקשה למערה ← הצעת \"מתנה\" (הימנעות ממס) ← התעקשות על מכירה פורמלית ← מחיר שנקבע כ\"400 שקל, המוסכם בינינו\" ← עדות פומבית. הדבר משקף לוחות העברת קרקע חתיים מחתושה (התגלו ב-1906). האימפריה החתית הייתה בלתי ידועה כליל עד 1906; שום סופר יהודי פוסט-גלותי לא היה יכול לזייף פרוטוקול משפטי אותנטי זה.",
-        "fr": "L'achat de la Grotte de Makhpéla par Abraham suit une chorégraphie juridique hittite précise : demande de la grotte → offre de « cadeau » (évitement fiscal) → insistance sur une vente formelle → prix énoncé comme « 400 sicles, convenus entre nous » → témoignage public. Cela reflète les tablettes de transfert foncier hittites de Hattusa (découvertes en 1906). L'Empire hittite était entièrement inconnu jusqu'en 1906 ; aucun écrivain juif post-exilique n'aurait pu fabriquer ce protocole juridique authentique.",
-        "es": "La compra de la Cueva de Majpelá por Abraham sigue una precisa coreografía legal hitita: solicitud de la cueva → oferta de \"regalo\" (evasión de impuestos) → insistencia en venta formal → precio declarado como \"400 siclos, acordado entre nosotros\" → testimonio público. Esto refleja las tablillas de transferencia de tierras hititas de Hattusa (descubiertas en 1906). El Imperio Hitita era completamente desconocido hasta 1906; ningún escritor judío postexílico podría haber fabricado este auténtico protocolo legal."
-      },
-      "s": "Kitchen, 'Reliability' (2003); Bryce, 'The Kingdom of the Hittites' (2005)",
-      "u": "https://en.wikipedia.org/wiki/Cave_of_the_Patriarchs",
-      "date_sort": -1800,
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "places": [
-        "hebron"
-      ]
     },
     {
       "layer": "archaeology",
@@ -12232,27 +11681,6 @@
       "consensus_status": "probabilistic",
       "source_tier": "primary",
       "date_sort": -1400
-    },
-    {
-      "layer": "archaeology",
-      "t": {
-        "en": "The Capernaum Synagogue — A 4th-Century Structure Built Atop a 1st-Century Foundation",
-        "he": "בית הכנסת בכפר נחום — מבנה מהמאה ה-4 שנבנה מעל יסוד מהמאה ה-1",
-        "fr": "La synagogue de Capharnaüm — une structure du IVe siècle bâtie sur une fondation du Ier siècle",
-        "es": "La sinagoga de Cafarnaúm — una estructura del siglo IV construida sobre una cimentación del siglo I"
-      },
-      "e": {
-        "en": "Excavations at Capernaum on the Sea of Galilee (Corbo and Loffreda, 1969–1974) revealed a monumental white limestone synagogue, ornately carved with Corinthian-style columns, dated by roughly 10,000 bronze coins found beneath its floor to the late 4th or early 5th century CE. Digging beneath this structure uncovered well-built basalt walls and a basalt floor belonging to an earlier synagogue, matching the later building's dimensions and orientation, with material recovered on and below that floor dating it to the 1st century CE. The later, more elaborate synagogue was deliberately built directly on top of the earlier basalt foundation rather than elsewhere in the town, indicating a continuous, centuries-long tradition of communal worship on the same site — physical evidence of the kind of first-century Galilean synagogue consistent with the broader picture of an established, functioning synagogue institution well before the site's later monumental rebuilding.",
-        "he": "חפירות בכפר נחום שעל שפת הכנרת (קורבו ולופרדה, 1969-1974) חשפו בית כנסת מונומנטלי מאבן גיר לבנה, מעוטר בעמודים בסגנון קורינתי, המתוארך על סמך כ-10,000 מטבעות ברונזה שנמצאו מתחת לרצפתו לסוף המאה ה-4 או תחילת המאה ה-5 לספירה. חפירה מתחת למבנה זה חשפה קירות בזלת בנויים היטב ורצפת בזלת השייכים לבית כנסת קדום יותר, התואם בממדיו ובכיוונו את המבנה המאוחר, כאשר חומר שנאסף על גבי הרצפה ומתחתיה מתארך אותה למאה ה-1 לספירה. בית הכנסת המאוחר והמפואר יותר נבנה בכוונה ישירות מעל היסוד הבזלתי הקדום ולא במקום אחר בעיר, המצביע על מסורת רציפה בת מאות שנים של תפילה קהילתית באותו האתר — עדות פיזית לסוג בית הכנסת הגלילי מהמאה ה-1, העולה בקנה אחד עם התמונה הרחבה יותר של מוסד בית-כנסת מבוסס ופעיל זמן רב לפני שחזור המבנה המונומנטלי המאוחר יותר של האתר.",
-        "fr": "Des fouilles à Capharnaüm, sur les rives du lac de Tibériade (Corbo et Loffreda, 1969-1974), ont révélé une synagogue monumentale en calcaire blanc, ornée de colonnes de style corinthien, datée par environ 10 000 pièces de bronze trouvées sous son sol à la fin du IVe ou au début du Ve siècle apr. J.-C. Des fouilles sous cette structure ont mis au jour des murs en basalte bien construits et un sol en basalte appartenant à une synagogue antérieure, correspondant aux dimensions et à l'orientation du bâtiment ultérieur, avec du matériel récupéré sur et sous ce sol le datant du Ier siècle apr. J.-C. La synagogue ultérieure, plus élaborée, a été délibérément construite directement au-dessus de la fondation en basalte antérieure plutôt qu'ailleurs dans la ville, indiquant une tradition continue et séculaire de culte communautaire sur le même site — une preuve physique du type de synagogue galiléenne du Ier siècle, cohérente avec l'image plus large d'une institution synagogale établie et fonctionnelle bien avant la reconstruction monumentale ultérieure du site.",
-        "es": "Excavaciones en Cafarnaúm, a orillas del mar de Galilea (Corbo y Loffreda, 1969-1974), revelaron una sinagoga monumental de piedra caliza blanca, ornamentada con columnas de estilo corintio, fechada mediante unas 10.000 monedas de bronce halladas bajo su suelo a finales del siglo IV o principios del V d.C. Excavaciones bajo esta estructura descubrieron muros de basalto bien construidos y un suelo de basalto pertenecientes a una sinagoga anterior, que coincide en dimensiones y orientación con el edificio posterior, con material recuperado sobre y bajo ese suelo que la fecha en el siglo I d.C. La sinagoga posterior, más elaborada, fue construida deliberadamente directamente sobre la cimentación de basalto anterior en lugar de en otro lugar de la ciudad, lo que indica una tradición continua, de siglos de duración, de culto comunitario en el mismo sitio — evidencia física del tipo de sinagoga galilea del siglo I, coherente con el panorama más amplio de una institución sinagogal establecida y en funcionamiento mucho antes de la posterior reconstrucción monumental del sitio."
-      },
-      "s": "Gideon Avni; The Byzantine-Islamic Transition in Palestine: An Archaeological Approach; 2014; Oxford University Press; pp. 88–89; 90 for site plan of Early Muslim period village",
-      "u": "https://books.google.com/books?id=2aTFAgAAQBAJ&pg=PA88",
-      "review_caveat": "This site has two dated phases: an earlier 1st-century CE basalt foundation and a later, more elaborate 4th/5th-century CE structure built on top of it. The timeline date_sort reflects the earlier foundation, the more historically significant claim (an early functioning synagogue), not the later monumental rebuild that was the one precisely coin-dated by excavators.",
-      "date_sort": 50,
-      "consensus_status": "probabilistic",
-      "source_tier": "primary"
     },
     {
       "layer": "archaeology",
