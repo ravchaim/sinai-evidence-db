@@ -6848,7 +6848,7 @@
       ]
     },
     {
-      "layer": "archaeology",
+      "layer": "literary",
       "t": {
         "en": "The Toledoth Formula",
         "he": "נוסחת התולדות",
@@ -6868,7 +6868,7 @@
       "source_tier": "popular"
     },
     {
-      "layer": "archaeology",
+      "layer": "literary",
       "t": {
         "en": "The 'Shattered Tablets' Argument",
         "he": "טיעון 'הלוחות השבורים'",
@@ -6971,7 +6971,7 @@
       ]
     },
     {
-      "layer": "archaeology",
+      "layer": "coherence",
       "t": {
         "en": "The Agricultural Specificity of the Festival Calendar",
         "he": "הספציפיות החקלאית של לוח החגים",
@@ -7078,7 +7078,7 @@
       "source_tier": "primary"
     },
     {
-      "layer": "archaeology",
+      "layer": "core",
       "t": {
         "en": "The Layer of Physical Evidence — The Holy Ark",
         "he": "שכבת הראיות הפיזיות — ארון הקודש",
@@ -12606,29 +12606,6 @@
       },
       "s": "Na'aman, N. & Zadok, R., 'Assyrian Deportations to the Province of Samerina in the Light of Two Cuneiform Tablets from Tel Hadid,' Tel Aviv 27 (2000): 159-188; Koch, I., 'Forced Resettlement and Immigration at Tel Hadid,' Biblical Archaeology Review 46:3 (2020)",
       "u": "https://www.academia.edu/12939500/Assyrian_Deportations_to_the_Province_of_Samerina_in_the_Light_of_Two_Cuneiform_Tablets_from_Tel_Hadid_Tel_Aviv_27_2000_pp._159-188_co-author_Ran_Zadok_",
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "places": [
-        "tel-hadid"
-      ]
-    },
-    {
-      "layer": "archaeology",
-      "date_sort": -650,
-      "t": {
-        "en": "The Tel Hadid Mother-of-Pearl Seal — Assyrian-Imposed Moon-God Worship in Former Israelite Territory",
-        "he": "חותם הצדף מתל חדיד — פולחן אל הירח שנכפה על ידי אשור בשטחה של ממלכת ישראל לשעבר",
-        "fr": "Le sceau en nacre de Tel Hadid — un culte du dieu-lune imposé par l'Assyrie en territoire israélite",
-        "es": "El sello de nácar de Tel Hadid — un culto al dios-luna impuesto por Asiria en territorio israelita"
-      },
-      "e": {
-        "en": "Excavators at Tel Hadid recovered a stamp seal less than two centimeters long, carved from the mother-of-pearl of Pinctada margaritifera — a pearl-oyster shell native to the Indo-Pacific and, per the excavators, the only stamp seal of this material yet found anywhere in the southern Levant. Dated to the seventh century BCE, roughly a century after Assyria's conquest of the Northern Kingdom, the seal is engraved with the crescent-on-standard emblem of Sin, the Mesopotamian moon god whose cult the Sargonid kings promoted as a symbol of imperial authority. Found at the same site as the cuneiform tablets documenting Babylonian and Aramean deportees settled there under Assyrian policy (see the Tel Hadid Cuneiform Tablets, above), the seal is physical evidence of exactly the outcome 2 Kings 17:29-33 describes: the resettled nations each made their own gods in the cities of Samaria, so that the population there ended up fearing HASHEM while still serving their native deities. Published by Ido Koch et al. in Levant (2026).",
-        "he": "חופרים בתל חדיד מצאו חותם קטן, שאורכו פחות משני סנטימטרים, מגולף מצדף אם הפנינה מהמין Pinctada margaritifera — צדף פנינים יליד האינדו-פסיפי, ולדברי החופרים, החותם היחיד מסוג זה שנמצא אי-פעם בדרום הלבנט. החותם, המתוארך למאה השביעית לפנה\"ס, כמאה שנה לאחר כיבוש אשור את ממלכת ישראל הצפונית, חרוט בסמל הסהר-על-מוט של סין, אל הירח המסופוטמי שאת פולחנו קידמו מלכי בית שרגון ככלי ללגיטימציה קיסרית. החותם נמצא באותו אתר שבו התגלו לוחות היתדות המתעדים גולים בבליים וארמים שיושבו בו מכוח מדיניות אשור (ראו: לוחות היתדות מתל חדיד, לעיל), והוא עדות פיזית בדיוק לתוצאה המתוארת במלכים ב יז:כט-לג: העמים שיושבו מחדש עשו כל אחד לעצמו אלוהים משלו בערי שומרון, כך שתושבי האזור הגיעו לירוא את ה' תוך שהם ממשיכים לעבוד גם את אליליהם. פורסם על ידי עידו קוך ואחרים בכתב העת Levant (2026).",
-        "fr": "Des archéologues fouillant Tel Hadid ont mis au jour un sceau de moins de deux centimètres, taillé dans la nacre de Pinctada margaritifera, une huître perlière originaire de l'Indo-Pacifique — selon les fouilleurs, le seul sceau connu de ce matériau jamais découvert dans le sud du Levant. Daté du VIIe siècle av. J.-C., environ un siècle après la conquête assyrienne du royaume d'Israël, le sceau porte l'emblème du croissant sur hampe de Sîn, le dieu-lune mésopotamien dont le culte fut promu par les rois sargonides comme symbole de légitimité impériale. Découvert sur le même site que les tablettes cunéiformes attestant des déportés babyloniens et araméens installés là par la politique assyrienne (voir : Les tablettes cunéiformes de Tel Hadid, ci-dessus), ce sceau constitue une preuve matérielle du résultat même que décrit 2 Rois 17:29-33 : les peuples réinstallés se firent chacun leurs propres dieux dans les villes de Samarie, si bien que la population locale en vint à craindre l'Éternel tout en continuant de servir ses propres divinités. Publié par Ido Koch et al. dans la revue Levant (2026).",
-        "es": "Arqueólogos que excavaban en Tel Hadid recuperaron un sello de menos de dos centímetros, tallado en nácar de Pinctada margaritifera, una ostra perlífera originaria del Indo-Pacífico y, según los excavadores, el único sello de este material hallado hasta ahora en todo el sur del Levante. Fechado en el siglo VII a.C., aproximadamente un siglo después de la conquista asiria del Reino de Israel, el sello está grabado con el emblema de la media luna sobre estandarte de Sin, el dios-luna mesopotámico cuyo culto promovieron los reyes sargónidas como símbolo de legitimidad imperial. Hallado en el mismo yacimiento que las tablillas cuneiformes que documentan a los deportados babilonios y arameos allí asentados por la política asiria (véase: Las tablillas cuneiformes de Tel Hadid, arriba), el sello es una prueba material precisamente del resultado que describe 2 Reyes 17:29-33: los pueblos reasentados se hicieron cada uno sus propios dioses en las ciudades de Samaria, de modo que la población local terminó temiendo al Eterno mientras seguía sirviendo a sus propias deidades. Publicado por Ido Koch et al. en la revista Levant (2026)."
-      },
-      "s": "Koch, I. et al., 'A unique mother-of-pearl stamp seal from Late Iron Age Tel Ḥadid, Israel,' Levant (2026), doi:10.1080/00758914.2026.2663758; Times of Israel, Haaretz, Biblical Archaeology Review (June 2026)",
-      "u": "https://www.tandfonline.com/doi/full/10.1080/00758914.2026.2663758",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
       "places": [
