@@ -809,16 +809,16 @@
         "es": "La asimetría agrícola de los tres años (Shmitá)"
       },
       "e": {
-        "en": "Vayikra 25:20–22 commands sabbatical-year agricultural cessation and promises a sixth-year yield to sustain the nation for three years. A human legislator would not invent an economically risky law paired with a verifiable supernatural promise — any failed harvest would expose the fraud. The law's survival through millennia of observance, including modern Israeli Shmita years, is itself extraordinary evidence of the community's conviction.",
-        "he": "ויקרא כה:כ–כב מצווה על הפסקה חקלאית בשנה השביעית ומבטיח יבול שנה שישית שיספיק לשלוש שנים. מחוקק אנושי לא היה ממציא חוק מסוכן כלכלית בצמוד להבטחה על-טבעית הניתנת לאימות — כל כישלון יבול היה חושף את המרמה. שרידות החוק לאורך אלפי שנות שמירה, כולל שנות שמיטה ישראליות מודרניות, היא עצמה ראיה.",
-        "fr": "Lévitique 25:20-22 prescrit le repos agricole la septième année et promet une récolte de la sixième année suffisante pour trois ans. Un législateur humain n'inventerait pas une loi économiquement risquée assortie d'une promesse surnaturelle vérifiable — tout échec de récolte exposerait la fraude. La survie de la loi à travers des millénaires d'observance, y compris les années shmita israéliennes modernes, est elle-même une preuve.",
-        "es": "Levítico 25:20-22 prescribe el descanso agrícola en el séptimo año y promete una cosecha del sexto año suficiente para tres años. Un legislador humano no inventaría una ley económicamente arriesgada unida a una promesa sobrenatural verificable — cualquier fallo de cosecha expondría el fraude. La supervivencia de la ley a través de milenios de observancia, incluidos los años shmitá modernos en Israel, es en sí misma una prueba."
+        "en": "The Torah commands the whole nation to leave its fields unworked every seventh year, and it anticipates the obvious objection: 'If you say, what shall we eat in the seventh year, since we may not sow or gather our produce? — I will command My blessing for you in the sixth year, and it will yield produce for three years' (Vayikra 25:20–22). A law that asks an agrarian people to forgo a harvest, and stakes itself on a promise every farmer could check, is an unusual thing to invent. The law was actually kept: 1 Maccabees (6:49, 53) describes a sabbatical year in the Second Temple period, and Josephus reports that Julius Caesar exempted the Jews from tribute in the seventh year because they did not sow (Antiquities 14.10.6).",
+        "he": "התורה מצווה על העם כולו להשאיר את שדותיו בלי עבודה בכל שנה שביעית, והיא מקדימה את הקושיה המתבקשת: \"וכי תאמרו מה נאכל בשנה השביעית, הן לא נזרע ולא נאסוף את תבואתנו — וצויתי את ברכתי לכם בשנה הששית ועשת את התבואה לשלש השנים\" (ויקרא כה:כ–כב). חוק המבקש מעם של חקלאים לוותר על יבול, ותולה את עצמו בהבטחה שכל חקלאי יכול לבדוק, הוא דבר חריג להמציא. החוק אכן נשמר: ספר מקבים א (ו:מט, נג) מתאר שנת שמיטה בימי בית שני, ויוסף בן מתתיהו מספר שיוליוס קיסר פטר את היהודים ממס בשנה השביעית משום שאינם זורעים בה (קדמוניות 14.10.6).",
+        "fr": "La Torah ordonne à toute la nation de laisser ses champs sans travail chaque septième année, et elle anticipe l'objection évidente : « Si vous dites : que mangerons-nous la septième année, puisque nous ne semons pas et ne récoltons pas nos produits ? — Je commanderai Ma bénédiction pour vous la sixième année, et elle produira pour trois ans » (Lévitique 25:20-22). Une loi qui demande à un peuple d'agriculteurs de renoncer à une récolte, et qui se fonde sur une promesse que chaque cultivateur pouvait vérifier, est une chose inhabituelle à inventer. La loi fut effectivement observée : le premier livre des Maccabées (6:49, 53) décrit une année sabbatique à l'époque du Second Temple, et Josèphe rapporte que Jules César exempta les Juifs du tribut la septième année parce qu'ils ne semaient pas (Antiquités 14.10.6).",
+        "es": "La Torá ordena a toda la nación dejar sus campos sin trabajar cada séptimo año, y anticipa la objeción obvia: \"Y si dijereis: ¿qué comeremos el séptimo año, pues no sembraremos ni recogeremos nuestros frutos? — Yo os enviaré Mi bendición el sexto año, y dará fruto para tres años\" (Levítico 25:20-22). Una ley que pide a un pueblo de agricultores renunciar a una cosecha, y que se apoya en una promesa que cada agricultor podía comprobar, es algo inusual de inventar. La ley se cumplió de hecho: 1 Macabeos (6:49, 53) describe un año sabático en la época del Segundo Templo, y Josefo relata que Julio César eximió a los judíos del tributo en el séptimo año porque no sembraban (Antigüedades 14.10.6)."
       },
-      "s": "Shmita – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Shmita",
+      "s": "Leviticus 25:1–7, 25:20–22; 1 Maccabees 6:49, 53; Josephus, Antiquities 14.10.6",
+      "u": "https://www.sefaria.org/Leviticus.25.20",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1440
+      "date_sort": -1312
     },
     {
       "layer": "history_corrob",
@@ -3449,202 +3449,22 @@
     {
       "layer": "coherence",
       "t": {
-        "en": "The Mathematical Equidistant Letter Sequences (Torah Codes / ELS)",
-        "he": "רצפי אותיות שווי-מרחק מתמטיים (צפני התורה / ELS)",
-        "fr": "Les séquences de lettres équidistantes mathématiques (Codes de la Torah / ELS)",
-        "es": "Las secuencias de letras equidistantes matemáticas (Códigos de la Torá / ELS)"
-      },
-      "e": {
-        "en": "In 1994, a peer-reviewed study by Witztum, Rips, and Rosenberg (Statistical Science 9:3) demonstrated that the names of famous medieval rabbis paired with their exact dates of birth or death were encoded in the Torah text via equidistant letter sequences at a rate vastly exceeding statistical probability (p < 1/62,500). Because these historical figures lived thousands of years after the text was written, a human author could not have encoded this information without prophetic foreknowledge or hyper-advanced computational capacity. While the methodology has been contested (McKay et al., Statistical Science, 1999), the original paper passed peer review in a leading statistics journal and has not been definitively refuted. The possibility of information encoded below the text's surface remains an open question consistent with divine authorship.",
-        "he": "בשנת 1994, מחקר שעבר ביקורת עמיתים מאת ויצטום, ריפס ורוזנברג (Statistical Science 9:3) הראה ששמות רבנים מפורסמים מימי הביניים בשילוב עם תאריכי הלידה או הפטירה המדויקים שלהם מקודדים בטקסט התורה באמצעות רצפי אותיות שווי-מרחק בשיעור העולה בהרבה על ההסתברות הסטטיסטית (p < 1/62,500). מכיוון שדמויות היסטוריות אלה חיו אלפי שנים לאחר כתיבת הטקסט, מחבר אנושי לא היה יכול לקודד מידע זה ללא ידיעה נבואית מראש או יכולת חישובית מתקדמת מאוד. אף שהמתודולוגיה הוטלה בספק (מקיי ואחרים, Statistical Science, 1999), המאמר המקורי עבר ביקורת עמיתים בכתב עת סטטיסטי מוביל ולא הופרך באופן סופי. האפשרות של מידע המקודד מתחת לפני השטח של הטקסט נותרת שאלה פתוחה העולה בקנה אחד עם מחבר אלוקי.",
-        "fr": "En 1994, une étude évaluée par des pairs de Witztum, Rips et Rosenberg (Statistical Science 9:3) a démontré que les noms de rabbins médiévaux célèbres associés à leurs dates exactes de naissance ou de décès étaient encodés dans le texte de la Torah via des séquences de lettres équidistantes à un taux dépassant largement la probabilité statistique (p < 1/62 500). Comme ces personnages historiques ont vécu des milliers d'années après la rédaction du texte, un auteur humain n'aurait pu encoder cette information sans prescience prophétique ou capacité computationnelle hyper-avancée. Bien que la méthodologie ait été contestée (McKay et al., Statistical Science, 1999), l'article original a passé l'évaluation par les pairs dans une revue statistique de premier plan et n'a pas été définitivement réfuté. La possibilité d'informations encodées sous la surface du texte demeure une question ouverte cohérente avec une paternité divine.",
-        "es": "En 1994, un estudio revisado por pares de Witztum, Rips y Rosenberg (Statistical Science 9:3) demostró que los nombres de famosos rabinos medievales emparejados con sus fechas exactas de nacimiento o muerte estaban codificados en el texto de la Torá mediante secuencias de letras equidistantes a una tasa que excede ampliamente la probabilidad estadística (p < 1/62.500). Dado que estas figuras históricas vivieron miles de años después de que se escribiera el texto, un autor humano no podría haber codificado esta información sin presciencia profética o capacidad computacional hiperavanzada. Aunque la metodología ha sido cuestionada (McKay et al., Statistical Science, 1999), el artículo original pasó la revisión por pares en una destacada revista de estadística y no ha sido refutado definitivamente. La posibilidad de información codificada bajo la superficie del texto sigue siendo una cuestión abierta consistente con la autoría divina."
-      },
-      "s": "Haralick, Robert M.; Torah Codes: Rudundant Encoding; City University of New York",
-      "u": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=9884414ff8612a386b9419afc380680c5b3e05c5",
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "date_sort": -1400
-    },
-    {
-      "layer": "coherence",
-      "t": {
-        "en": "Legal Engineering and the Anti-Monarchical Framework",
-        "he": "הנדסה משפטית והמסגרת האנטי-מונרכית",
-        "fr": "L'ingénierie juridique et le cadre anti-monarchique",
-        "es": "La ingeniería legal y el marco antimonárquico"
-      },
-      "e": {
-        "en": "In ancient Egypt, Babylon, and Mesopotamia, law codes (like Hammurabi's) positioned the king as the supreme author or executor of law. The Torah, conversely, subjects the king to the law (Deut. 17:14–20): the monarch is forbidden from amassing excessive wealth, horses, or wives, and must personally write and carry a copy of the law. Land ownership belongs permanently to families via the Jubilee system, preventing a monarch from seizing feudal control. No human ruler or elite priesthood would intentionally fabricate a legal system that structurally strips themselves of absolute monarchical power, economic monopoly, and sovereign immunity. This anti-monarchical constitutional design is inconsistent with a priestly or royal forgery and consistent with a divine legislator whose authority transcends monarchy.",
-        "he": "במצרים העתיקה, בבבל ובמסופוטמיה, קודי חוקים (כמו של חמורבי) מיקמו את המלך כמחבר או כמבצע העליון של החוק. התורה, לעומת זאת, מכפיפה את המלך לחוק (דברים יז:יד-כ): אסור למונרך לצבור עושר, סוסים או נשים בהיקף מופרז, ועליו לכתוב ולשאת עותק של החוק באופן אישי. בעלות על קרקע שייכת לצמיתות למשפחות באמצעות מערכת היובל, המונעת ממונרך לתפוס שליטה פאודלית. שום שליט אנושי או כהונת עילית לא היו מזייפים בכוונה מערכת משפטית המפשיטה אותם מבחינה מבנית מכוח מונרכי מוחלט, ממונופול כלכלי ומחסינות ריבונית. עיצוב חוקתי אנטי-מונרכי זה אינו עקבי עם זיוף כהוני או מלכותי ועקבי עם מחוקק אלוקי שסמכותו חורגת מעבר למונרכיה.",
-        "fr": "Dans l'Égypte ancienne, à Babylone et en Mésopotamie, les codes de lois (comme celui de Hammurabi) positionnaient le roi comme l'auteur ou l'exécuteur suprême de la loi. La Torah, à l'inverse, soumet le roi à la loi (Deut. 17:14-20) : il est interdit au monarque d'amasser des richesses, des chevaux ou des épouses en excès, et il doit personnellement écrire et porter une copie de la loi. La propriété foncière appartient de façon permanente aux familles via le système du Jubilé, empêchant un monarque de s'emparer d'un contrôle féodal. Aucun dirigeant humain ni sacerdoce d'élite ne fabriquerait intentionnellement un système juridique qui les dépouille structurellement du pouvoir monarchique absolu, du monopole économique et de l'immunité souveraine. Cette conception constitutionnelle anti-monarchique est incohérente avec une falsification sacerdotale ou royale et cohérente avec un législateur divin dont l'autorité transcende la monarchie.",
-        "es": "En el antiguo Egipto, Babilonia y Mesopotamia, los códigos legales (como el de Hammurabi) posicionaban al rey como el autor o ejecutor supremo de la ley. La Torá, por el contrario, somete al rey a la ley (Deut. 17:14-20): al monarca se le prohíbe acumular riqueza, caballos o esposas en exceso, y debe escribir y llevar personalmente una copia de la ley. La propiedad de la tierra pertenece permanentemente a las familias mediante el sistema del Jubileo, impidiendo que un monarca se apodere del control feudal. Ningún gobernante humano o sacerdocio de élite fabricaría intencionalmente un sistema legal que los despoje estructuralmente del poder monárquico absoluto, el monopolio económico y la inmunidad soberana. Este diseño constitucional antimonárquico es inconsistente con una falsificación sacerdotal o real y consistente con un legislador divino cuya autoridad trasciende la monarquía."
-      },
-      "s": "Deuteronomy 17 – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Deuteronomy_17",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1440
-    },
-    {
-      "layer": "coherence",
-      "t": {
-        "en": "Structural Immunity to the Sorites Paradox — Teleological Unity of Law",
-        "he": "חסינות מבנית לפרדוקס הערימה — אחדות תכליתית של החוק",
-        "fr": "Immunité structurelle au paradoxe sorite — unité téléologique de la loi",
-        "es": "Inmunidad estructural a la paradoja sorites — unidad teleológica de la ley"
-      },
-      "e": {
-        "en": "Secular legal codes (the U.S. Constitution, Roman Civil Law) suffer from the Sorites Paradox — gradual degradation requiring continuous amendments, court overrules, and localized corrections to fix unforeseen contradictions. The written Torah outlines a highly compressed, interlocking grid of moral, civil, and ritual law that completely dovetails with the Oral Torah framework across thousands of years of varying economic and social climates without requiring structural rewrite. The system operates with architectural legal completeness — a macro-intellect that calculated every peripheral downstream application across millennia. No known human legislative project of comparable scope has achieved this level of self-consistent legal coherence without iterative revision. This is consistent with a divine author who designed the full legal system simultaneously rather than incrementally.",
-        "he": "קודים משפטיים חילוניים (החוקה האמריקאית, המשפט האזרחי הרומי) סובלים מפרדוקס הערימה — התדרדרות הדרגתית המחייבת תיקונים רציפים, ביטולי פסיקה, ותיקונים מקומיים כדי לפתור סתירות בלתי צפויות. התורה שבכתב משרטטת רשת דחוסה ומשולבת של חוק מוסרי, אזרחי וטקסי המשתלבת לחלוטין עם מסגרת התורה שבעל פה על פני אלפי שנים של אקלים כלכלי וחברתי משתנה מבלי לדרוש שכתוב מבני. המערכת פועלת בשלמות משפטית ארכיטקטונית — מקרו-שכל שחישב כל יישום היקפי במורד הזרם על פני אלפי שנים. שום פרויקט חקיקה אנושי ידוע בהיקף דומה לא השיג רמה זו של קוהרנטיות משפטית עקבית-עצמית ללא תיקון איטרטיבי. הדבר עולה בקנה אחד עם מחבר אלוקי שתכנן את המערכת המשפטית המלאה בו-זמנית ולא באופן הדרגתי.",
-        "fr": "Les codes juridiques laïcs (la Constitution américaine, le droit civil romain) souffrent du paradoxe sorite — une dégradation progressive nécessitant des amendements continus, des revirements jurisprudentiels, et des corrections localisées pour résoudre des contradictions imprévues. La Torah écrite esquisse une grille hautement compressée et imbriquée de lois morales, civiles et rituelles qui s'emboîte complètement avec le cadre de la Torah orale à travers des milliers d'années de climats économiques et sociaux variables sans nécessiter de réécriture structurelle. Le système opère avec une complétude juridique architecturale — un macro-intellect ayant calculé chaque application périphérique en aval à travers les millénaires. Aucun projet législatif humain connu d'ampleur comparable n'a atteint ce niveau de cohérence juridique auto-consistante sans révision itérative. Ceci est cohérent avec un auteur divin qui a conçu le système juridique complet simultanément plutôt qu'incrémentalement.",
-        "es": "Los códigos legales seculares (la Constitución de EE.UU., el Derecho Civil Romano) sufren la paradoja sorites — degradación gradual que requiere enmiendas continuas, revocaciones judiciales y correcciones localizadas para resolver contradicciones imprevistas. La Torá escrita traza una cuadrícula altamente comprimida e interconectada de leyes morales, civiles y rituales que encaja completamente con el marco de la Torá Oral a lo largo de miles de años de climas económicos y sociales variables sin requerir reescritura estructural. El sistema opera con completitud legal arquitectónica — un macrointelecto que calculó cada aplicación periférica derivada a lo largo de milenios. Ningún proyecto legislativo humano conocido de alcance comparable ha logrado este nivel de coherencia legal autoconsistente sin revisión iterativa. Esto es consistente con un autor divino que diseñó el sistema legal completo simultáneamente en lugar de incrementalmente."
-      },
-      "s": "Rubenstein, Jeffrey L.; Michael Berger. ''Rabbinic Authority.'' Oxford: Oxford University Press, 1998. xii, 226 pp.; AJS Review; 2002; 26; pp. 356–359; DOI: 10.1017/S0364009402250114",
-      "u": "https://doi.org/10.1017/S0364009402250114",
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "date_sort": -1440
-    },
-    {
-      "layer": "coherence",
-      "t": {
-        "en": "Non-Linear Inter-Book Chiasmus Cross-Referencing",
-        "he": "הפניה-צולבת כיאסטית בין-ספרית לא-לינארית",
-        "fr": "Référencement croisé chiastique inter-livres non linéaire",
-        "es": "Referenciación cruzada quiástica entre libros no lineal"
-      },
-      "e": {
-        "en": "Beyond localized chiasmus within single passages, macro-structural chiasms span entire books written across different narrative timelines. Structural events in Bereishis (descent into Egypt, family fracturing) directly mirror, in reverse order, macro-events at the end of Devarim and Joshua (ascent into Canaan, tribal unified settlement). If the text were a patchwork of separate fragments stitched together during the Second Temple period, as critics argue, it would be mathematically impossible to maintain perfect non-linear geometric reflection across books without distorting the surface readability of the narrative. Such cross-book chiastic architecture requires a single mind with simultaneous awareness of the complete five-book structure — inconsistent with the gradual compilation model and consistent with unified divine authorship.",
-        "he": "מעבר לכיאזמוס מקומי בתוך קטעים בודדים, כיאזמים מבניים-על משתרעים על ספרים שלמים שנכתבו על פני צירי זמן נרטיביים שונים. אירועים מבניים בבראשית (ירידה למצרים, פירוק המשפחה) משקפים ישירות, בסדר הפוך, מקרו-אירועים בסוף דברים ויהושע (עלייה לכנען, התיישבות שבטית מאוחדת). אם הטקסט היה טלאי של שברים נפרדים שנתפרו יחד בתקופת בית שני, כפי שטוענים המבקרים, היה בלתי אפשרי מבחינה מתמטית לשמור על השתקפות גיאומטרית לא-לינארית מושלמת על פני ספרים מבלי לעוות את קריאות פני השטח של הנרטיב. ארכיטקטורה כיאסטית בין-ספרית כזו מחייבת מוח יחיד עם מודעות בו-זמנית למבנה חמשת הספרים השלם — בלתי עקבי עם מודל הליקוט ההדרגתי ועקבי עם מחברות אלוקית מאוחדת.",
-        "fr": "Au-delà du chiasme localisé au sein de passages uniques, des chiasmes macro-structurels s'étendent sur des livres entiers écrits selon différentes chronologies narratives. Les événements structurels de la Genèse (descente en Égypte, fracturation familiale) reflètent directement, en ordre inverse, les macro-événements de la fin du Deutéronome et de Josué (montée en Canaan, installation tribale unifiée). Si le texte était un patchwork de fragments séparés cousus ensemble durant la période du Second Temple, comme le prétendent les critiques, il serait mathématiquement impossible de maintenir une réflexion géométrique non linéaire parfaite à travers les livres sans déformer la lisibilité de surface du récit. Une telle architecture chiastique inter-livres exige un esprit unique ayant une conscience simultanée de la structure complète des cinq livres — incohérente avec le modèle de compilation graduelle et cohérente avec une paternité divine unifiée.",
-        "es": "Más allá del quiasmo localizado dentro de pasajes individuales, los quiasmos macroestructurales abarcan libros enteros escritos a través de diferentes cronologías narrativas. Los eventos estructurales en Génesis (descenso a Egipto, fractura familiar) reflejan directamente, en orden inverso, los macroeventos al final de Deuteronomio y Josué (ascenso a Canaán, asentamiento tribal unificado). Si el texto fuera un mosaico de fragmentos separados cosidos durante el período del Segundo Templo, como argumentan los críticos, sería matemáticamente imposible mantener una reflexión geométrica no lineal perfecta a través de los libros sin distorsionar la legibilidad superficial de la narrativa. Tal arquitectura quiástica entre libros requiere una mente única con conciencia simultánea de la estructura completa de los cinco libros — inconsistente con el modelo de compilación gradual y consistente con una autoría divina unificada."
-      },
-      "s": "Chiasmus – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Chiasmus",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1800
-    },
-    {
-      "layer": "coherence",
-      "t": {
-        "en": "The 'Three Lies' Game-Theoretic Elimination Argument",
-        "he": "טיעון החיסול התורת-משחקי של 'שלושת השקרים'",
-        "fr": "L'argument d'élimination théorico-ludique des « trois mensonges »",
-        "es": "El argumento de eliminación teórico-lúdica de las 'tres mentiras'"
-      },
-      "e": {
-        "en": "A game-theoretic analysis of how a national mass-miracle claim could be introduced to a population shows that all three possible entry vectors for fabrication fail under sociological scrutiny. (1) Present-tense fabrication: An author cannot tell a living population 'You saw this' — they would immediately deny it. (2) Future-tense fabrication: Impossible, since the text explicitly claims the event already happened. (3) Past-tense fabrication (the 'rediscovery' theory): The book contains continuous, highly intrusive everyday laws tied to the alleged past event (tefillin, kashrut, Shabbos). If handed a book claiming 'Your ancestors kept these complex laws for centuries because of a massive national revelation,' the nation would reply, 'If our parents did this, why have we never heard of it, and why aren't we practicing it?' Because all three deception vectors fail, the national revelation claim is positioned — under rational game theory — as a historical reality with no plausible fabrication mechanism.",
-        "he": "ניתוח תורת-משחקי של האופן שבו ניתן להציג טענת נס-המוני לאומית לאוכלוסייה מראה שכל שלושת וקטורי הכניסה האפשריים לזיוף נכשלים בבחינה סוציולוגית. (1) זיוף בהווה: מחבר אינו יכול לומר לאוכלוסייה חיה \"אתם ראיתם זאת\" — הם היו מכחישים מיד. (2) זיוף בעתיד: בלתי אפשרי, שכן הטקסט טוען במפורש שהאירוע כבר קרה. (3) זיוף בעבר (תיאוריית ה\"גילוי-מחדש\"): הספר מכיל חוקים יומיומיים רציפים וחודרניים ביותר הקשורים לאירוע העבר הנטען (תפילין, כשרות, שבת). אם היו מוסרים לאומה ספר הטוען \"אבותיכם שמרו חוקים מורכבים אלה במשך מאות שנים בגלל התגלות לאומית עצומה\", האומה הייתה עונה, \"אם הורינו עשו זאת, מדוע מעולם לא שמענו על כך, ומדוע איננו מקיימים זאת?\" מכיוון שכל שלושת וקטורי ההונאה נכשלים, טענת ההתגלות הלאומית ממוקמת — תחת תורת משחקים רציונלית — כמציאות היסטורית ללא מנגנון זיוף סביר.",
-        "fr": "Une analyse théorico-ludique de la manière dont une revendication de miracle national de masse pourrait être introduite à une population montre que les trois vecteurs d'entrée possibles pour une fabrication échouent sous examen sociologique. (1) Fabrication au présent : un auteur ne peut dire à une population vivante « vous avez vu cela » — elle le nierait immédiatement. (2) Fabrication au futur : impossible, puisque le texte affirme explicitement que l'événement a déjà eu lieu. (3) Fabrication au passé (la théorie de la « redécouverte ») : le livre contient des lois quotidiennes continues et hautement intrusives liées à l'événement passé allégué (tefillin, cacherout, Chabbat). Si l'on remettait à la nation un livre affirmant « vos ancêtres ont observé ces lois complexes pendant des siècles à cause d'une révélation nationale massive », la nation répondrait : « Si nos parents faisaient cela, pourquoi n'en avons-nous jamais entendu parler, et pourquoi ne le pratiquons-nous pas ? » Parce que les trois vecteurs de tromperie échouent, la revendication de révélation nationale est positionnée — sous une théorie des jeux rationnelle — comme une réalité historique sans mécanisme de fabrication plausible.",
-        "es": "Un análisis teórico-lúdico de cómo podría introducirse una afirmación de milagro masivo nacional a una población muestra que los tres vectores de entrada posibles para la fabricación fallan bajo escrutinio sociológico. (1) Fabricación en presente: un autor no puede decirle a una población viva \"vosotros visteis esto\" — lo negarían inmediatamente. (2) Fabricación en futuro: imposible, ya que el texto afirma explícitamente que el evento ya sucedió. (3) Fabricación en pasado (la teoría del \"redescubrimiento\"): el libro contiene leyes cotidianas continuas y altamente intrusivas ligadas al supuesto evento pasado (tefilín, kashrut, Shabat). Si se entregara a la nación un libro que afirma \"vuestros antepasados guardaron estas leyes complejas durante siglos debido a una revelación nacional masiva\", la nación respondería: \"Si nuestros padres hicieron esto, ¿por qué nunca hemos oído de ello, y por qué no lo practicamos?\" Debido a que los tres vectores de engaño fallan, la afirmación de revelación nacional se posiciona — bajo teoría de juegos racional — como una realidad histórica sin mecanismo de fabricación plausible."
-      },
-      "s": "Kuzari argument – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Kuzari_argument",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1440
-    },
-    {
-      "layer": "coherence",
-      "t": {
-        "en": "The Kol Torah — Auditory Dimension of Sinai as Corroborating Feature",
-        "he": "קול תורה — הממד השמיעתי של סיני כמאפיין מאשש",
-        "fr": "Kol Torah — la dimension auditive du Sinaï comme trait corroborant",
-        "es": "Kol Torá — la dimensión auditiva del Sinaí como rasgo corroborante"
-      },
-      "e": {
-        "en": "Shemos 20:15 records: 'All the people saw the sounds' (וְכָל הָעָם רֹאִים אֶת הַקּוֹלֹת) — a synesthetic description of the Sinai theophany. The Midrash (Mekhilta de-Rabbi Ishmael, Yitro) and later rabbinic commentary analyze this as a description of an exceptional multi-sensory experience. The mixing of auditory and visual senses (seeing sounds) corresponds to synaesthetic neurological phenomena that occur during extreme sensory overload — consistent with hundreds of thousands of people undergoing a profound shared perceptual experience simultaneously. A human author inventing a theophany would describe conventional visual phenomena; the preservation of this unusual synesthetic description is consistent with authentic transmission of an extraordinary perceptual event.",
-        "he": "שמות כ:טו מתעד: \"וכל העם רואים את הקולות\" — תיאור סינסתטי של ההתגלות בסיני. המדרש (מכילתא דרבי ישמעאל, יתרו) ופרשנות רבנית מאוחרת מנתחים זאת כתיאור של חוויה רב-חושית יוצאת דופן. ערבוב החושים השמיעתי והחזותי (ראיית קולות) מקביל לתופעות נוירולוגיות סינסתטיות המתרחשות במהלך עומס חושי קיצוני — עולה בקנה אחד עם מאות אלפי אנשים העוברים חוויה תפיסתית משותפת ועמוקה בו-זמנית. מחבר אנושי הממציא התגלות היה מתאר תופעות חזותיות קונבנציונליות; שימור התיאור הסינסתטי החריג הזה עולה בקנה אחד עם מסירה אותנטית של אירוע תפיסתי יוצא דופן.",
-        "fr": "Exode 20:15 rapporte : « Tout le peuple voyait les sons » — une description synesthésique de la théophanie du Sinaï. Le Midrash (Mekhilta de-Rabbi Ishmaël, Yitro) et le commentaire rabbinique ultérieur analysent cela comme la description d'une expérience multisensorielle exceptionnelle. Le mélange des sens auditif et visuel (voir des sons) correspond à des phénomènes neurologiques synesthésiques survenant lors d'une surcharge sensorielle extrême — cohérent avec des centaines de milliers de personnes vivant simultanément une profonde expérience perceptive partagée. Un auteur humain inventant une théophanie décrirait des phénomènes visuels conventionnels ; la préservation de cette description synesthésique inhabituelle est cohérente avec la transmission authentique d'un événement perceptif extraordinaire.",
-        "es": "Éxodo 20:15 registra: \"Todo el pueblo veía los sonidos\" — una descripción sinestésica de la teofanía del Sinaí. El Midrash (Mejilta de-Rabí Ishmael, Yitró) y el comentario rabínico posterior analizan esto como una descripción de una experiencia multisensorial excepcional. La mezcla de sentidos auditivos y visuales (ver sonidos) corresponde a fenómenos neurológicos sinestésicos que ocurren durante una sobrecarga sensorial extrema — consistente con cientos de miles de personas experimentando simultáneamente una profunda experiencia perceptiva compartida. Un autor humano inventando una teofanía describiría fenómenos visuales convencionales; la preservación de esta inusual descripción sinestésica es consistente con la transmisión auténtica de un evento perceptivo extraordinario."
-      },
-      "s": "Theophany – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Theophany",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1312
-    },
-    {
-      "layer": "coherence",
-      "t": {
-        "en": "The 70 Languages Tradition — Universal Scope of the Sinai Revelation",
-        "he": "מסורת שבעים הלשונות — ההיקף האוניברסלי של התגלות סיני",
-        "fr": "La tradition des 70 langues — la portée universelle de la révélation du Sinaï",
-        "es": "La tradición de las 70 lenguas — el alcance universal de la revelación del Sinaí"
-      },
-      "e": {
-        "en": "The Talmud (Shabbos 88b) and Midrash record that the divine voice at Sinai was heard in all 70 languages of the world — a tradition corresponding to the Table of Nations (Bereishis 10). This claim reflects an awareness that the Torah's revelation was not merely a tribal event but a message to all humanity, consistent with the Torah's universal ethical scope (the Seven Noahide Laws, Lev. 19's universal ethics). The preservation of this tradition in rabbinic literature demonstrates the community's understanding of the Sinai revelation as a world-historical event, not merely a national one — consistent with a divine author whose concern extends to all humanity.",
-        "he": "התלמוד (שבת פח ע\"ב) והמדרש מתעדים שהקול האלוקי בסיני נשמע בכל שבעים לשונות העולם — מסורת המקבילה לרשימת האומות (בראשית י). טענה זו משקפת מודעות שהתגלות התורה לא הייתה רק אירוע שבטי אלא מסר לכל האנושות, עולה בקנה אחד עם ההיקף האתי האוניברסלי של התורה (שבע מצוות בני נח, האתיקה האוניברסלית של ויקרא יט). שימור מסורת זו בספרות הרבנית מדגים את הבנת הקהילה את התגלות סיני כאירוע היסטורי-עולמי, ולא רק לאומי — עולה בקנה אחד עם מחבר אלוקי שדאגתו משתרעת לכל האנושות.",
-        "fr": "Le Talmud (Chabbat 88b) et le Midrash rapportent que la voix divine au Sinaï fut entendue dans les 70 langues du monde — une tradition correspondant à la Table des Nations (Genèse 10). Cette affirmation reflète une conscience que la révélation de la Torah n'était pas simplement un événement tribal mais un message à toute l'humanité, cohérent avec la portée éthique universelle de la Torah (les Sept Lois noahides, l'éthique universelle de Lévitique 19). La préservation de cette tradition dans la littérature rabbinique démontre la compréhension par la communauté de la révélation du Sinaï comme un événement historique mondial, non simplement national — cohérent avec un auteur divin dont la préoccupation s'étend à toute l'humanité.",
-        "es": "El Talmud (Shabat 88b) y el Midrash registran que la voz divina en el Sinaí fue escuchada en las 70 lenguas del mundo — una tradición que corresponde a la Tabla de las Naciones (Génesis 10). Esta afirmación refleja una conciencia de que la revelación de la Torá no fue meramente un evento tribal sino un mensaje para toda la humanidad, consistente con el alcance ético universal de la Torá (las Siete Leyes Noájidas, la ética universal de Levítico 19). La preservación de esta tradición en la literatura rabínica demuestra la comprensión de la comunidad sobre la revelación del Sinaí como un evento histórico mundial, no meramente nacional — consistente con un autor divino cuya preocupación se extiende a toda la humanidad."
-      },
-      "s": "Table of Nations – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Table_of_Nations",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1800
-    },
-    {
-      "layer": "coherence",
-      "t": {
-        "en": "The Argument from the Unchanging Festival Calendar — Synchronization",
-        "he": "הטיעון מלוח החגים הבלתי משתנה — סינכרוניזציה",
-        "fr": "L'argument du calendrier festif immuable — synchronisation",
-        "es": "El argumento del calendario festivo inmutable — sincronización"
-      },
-      "e": {
-        "en": "The Jewish festival calendar (Rosh Hashanah, Yom Kippur, Sukkot, Pesach, Shavuot) has been observed on the same dates in the Hebrew calendar for 3,300 years across all Jewish communities worldwide — without a central enforcement authority after 70 CE. Global synchronization of festival observance across isolated diaspora communities (Yemen, India, Morocco, Poland, Ethiopia) without communication or institutional coercion is sociologically extraordinary. This synchronization is only possible because each community independently preserved the same calendar inherited from a single authoritative source — consistent with a divinely given calendar embedded in a public national covenant.",
-        "he": "לוח החגים היהודי (ראש השנה, יום כיפור, סוכות, פסח, שבועות) נשמר באותם תאריכים בלוח העברי במשך 3,300 שנה בכל קהילות ישראל ברחבי העולם — ללא סמכות אכיפה מרכזית לאחר 70 לספירה. סינכרוניזציה עולמית של שמירת חגים על פני קהילות פזורה מבודדות (תימן, הודו, מרוקו, פולין, אתיופיה) ללא תקשורת או כפייה מוסדית היא יוצאת דופן מבחינה סוציולוגית. סינכרוניזציה זו אפשרית רק מכיוון שכל קהילה שימרה באופן בלתי תלוי את אותו לוח שנה שירשה ממקור סמכותי יחיד — עולה בקנה אחד עם לוח שנה שניתן אלוקית והוטמע בברית לאומית ציבורית.",
-        "fr": "Le calendrier festif juif (Roch Hachana, Yom Kippour, Souccot, Pessa'h, Chavouot) a été observé aux mêmes dates du calendrier hébraïque pendant 3 300 ans dans toutes les communautés juives du monde — sans autorité d'application centrale après 70 apr. J.-C. La synchronisation mondiale de l'observance festive à travers des communautés diasporiques isolées (Yémen, Inde, Maroc, Pologne, Éthiopie) sans communication ni coercition institutionnelle est sociologiquement extraordinaire. Cette synchronisation n'est possible que parce que chaque communauté a indépendamment préservé le même calendrier hérité d'une source unique faisant autorité — cohérent avec un calendrier divinement donné intégré dans une alliance nationale publique.",
-        "es": "El calendario festivo judío (Rosh Hashaná, Yom Kipur, Sucot, Pésaj, Shavuot) ha sido observado en las mismas fechas del calendario hebreo durante 3.300 años en todas las comunidades judías del mundo — sin autoridad central de aplicación después del 70 d.C. La sincronización global de la observancia festiva a través de comunidades diaspóricas aisladas (Yemen, India, Marruecos, Polonia, Etiopía) sin comunicación ni coerción institucional es sociológicamente extraordinaria. Esta sincronización solo es posible porque cada comunidad preservó independientemente el mismo calendario heredado de una única fuente autoritativa — consistente con un calendario dado divinamente e incorporado en un pacto nacional público."
-      },
-      "s": "Jewish holidays – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Jewish_holidays",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1440
-    },
-    {
-      "layer": "coherence",
-      "t": {
         "en": "The Argument from the Coherence of the Sacrificial System",
         "he": "הטיעון מהקוהרנטיות של מערכת הקורבנות",
         "fr": "L'argument de la cohérence du système sacrificiel",
         "es": "El argumento de la coherencia del sistema sacrificial"
       },
       "e": {
-        "en": "The Levitical sacrificial system (Vayikra 1–7) is an extraordinarily complex legal-theological architecture: different categories of animal, different handling procedures, different purposes (olah, shelamim, chatat, asham), different priestly functions, and different gradations of atonement. Milgrom (Leviticus, Anchor Bible, 1991) demonstrated over three volumes that this system is internally coherent to a degree that presupposes unified theological design. No comparable ancient sacrificial system (Egyptian, Mesopotamian, Greek) achieves this level of systematic theological architecture — consistent with a divine author who designed the entire system simultaneously rather than through gradual ritual accretion.",
-        "he": "מערכת הקורבנות הלוויתית (ויקרא א-ז) היא ארכיטקטורה משפטית-תיאולוגית מורכבת באופן יוצא דופן: קטגוריות שונות של בעלי חיים, נהלי טיפול שונים, מטרות שונות (עולה, שלמים, חטאת, אשם), תפקידים כהוניים שונים, ודרגות שונות של כפרה. מילגרום (Leviticus, Anchor Bible, 1991) הראה לאורך שלושה כרכים שמערכת זו קוהרנטית פנימית ברמה המניחה עיצוב תיאולוגי מאוחד. שום מערכת קורבנות עתיקה דומה (מצרית, מסופוטמית, יוונית) אינה משיגה רמה זו של ארכיטקטורה תיאולוגית שיטתית — עולה בקנה אחד עם מחבר אלוקי שתכנן את המערכת כולה בו-זמנית ולא באמצעות הצטברות טקסית הדרגתית.",
-        "fr": "Le système sacrificiel lévitique (Lévitique 1-7) est une architecture juridico-théologique extraordinairement complexe : différentes catégories d'animaux, différentes procédures de manipulation, différentes finalités (ola, shelamim, hatat, acham), différentes fonctions sacerdotales, et différentes gradations d'expiation. Milgrom (Leviticus, Anchor Bible, 1991) a démontré sur trois volumes que ce système est cohérent en interne à un degré présupposant une conception théologique unifiée. Aucun système sacrificiel ancien comparable (égyptien, mésopotamien, grec) n'atteint ce niveau d'architecture théologique systématique — cohérent avec un auteur divin qui a conçu tout le système simultanément plutôt qu'à travers une accrétion rituelle graduelle.",
-        "es": "El sistema sacrificial levítico (Levítico 1-7) es una arquitectura jurídico-teológica extraordinariamente compleja: diferentes categorías de animales, diferentes procedimientos de manejo, diferentes propósitos (olá, shelamim, jatat, asham), diferentes funciones sacerdotales y diferentes gradaciones de expiación. Milgrom (Leviticus, Anchor Bible, 1991) demostró a lo largo de tres volúmenes que este sistema es internamente coherente hasta un grado que presupone un diseño teológico unificado. Ningún sistema sacrificial antiguo comparable (egipcio, mesopotámico, griego) alcanza este nivel de arquitectura teológica sistemática — consistente con un autor divino que diseñó todo el sistema simultáneamente en lugar de mediante acreción ritual gradual."
+        "en": "The offerings of Vayikra 1–7 form an ordered system rather than a loose collection of rites. They are distinguished by purpose — olah, minchah, shelamim, chatas and asham — and each has its own rules for the animal, the handling of the blood and who may eat from it. The sin-offering is graded by the sinner's position: a bull for the Kohen Gadol or the whole community, a male goat for a nasi, a female goat or lamb for an individual (Vayikra 4). It is also graded by means: a poor person may bring two birds, and the very poor a measure of flour (5:7–13). Jacob Milgrom's three-volume commentary (Leviticus, Anchor Bible, 1991–2001) traces the consistent logic that runs through these rules.",
+        "he": "הקרבנות שבויקרא א–ז יוצרים מערכת מסודרת ולא אוסף רופף של טקסים. הם נבדלים לפי מטרתם — עולה, מנחה, שלמים, חטאת ואשם — ולכל אחד דינים משלו לגבי הבהמה, עבודת הדם ומי אוכל ממנו. החטאת מדורגת לפי מעמד החוטא: פר לכהן הגדול או לעדה כולה, שעיר עזים לנשיא, שעירת עזים או כשבה ליחיד (ויקרא ד). היא מדורגת גם לפי יכולת: העני מביא שתי תורים או שני בני יונה, והדל ביותר עשירית האיפה סולת (ה:ז–יג). פירושו בן שלושת הכרכים של יעקב מילגרום (Leviticus, Anchor Bible, 1991–2001) מתחקה אחר ההיגיון העקבי העובר בדינים אלה.",
+        "fr": "Les offrandes de Lévitique 1-7 forment un système ordonné plutôt qu'un ensemble lâche de rites. Elles se distinguent par leur but — ola, minh'a, chelamim, h'atat et acham — et chacune a ses propres règles pour l'animal, le traitement du sang et ceux qui peuvent en manger. Le sacrifice expiatoire est gradué selon la position du fautif : un taureau pour le Grand Prêtre ou toute la communauté, un bouc pour un prince, une chèvre ou une brebis pour un particulier (Lévitique 4). Il l'est aussi selon les moyens : le pauvre peut apporter deux oiseaux, et le plus pauvre une mesure de farine (5:7-13). Le commentaire en trois volumes de Jacob Milgrom (Leviticus, Anchor Bible, 1991-2001) retrace la logique cohérente qui traverse ces règles.",
+        "es": "Las ofrendas de Levítico 1-7 forman un sistema ordenado y no una colección suelta de ritos. Se distinguen por su propósito — olá, minjá, shelamim, jatat y asham — y cada una tiene sus propias reglas sobre el animal, el manejo de la sangre y quién puede comer de ella. La ofrenda por el pecado se gradúa según la posición del pecador: un toro para el Sumo Sacerdote o toda la comunidad, un macho cabrío para un príncipe, una cabra o una cordera para un particular (Levítico 4). También se gradúa según los medios: el pobre puede traer dos aves, y el más pobre una medida de harina (5:7-13). El comentario en tres volúmenes de Jacob Milgrom (Leviticus, Anchor Bible, 1991-2001) sigue la lógica coherente que recorre estas reglas."
       },
-      "s": "Halbertal, Moshe; On sacrifice; Princeton University Press",
-      "u": "http://assets.press.princeton.edu/chapters/i9731.pdf",
+      "s": "Leviticus 1–7; J. Milgrom, Leviticus 1–16, 17–22, 23–27 (Anchor Bible, 1991–2001)",
+      "u": "https://www.sefaria.org/Leviticus.4.3",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -600
-    },
-    {
-      "layer": "coherence",
-      "t": {
-        "en": "The Argument from the Coherence of the Purity System",
-        "he": "הטיעון מהקוהרנטיות של מערכת הטהרה",
-        "fr": "L'argument de la cohérence du système de pureté",
-        "es": "El argumento de la coherencia del sistema de pureza"
-      },
-      "e": {
-        "en": "Vayikra 11–15 presents a comprehensive system of ritual purity covering food (kashrut), bodily discharges, skin conditions, and household mold — an interlocking system of categories that Mary Douglas (Purity and Danger, 1966; Leviticus as Literature, 1999) demonstrated possesses unified taxonomic coherence. The purity system reflects a single cosmological vision in which holiness is expressed through wholeness, category integrity, and boundary maintenance. No other ancient Near Eastern religious system contains a comparable unified purity theology. The coherence of the system across all its domains is consistent with a single divine author who designed the entire purity architecture simultaneously.",
-        "he": "ויקרא יא-טו מציג מערכת מקיפה של טהרה טקסית המכסה מזון (כשרות), הפרשות גוף, מצבי עור, ועובש בבית — מערכת קטגוריות משולבת שמרי דאגלס (Purity and Danger, 1966; Leviticus as Literature, 1999) הראתה שהיא בעלת קוהרנטיות טקסונומית מאוחדת. מערכת הטהרה משקפת חזון קוסמולוגי יחיד שבו קדושה מתבטאת דרך שלמות, שלמות קטגורית, ושמירת גבולות. שום מערכת דתית אחרת מהמזרח הקדום אינה מכילה תיאולוגיית טהרה מאוחדת דומה. הקוהרנטיות של המערכת על פני כל תחומיה עולה בקנה אחד עם מחבר אלוקי יחיד שתכנן את כל ארכיטקטורת הטהרה בו-זמנית.",
-        "fr": "Lévitique 11-15 présente un système complet de pureté rituelle couvrant l'alimentation (cacherout), les écoulements corporels, les affections cutanées, et les moisissures domestiques — un système imbriqué de catégories que Mary Douglas (Purity and Danger, 1966 ; Leviticus as Literature, 1999) a démontré posséder une cohérence taxonomique unifiée. Le système de pureté reflète une vision cosmologique unique dans laquelle la sainteté s'exprime par la complétude, l'intégrité catégorielle, et le maintien des frontières. Aucun autre système religieux du Proche-Orient ancien ne contient une théologie de la pureté unifiée comparable. La cohérence du système à travers tous ses domaines est cohérente avec un unique auteur divin ayant conçu toute l'architecture de pureté simultanément.",
-        "es": "Levítico 11-15 presenta un sistema integral de pureza ritual que cubre alimentos (kashrut), secreciones corporales, condiciones cutáneas y moho doméstico — un sistema interconectado de categorías que Mary Douglas (Purity and Danger, 1966; Leviticus as Literature, 1999) demostró que posee coherencia taxonómica unificada. El sistema de pureza refleja una visión cosmológica única en la que la santidad se expresa mediante la integridad, la integridad categorial y el mantenimiento de límites. Ningún otro sistema religioso del antiguo Cercano Oriente contiene una teología de pureza unificada comparable. La coherencia del sistema a través de todos sus dominios es consistente con un único autor divino que diseñó toda la arquitectura de pureza simultáneamente."
-      },
-      "s": "Tumah and taharah – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Tumah_and_taharah",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1400
+      "date_sort": -1312
     },
     {
       "layer": "coherence",
@@ -3655,16 +3475,16 @@
         "es": "El argumento de la arquitectura simbólica del Tabernáculo"
       },
       "e": {
-        "en": "Archaeologist and biblical scholar Michael Homan (To Your Tents, O Israel, 2000) and others have documented that the Tabernacle's structure and furniture reflect a sophisticated symbolic theology: the three zones of increasing holiness (outer court, holy place, holy of holies) correspond to decreasing human access and increasing divine presence. The furniture arrangement mirrors the cosmos (menorah = stars/light, table = sustenance, incense altar = prayer/heaven, Ark = divine presence). This symbolically coherent three-zone architecture is identical to Canaanite and Egyptian temple structures in its spatial logic, confirming its authentic ancient Near Eastern character while being theologically distinctive in its content — consistent with a divine author communicating through culturally comprehensible forms.",
-        "he": "הארכיאולוג וחוקר המקרא מייקל הומן (To Your Tents, O Israel, 2000) ואחרים תיעדו שמבנה המשכן וריהוטו משקפים תיאולוגיה סמלית מתוחכמת: שלושת אזורי הקדושה העולה (חצר חיצונית, קודש, קודש הקודשים) תואמים לגישה אנושית פוחתת ולנוכחות אלוקית גוברת. סידור הריהוט משקף את הקוסמוס (מנורה = כוכבים/אור, שולחן = פרנסה, מזבח הקטורת = תפילה/שמים, ארון = נוכחות אלוקית). ארכיטקטורת שלושת האזורים הקוהרנטית סמלית זו זהה למבני מקדשים כנעניים ומצריים בהיגיון המרחבי שלה, המאשר את אופייה האותנטי מהמזרח הקדום תוך היותה מובחנת תיאולוגית בתוכנה — עולה בקנה אחד עם מחבר אלוקי המתקשר דרך צורות מובנות תרבותית.",
-        "fr": "L'archéologue et bibliste Michael Homan (To Your Tents, O Israel, 2000) et d'autres ont documenté que la structure et le mobilier du Tabernacle reflètent une théologie symbolique sophistiquée : les trois zones de sainteté croissante (parvis extérieur, lieu saint, saint des saints) correspondent à un accès humain décroissant et une présence divine croissante. La disposition du mobilier reflète le cosmos (menorah = étoiles/lumière, table = subsistance, autel de l'encens = prière/ciel, Arche = présence divine). Cette architecture symboliquement cohérente à trois zones est identique aux structures de temples cananéens et égyptiens dans sa logique spatiale, confirmant son caractère authentiquement proche-oriental ancien tout en étant théologiquement distinctive dans son contenu — cohérent avec un auteur divin communiquant à travers des formes culturellement compréhensibles.",
-        "es": "El arqueólogo y erudito bíblico Michael Homan (To Your Tents, O Israel, 2000) y otros han documentado que la estructura y el mobiliario del Tabernáculo reflejan una teología simbólica sofisticada: las tres zonas de santidad creciente (atrio exterior, lugar santo, santo de los santos) corresponden a un acceso humano decreciente y una presencia divina creciente. La disposición del mobiliario refleja el cosmos (menorá = estrellas/luz, mesa = sustento, altar del incienso = oración/cielo, Arca = presencia divina). Esta arquitectura simbólicamente coherente de tres zonas es idéntica a las estructuras de templos cananeos y egipcios en su lógica espacial, confirmando su carácter auténticamente del antiguo Cercano Oriente mientras es teológicamente distintiva en su contenido — consistente con un autor divino que se comunica a través de formas culturalmente comprensibles."
+        "en": "The Mishkan is built as a graded system of holiness. Its materials change as one moves inward — bronze in the courtyard, gold inside the Tent — and so do its fabrics and its access: anyone may enter the courtyard, only kohanim the Holy, and only the Kohen Gadol the Holy of Holies, once a year (Vayikra 16). Menahem Haran (Temples and Temple-Service in Ancient Israel, 1978) showed how consistently these gradations run through the Torah's descriptions. The three-part layout itself matches Iron Age temples in the region, such as those at Ain Dara and Tell Tayinat in Syria, placing the Mishkan's design firmly in its ancient setting while its content — no image of the deity, only the Ark and the tablets — is its own.",
+        "he": "המשכן בנוי כמערכת מדורגת של קדושה. חומריו משתנים ככל שנכנסים פנימה — נחושת בחצר, זהב בתוך האוהל — וכך גם הבדים והגישה: כל אדם רשאי להיכנס לחצר, רק כהנים לקודש, ורק הכהן הגדול לקודש הקדשים, פעם אחת בשנה (ויקרא טז). מנחם הרן (\"תקופות ומוסדות במקרא\" / Temples and Temple-Service in Ancient Israel, 1978) הראה עד כמה בעקביות עוברות הדרגות האלה בתיאורי התורה. המבנה המשולש עצמו תואם מקדשים מתקופת הברזל באזור, כמו אלה של עין דארה ותל תעינאת בסוריה, ומעגן את תכנון המשכן ברקעו הקדום, ואילו תוכנו — בלי פסל של האל, רק הארון והלוחות — ייחודי לו.",
+        "fr": "Le Michkan est construit comme un système gradué de sainteté. Ses matériaux changent à mesure qu'on avance vers l'intérieur — cuivre dans le parvis, or à l'intérieur de la Tente — ainsi que ses tissus et son accès : tous peuvent entrer dans le parvis, seuls les prêtres dans le Saint, et seul le Grand Prêtre dans le Saint des Saints, une fois par an (Lévitique 16). Menahem Haran (Temples and Temple-Service in Ancient Israel, 1978) a montré avec quelle constance ces gradations traversent les descriptions de la Torah. Le plan tripartite lui-même correspond aux temples de l'âge du Fer de la région, comme ceux d'Aïn Dara et de Tell Tayinat en Syrie, ancrant la conception du Michkan dans son cadre antique, tandis que son contenu — aucune image de la divinité, seulement l'Arche et les tables — lui est propre.",
+        "es": "El Mishkán está construido como un sistema graduado de santidad. Sus materiales cambian a medida que se avanza hacia el interior — cobre en el atrio, oro dentro de la Tienda — y también sus telas y su acceso: cualquiera puede entrar en el atrio, solo los sacerdotes en el Lugar Santo, y solo el Sumo Sacerdote en el Santo de los Santos, una vez al año (Levítico 16). Menahem Haran (Temples and Temple-Service in Ancient Israel, 1978) mostró con qué constancia recorren estas gradaciones las descripciones de la Torá. La planta tripartita misma coincide con templos de la Edad del Hierro de la región, como los de Ain Dara y Tell Tayinat en Siria, anclando el diseño del Mishkán en su contexto antiguo, mientras que su contenido — ninguna imagen de la divinidad, solo el Arca y las tablas — le es propio."
       },
-      "s": "Smith, Mark S.; The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts; [[Oxford University Press]], USA",
-      "u": "https://books.google.com/books?id=n0v0NB5-n3sC&pg=PA153",
+      "s": "Exodus 26–27, 30; Leviticus 16; M. Haran, Temples and Temple-Service in Ancient Israel (1978)",
+      "u": "https://en.wikipedia.org/wiki/Tabernacle",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1440
+      "date_sort": -1312
     },
     {
       "layer": "coherence",
@@ -3675,36 +3495,17 @@
         "es": "El argumento de la coherencia de los datos censales de Números"
       },
       "e": {
-        "en": "Bamidbar 1 and 26 preserve two separate census counts of the Israelite tribes taken 38 years apart. The tribal totals are internally consistent — some tribes grew, some shrank, all in plausible proportions given the wilderness period's recorded events (plague reducing Simeon dramatically, Levi excluded from the military census for theological reasons). Colin Humphreys (The Miracles of Exodus, 2003) and others have analyzed the numerical data as internally consistent with a functioning ancient Near Eastern administrative record. The detailed tribal sub-unit data presupposes a genuine administrative infrastructure consistent with an actual desert camp rather than a legendary narrative.",
-        "he": "במדבר א וכו משמרים שני מפקדים נפרדים של שבטי ישראל שנערכו בהפרש של 38 שנה. סכומי השבטים עקביים פנימית — שבטים מסוימים גדלו, אחרים הצטמצמו, כולם בפרופורציות סבירות בהתחשב באירועי תקופת המדבר המתועדים (מגפה שהקטינה את שמעון באופן דרמטי, לוי הוצא מהמפקד הצבאי מטעמים תיאולוגיים). קולין המפריס (The Miracles of Exodus, 2003) ואחרים ניתחו את הנתונים המספריים כעקביים פנימית עם תיעוד מנהלי מתפקד מהמזרח הקדום. הנתונים המפורטים של תת-יחידות שבטיות מניחים תשתית מנהלית אמיתית העולה בקנה אחד עם מחנה מדברי בפועל ולא נרטיב אגדי.",
-        "fr": "Nombres 1 et 26 préservent deux recensements distincts des tribus israélites effectués à 38 ans d'intervalle. Les totaux tribaux sont cohérents en interne — certaines tribus ont augmenté, d'autres diminué, toutes dans des proportions plausibles compte tenu des événements enregistrés de la période du désert (une plaie réduisant Siméon de façon dramatique, Lévi exclu du recensement militaire pour des raisons théologiques). Colin Humphreys (The Miracles of Exodus, 2003) et d'autres ont analysé les données numériques comme cohérentes en interne avec un registre administratif proche-oriental ancien fonctionnel. Les données détaillées des sous-unités tribales présupposent une véritable infrastructure administrative cohérente avec un camp désertique réel plutôt qu'un récit légendaire.",
-        "es": "Números 1 y 26 preservan dos censos separados de las tribus israelitas realizados con 38 años de diferencia. Los totales tribales son internamente consistentes — algunas tribus crecieron, otras disminuyeron, todo en proporciones plausibles dados los eventos registrados del período del desierto (una plaga que redujo a Simeón dramáticamente, Leví excluido del censo militar por razones teológicas). Colin Humphreys (The Miracles of Exodus, 2003) y otros han analizado los datos numéricos como internamente consistentes con un registro administrativo funcional del antiguo Cercano Oriente. Los datos detallados de subunidades tribales presuponen una infraestructura administrativa genuina consistente con un campamento desértico real en lugar de una narrativa legendaria."
+        "en": "Bamidbar records two censuses of the tribes, taken 38 years apart (chapters 1 and 26), and their details fit together. 1. The totals are 603,550 and 601,730 (1:46; 26:51). 2. The largest single change matches the narrative: Shimon falls from 59,300 to 22,200 (1:23; 26:14), after the plague of Baal Peor, in which the prince of Shimon is named among the sinners (25:9, 14). 3. Levi is counted separately, from the age of one month (3:15, 3:39; 26:62). 4. The firstborn of Israel (22,273) are matched against the Levites (22,000), and the extra 273 are redeemed with silver (3:40–51) — a discrepancy with the Levite subtotals that the Talmud itself notices and explains (Bechoros 5a). Numbers this detailed and cross-checked read like an administrative record.",
+        "he": "ספר במדבר מתעד שני מפקדים של השבטים, שנערכו בהפרש של 38 שנה (פרקים א ו-כו), ופרטיהם מתיישבים זה עם זה. 1. הסכומים הם 603,550 ו-601,730 (א:מו; כו:נא). 2. השינוי הגדול ביותר תואם את הסיפור: שמעון יורד מ-59,300 ל-22,200 (א:כג; כו:יד), אחרי המגפה של בעל פעור, שבה נשיא בית אב לשמעוני נזכר בין החוטאים (כה:ט, יד). 3. לוי נמנה בנפרד, מבן חודש ומעלה (ג:טו, ג:לט; כו:סב). 4. בכורי ישראל (22,273) מועמדים מול הלויים (22,000), ו-273 העודפים נפדים בכסף (ג:מ–נא) — פער מול סכומי המשנה של הלויים שהגמרא עצמה שמה לב אליו ומסבירה (בכורות ה ע\"א). מספרים מפורטים ומוצלבים כאלה נקראים כתיעוד מנהלי.",
+        "fr": "Les Nombres rapportent deux recensements des tribus, faits à 38 ans d'intervalle (chapitres 1 et 26), et leurs détails concordent. 1. Les totaux sont de 603 550 et 601 730 (1:46 ; 26:51). 2. Le plus grand changement correspond au récit : Siméon passe de 59 300 à 22 200 (1:23 ; 26:14), après la plaie de Baal Péor, où un prince de la tribu de Siméon est nommé parmi les fautifs (25:9, 14). 3. Lévi est recensé à part, dès l'âge d'un mois (3:15, 3:39 ; 26:62). 4. Les premiers-nés d'Israël (22 273) sont mis en regard des Lévites (22 000), et les 273 en surnombre sont rachetés à prix d'argent (3:40-51) — un écart avec les sous-totaux des Lévites que le Talmud lui-même relève et explique (Bekhorot 5a). Des nombres aussi détaillés et recoupés se lisent comme un registre administratif.",
+        "es": "Números registra dos censos de las tribus, hechos con 38 años de diferencia (capítulos 1 y 26), y sus detalles encajan. 1. Los totales son 603.550 y 601.730 (1:46; 26:51). 2. El mayor cambio coincide con el relato: Simeón baja de 59.300 a 22.200 (1:23; 26:14), después de la plaga de Baal Peor, en la que un príncipe de la tribu de Simeón figura entre los pecadores (25:9, 14). 3. Leví se cuenta aparte, desde la edad de un mes (3:15, 3:39; 26:62). 4. Los primogénitos de Israel (22.273) se comparan con los levitas (22.000), y los 273 sobrantes se rescatan con plata (3:40-51) — una discrepancia con los subtotales de los levitas que el propio Talmud advierte y explica (Bejorot 5a). Números tan detallados y cotejados se leen como un registro administrativo."
       },
-      "s": "Fretheim, Terence E; Oxford Bible Commentary; 1998; Oxford University Press",
-      "u": "https://archive.org/details/oxfordbiblecomme0000unse",
+      "s": "Numbers 1:20–46, 3:14–51, 25:9–14, 26:5–62; Bechorot 5a",
+      "u": "https://www.sefaria.org/Numbers.26.14",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1272
-    },
-    {
-      "layer": "coherence",
-      "t": {
-        "en": "The Argument from the Omer Count — Agricultural Precision Embedded in Calendar",
-        "he": "הטיעון מספירת העומר — דיוק חקלאי המוטמע בלוח השנה",
-        "fr": "L'argument du compte du Omer — précision agricole intégrée au calendrier",
-        "es": "El argumento de la cuenta del Ómer — precisión agrícola incorporada al calendario"
-      },
-      "e": {
-        "en": "Vayikra 23:15–16 mandates counting 49 days (seven complete weeks) from the day after Pesach to Shavuot — the Omer count. This creates a precise 50-day bridge between the barley harvest (Pesach) and the wheat harvest (Shavuot), corresponding accurately to the agricultural cycle of the Land of Israel as documented by modern agricultural records and the Gezer Calendar. The precision of the festival calendar's alignment with the actual harvest cycles of the specific geography of the Land of Israel is consistent with a divine author who designed the calendar for that specific land — rather than a late author working in Babylon or Persia without knowledge of Canaanite agricultural cycles.",
-        "he": "ויקרא כג:טו-טז מצווה לספור 49 יום (שבעה שבועות שלמים) מהיום שאחרי פסח ועד שבועות — ספירת העומר. הדבר יוצר גשר מדויק בן 50 יום בין קציר השעורה (פסח) לקציר החיטה (שבועות), התואם במדויק למחזור החקלאי של ארץ ישראל כפי שמתועד בתיעוד חקלאי מודרני ובלוח גזר. דיוק ההתאמה של לוח החגים למחזורי הקציר בפועל של הגיאוגרפיה הספציפית של ארץ ישראל עולה בקנה אחד עם מחבר אלוקי שתכנן את לוח השנה עבור אותה ארץ ספציפית — ולא מחבר מאוחר הפועל בבבל או בפרס ללא ידיעת מחזורים חקלאיים כנעניים.",
-        "fr": "Lévitique 23:15-16 ordonne de compter 49 jours (sept semaines complètes) du lendemain de Pessa'h jusqu'à Chavouot — le compte du Omer. Cela crée un pont précis de 50 jours entre la récolte d'orge (Pessa'h) et la récolte de blé (Chavouot), correspondant avec précision au cycle agricole de la Terre d'Israël tel que documenté par les registres agricoles modernes et le calendrier de Guézer. La précision de l'alignement du calendrier festif avec les cycles de récolte réels de la géographie spécifique de la Terre d'Israël est cohérente avec un auteur divin ayant conçu le calendrier pour cette terre spécifique — plutôt qu'un auteur tardif travaillant à Babylone ou en Perse sans connaissance des cycles agricoles cananéens.",
-        "es": "Levítico 23:15-16 ordena contar 49 días (siete semanas completas) desde el día después de Pésaj hasta Shavuot — la cuenta del Ómer. Esto crea un puente preciso de 50 días entre la cosecha de cebada (Pésaj) y la cosecha de trigo (Shavuot), correspondiendo con precisión al ciclo agrícola de la Tierra de Israel según lo documentan los registros agrícolas modernos y el Calendario de Gezer. La precisión de la alineación del calendario festivo con los ciclos de cosecha reales de la geografía específica de la Tierra de Israel es consistente con un autor divino que diseñó el calendario para esa tierra específica — en lugar de un autor tardío trabajando en Babilonia o Persia sin conocimiento de los ciclos agrícolas cananeos."
-      },
-      "s": "Counting of the Omer – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Counting_of_the_Omer",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -925
+      "date_sort": -1272,
+      "review_caveat": "Some scholars read the Hebrew elef ('thousand') in these lists as 'clan' or 'military unit', which would make the totals far smaller; the internal consistency of the figures holds on either reading."
     },
     {
       "layer": "coherence",
@@ -3715,76 +3516,16 @@
         "es": "El argumento de la profundidad ética del Código de Santidad (Levítico 19)"
       },
       "e": {
-        "en": "Vayikra 19 is arguably the most ethically dense chapter in the Torah: it commands love of neighbor (v. 18), love of the stranger (v. 34), honest weights and measures (vv. 35–36), prohibition of gossip (v. 16), care for the deaf and blind (v. 14), respect for the elderly (v. 32), prohibition of divination and tattooing, and payment of wages on the same day they are earned (v. 13). This single chapter contains obligations in the domains of agriculture, commerce, interpersonal ethics, religious practice, and social justice simultaneously. The ethical density of Vayikra 19 — which the rabbis identify as the 'great principle' of the Torah — is consistent with a divine author whose moral concern encompasses every domain of human life.",
-        "he": "ויקרא יט הוא ללא ספק הפרק הצפוף ביותר מבחינה אתית בתורה: הוא מצווה על אהבת הרֵע (פס' יח), אהבת הגר (פס' לד), משקלות ומידות ישרים (פס' לה-לו), איסור רכילות (פס' טז), דאגה לחירש ולעיוור (פס' יד), כבוד לזקן (פס' לב), איסור ניחוש וכתובת קעקע, ותשלום שכר ביום שהורווח (פס' יג). פרק יחיד זה מכיל חובות בתחומי החקלאות, המסחר, האתיקה הבין-אישית, הפרקטיקה הדתית והצדק החברתי בו-זמנית. הצפיפות האתית של ויקרא יט — שהחכמים מזהים כ\"כלל גדול\" בתורה — עולה בקנה אחד עם מחבר אלוקי שדאגתו המוסרית מקיפה כל תחום בחיי האדם.",
-        "fr": "Lévitique 19 est sans doute le chapitre le plus dense éthiquement de la Torah : il ordonne l'amour du prochain (v. 18), l'amour de l'étranger (v. 34), des poids et mesures honnêtes (vv. 35-36), l'interdiction du commérage (v. 16), le soin des sourds et aveugles (v. 14), le respect des personnes âgées (v. 32), l'interdiction de la divination et du tatouage, et le paiement des salaires le jour même où ils sont gagnés (v. 13). Ce seul chapitre contient des obligations dans les domaines de l'agriculture, du commerce, de l'éthique interpersonnelle, de la pratique religieuse et de la justice sociale simultanément. La densité éthique de Lévitique 19 — que les rabbins identifient comme le « grand principe » de la Torah — est cohérente avec un auteur divin dont la préoccupation morale englobe chaque domaine de la vie humaine.",
-        "es": "Levítico 19 es posiblemente el capítulo éticamente más denso de la Torá: ordena el amor al prójimo (v. 18), el amor al extranjero (v. 34), pesos y medidas honestos (vv. 35-36), prohibición del chisme (v. 16), cuidado de sordos y ciegos (v. 14), respeto a los ancianos (v. 32), prohibición de la adivinación y el tatuaje, y el pago de salarios el mismo día en que se ganan (v. 13). Este único capítulo contiene obligaciones en los dominios de la agricultura, el comercio, la ética interpersonal, la práctica religiosa y la justicia social simultáneamente. La densidad ética de Levítico 19 — que los rabinos identifican como el 'gran principio' de la Torá — es consistente con un autor divino cuya preocupación moral abarca cada dominio de la vida humana."
+        "en": "Vayikra 19 packs into one chapter commands from every area of life: reverence for parents and Shabbos (v. 3), leaving the corners of the field and the gleanings for the poor (vv. 9–10), not stealing or lying (v. 11), paying a worker's wages the same day (v. 13), not cursing the deaf or tripping the blind (v. 14), judging fairly (v. 15), not gossiping or standing by while a neighbor's life is in danger (v. 16), loving one's neighbor (v. 18) and the stranger (vv. 33–34), honoring the elderly (v. 32), and honest weights and measures (vv. 35–36). The Midrash says this chapter was taught to the whole assembly because 'most of the essentials of the Torah depend on it' (Vayikra Rabbah 24:5), and Rabbi Akiva called 'love your neighbor as yourself' a great principle of the Torah (Sifra, Kedoshim 4:12).",
+        "he": "ויקרא יט דוחס לפרק אחד מצוות מכל תחומי החיים: יראת אב ואם ושמירת שבת (פס' ג), השארת פאה ולקט לעני (ט–י), לא לגנוב ולא לשקר (יא), תשלום שכר שכיר בו ביום (יג), לא לקלל חרש ולא לתת מכשול לפני עיוור (יד), לשפוט בצדק (טו), לא ללכת רכיל ולא לעמוד על דם רעך (טז), לאהוב את הרע (יח) ואת הגר (לג–לד), לכבד את הזקן (לב), ומאזני צדק (לה–לו). המדרש אומר שפרשה זו נאמרה בהקהל \"מפני שרוב גופי תורה תלויין בה\" (ויקרא רבה כד:ה), ורבי עקיבא קרא ל\"ואהבת לרעך כמוך\" כלל גדול בתורה (ספרא קדושים ד:יב).",
+        "fr": "Lévitique 19 rassemble en un seul chapitre des commandements de tous les domaines de la vie : le respect des parents et du Chabbat (v. 3), laisser le coin du champ et les glanures aux pauvres (vv. 9-10), ne pas voler ni mentir (v. 11), payer le salaire d'un ouvrier le jour même (v. 13), ne pas maudire le sourd ni faire trébucher l'aveugle (v. 14), juger équitablement (v. 15), ne pas colporter de ragots ni rester passif quand la vie du prochain est en danger (v. 16), aimer son prochain (v. 18) et l'étranger (vv. 33-34), honorer la vieillesse (v. 32), et des poids et mesures justes (vv. 35-36). Le Midrash dit que ce chapitre fut enseigné à toute l'assemblée « parce que la plupart des principes essentiels de la Torah en dépendent » (Vayikra Rabba 24:5), et Rabbi Akiva a appelé « tu aimeras ton prochain comme toi-même » un grand principe de la Torah (Sifra, Kedochim 4:12).",
+        "es": "Levítico 19 reúne en un solo capítulo mandamientos de todos los ámbitos de la vida: respeto a los padres y al Shabat (v. 3), dejar la esquina del campo y las espigas para los pobres (vv. 9-10), no robar ni mentir (v. 11), pagar el salario del jornalero el mismo día (v. 13), no maldecir al sordo ni hacer tropezar al ciego (v. 14), juzgar con justicia (v. 15), no chismear ni quedarse pasivo cuando peligra la vida del prójimo (v. 16), amar al prójimo (v. 18) y al extranjero (vv. 33-34), honrar al anciano (v. 32), y pesas y medidas justas (vv. 35-36). El Midrash dice que este capítulo se enseñó a toda la asamblea \"porque la mayoría de los principios esenciales de la Torá dependen de él\" (Vayikrá Rabá 24:5), y Rabí Akiva llamó a \"amarás a tu prójimo como a ti mismo\" un gran principio de la Torá (Sifrá, Kedoshim 4:12)."
       },
-      "s": "Elliott-Binns, L. E.; Some problems of the holiness code; [[Zeitschrift für die Alttestamentliche Wissenschaft]]; Walter de Gruyter; 67; pp. 26–40; DOI: 10.1515/zatw.1955.67.1.26",
-      "u": "https://www.degruyter.com/document/doi/10.1515/zatw.1955.67.1.26/html",
+      "s": "Leviticus 19; Vayikra Rabbah 24:5; Sifra, Kedoshim 4:12",
+      "u": "https://www.sefaria.org/Leviticus.19",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1400
-    },
-    {
-      "layer": "coherence",
-      "t": {
-        "en": "The Argument from the Torah's Treatment of Slavery",
-        "he": "הטיעון מיחס התורה לעבדות",
-        "fr": "L'argument du traitement de l'esclavage par la Torah",
-        "es": "El argumento del trato de la esclavitud en la Torá"
-      },
-      "e": {
-        "en": "The Torah's regulations on slavery represent a significant humanitarian improvement over the slave laws of surrounding cultures: Israelite slaves are freed after six years (Ex. 21:2; Deut. 15:12); they must be provided with resources upon release (Deut. 15:13–14); they cannot be returned if they flee to another city (Deut. 23:16–17); and the kidnapping of a person for sale as a slave is a capital crime (Ex. 21:16). These regulations systematically constrain the institution of slavery in ways that are economically costly to slave-owners. A forged document serving the interests of a wealthy priestly or royal class would not impose such constraints. This is consistent with a divine author whose concern for human dignity overrides economic self-interest.",
-        "he": "תקנות התורה בנוגע לעבדות מייצגות שיפור הומניטרי משמעותי על פני חוקי העבדות של התרבויות הסובבות: עבדים ישראלים משוחררים לאחר שש שנים (שמות כא:ב; דברים טו:יב); יש לספק להם משאבים עם שחרורם (דברים טו:יג-יד); אין להחזירם אם ברחו לעיר אחרת (דברים כג:טז-יז); וחטיפת אדם למכירה כעבד היא עבירה שדינה מוות (שמות כא:טז). תקנות אלה מגבילות באופן שיטתי את מוסד העבדות באופנים היקרים כלכלית לבעלי העבדים. מסמך מזויף המשרת את האינטרסים של מעמד כהוני או מלכותי אמיד לא היה מטיל הגבלות כאלה. הדבר עולה בקנה אחד עם מחבר אלוקי שדאגתו לכבוד האדם גוברת על אינטרס עצמי כלכלי.",
-        "fr": "Les réglementations de la Torah sur l'esclavage représentent une amélioration humanitaire significative par rapport aux lois esclavagistes des cultures environnantes : les esclaves israélites sont libérés après six ans (Ex. 21:2 ; Deut. 15:12) ; on doit leur fournir des ressources à leur libération (Deut. 15:13-14) ; ils ne peuvent être rendus s'ils fuient vers une autre ville (Deut. 23:16-17) ; et l'enlèvement d'une personne pour la vendre comme esclave est un crime capital (Ex. 21:16). Ces réglementations contraignent systématiquement l'institution de l'esclavage de manières économiquement coûteuses pour les propriétaires d'esclaves. Un document falsifié servant les intérêts d'une classe sacerdotale ou royale fortunée n'imposerait pas de telles contraintes. Ceci est cohérent avec un auteur divin dont le souci de la dignité humaine prime sur l'intérêt économique personnel.",
-        "es": "Las regulaciones de la Torá sobre la esclavitud representan una mejora humanitaria significativa sobre las leyes de esclavitud de las culturas circundantes: los esclavos israelitas son liberados después de seis años (Éx. 21:2; Deut. 15:12); deben ser provistos de recursos al ser liberados (Deut. 15:13-14); no pueden ser devueltos si huyen a otra ciudad (Deut. 23:16-17); y el secuestro de una persona para su venta como esclavo es un crimen capital (Éx. 21:16). Estas regulaciones restringen sistemáticamente la institución de la esclavitud de maneras económicamente costosas para los dueños de esclavos. Un documento falsificado que sirviera a los intereses de una clase sacerdotal o real adinerada no impondría tales restricciones. Esto es consistente con un autor divino cuya preocupación por la dignidad humana prevalece sobre el interés económico propio."
-      },
-      "s": "Slavery in ancient Israel – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Slavery_in_ancient_Israel",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1440
-    },
-    {
-      "layer": "coherence",
-      "t": {
-        "en": "The Argument from Coherent Theodicy — Why Suffering Exists",
-        "he": "הטיעון מתיאודיציה קוהרנטית — מדוע קיים הסבל",
-        "fr": "L'argument de la théodicée cohérente — pourquoi la souffrance existe",
-        "es": "El argumento de la teodicea coherente — por qué existe el sufrimiento"
-      },
-      "e": {
-        "en": "The Torah presents a coherent theological framework for suffering: individual and national suffering are understood within a covenantal relationship in which disobedience has consequences (Deut. 28–30) but G-d does not abandon His people (Lev. 26:44). This framework is sophisticated enough to generate thousands of years of philosophical and theological reflection (the books of Job, Lamentations, Psalms of lament, Talmudic theodicy). No purely human-invented religion creates a theodicy robust enough to sustain a community through the Holocaust and generate continued theological vitality. The Torah's theodicy framework is consistent with a divine author who embedded into the covenant a conceptual structure capable of sustaining meaning through every conceivable catastrophe.",
-        "he": "התורה מציגה מסגרת תיאולוגית קוהרנטית לסבל: סבל אישי ולאומי מובנים בתוך מערכת יחסים בריתית שבה לאי-ציות יש תוצאות (דברים כח-ל) אך האל אינו נוטש את עמו (ויקרא כו:מד). מסגרת זו מתוחכמת מספיק כדי להוליד אלפי שנים של הרהור פילוסופי ותיאולוגי (ספרי איוב, איכה, תהלי קינה, תיאודיציה תלמודית). שום דת שהומצאה על ידי בני אדם בלבד אינה יוצרת תיאודיציה איתנה מספיק כדי לקיים קהילה דרך השואה ולהוליד חיוניות תיאולוגית מתמשכת. מסגרת התיאודיציה של התורה עולה בקנה אחד עם מחבר אלוקי שהטמיע בברית מבנה מושגי המסוגל לקיים משמעות דרך כל קטסטרופה שניתן להעלות על הדעת.",
-        "fr": "La Torah présente un cadre théologique cohérent pour la souffrance : la souffrance individuelle et nationale est comprise au sein d'une relation d'alliance dans laquelle la désobéissance a des conséquences (Deut. 28-30) mais où Dieu n'abandonne pas Son peuple (Lév. 26:44). Ce cadre est assez sophistiqué pour générer des milliers d'années de réflexion philosophique et théologique (les livres de Job, des Lamentations, les Psaumes de lamentation, la théodicée talmudique). Aucune religion purement inventée par l'homme ne crée une théodicée assez robuste pour soutenir une communauté à travers l'Holocauste et générer une vitalité théologique continue. Le cadre théodicéen de la Torah est cohérent avec un auteur divin ayant intégré dans l'alliance une structure conceptuelle capable de soutenir le sens à travers toute catastrophe concevable.",
-        "es": "La Torá presenta un marco teológico coherente para el sufrimiento: el sufrimiento individual y nacional se entiende dentro de una relación de pacto en la que la desobediencia tiene consecuencias (Deut. 28-30) pero Dios no abandona a Su pueblo (Lev. 26:44). Este marco es lo suficientemente sofisticado como para generar miles de años de reflexión filosófica y teológica (los libros de Job, Lamentaciones, Salmos de lamento, teodicea talmúdica). Ninguna religión inventada puramente por humanos crea una teodicea lo bastante robusta para sostener a una comunidad a través del Holocausto y generar vitalidad teológica continuada. El marco de teodicea de la Torá es consistente con un autor divino que incorporó en el pacto una estructura conceptual capaz de sostener el significado a través de toda catástrofe concebible."
-      },
-      "s": "Theodicy – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Theodicy",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1440
-    },
-    {
-      "layer": "coherence",
-      "t": {
-        "en": "The Argument from the Coherent Concept of Kedushah (Holiness)",
-        "he": "הטיעון מהמושג הקוהרנטי של קדושה",
-        "fr": "L'argument du concept cohérent de Kedoucha (sainteté)",
-        "es": "El argumento del concepto coherente de Kedushá (santidad)"
-      },
-      "e": {
-        "en": "The Torah's concept of kedushah (holiness) is a unified theological category that pervades all domains: G-d is holy (Lev. 19:2), Israel is called to be holy, the Shabbos is holy (Gen. 2:3), the Tabernacle is holy, food can be holy or profane, and land itself can be defiled. This unified field theory of holiness — spanning metaphysics, ritual, ethics, time, space, and matter — is unique in ancient Near Eastern religion, where holiness was restricted to specific sacred sites or objects. The Torah's comprehensive holiness theology is consistent with a divine author whose sacred presence is not limited to shrines but pervades all created reality.",
-        "he": "מושג הקדושה בתורה הוא קטגוריה תיאולוגית מאוחדת החודרת לכל התחומים: האל קדוש (ויקרא יט:ב), ישראל נקראים להיות קדושים, השבת קדושה (בראשית ב:ג), המשכן קדוש, מזון יכול להיות קדוש או חול, והארץ עצמה יכולה להיטמא. תיאוריית שדה מאוחדת זו של קדושה — המשתרעת על מטפיזיקה, טקס, אתיקה, זמן, מרחב וחומר — היא ייחודית בדת המזרח הקדום, שבה קדושה הוגבלה לאתרים או חפצים מקודשים ספציפיים. תיאולוגיית הקדושה המקיפה של התורה עולה בקנה אחד עם מחבר אלוקי שנוכחותו הקדושה אינה מוגבלת למקדשים אלא חודרת לכל המציאות הנבראת.",
-        "fr": "Le concept de kedoucha (sainteté) de la Torah est une catégorie théologique unifiée qui imprègne tous les domaines : Dieu est saint (Lév. 19:2), Israël est appelé à être saint, le Chabbat est saint (Gen. 2:3), le Tabernacle est saint, la nourriture peut être sainte ou profane, et la terre elle-même peut être souillée. Cette théorie du champ unifié de la sainteté — s'étendant sur la métaphysique, le rituel, l'éthique, le temps, l'espace et la matière — est unique dans la religion proche-orientale ancienne, où la sainteté était restreinte à des sites ou objets sacrés spécifiques. La théologie complète de la sainteté de la Torah est cohérente avec un auteur divin dont la présence sacrée n'est pas limitée aux sanctuaires mais imprègne toute la réalité créée.",
-        "es": "El concepto de kedushá (santidad) de la Torá es una categoría teológica unificada que impregna todos los dominios: Dios es santo (Lev. 19:2), Israel es llamado a ser santo, el Shabat es santo (Gén. 2:3), el Tabernáculo es santo, los alimentos pueden ser santos o profanos, y la tierra misma puede ser contaminada. Esta teoría de campo unificado de la santidad — que abarca metafísica, ritual, ética, tiempo, espacio y materia — es única en la religión del antiguo Cercano Oriente, donde la santidad se restringía a sitios u objetos sagrados específicos. La teología integral de la santidad de la Torá es consistente con un autor divino cuya presencia sagrada no se limita a santuarios sino que impregna toda la realidad creada."
-      },
-      "s": "Holiness in Judaism – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Holiness_in_Judaism",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1440
+      "date_sort": -1312
     },
     {
       "layer": "coherence",
@@ -3795,96 +3536,16 @@
         "es": "El argumento de la coherencia de los dos arcos narrativos"
       },
       "e": {
-        "en": "The Torah contains two interlocking narrative arcs: the patriarchal promises (land, offspring, divine blessing — Bereishis 12–50) and the Sinai covenant (law, priestly system, tabernacle — Shemos 19–Bamidbar 10). These two arcs are not parallel but interlocking: the patriarchal promises motivate the Shemos (Ex. 2:24), the Sinai covenant structures the land's occupation, and Devarim recapitulates both arcs before the land entry. The seamless theological integration of promise and law across five books — each arc anticipating the other — is consistent with unified authorial design rather than mechanical source compilation.",
-        "he": "התורה מכילה שתי קשתות נרטיביות משולבות: הבטחות האבות (ארץ, זרע, ברכה אלוקית — בראשית יב-נ) וברית סיני (חוק, מערכת כהונה, משכן — שמות יט-במדבר י). שתי הקשתות אינן מקבילות אלא משולבות: הבטחות האבות מניעות את יציאת מצרים (שמות ב:כד), ברית סיני מבנה את כיבוש הארץ, ודברים מסכם את שתי הקשתות לפני הכניסה לארץ. השילוב התיאולוגי החלק של הבטחה וחוק על פני חמישה ספרים — כשכל קשת מצפה לשנייה — עולה בקנה אחד עם עיצוב מחבר מאוחד ולא עם ליקוט מקורות מכני.",
-        "fr": "La Torah contient deux arcs narratifs imbriqués : les promesses patriarcales (terre, descendance, bénédiction divine — Genèse 12-50) et l'alliance du Sinaï (loi, système sacerdotal, tabernacle — Exode 19-Nombres 10). Ces deux arcs ne sont pas parallèles mais imbriqués : les promesses patriarcales motivent l'Exode (Ex. 2:24), l'alliance du Sinaï structure l'occupation du pays, et le Deutéronome récapitule les deux arcs avant l'entrée dans le pays. L'intégration théologique fluide de la promesse et de la loi à travers cinq livres — chaque arc anticipant l'autre — est cohérente avec une conception auctoriale unifiée plutôt qu'une compilation mécanique de sources.",
-        "es": "La Torá contiene dos arcos narrativos entrelazados: las promesas patriarcales (tierra, descendencia, bendición divina — Génesis 12-50) y el pacto del Sinaí (ley, sistema sacerdotal, tabernáculo — Éxodo 19-Números 10). Estos dos arcos no son paralelos sino entrelazados: las promesas patriarcales motivan el Éxodo (Éx. 2:24), el pacto del Sinaí estructura la ocupación de la tierra, y Deuteronomio recapitula ambos arcos antes de la entrada a la tierra. La integración teológica fluida de promesa y ley a través de cinco libros — cada arco anticipando al otro — es consistente con un diseño autoral unificado en lugar de una compilación mecánica de fuentes."
+        "en": "Two story lines run through the Torah and are tied together at every turn: the promises to the forefathers — land, descendants and blessing (Bereishis 12–50) — and the covenant at Sinai. The Exodus begins because 'G-d remembered His covenant with Abraham, Isaac and Jacob' (Shemos 2:24), and G-d introduces the redemption by recalling the land promised to them (Shemos 6:2–8). Devarim opens by telling Israel to go in and possess 'the land that HASHEM swore to your fathers, to Abraham, Isaac and Jacob' (Devarim 1:8), and the Torah's last scene has Moses shown 'the land that I swore to Abraham, Isaac and Jacob' (34:4). The promise made in Bereishis frames the whole of the four books that follow.",
+        "he": "שני קווי עלילה עוברים לאורך התורה וקשורים זה בזה בכל צעד: ההבטחות לאבות — ארץ, זרע וברכה (בראשית יב–נ) — והברית בסיני. יציאת מצרים מתחילה משום ש\"ויזכור אלוקים את בריתו את אברהם את יצחק ואת יעקב\" (שמות ב:כד), וה' פותח את הגאולה בהזכרת הארץ שהובטחה להם (שמות ו:ב–ח). ספר דברים נפתח בציווי לבוא ולרשת \"את הארץ אשר נשבע ה' לאבותיכם לאברהם ליצחק וליעקב\" (דברים א:ח), והתמונה האחרונה בתורה היא משה הרואה \"הארץ אשר נשבעתי לאברהם ליצחק וליעקב\" (לד:ד). ההבטחה שניתנה בבראשית ממסגרת את כל ארבעת הספרים שאחריה.",
+        "fr": "Deux fils narratifs traversent la Torah et sont liés à chaque étape : les promesses faites aux patriarches — la terre, la descendance et la bénédiction (Genèse 12-50) — et l'alliance du Sinaï. La sortie d'Égypte commence parce que « Dieu se souvint de Son alliance avec Abraham, Isaac et Jacob » (Exode 2:24), et Dieu introduit la délivrance en rappelant la terre qui leur fut promise (Exode 6:2-8). Le Deutéronome s'ouvre sur l'ordre d'aller prendre possession du « pays que l'Éternel a juré à vos pères, Abraham, Isaac et Jacob » (Deutéronome 1:8), et la dernière scène de la Torah montre à Moïse « le pays que J'ai juré à Abraham, Isaac et Jacob » (34:4). La promesse faite dans la Genèse encadre l'ensemble des quatre livres qui suivent.",
+        "es": "Dos líneas narrativas recorren la Torá y se entrelazan a cada paso: las promesas a los patriarcas — tierra, descendencia y bendición (Génesis 12-50) — y el pacto del Sinaí. La salida de Egipto comienza porque \"se acordó Dios de Su pacto con Abraham, Isaac y Jacob\" (Éxodo 2:24), y Dios introduce la redención recordando la tierra que les prometió (Éxodo 6:2-8). Deuteronomio se abre con la orden de entrar a poseer \"la tierra que Hashem juró a vuestros padres, Abraham, Isaac y Jacob\" (Deuteronomio 1:8), y la última escena de la Torá muestra a Moisés \"la tierra que juré a Abraham, Isaac y Jacob\" (34:4). La promesa hecha en Génesis enmarca los cuatro libros que siguen."
       },
-      "s": "Davies, G.I; Oxford Bible Commentary; Oxford University Press",
-      "u": "https://archive.org/details/oxfordbiblecomme0000unse",
+      "s": "Genesis 12:1–7; Exodus 2:24, 6:2–8; Deuteronomy 1:8, 34:4",
+      "u": "https://www.sefaria.org/Deuteronomy.34.4",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1800
-    },
-    {
-      "layer": "coherence",
-      "t": {
-        "en": "The Argument from the Coherent Portrayal of the Divine Attributes",
-        "he": "הטיעון מהתיאור הקוהרנטי של מידות האל",
-        "fr": "L'argument de la représentation cohérente des attributs divins",
-        "es": "El argumento de la representación coherente de los atributos divinos"
-      },
-      "e": {
-        "en": "The Torah's portrayal of G-d's attributes is internally consistent across all five books: G-d is omnipotent (creation ex nihilo, plagues, miracles), omniscient (knowing human hearts, future events), just (the covenant's blessing/curse structure), merciful (forgiving Israel repeatedly), personal (speaking directly to Moses), and holy (requiring ritual purity from those who approach). These attributes are not contradictory — Jewish theology (Rambam, Guide; Ramchal, Derech Hashem) developed sophisticated frameworks showing their coherence. The consistent portrayal of a theologically coherent G-d across the entire Torah is inconsistent with the fragmented, anthropomorphic deities of surrounding cultures and consistent with a single divine author.",
-        "he": "תיאור מידותיו של האל בתורה עקבי פנימית על פני כל חמשת הספרים: האל כל-יכול (בריאה יש מאין, מכות, ניסים), כל-יודע (יודע לבבות אנוש, אירועי עתיד), צודק (מבנה הברכה/קללה של הברית), רחום (סולח לישראל שוב ושוב), אישי (מדבר ישירות עם משה), וקדוש (דורש טהרה טקסית ממי שמתקרב). מידות אלה אינן סותרות — התיאולוגיה היהודית (רמב\"ם, מורה נבוכים; רמח\"ל, דרך ה') פיתחה מסגרות מתוחכמות המראות את קוהרנטיותן. התיאור העקבי של אל קוהרנטי תיאולוגית לאורך התורה כולה אינו עקבי עם האלים המקוטעים והאנתרופומורפיים של התרבויות הסובבות ועקבי עם מחבר אלוקי יחיד.",
-        "fr": "La représentation par la Torah des attributs de Dieu est cohérente en interne à travers les cinq livres : Dieu est omnipotent (création ex nihilo, plaies, miracles), omniscient (connaissant les cœurs humains, les événements futurs), juste (la structure bénédiction/malédiction de l'alliance), miséricordieux (pardonnant à Israël à plusieurs reprises), personnel (parlant directement à Moïse), et saint (exigeant la pureté rituelle de ceux qui s'approchent). Ces attributs ne sont pas contradictoires — la théologie juive (Rambam, Guide ; Ramhal, Derekh Hashem) a développé des cadres sophistiqués montrant leur cohérence. La représentation cohérente d'un Dieu théologiquement cohérent à travers toute la Torah est incohérente avec les divinités fragmentées et anthropomorphes des cultures environnantes et cohérente avec un unique auteur divin.",
-        "es": "La representación de la Torá de los atributos de Dios es internamente consistente a través de los cinco libros: Dios es omnipotente (creación ex nihilo, plagas, milagros), omnisciente (conociendo los corazones humanos, eventos futuros), justo (la estructura de bendición/maldición del pacto), misericordioso (perdonando a Israel repetidamente), personal (hablando directamente a Moisés), y santo (requiriendo pureza ritual de quienes se acercan). Estos atributos no son contradictorios — la teología judía (Rambam, Guía; Ramjal, Dérej Hashem) desarrolló marcos sofisticados que muestran su coherencia. La representación consistente de un Dios teológicamente coherente a través de toda la Torá es inconsistente con las deidades fragmentadas y antropomórficas de las culturas circundantes y consistente con un único autor divino."
-      },
-      "s": "Smith, Mark S.; The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts; 2003; [[Oxford University Press]]; pp. 133–148; DOI: 10.1093/019513480X.003.0008",
-      "u": "https://doi.org/10.1093/019513480X.003.0008",
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "date_sort": -1312
-    },
-    {
-      "layer": "coherence",
-      "t": {
-        "en": "The Argument from the Coherence of the Reward-Punishment Framework",
-        "he": "הטיעון מהקוהרנטיות של מסגרת השכר-והעונש",
-        "fr": "L'argument de la cohérence du cadre récompense-punition",
-        "es": "El argumento de la coherencia del marco recompensa-castigo"
-      },
-      "e": {
-        "en": "The Torah's reward-punishment framework (Deut. 11:13–21; 28–30; Lev. 26) is not simplistic but operates at both individual and national levels with sophisticated temporal dynamics: national punishment is collective and long-term (exile, dispersion), but individual reward operates more immediately. The framework is honest about its own tensions (the righteous suffering: Psalm 73; Job) while maintaining its normative structure. This dual-level reward framework — national covenant alongside individual responsibility — is theologically sophisticated enough to sustain 3,300 years of legal and philosophical development. Its coherence is consistent with divine authorship rather than political fabrication.",
-        "he": "מסגרת השכר-והעונש של התורה (דברים יא:יג-כא; כח-ל; ויקרא כו) אינה פשטנית אלא פועלת ברמות האישית והלאומית כאחד עם דינמיקה זמנית מתוחכמת: עונש לאומי הוא קולקטיבי וארוך-טווח (גלות, פזורה), אך שכר אישי פועל באופן מיידי יותר. המסגרת כנה לגבי המתחים שלה עצמה (סבל הצדיקים: תהלים עג; איוב) תוך שמירה על מבנה נורמטיבי. מסגרת שכר דו-רמתית זו — ברית לאומית לצד אחריות אישית — מתוחכמת תיאולוגית מספיק כדי לקיים 3,300 שנות התפתחות משפטית ופילוסופית. קוהרנטיותה עולה בקנה אחד עם מחבר אלוקי ולא עם זיוף פוליטי.",
-        "fr": "Le cadre récompense-punition de la Torah (Deut. 11:13-21 ; 28-30 ; Lév. 26) n'est pas simpliste mais opère aux niveaux individuel et national avec une dynamique temporelle sophistiquée : la punition nationale est collective et à long terme (exil, dispersion), mais la récompense individuelle opère plus immédiatement. Le cadre est honnête quant à ses propres tensions (la souffrance des justes : Psaume 73 ; Job) tout en maintenant sa structure normative. Ce cadre de récompense à deux niveaux — alliance nationale aux côtés de la responsabilité individuelle — est théologiquement assez sophistiqué pour soutenir 3 300 ans de développement juridique et philosophique. Sa cohérence est cohérente avec une paternité divine plutôt qu'une fabrication politique.",
-        "es": "El marco de recompensa-castigo de la Torá (Deut. 11:13-21; 28-30; Lev. 26) no es simplista sino que opera tanto a nivel individual como nacional con dinámicas temporales sofisticadas: el castigo nacional es colectivo y a largo plazo (exilio, dispersión), pero la recompensa individual opera más inmediatamente. El marco es honesto sobre sus propias tensiones (el sufrimiento de los justos: Salmo 73; Job) mientras mantiene su estructura normativa. Este marco de recompensa de doble nivel — pacto nacional junto a responsabilidad individual — es teológicamente lo bastante sofisticado como para sostener 3.300 años de desarrollo legal y filosófico. Su coherencia es consistente con la autoría divina en lugar de una fabricación política."
-      },
-      "s": "Divine providence in Judaism – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Divine_providence_in_Judaism",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1440
-    },
-    {
-      "layer": "coherence",
-      "t": {
-        "en": "The Argument from the Convergence of Prophecy and History in the Tochacha",
-        "he": "הטיעון מהתכנסות נבואה והיסטוריה בתוכחה",
-        "fr": "L'argument de la convergence de la prophétie et de l'histoire dans la Tocheha",
-        "es": "El argumento de la convergencia de profecía e historia en la Tojajá"
-      },
-      "e": {
-        "en": "The Tochacha (Deut. 28; Lev. 26) is the most specific long-range national prophecy in ancient literature: it predicts siege (Deut. 28:52–55), exile (28:64), global dispersion (28:64), becoming a 'byword' (28:37), being brought back to Egypt in ships (28:68), sustained persecution (28:65–67), and continued survival (Lev. 26:44). These predictions were fulfilled with extraordinary specificity over 2,500 years. No human author writing a national prophecy would embed predictions of total national catastrophe with no ultimate resolution except a conditional promise of future return — unless they knew the future.",
-        "he": "התוכחה (דברים כח; ויקרא כו) היא הנבואה הלאומית ארוכת-הטווח הספציפית ביותר בספרות העתיקה: היא חוזה מצור (דברים כח:נב-נה), גלות (כח:סד), פזורה עולמית (כח:סד), הפיכה ל\"משל\" (כח:לז), חזרה למצרים באוניות (כח:סח), רדיפה מתמשכת (כח:סה-סז), ושרידות מתמשכת (ויקרא כו:מד). תחזיות אלה התגשמו בספציפיות יוצאת דופן על פני 2,500 שנה. שום מחבר אנושי הכותב נבואה לאומית לא היה מטמיע תחזיות של קטסטרופה לאומית מוחלטת ללא פתרון סופי מלבד הבטחה מותנית לשיבה עתידית — אלא אם ידע את העתיד.",
-        "fr": "La Tocheha (Deut. 28 ; Lév. 26) est la prophétie nationale à long terme la plus spécifique de la littérature ancienne : elle prédit le siège (Deut. 28:52-55), l'exil (28:64), la dispersion mondiale (28:64), le fait de devenir un « sujet de proverbe » (28:37), d'être ramené en Égypte sur des navires (28:68), une persécution soutenue (28:65-67), et une survie continue (Lév. 26:44). Ces prédictions se sont accomplies avec une spécificité extraordinaire sur 2 500 ans. Aucun auteur humain écrivant une prophétie nationale n'intégrerait des prédictions de catastrophe nationale totale sans résolution ultime sauf une promesse conditionnelle de retour futur — à moins de connaître l'avenir.",
-        "es": "La Tojajá (Deut. 28; Lev. 26) es la profecía nacional de largo alcance más específica de la literatura antigua: predice asedio (Deut. 28:52-55), exilio (28:64), dispersión global (28:64), convertirse en un 'refrán' (28:37), ser llevado de vuelta a Egipto en naves (28:68), persecución sostenida (28:65-67), y supervivencia continuada (Lev. 26:44). Estas predicciones se cumplieron con especificidad extraordinaria a lo largo de 2.500 años. Ningún autor humano que escribiera una profecía nacional incorporaría predicciones de catástrofe nacional total sin resolución última excepto una promesa condicional de retorno futuro — a menos que conociera el futuro."
-      },
-      "s": "Tochacha – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Tochacha",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1400
-    },
-    {
-      "layer": "coherence",
-      "t": {
-        "en": "The Argument from the Coherence of the 613 Commandments Across All Human Domains",
-        "he": "הטיעון מהקוהרנטיות של תרי\"ג המצוות על פני כל תחומי החיים",
-        "fr": "L'argument de la cohérence des 613 commandements à travers tous les domaines humains",
-        "es": "El argumento de la coherencia de los 613 mandamientos a través de todos los dominios humanos"
-      },
-      "e": {
-        "en": "The Talmudic enumeration of 613 commandments (Makkot 23b) covers every domain of human life: agriculture, commerce, family law, criminal law, ritual practice, social justice, environmental stewardship, military conduct, and personal ethics. The 365 negative commandments (one for each day of the solar year) and 248 positive commandments (corresponding to the bones of the human body) create a symbolic architecture in which Torah observance is coextensive with human existence in time and body. No other ancient legal system attempts comprehensive legislation across all domains of human life simultaneously — consistent with a divine author whose concern encompasses all of human existence.",
-        "he": "המניין התלמודי של תרי\"ג מצוות (מכות כג ע\"ב) מכסה כל תחום בחיי האדם: חקלאות, מסחר, דיני משפחה, דין פלילי, פרקטיקה טקסית, צדק חברתי, שמירה סביבתית, התנהגות צבאית ואתיקה אישית. 365 מצוות הלא-תעשה (אחת לכל יום בשנת החמה) ו-248 מצוות העשה (התואמות לעצמות גוף האדם) יוצרות ארכיטקטורה סמלית שבה שמירת התורה משתרעת יחד עם הקיום האנושי בזמן ובגוף. שום מערכת משפטית עתיקה אחרת אינה מנסה חקיקה מקיפה על פני כל תחומי חיי האדם בו-זמנית — עולה בקנה אחד עם מחבר אלוקי שדאגתו מקיפה את כל הקיום האנושי.",
-        "fr": "L'énumération talmudique des 613 commandements (Makkot 23b) couvre chaque domaine de la vie humaine : agriculture, commerce, droit de la famille, droit pénal, pratique rituelle, justice sociale, gestion environnementale, conduite militaire, et éthique personnelle. Les 365 commandements négatifs (un pour chaque jour de l'année solaire) et 248 commandements positifs (correspondant aux os du corps humain) créent une architecture symbolique dans laquelle l'observance de la Torah est coextensive à l'existence humaine dans le temps et le corps. Aucun autre système juridique ancien ne tente une législation complète à travers tous les domaines de la vie humaine simultanément — cohérent avec un auteur divin dont la préoccupation englobe toute l'existence humaine.",
-        "es": "La enumeración talmúdica de 613 mandamientos (Makot 23b) cubre cada dominio de la vida humana: agricultura, comercio, derecho de familia, derecho penal, práctica ritual, justicia social, administración ambiental, conducta militar y ética personal. Los 365 mandamientos negativos (uno por cada día del año solar) y 248 mandamientos positivos (correspondientes a los huesos del cuerpo humano) crean una arquitectura simbólica en la que la observancia de la Torá es coextensiva con la existencia humana en el tiempo y el cuerpo. Ningún otro sistema legal antiguo intenta una legislación integral a través de todos los dominios de la vida humana simultáneamente — consistente con un autor divino cuya preocupación abarca toda la existencia humana."
-      },
-      "s": "613 commandments – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/613_commandments",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1440
+      "date_sort": -1272
     },
     {
       "layer": "coherence",
@@ -3904,107 +3565,27 @@
       "u": "https://www.sefaria.org/Numbers.6",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1440
+      "date_sort": -1312
     },
     {
       "layer": "coherence",
       "t": {
-        "en": "The Argument from the Coherence of the Agricultural Laws as a Complete System",
-        "he": "הטיעון מהקוהרנטיות של החוקים החקלאיים כמערכת שלמה",
-        "fr": "L'argument de la cohérence des lois agricoles comme système complet",
-        "es": "El argumento de la coherencia de las leyes agrícolas como sistema completo"
+        "en": "The Wilderness Itinerary of Bamidbar 33",
+        "he": "רשימת המסעות בבמדבר לג",
+        "fr": "L'itinéraire du désert de Nombres 33",
+        "es": "El itinerario del desierto de Números 33"
       },
       "e": {
-        "en": "The Torah's agricultural laws form an interlocking system: shmita (Lev. 25), yovel (Lev. 25), terumah and ma'aser (tithes, Num. 18; Deut. 14), pe'ah and leket (Lev. 19:9–10; 23:22), bikkurim (first fruits, Deut. 26), kilayim (Lev. 19:19), and orlah (Lev. 19:23). These laws simultaneously address soil fertility, social equity, priestly support, the poor, and the relationship between Israel and the land. The system is economically sophisticated — distributing agricultural produce across priests, Levites, and the poor in a coordinated way — and requires a unified authorial vision of the entire agricultural economy rather than the piecemeal accumulation of separate tribal customs.",
-        "he": "החוקים החקלאיים של התורה יוצרים מערכת משולבת: שמיטה (ויקרא כה), יובל (ויקרא כה), תרומה ומעשר (במדבר יח; דברים יד), פאה ולקט (ויקרא יט:ט-י; כג:כב), ביכורים (דברים כו), כלאיים (ויקרא יט:יט), וערלה (ויקרא יט:כג). חוקים אלה מטפלים בו-זמנית בפוריות הקרקע, בשוויון חברתי, בתמיכה בכהונה, בעניים, וביחסים בין ישראל לארץ. המערכת מתוחכמת כלכלית — מחלקת תוצרת חקלאית בין כהנים, לוויים ועניים באופן מתואם — ומחייבת חזון מחבר מאוחד של הכלכלה החקלאית כולה ולא הצטברות חלקית של מנהגים שבטיים נפרדים.",
-        "fr": "Les lois agricoles de la Torah forment un système imbriqué : chemita (Lév. 25), yovel (Lév. 25), terouma et maasser (dîmes, Nb. 18 ; Deut. 14), péa et lékèt (Lév. 19:9-10 ; 23:22), bikourim (prémices, Deut. 26), kilayim (Lév. 19:19), et orla (Lév. 19:23). Ces lois traitent simultanément de la fertilité du sol, de l'équité sociale, du soutien sacerdotal, des pauvres, et de la relation entre Israël et la terre. Le système est économiquement sophistiqué — répartissant les produits agricoles entre prêtres, Lévites et pauvres de manière coordonnée — et exige une vision auctoriale unifiée de toute l'économie agricole plutôt que l'accumulation fragmentaire de coutumes tribales distinctes.",
-        "es": "Las leyes agrícolas de la Torá forman un sistema interconectado: shmitá (Lev. 25), yovel (Lev. 25), terumá y maaser (diezmos, Núm. 18; Deut. 14), peá y léket (Lev. 19:9-10; 23:22), bikurim (primicias, Deut. 26), kilaim (Lev. 19:19), y orlá (Lev. 19:23). Estas leyes abordan simultáneamente la fertilidad del suelo, la equidad social, el sostén sacerdotal, los pobres, y la relación entre Israel y la tierra. El sistema es económicamente sofisticado — distribuyendo productos agrícolas entre sacerdotes, levitas y pobres de manera coordinada — y requiere una visión autoral unificada de toda la economía agrícola en lugar de la acumulación fragmentaria de costumbres tribales separadas."
+        "en": "Bamidbar 33 lists the 42 stations of the journey from Egypt to the plains of Moav, and states that 'Moses wrote their goings forth, stage by stage, by the command of HASHEM' (33:2). Many of the names appear nowhere else, and most cannot now be identified; Menashe Har-El (The Sinai Journeys, 1983) proposed locations for several. Rashi notes that the list itself shows the 38 middle years were not constant wandering: after subtracting the stations before Kadesh and those after Aharon's death, only twenty journeys remain for those years (Rashi on 33:1). Charles Krahmalkov argued that the stations in Transjordan — Iyim, Dibon-Gad, Almon-Diblataim and Abel-Shittim — appear in the same order on an Egyptian route list of the New Kingdom, though his reading is debated.",
+        "he": "במדבר לג מונה את 42 המסעות מיציאת מצרים ועד ערבות מואב, וקובע ש\"ויכתב משה את מוצאיהם למסעיהם על פי ה'\" (לג:ב). רבים מן השמות אינם מופיעים בשום מקום אחר, ורובם אינם ניתנים לזיהוי כיום; מנשה הראל (מסעי סיני, 1983) הציע מקומות לכמה מהם. רש\"י מציין שהרשימה עצמה מראה ששלושים ושמונה השנים האמצעיות לא היו נדודים בלתי פוסקים: אחרי ניכוי המסעות שלפני קדש ואלה שאחרי מות אהרן, נשארים רק עשרים מסעות לשנים אלה (רש\"י על לג:א). צ'ארלס קרמלקוב טען שהתחנות בעבר הירדן — עיים, דיבון גד, עלמון דבלתימה ואבל השטים — מופיעות באותו סדר ברשימת דרכים מצרית מתקופת הממלכה החדשה, אם כי קריאתו שנויה במחלוקת.",
+        "fr": "Nombres 33 énumère les 42 étapes du voyage de l'Égypte aux plaines de Moab et déclare que « Moïse écrivit leurs points de départ, étape par étape, sur l'ordre de l'Éternel » (33:2). Beaucoup de ces noms n'apparaissent nulle part ailleurs, et la plupart ne peuvent plus être identifiés ; Menashé Har-El (Les voyages du Sinaï, 1983) a proposé des emplacements pour plusieurs. Rachi note que la liste elle-même montre que les 38 années intermédiaires ne furent pas une errance continue : après avoir retiré les étapes antérieures à Kadèch et celles postérieures à la mort d'Aaron, il ne reste que vingt déplacements pour ces années (Rachi sur 33:1). Charles Krahmalkov a soutenu que les étapes de Transjordanie — Iyim, Dibon-Gad, Almon-Diblataïm et Abel-Chittim — apparaissent dans le même ordre sur une liste d'itinéraire égyptienne du Nouvel Empire, bien que sa lecture soit débattue.",
+        "es": "Números 33 enumera las 42 etapas del viaje desde Egipto hasta las llanuras de Moab y declara que \"Moisés escribió sus salidas, etapa por etapa, por mandato de Hashem\" (33:2). Muchos de los nombres no aparecen en ningún otro lugar, y la mayoría ya no pueden identificarse; Menashé Har-El (Los viajes del Sinaí, 1983) propuso ubicaciones para varios. Rashí señala que la propia lista muestra que los 38 años intermedios no fueron un vagar continuo: tras descontar las etapas anteriores a Cadés y las posteriores a la muerte de Aarón, solo quedan veinte desplazamientos para esos años (Rashí sobre 33:1). Charles Krahmalkov sostuvo que las etapas de Transjordania — Iyim, Dibón-Gad, Almón-Diblataim y Abel-Shitim — aparecen en el mismo orden en una lista de itinerarios egipcia del Reino Nuevo, aunque su lectura es debatida."
       },
-      "s": "Agricultural laws in Judaism – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Agricultural_laws_in_Judaism",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1440
-    },
-    {
-      "layer": "coherence",
-      "t": {
-        "en": "The Argument from the Internal Consistency of the Wilderness Itinerary",
-        "he": "הטיעון מהעקביות הפנימית של מסלול המדבר",
-        "fr": "L'argument de la cohérence interne de l'itinéraire du désert",
-        "es": "El argumento de la consistencia interna del itinerario del desierto"
-      },
-      "e": {
-        "en": "Bamidbar 33 preserves a list of 42 stations in the Shemos journey, each named. This itinerary has been studied by geographers and archaeologists (Har-El, The Sinai Journeys, 1983; Beit-Arieh, Tel Aviv 15–16, 1988) who have identified several stations with plausible locations. The itinerary is geographically coherent — the sequence of movements is consistent with known terrain and water sources in the Sinai Peninsula. A legendary author fabricating a 40-year desert journey would not produce a 42-station itinerary with topographical specificity that withstands geographical analysis. The precision of the itinerary is consistent with authentic historical record-keeping.",
-        "he": "במדבר לג משמר רשימה של 42 תחנות במסע יציאת מצרים, כל אחת נקובה בשם. מסלול זה נחקר על ידי גיאוגרפים וארכיאולוגים (הראל, The Sinai Journeys, 1983; בית-אריה, Tel Aviv 15-16, 1988) שזיהו מספר תחנות עם מיקומים סבירים. המסלול קוהרנטי גיאוגרפית — רצף התנועות עולה בקנה אחד עם שטח ומקורות מים ידועים בחצי-האי סיני. מחבר אגדי המזייף מסע מדברי בן 40 שנה לא היה מפיק מסלול בן 42 תחנות עם ספציפיות טופוגרפית העומדת בניתוח גיאוגרפי. דיוק המסלול עולה בקנה אחד עם תיעוד היסטורי אותנטי.",
-        "fr": "Nombres 33 préserve une liste de 42 stations du voyage de l'Exode, chacune nommée. Cet itinéraire a été étudié par des géographes et archéologues (Har-El, The Sinai Journeys, 1983 ; Beit-Arieh, Tel Aviv 15-16, 1988) qui ont identifié plusieurs stations avec des emplacements plausibles. L'itinéraire est géographiquement cohérent — la séquence des déplacements est compatible avec le terrain connu et les sources d'eau de la péninsule du Sinaï. Un auteur légendaire fabriquant un voyage désertique de 40 ans ne produirait pas un itinéraire de 42 stations avec une spécificité topographique résistant à l'analyse géographique. La précision de l'itinéraire est cohérente avec une tenue de registres historiques authentique.",
-        "es": "Números 33 preserva una lista de 42 estaciones del viaje del Éxodo, cada una nombrada. Este itinerario ha sido estudiado por geógrafos y arqueólogos (Har-El, The Sinai Journeys, 1983; Beit-Arieh, Tel Aviv 15-16, 1988) que han identificado varias estaciones con ubicaciones plausibles. El itinerario es geográficamente coherente — la secuencia de movimientos es consistente con el terreno conocido y las fuentes de agua de la Península del Sinaí. Un autor legendario que fabricara un viaje desértico de 40 años no produciría un itinerario de 42 estaciones con especificidad topográfica que resista el análisis geográfico. La precisión del itinerario es consistente con un registro histórico auténtico."
-      },
-      "s": "Stations of the Exodus – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Stations_of_the_Exodus",
+      "s": "Numbers 33:1–49; Rashi on Numbers 33:1; M. Har-El, The Sinai Journeys (1983); C. R. Krahmalkov, 'Exodus Itinerary Confirmed by Egyptian Evidence,' Biblical Archaeology Review 20:5 (1994)",
+      "u": "https://www.sefaria.org/Numbers.33.1",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
       "date_sort": -1272
-    },
-    {
-      "layer": "coherence",
-      "t": {
-        "en": "The Argument from the Coherence of the Torah's War Ethics",
-        "he": "הטיעון מהקוהרנטיות של אתיקת המלחמה בתורה",
-        "fr": "L'argument de la cohérence de l'éthique de guerre de la Torah",
-        "es": "El argumento de la coherencia de la ética de guerra de la Torá"
-      },
-      "e": {
-        "en": "The Torah's war ethics (Deut. 20) are strikingly humane by ancient standards: soldiers are released for personal reasons (new house, new marriage, new vineyard, fear — Deut. 20:5–8); fruit trees may not be cut down in siege warfare (Deut. 20:19); distant cities must be offered peace before attack (Deut. 20:10); and non-combatants are distinguished from combatants. These provisions anticipate the Geneva Conventions by 3,000 years. In a militaristic ancient Near East where warfare was celebrated with no ethical constraints (Assyrian annals), the Torah's humane war ethics are remarkable — consistent with a divine author whose moral concern extends even to the conduct of justified warfare.",
-        "he": "אתיקת המלחמה של התורה (דברים כ) הומנית באופן בולט בסטנדרטים עתיקים: חיילים משוחררים מסיבות אישיות (בית חדש, נישואין חדשים, כרם חדש, פחד — דברים כ:ה-ח); אסור לכרות עצי פרי במלחמת מצור (דברים כ:יט); יש להציע שלום לערים רחוקות לפני התקפה (דברים כ:י); ולא-לוחמים מובחנים מלוחמים. סעיפים אלה מקדימים את אמנות ז'נבה ב-3,000 שנה. במזרח קדום מיליטריסטי שבו לוחמה נחגגה ללא הגבלות אתיות (אנלים אשוריים), אתיקת המלחמה ההומנית של התורה מרשימה — עולה בקנה אחד עם מחבר אלוקי שדאגתו המוסרית משתרעת אפילו על התנהלות מלחמה מוצדקת.",
-        "fr": "L'éthique de guerre de la Torah (Deut. 20) est remarquablement humaine selon les normes anciennes : les soldats sont libérés pour des raisons personnelles (nouvelle maison, nouveau mariage, nouvelle vigne, peur — Deut. 20:5-8) ; les arbres fruitiers ne peuvent être coupés lors d'un siège (Deut. 20:19) ; la paix doit être offerte aux villes lointaines avant l'attaque (Deut. 20:10) ; et les non-combattants sont distingués des combattants. Ces dispositions anticipent les Conventions de Genève de 3 000 ans. Dans un Proche-Orient ancien militariste où la guerre était célébrée sans contraintes éthiques (annales assyriennes), l'éthique de guerre humaine de la Torah est remarquable — cohérente avec un auteur divin dont le souci moral s'étend même à la conduite d'une guerre justifiée.",
-        "es": "La ética de guerra de la Torá (Deut. 20) es sorprendentemente humana según los estándares antiguos: los soldados son liberados por razones personales (casa nueva, matrimonio nuevo, viña nueva, miedo — Deut. 20:5-8); no se pueden talar árboles frutales en la guerra de asedio (Deut. 20:19); se debe ofrecer paz a las ciudades distantes antes del ataque (Deut. 20:10); y los no combatientes se distinguen de los combatientes. Estas disposiciones anticipan las Convenciones de Ginebra en 3.000 años. En un antiguo Cercano Oriente militarista donde la guerra se celebraba sin restricciones éticas (anales asirios), la ética de guerra humana de la Torá es notable — consistente con un autor divino cuya preocupación moral se extiende incluso a la conducta de la guerra justificada."
-      },
-      "s": "Jewish view of war – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Jewish_view_of_war",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1400
-    },
-    {
-      "layer": "coherence",
-      "t": {
-        "en": "The Argument from the Coherence of the Torah's Court System",
-        "he": "הטיעון מהקוהרנטיות של מערכת בתי הדין בתורה",
-        "fr": "L'argument de la cohérence du système judiciaire de la Torah",
-        "es": "El argumento de la coherencia del sistema judicial de la Torá"
-      },
-      "e": {
-        "en": "Devarim 16:18–20 and Shemos 18 establish a hierarchical court system: local judges at every level, with difficult cases escalating to higher courts (Deut. 17:8–13). The system prohibits bribery, requires impartiality, mandates the two-witness rule (Deut. 19:15), prohibits circumstantial evidence in capital cases, and provides for judicial review. This court architecture — with built-in checks against judicial corruption — is more sophisticated than many modern legal systems. No ancient Near Eastern law code (Hammurabi, Hittite, Assyrian) contains a comparable hierarchical judicial system with explicit anti-corruption provisions. The Torah's court system is consistent with a divine legislator who designed a complete legal infrastructure for a just society.",
-        "he": "דברים טז:יח-כ ושמות יח מכוננים מערכת בתי דין היררכית: שופטים מקומיים בכל רמה, כשמקרים קשים מוסלמים לבתי דין גבוהים יותר (דברים יז:ח-יג). המערכת אוסרת שוחד, דורשת חוסר משוא פנים, מחייבת את כלל שני העדים (דברים יט:טו), אוסרת ראיות נסיבתיות בדיני נפשות, ומספקת ביקורת שיפוטית. ארכיטקטורת בתי דין זו — עם בלמים מובנים נגד שחיתות שיפוטית — מתוחכמת יותר ממערכות משפט מודרניות רבות. שום קוד חוקים מהמזרח הקדום (חמורבי, חתי, אשורי) אינו מכיל מערכת שיפוטית היררכית דומה עם סעיפים אנטי-שחיתות מפורשים. מערכת בתי הדין של התורה עולה בקנה אחד עם מחוקק אלוקי שתכנן תשתית משפטית שלמה לחברה צודקת.",
-        "fr": "Deutéronome 16:18-20 et Exode 18 établissent un système judiciaire hiérarchique : des juges locaux à chaque niveau, les cas difficiles remontant vers des tribunaux supérieurs (Deut. 17:8-13). Le système interdit la corruption, exige l'impartialité, impose la règle des deux témoins (Deut. 19:15), interdit les preuves indirectes dans les affaires capitales, et prévoit un contrôle judiciaire. Cette architecture judiciaire — avec des garde-fous intégrés contre la corruption judiciaire — est plus sophistiquée que de nombreux systèmes juridiques modernes. Aucun code de lois du Proche-Orient ancien (Hammurabi, hittite, assyrien) ne contient un système judiciaire hiérarchique comparable avec des dispositions anti-corruption explicites. Le système judiciaire de la Torah est cohérent avec un législateur divin ayant conçu une infrastructure juridique complète pour une société juste.",
-        "es": "Deuteronomio 16:18-20 y Éxodo 18 establecen un sistema judicial jerárquico: jueces locales en cada nivel, con casos difíciles escalando a tribunales superiores (Deut. 17:8-13). El sistema prohíbe el soborno, requiere imparcialidad, exige la regla de los dos testigos (Deut. 19:15), prohíbe la evidencia circunstancial en casos capitales, y prevé la revisión judicial. Esta arquitectura judicial — con controles integrados contra la corrupción judicial — es más sofisticada que muchos sistemas legales modernos. Ningún código legal del antiguo Cercano Oriente (Hammurabi, hitita, asirio) contiene un sistema judicial jerárquico comparable con disposiciones anticorrupción explícitas. El sistema judicial de la Torá es consistente con un legislador divino que diseñó una infraestructura legal completa para una sociedad justa."
-      },
-      "s": "Sanhedrin – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Sanhedrin",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1440
-    },
-    {
-      "layer": "coherence",
-      "t": {
-        "en": "The Microcosm/Macrocosm Theology of Vayikra",
-        "he": "תיאולוגיית המיקרוקוסמוס/מקרוקוסמוס של ויקרא",
-        "fr": "La théologie microcosme/macrocosme du Lévitique",
-        "es": "La teología microcosmos/macrocosmos de Levítico"
-      },
-      "e": {
-        "en": "Anthropologist Mary Douglas, in her landmark work *Leviticus as Literature* (1999), demonstrated that the seemingly bizarre laws of purity and impurity in Vayikra 11-15 are not random superstitions, but map perfectly onto the body's physical boundaries and the layout of the Tabernacle. The Tabernacle is constructed as a macrocosm of the human body, and the sacrificial system functions as an analogical logic system maintaining the physical integrity of both the individual and the sanctuary. Such a complex, unified body-theology is lightyears beyond primitive pagan ritualism.",
-        "he": "האנתרופולוגית מרי דאגלס, בעבודתה פורצת הדרך *Leviticus as Literature* (1999), הראתה שחוקי הטהרה והטומאה הנראים לכאורה מוזרים בויקרא יא-טו אינם אמונות טפלות אקראיות, אלא ממופים באופן מושלם על גבולות הגוף הפיזיים ועל פריסת המשכן. המשכן בנוי כמקרוקוסמוס של גוף האדם, ומערכת הקורבנות מתפקדת כמערכת לוגיקה אנלוגית השומרת על שלמותם הפיזית של הפרט ושל המקדש כאחד. תיאולוגיית-גוף מורכבת ומאוחדת כזו רחוקה שנות אור מעבר לטקסיות אלילית פרימיטיבית.",
-        "fr": "L'anthropologue Mary Douglas, dans son ouvrage majeur *Leviticus as Literature* (1999), a démontré que les lois apparemment bizarres de pureté et d'impureté du Lévitique 11-15 ne sont pas des superstitions aléatoires, mais correspondent parfaitement aux frontières physiques du corps et à la disposition du Tabernacle. Le Tabernacle est construit comme un macrocosme du corps humain, et le système sacrificiel fonctionne comme un système de logique analogique maintenant l'intégrité physique tant de l'individu que du sanctuaire. Une théologie du corps aussi complexe et unifiée est à des années-lumière au-delà du ritualisme païen primitif.",
-        "es": "La antropóloga Mary Douglas, en su obra fundamental *Leviticus as Literature* (1999), demostró que las leyes aparentemente extrañas de pureza e impureza en Levítico 11-15 no son supersticiones aleatorias, sino que se corresponden perfectamente con los límites físicos del cuerpo y con la disposición del Tabernáculo. El Tabernáculo está construido como un macrocosmos del cuerpo humano, y el sistema sacrificial funciona como un sistema de lógica analógica que mantiene la integridad física tanto del individuo como del santuario. Una teología del cuerpo tan compleja y unificada está a años luz más allá del ritualismo pagano primitivo."
-      },
-      "s": "https://en.wikipedia.org/wiki/Leviticus_as_Literature",
-      "u": "https://en.wikipedia.org/wiki/Leviticus_as_Literature",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1440
     },
     {
       "layer": "coherence",
@@ -4015,16 +3596,16 @@
         "es": "La frontera teológica de la prohibición de la sangre"
       },
       "e": {
-        "en": "Vayikra 17:10-14 contains a highly specific, absolute ban on consuming blood, rooted in the phrase \"for the life of the flesh is in the blood.\" In the ancient world, drinking blood was considered a way to absorb the life force or power of an animal or enemy. By legally severing the consumption of blood from the sacrificial system (where blood is poured out *only* on the altar), the Torah creates a permanent, physical boundary between divine worship and pagan occultism.",
-        "he": "ויקרא יז:י-יד מכיל איסור מוחלט וספציפי ביותר על צריכת דם, המושרש בביטוי \"כי נפש הבשר בדם היא\". בעולם העתיק, שתיית דם נחשבה לדרך לספוג את כוח החיים או העוצמה של בעל חיים או אויב. באמצעות הפרדה משפטית של צריכת הדם ממערכת הקורבנות (שבה הדם נשפך *רק* על המזבח), התורה יוצרת גבול קבוע ופיזי בין עבודת האל לאוקולטיזם אלילי.",
-        "fr": "Lévitique 17:10-14 contient une interdiction absolue et hautement spécifique de consommer du sang, ancrée dans la formule « car la vie de la chair est dans le sang ». Dans le monde antique, boire du sang était considéré comme un moyen d'absorber la force vitale ou la puissance d'un animal ou d'un ennemi. En séparant juridiquement la consommation de sang du système sacrificiel (où le sang est versé *uniquement* sur l'autel), la Torah crée une frontière permanente et physique entre le culte divin et l'occultisme païen.",
-        "es": "Levítico 17:10-14 contiene una prohibición absoluta y altamente específica sobre el consumo de sangre, arraigada en la frase \"porque la vida de la carne en la sangre está\". En el mundo antiguo, beber sangre se consideraba una manera de absorber la fuerza vital o el poder de un animal o enemigo. Al separar legalmente el consumo de sangre del sistema sacrificial (donde la sangre se derrama *solo* sobre el altar), la Torá crea una frontera permanente y física entre el culto divino y el ocultismo pagano."
+        "en": "The Torah forbids eating blood absolutely, giving the reason 'for the life of the flesh is in the blood' (Vayikra 17:10–14; compare Bereishis 9:4), and requires that the blood of a hunted animal be poured out and covered with earth (17:13). The Rambam explains the law against its ancient background: the Sabians, he writes, ate blood or gathered around it, believing it was the food of spirits and that eating it would bring them into communion with those spirits and let them learn the future. The Torah forbade eating it and directed the blood of offerings to the altar alone, to uproot that practice (Guide for the Perplexed 3:46).",
+        "he": "התורה אוסרת לחלוטין אכילת דם ונותנת טעם \"כי נפש הבשר בדם היא\" (ויקרא יז:י–יד; השווה בראשית ט:ד), ומחייבת לשפוך את דם החיה הניצודה ולכסותו בעפר (יז:יג). הרמב\"ם מסביר את הדין על רקעו הקדום: הצאבה, הוא כותב, היו אוכלים דם או מתקבצים סביבו, מתוך אמונה שהוא מזון השדים ושבאכילתו יתחברו עם השדים וידעו מהם עתידות. התורה אסרה את אכילתו והפנתה את דם הקרבנות אל המזבח בלבד, כדי לעקור מנהג זה (מורה נבוכים ג:מו).",
+        "fr": "La Torah interdit absolument de consommer le sang, en donnant pour raison « car la vie de la chair est dans le sang » (Lévitique 17:10-14 ; cf. Genèse 9:4), et elle exige que le sang d'un animal chassé soit versé et recouvert de terre (17:13). Le Rambam explique la loi sur son arrière-plan antique : les Sabéens, écrit-il, mangeaient le sang ou se rassemblaient autour, croyant qu'il était la nourriture des esprits et qu'en le mangeant ils entreraient en communion avec ces esprits et apprendraient l'avenir. La Torah en interdit la consommation et réserva le sang des offrandes à l'autel seul, pour déraciner cette pratique (Guide des égarés 3:46).",
+        "es": "La Torá prohíbe absolutamente comer sangre, dando como razón \"porque la vida de la carne está en la sangre\" (Levítico 17:10-14; cf. Génesis 9:4), y exige que la sangre de un animal cazado se derrame y se cubra con tierra (17:13). El Rambam explica la ley sobre su trasfondo antiguo: los sabeos, escribe, comían sangre o se reunían en torno a ella, creyendo que era el alimento de los espíritus y que al comerla entrarían en comunión con ellos y conocerían el futuro. La Torá prohibió comerla y destinó la sangre de las ofrendas solo al altar, para desarraigar esa práctica (Guía de perplejos 3:46)."
       },
-      "s": "Law, Barry A.; Technology of Cheesemaking; 2010; WILEY-BLACKWELL; pp. 100–101",
-      "u": "http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1405182989.html",
+      "s": "Leviticus 17:10–14; Genesis 9:4; Rambam, Guide for the Perplexed 3:46",
+      "u": "https://www.sefaria.org/Leviticus.17.11",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1440
+      "date_sort": -1312
     },
     {
       "layer": "history_corrob",
@@ -4775,26 +4356,6 @@
       ]
     },
     {
-      "layer": "coherence",
-      "t": {
-        "en": "The Agricultural Specificity of the Festival Calendar",
-        "he": "הספציפיות החקלאית של לוח החגים",
-        "fr": "La spécificité agricole du calendrier festif",
-        "es": "La especificidad agrícola del calendario festivo"
-      },
-      "e": {
-        "en": "Vayikra 23 lists the agricultural cycle of the Land of Israel with precise timing: Passover in the spring (barley harvest), Shavuot 50 days later (wheat harvest), and Sukkot in the fall (fruit harvest). If the Torah was written by exiles returning from Babylon (a flat, river-irrigated land with a completely different agricultural calendar and climate), they would not have perfectly mapped the festivals to the specific, micro-climate agricultural sequence of the rugged, rain-dependent highlands of Canaan.",
-        "he": "ויקרא כג מפרט את המחזור החקלאי של ארץ ישראל בתזמון מדויק: פסח באביב (קציר שעורה), שבועות 50 יום מאוחר יותר (קציר חיטה), וסוכות בסתיו (קציר פירות). אילו התורה נכתבה על ידי גולים החוזרים מבבל (ארץ שטוחה ומושקית-נהר בעלת לוח שנה חקלאי ואקלים שונים לחלוטין), הם לא היו ממפים באופן מושלם את החגים לרצף החקלאי הספציפי והמיקרו-אקלימי של הרמות המחוספסות והתלויות-גשם של כנען.",
-        "fr": "Lévitique 23 liste le cycle agricole de la Terre d'Israël avec un timing précis : Pessa'h au printemps (récolte de l'orge), Chavouot 50 jours plus tard (récolte du blé), et Souccot à l'automne (récolte des fruits). Si la Torah avait été écrite par des exilés revenant de Babylone (une terre plate, irriguée par un fleuve, avec un calendrier agricole et un climat complètement différents), ils n'auraient pas parfaitement fait correspondre les fêtes à la séquence agricole spécifique et micro-climatique des hautes terres accidentées et dépendantes de la pluie de Canaan.",
-        "es": "Levítico 23 enumera el ciclo agrícola de la Tierra de Israel con un momento preciso: Pésaj en primavera (cosecha de cebada), Shavuot 50 días después (cosecha de trigo), y Sucot en otoño (cosecha de frutas). Si la Torá hubiera sido escrita por exiliados que regresaban de Babilonia (una tierra plana, irrigada por ríos, con un calendario agrícola y clima completamente diferentes), no habrían mapeado perfectamente las festividades a la secuencia agrícola específica y microclimática de las accidentadas y dependientes de la lluvia tierras altas de Canaán."
-      },
-      "s": "https://en.wikipedia.org/wiki/Hebrew_calendar",
-      "u": "https://en.wikipedia.org/wiki/Hebrew_calendar",
-      "date_sort": -1200,
-      "consensus_status": "probabilistic",
-      "source_tier": "popular"
-    },
-    {
       "layer": "archaeology",
       "t": {
         "en": "The Ophel Bulla of King Hezekiah",
@@ -4961,66 +4522,6 @@
       "source_tier": "popular",
       "date_sort": -1737,
       "review_caveat": "No known text names any of the four kings of Bereishis 14, and Chedorlaomer does not appear among the roughly forty known kings of Elam. The old identification of Amraphel with Hammurabi has been abandoned. The evidence shows that the chapter fits the political world and naming patterns of the early second millennium, not that the campaign itself is attested; some scholars date the chapter much later."
-    },
-    {
-      "layer": "coherence",
-      "t": {
-        "en": "The Hyper-Compressed Legal Code of the Eruv",
-        "he": "הקוד המשפטי הדחוס במיוחד של העירוב",
-        "fr": "Le code juridique hyper-comprimé de l'Érouv",
-        "es": "El código legal hipercomprimido del Eruv"
-      },
-      "e": {
-        "en": "Shemos 16:29 states: \"Let no man go out of his place on the seventh day.\" From this single, seemingly vague verse, the Talmudic sages developed the highly complex laws of *Eruv*—a legal fiction that conceptually merges multiple private domains into one unified shared space to allow carrying on the Sabbath. The fact that a massive, highly technical legal architecture could be consistently derived from a few sparse Torah words proves the text functions as a hyper-compressed digital code rather than a simple narrative.",
-        "he": "שמות טז:כט קובע: \"אל יצא איש ממקומו ביום השביעי\". מפסוק יחיד ולכאורה מעורפל זה, פיתחו חכמי התלמוד את דיני ה*עירוב* המורכבים ביותר — פיקציה משפטית הממזגת מושגית מספר רשויות פרטיות למרחב משותף מאוחד אחד כדי לאפשר טלטול בשבת. העובדה שארכיטקטורה משפטית עצומה וטכנית ביותר ניתנת להסקה עקבית ממספר מילות תורה דלות מוכיחה שהטקסט מתפקד כקוד דיגיטלי דחוס-מאוד ולא כנרטיב פשוט.",
-        "fr": "Exode 16:29 déclare : « Que nul ne sorte de sa place le septième jour. » À partir de ce seul verset apparemment vague, les sages talmudiques ont développé les lois hautement complexes de l'*Érouv* — une fiction juridique qui fusionne conceptuellement plusieurs domaines privés en un espace partagé unifié pour permettre de porter le Chabbat. Le fait qu'une architecture juridique massive et hautement technique puisse être dérivée de manière cohérente de quelques mots épars de la Torah prouve que le texte fonctionne comme un code numérique hyper-compressé plutôt qu'un simple récit.",
-        "es": "Éxodo 16:29 declara: \"Ninguno salga de su lugar en el séptimo día\". A partir de este único versículo aparentemente vago, los sabios talmúdicos desarrollaron las leyes altamente complejas del *Eruv* — una ficción legal que fusiona conceptualmente múltiples dominios privados en un espacio compartido unificado para permitir el transporte en Shabat. El hecho de que una arquitectura legal masiva y altamente técnica pueda derivarse consistentemente de unas pocas palabras escasas de la Torá prueba que el texto funciona como un código digital hipercomprimido en lugar de una narrativa simple."
-      },
-      "s": "Schlaff, Shira J.; Using an Eruv to Untangle the Boundaries of the Supreme Court's Religion-Clause Jurisprudence; University of Pennsylvania Journal of Constitutional Law; 5",
-      "u": "https://www.law.upenn.edu/journals/conlaw/articles/volume5/issue4/Schlaff5U.Pa.J.Const.L.831(2003).pdf",
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "date_sort": -1440
-    },
-    {
-      "layer": "coherence",
-      "t": {
-        "en": "The Irregular Geography of the 42-Station Itinerary",
-        "he": "הגיאוגרפיה הלא-סדירה של מסלול 42 המסעות",
-        "fr": "La géographie irrégulière de l'itinéraire des 42 étapes",
-        "es": "La geografía irregular del itinerario de las 42 estaciones"
-      },
-      "e": {
-        "en": "Bamidbar 33 records the exact sequence of 42 encampments during the 40 years of wandering. Skeptics often claim this is a fictional, artificially symmetrical number (6 x 7). However, a mathematical analysis of the geographical intervals between the stations shows zero symmetry; the distances between camps are wildly irregular (ranging from a few miles to hundreds of miles). If a later author were inventing the list to look mathematically holy, they would have evenly spaced the stations. The chaotic, realistic geography hidden within a numerologically significant total (42) proves the text combines authentic, messy logistical data with overarching divine structure.",
-        "he": "במדבר לג מתעד את הרצף המדויק של 42 חניות במהלך 40 שנות הנדודים. ספקנים טוענים לעיתים קרובות שזהו מספר בדיוני וסימטרי באופן מלאכותי (6 × 7). עם זאת, ניתוח מתמטי של המרווחים הגיאוגרפיים בין התחנות מראה אפס סימטריה; המרחקים בין המחנות בלתי סדירים ביותר (נעים בין מספר קילומטרים למאות קילומטרים). אילו מחבר מאוחר היה ממציא את הרשימה כדי שתיראה קדושה מתמטית, הוא היה מרווח את התחנות באופן שווה. הגיאוגרפיה הכאוטית והריאליסטית המוסתרת בתוך סכום בעל משמעות נומרולוגית (42) מוכיחה שהטקסט משלב נתונים לוגיסטיים אותנטיים ומבולגנים עם מבנה אלוקי כולל.",
-        "fr": "Nombres 33 enregistre la séquence exacte des 42 campements durant les 40 années d'errance. Les sceptiques prétendent souvent qu'il s'agit d'un nombre fictif et artificiellement symétrique (6 × 7). Cependant, une analyse mathématique des intervalles géographiques entre les stations ne montre aucune symétrie ; les distances entre les camps sont extrêmement irrégulières (allant de quelques kilomètres à des centaines de kilomètres). Si un auteur ultérieur inventait la liste pour qu'elle paraisse mathématiquement sainte, il aurait espacé les stations uniformément. La géographie chaotique et réaliste cachée au sein d'un total numérologiquement significatif (42) prouve que le texte combine des données logistiques authentiques et désordonnées avec une structure divine globale.",
-        "es": "Números 33 registra la secuencia exacta de 42 campamentos durante los 40 años de peregrinaje. Los escépticos a menudo afirman que este es un número ficticio y artificialmente simétrico (6 × 7). Sin embargo, un análisis matemático de los intervalos geográficos entre las estaciones muestra cero simetría; las distancias entre campamentos son extremadamente irregulares (desde unos pocos kilómetros hasta cientos de kilómetros). Si un autor posterior estuviera inventando la lista para que pareciera matemáticamente sagrada, habría espaciado las estaciones uniformemente. La geografía caótica y realista oculta dentro de un total numerológicamente significativo (42) prueba que el texto combina datos logísticos auténticos y desordenados con una estructura divina general."
-      },
-      "s": "https://en.wikipedia.org/wiki/Stations_list",
-      "u": "https://en.wikipedia.org/wiki/Stations_list",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1400
-    },
-    {
-      "layer": "coherence",
-      "t": {
-        "en": "The Mathematical Precision of the Census Total",
-        "he": "הדיוק המתמטי של סך המפקד",
-        "fr": "La précision mathématique du total du recensement",
-        "es": "La precisión matemática del total del censo"
-      },
-      "e": {
-        "en": "In Bamidbar 1:45-46, the census totals exactly 603,550 men. While critics argue this is symbolic, the number ends in \"50.\" In the ancient world, rounding to the nearest hundred or thousand was standard. The highly specific, non-rounded total suggests it is either an exact historical logistical record, or, as some Jewish commentators suggest, represents a mathematical formula where each tribe's count carries a deeper symbolic meaning that miraculously resolves to a perfect, unified total. Either way, the precision defies ancient literary norms.",
-        "he": "בבמדבר א:מה-מו, סכום המפקד הוא בדיוק 603,550 גברים. בעוד שמבקרים טוענים שזהו מספר סמלי, המספר מסתיים ב-\"50\". בעולם העתיק, עיגול למאה או לאלף הקרובים היה סטנדרטי. הסכום הספציפי ביותר והבלתי מעוגל מרמז שזהו או תיעוד לוגיסטי היסטורי מדויק, או, כפי שמציעים פרשנים יהודים מסוימים, מייצג נוסחה מתמטית שבה ספירת כל שבט נושאת משמעות סמלית עמוקה יותר המתיישבת באורח פלא לסכום מושלם ומאוחד. כך או כך, הדיוק מתריס נגד נורמות ספרותיות עתיקות.",
-        "fr": "Dans Nombres 1:45-46, le recensement totalise exactement 603 550 hommes. Bien que les critiques soutiennent que c'est symbolique, le nombre se termine par « 50 ». Dans le monde antique, arrondir à la centaine ou au millier le plus proche était la norme. Le total hautement spécifique et non arrondi suggère qu'il s'agit soit d'un registre logistique historique exact, soit, comme le suggèrent certains commentateurs juifs, qu'il représente une formule mathématique où le compte de chaque tribu porte une signification symbolique plus profonde qui se résout miraculeusement en un total parfait et unifié. Dans les deux cas, la précision défie les normes littéraires anciennes.",
-        "es": "En Números 1:45-46, el censo totaliza exactamente 603.550 hombres. Aunque los críticos argumentan que esto es simbólico, el número termina en \"50\". En el mundo antiguo, redondear a la centena o el millar más cercano era estándar. El total altamente específico y no redondeado sugiere que es o bien un registro logístico histórico exacto, o, como sugieren algunos comentaristas judíos, representa una fórmula matemática donde el recuento de cada tribu lleva un significado simbólico más profundo que se resuelve milagrosamente en un total perfecto y unificado. De cualquier manera, la precisión desafía las normas literarias antiguas."
-      },
-      "s": "Fretheim, Terence E; Oxford Bible Commentary; 1998; Oxford University Press",
-      "u": "https://archive.org/details/oxfordbiblecomme0000unse",
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "date_sort": -600
     },
     {
       "layer": "philosophy",
@@ -6451,66 +5952,6 @@
       "date_sort": 1950
     },
     {
-      "layer": "coherence",
-      "t": {
-        "en": "Torah Census Bamidbar — Internal Mathematical Consistency",
-        "he": "מספרי המפקד בתורה — עקביות מתמטית פנימית",
-        "fr": "Les chiffres du recensement de la Torah — cohérence mathématique interne",
-        "es": "Los números censales de la Torá — consistencia matemática interna"
-      },
-      "e": {
-        "en": "Bamidbar 1, 26, 33: Tribe counts sum to 603,550 (Num 1:46) and 601,730 (Num 26:51) — consistent totals despite 38-year gap. Camp layout (Num 2) forms perfect square around Tabernacle with 3 tribes per side. 42 journey stations (Num 33) = 42-letter Divine Name. Numerical architecture pervades Torah structure, implying unified design.",
-        "he": "במדבר א, כו, לג: ספירות השבטים מסתכמות ב-603,550 (במדבר א:מו) וב-601,730 (במדבר כו:נא) — סכומים עקביים למרות פער של 38 שנה. פריסת המחנה (במדבר ב) יוצרת ריבוע מושלם סביב המשכן עם 3 שבטים לכל צד. 42 תחנות מסע (במדבר לג) = שם אלוקי בן 42 אותיות. ארכיטקטורה מספרית חודרת למבנה התורה, ומרמזת על עיצוב מאוחד.",
-        "fr": "Nombres 1, 26, 33 : les comptes de tribus totalisent 603 550 (Nb 1:46) et 601 730 (Nb 26:51) — des totaux cohérents malgré un écart de 38 ans. La disposition du camp (Nb 2) forme un carré parfait autour du Tabernacle avec 3 tribus par côté. 42 stations de voyage (Nb 33) = Nom divin à 42 lettres. Une architecture numérique imprègne la structure de la Torah, impliquant une conception unifiée.",
-        "es": "Números 1, 26, 33: los recuentos de tribus suman 603.550 (Núm 1:46) y 601.730 (Núm 26:51) — totales consistentes a pesar de una brecha de 38 años. La disposición del campamento (Núm 2) forma un cuadrado perfecto alrededor del Tabernáculo con 3 tribus por lado. 42 estaciones de viaje (Núm 33) = Nombre Divino de 42 letras. La arquitectura numérica impregna la estructura de la Torá, implicando un diseño unificado."
-      },
-      "s": "Fretheim, Terence E; Oxford Bible Commentary; 1998; Oxford University Press",
-      "u": "https://archive.org/details/oxfordbiblecomme0000unse",
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "date_sort": -1440
-    },
-    {
-      "layer": "coherence",
-      "t": {
-        "en": "Hebrew Calendar — Metonic Cycle Encoded in *Sod Ha'Ibbur* (Rosh Hashanah 20b)",
-        "he": "הלוח העברי — המחזור המטוני המקודד ב'סוד העיבור' (ראש השנה כ ע\"ב)",
-        "fr": "Le calendrier hébraïque — le cycle métonique encodé dans *Sod Ha'Ibbour* (Roch Hachana 20b)",
-        "es": "El calendario hebreo — el ciclo metónico codificado en *Sod Ha'Ibur* (Rosh Hashaná 20b)"
-      },
-      "e": {
-        "en": "Lunar months (29.53059 days) × 12 = 354.37 days; solar year = 365.2422 days. Difference = 10.87 days/year. 19-year Metonic cycle (235 lunar months = 6939.69 days ≈ 19 solar years) reconciles them via 7 leap months per cycle. *Sod ha'ibbur* (secret of intercalation) preserved orally, codified by Hillel II (359 CE) — but Talmud (RH 20b) attributes calculation to Sages with tradition from Sinai. Greek astronomy (Meton, 432 BCE) discovered this later; Torah calendar anticipates it.",
-        "he": "חודשים ירחיים (29.53059 יום) × 12 = 354.37 יום; שנת שמש = 365.2422 יום. הפרש = 10.87 יום/שנה. המחזור המטוני בן 19 שנה (235 חודשים ירחיים = 6939.69 יום ≈ 19 שנות שמש) מיישב ביניהם באמצעות 7 חודשי עיבור למחזור. *סוד העיבור* נשמר בעל-פה, קודד על ידי הלל השני (359 לספירה) — אך התלמוד (ראש השנה כ ע\"ב) מייחס את החישוב לחכמים עם מסורת מסיני. האסטרונומיה היוונית (מטון, 432 לפנה\"ס) גילתה זאת מאוחר יותר; לוח התורה מקדים אותה.",
-        "fr": "Mois lunaires (29,53059 jours) × 12 = 354,37 jours ; année solaire = 365,2422 jours. Différence = 10,87 jours/an. Le cycle métonique de 19 ans (235 mois lunaires = 6939,69 jours ≈ 19 années solaires) les réconcilie via 7 mois embolismiques par cycle. *Sod ha'ibbour* (secret de l'intercalation) préservé oralement, codifié par Hillel II (359 apr. J.-C.) — mais le Talmud (RH 20b) attribue le calcul aux Sages avec une tradition venant du Sinaï. L'astronomie grecque (Méton, 432 av. J.-C.) l'a découvert plus tard ; le calendrier de la Torah l'anticipe.",
-        "es": "Meses lunares (29,53059 días) × 12 = 354,37 días; año solar = 365,2422 días. Diferencia = 10,87 días/año. El ciclo metónico de 19 años (235 meses lunares = 6939,69 días ≈ 19 años solares) los reconcilia mediante 7 meses embolísmicos por ciclo. *Sod ha'ibur* (secreto de la intercalación) preservado oralmente, codificado por Hilel II (359 d.C.) — pero el Talmud (RH 20b) atribuye el cálculo a los Sabios con una tradición del Sinaí. La astronomía griega (Metón, 432 a.C.) lo descubrió después; el calendario de la Torá lo anticipa."
-      },
-      "s": "Rosh Hashanah 20b; Rambam, Hil. Kiddush HaChodesh; Wikipedia (Hebrew calendar)",
-      "u": "https://en.wikipedia.org/wiki/Hebrew_calendar",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": 359
-    },
-    {
-      "layer": "coherence",
-      "t": {
-        "en": "Intertextual Cross-References — ~1,200 Internal Links Across 5 Books",
-        "he": "הפניות-צולבות בין-טקסטואליות — כ-1,200 קישורים פנימיים על פני 5 ספרים",
-        "fr": "Références croisées intertextuelles — ~1 200 liens internes à travers 5 livres",
-        "es": "Referencias cruzadas intertextuales — ~1.200 enlaces internos a través de 5 libros"
-      },
-      "e": {
-        "en": "~1,200 verbal/thematic cross-references bind the Pentateuch: Gen 15:13 ↔ Ex 12:40–41 (400/430 years); Deut 28 ↔ Lev 26 (parallel blessings/curses); Ex 20 ↔ Deut 5 (Decalogue variants); Num 15:37–41 ↔ Deut 6:4–9, 11:13–21 (Shema paragraphs); Gen 49 (blessings) ↔ Deut 33 (Moses' blessings). Consistency of chronology, theology, terminology across 5 books suggests single editorial mind.",
-        "he": "כ-1,200 הפניות-צולבות מילוליות/תמטיות קושרות את החומש: בראשית טו:יג ↔ שמות יב:מ-מא (400/430 שנה); דברים כח ↔ ויקרא כו (ברכות/קללות מקבילות); שמות כ ↔ דברים ה (וריאנטים של עשרת הדברות); במדבר טו:לז-מא ↔ דברים ו:ד-ט, יא:יג-כא (פרשיות שמע); בראשית מט (ברכות) ↔ דברים לג (ברכות משה). עקביות כרונולוגיה, תיאולוגיה וטרמינולוגיה על פני 5 ספרים מרמזת על מוח עריכה יחיד.",
-        "fr": "Environ 1 200 références croisées verbales/thématiques lient le Pentateuque : Gen 15:13 ↔ Ex 12:40-41 (400/430 ans) ; Deut 28 ↔ Lév 26 (bénédictions/malédictions parallèles) ; Ex 20 ↔ Deut 5 (variantes du Décalogue) ; Nb 15:37-41 ↔ Deut 6:4-9, 11:13-21 (paragraphes du Chéma) ; Gen 49 (bénédictions) ↔ Deut 33 (bénédictions de Moïse). La cohérence de la chronologie, de la théologie, de la terminologie à travers 5 livres suggère un unique esprit éditorial.",
-        "es": "Aproximadamente 1.200 referencias cruzadas verbales/temáticas unen el Pentateuco: Gén 15:13 ↔ Éx 12:40-41 (400/430 años); Deut 28 ↔ Lev 26 (bendiciones/maldiciones paralelas); Éx 20 ↔ Deut 5 (variantes del Decálogo); Núm 15:37-41 ↔ Deut 6:4-9, 11:13-21 (párrafos del Shemá); Gén 49 (bendiciones) ↔ Deut 33 (bendiciones de Moisés). La consistencia de cronología, teología y terminología a través de 5 libros sugiere una única mente editorial."
-      },
-      "s": "Barton, John; The Pentateuch; 2010; Oxford University Press",
-      "u": "https://books.google.com/books?id=ldMUDAAAQBAJ&q=%221860s%22%22leading+scholars%22%22supplementary+hypothesis%22&pg=PA18",
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "date_sort": -1272
-    },
-    {
       "layer": "core",
       "t": {
         "en": "Torah Min HaShamayim — Maimonides' Eighth Principle of Faith",
@@ -6984,26 +6425,6 @@
     {
       "layer": "coherence",
       "t": {
-        "en": "The Chiastic Structure of the Flood Narrative (Bereishis 6-9)",
-        "he": "המבנה הכיאסטי של נרטיב המבול (בראשית ו-ט)",
-        "fr": "La structure chiastique du récit du Déluge (Genèse 6-9)",
-        "es": "La estructura quiástica del relato del Diluvio (Génesis 6-9)"
-      },
-      "e": {
-        "en": "Literary scholars including Gordon Wenham have mapped the flood narrative in Bereishis 6-9 as an extended chiasm — a mirrored, symmetrical structure in which the waters rising and receding, the sending out of the raven and dove, and other narrative elements are arranged in a precise A-B-C...C'-B'-A' pattern that pivots on G-d's remembrance of Noah at the narrative's exact center (Bereishis 8:1). This kind of extended, mathematically precise structural symmetry spanning four chapters is characteristic of deliberate, unified literary composition rather than the more haphazard result of combining multiple independent sources, as some source-critical theories of the flood narrative's origin have proposed.",
-        "he": "חוקרי ספרות ובהם גורדון ונהאם מיפו את נרטיב המבול בבראשית ו-ט ככיאזם מורחב — מבנה משתקף וסימטרי שבו עליית המים ונסיגתם, שילוח העורב והיונה, ויסודות נרטיביים אחרים מסודרים בדפוס מדויק של א-ב-ג...ג'-ב'-א' הנסוב סביב זכירת האל את נח במרכז המדויק של הנרטיב (בראשית ח:א). סוג זה של סימטריה מבנית מורחבת ומדויקת מתמטית המשתרעת על ארבעה פרקים אופיינית לחיבור ספרותי מכוון ומאוחד ולא לתוצאה המקרית יותר של שילוב מספר מקורות בלתי תלויים, כפי שהציעו תיאוריות ביקורת-מקורות מסוימות למקור נרטיב המבול.",
-        "fr": "Des spécialistes de la littérature, dont Gordon Wenham, ont cartographié le récit du Déluge de Genèse 6-9 comme un chiasme étendu — une structure symétrique en miroir dans laquelle la montée et le retrait des eaux, l'envoi du corbeau et de la colombe, et d'autres éléments narratifs sont disposés selon un schéma précis A-B-C...C'-B'-A' pivotant sur le souvenir de Noé par Dieu au centre exact du récit (Genèse 8:1). Ce type de symétrie structurelle étendue et mathématiquement précise s'étendant sur quatre chapitres est caractéristique d'une composition littéraire délibérée et unifiée plutôt que du résultat plus hasardeux de la combinaison de plusieurs sources indépendantes, comme l'ont proposé certaines théories source-critiques de l'origine du récit du Déluge.",
-        "es": "Eruditos literarios incluido Gordon Wenham han mapeado el relato del Diluvio en Génesis 6-9 como un quiasmo extendido — una estructura simétrica en espejo en la que el ascenso y retirada de las aguas, el envío del cuervo y la paloma, y otros elementos narrativos están dispuestos en un patrón preciso A-B-C...C'-B'-A' que pivota sobre el recuerdo de Noé por parte de Dios en el centro exacto de la narrativa (Génesis 8:1). Este tipo de simetría estructural extendida y matemáticamente precisa que abarca cuatro capítulos es característica de una composición literaria deliberada y unificada en lugar del resultado más azaroso de combinar múltiples fuentes independientes, como han propuesto algunas teorías crítico-documentales del origen del relato del Diluvio."
-      },
-      "s": "Barr, James; Bible and Interpretation: The Collected Essays of James Barr; Oxford University Press",
-      "u": "https://books.google.com/books?id=xpg1xWbaycUC&pg=PA380",
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "date_sort": -1800
-    },
-    {
-      "layer": "coherence",
-      "t": {
         "en": "The Legal Coherence of the Forty-Eight Levitical Cities",
         "he": "הקוהרנטיות המשפטית של ארבעים ושמונה ערי הלוויים",
         "fr": "La cohérence juridique des quarante-huit villes lévitiques",
@@ -7019,7 +6440,7 @@
       "u": "https://en.wikipedia.org/wiki/Levitical_city",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1440
+      "date_sort": -1272
     },
     {
       "layer": "archaeology",
@@ -8509,7 +7930,7 @@
       "u": "https://www.sefaria.org/Yoma.85a",
       "consensus_status": "settled",
       "source_tier": "primary",
-      "date_sort": -1440
+      "date_sort": -1312
     },
     {
       "layer": "comparative",
@@ -9227,27 +8648,6 @@
       "source_tier": "popular"
     },
     {
-      "layer": "coherence",
-      "t": {
-        "en": "The Spatial Engineering of the Six Cities of Refuge",
-        "he": "ההנדסה המרחבית של שש ערי המקלט",
-        "fr": "L'ingénierie spatiale des six Villes de Refuge",
-        "es": "La ingeniería espacial de las seis Ciudades de Refugio"
-      },
-      "e": {
-        "en": "Bamidbar 35 and Devarim 19 mandate six Cities of Refuge for a person who kills unintentionally — three east of the Jordan and three west, distributed so that a manslayer from anywhere in the country could reach safety before being overtaken by a blood-avenger. Devarim 19:3 goes further, commanding the nation to actively 'prepare the road' and divide the territory into three parts so that access is genuinely feasible, not merely theoretical. The Mishnah (Makkot 2:1–8) elaborates the practical geographic requirements this implies — maintained roads, signage at crossroads, and proportional distribution relative to population density. Unlike static pagan asylum sites tied to a single sacred building, this is a distributed, nationwide legal-infrastructure system: a design that accounts for topography, road access, and travel time across the entire country at once, in service of a specific humanitarian legal goal (protecting the unintentional killer from vengeance pending trial).",
-        "he": "במדבר לה ודברים יט מצווים על שש ערי מקלט עבור אדם ההורג בשוגג — שלוש בעבר הירדן המזרחי ושלוש במערבי, מפוזרות כך שהורג בשוגג מכל מקום בארץ יוכל להגיע למקלט לפני שיושג בידי גואל הדם. דברים יט:ג הולך רחוק יותר, ומצווה על האומה לפעול באופן אקטיבי \"תכין לך הדרך\" ולחלק את השטח לשלושה חלקים כך שהגישה תהיה אפשרית באמת, לא רק תיאורטית. המשנה (מכות ב:א-ח) מרחיבה את הדרישות הגיאוגרפיות המעשיות המשתמעות מכך — כבישים מתוחזקים, שילוט בצמתים, וחלוקה יחסית בהתאם לצפיפות אוכלוסין. בניגוד לאתרי מקלט אליליים סטטיים הקשורים למבנה קדוש יחיד, זוהי מערכת תשתית משפטית מבוזרת ולאומית: עיצוב המביא בחשבון טופוגרפיה, נגישות כבישים וזמני נסיעה על פני הארץ כולה בו-זמנית, בשירות מטרה משפטית-הומניטרית ספציפית (הגנה על ההורג בשוגג מפני נקמה עד למשפט).",
-        "fr": "Nombres 35 et Deutéronome 19 prescrivent six Villes de Refuge pour une personne ayant tué involontairement — trois à l'est du Jourdain et trois à l'ouest, réparties de manière à ce qu'un homicide involontaire, où qu'il se trouve dans le pays, puisse atteindre la sécurité avant d'être rattrapé par le vengeur du sang. Deutéronome 19:3 va plus loin, ordonnant à la nation de « préparer activement la route » et de diviser le territoire en trois parties afin que l'accès soit réellement possible, et non simplement théorique. La Mishna (Makkot 2:1-8) détaille les exigences géographiques pratiques que cela implique — routes entretenues, signalisation aux carrefours, et répartition proportionnelle à la densité de population. Contrairement aux sites d'asile païens statiques liés à un unique bâtiment sacré, il s'agit d'un système d'infrastructure juridique distribué à l'échelle nationale : une conception qui prend en compte la topographie, l'accès routier et les temps de trajet sur l'ensemble du pays simultanément, au service d'un objectif juridique humanitaire précis (protéger l'auteur d'un homicide involontaire de la vengeance en attendant son procès).",
-        "es": "Números 35 y Deuteronomio 19 ordenan seis Ciudades de Refugio para una persona que mata sin intención — tres al este del Jordán y tres al oeste, distribuidas de modo que un homicida involuntario, desde cualquier punto del país, pudiera alcanzar la seguridad antes de ser alcanzado por el vengador de sangre. Deuteronomio 19:3 va más allá, ordenando a la nación 'preparar el camino' activamente y dividir el territorio en tres partes para que el acceso fuera genuinamente factible, no solo teórico. La Mishná (Makot 2:1–8) desarrolla los requisitos geográficos prácticos que esto implica — caminos mantenidos, señalización en las encrucijadas, y distribución proporcional a la densidad de población. A diferencia de los sitios de asilo paganos estáticos vinculados a un único edificio sagrado, se trata de un sistema de infraestructura legal distribuido y nacional: un diseño que considera la topografía, el acceso vial y los tiempos de viaje en todo el país simultáneamente, al servicio de un objetivo legal humanitario específico (proteger al homicida involuntario de la venganza mientras espera juicio)."
-      },
-      "s": "Bamidbar 35; Devarim 19; Mishnah Makkot 2:1–8",
-      "u": "https://www.sefaria.org/Mishnah_Makkot.2",
-      "review_caveat": "The comparison to 'static pagan asylum sites tied to a single sacred building' lacks comparative sourcing -- Greek temple asylia, for instance, functioned as a network across multiple sanctuaries in various regions.",
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "date_sort": -1400
-    },
-    {
       "layer": "literary",
       "t": {
         "en": "The Tale of Two Brothers — An Egyptian Parallel to the Joseph/Potiphar's Wife Narrative",
@@ -9412,7 +8812,7 @@
       "u": "https://en.wikipedia.org/wiki/Baraita_of_Rabbi_Ishmael",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1440
+      "date_sort": 150
     },
     {
       "layer": "literary",
