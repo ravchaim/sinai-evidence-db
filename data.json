@@ -1205,7 +1205,7 @@
       },
       "s": "Archi, A. (2015). Ebla and Its Archives. De Gruyter.",
       "u": "https://www.degruyter.com/document/doi/10.1515/9781614517160/html",
-      "consensus_status": "retracted",
+      "consensus_status": "probabilistic",
       "source_tier": "primary",
       "date_sort": -2300,
       "places": [
@@ -7761,22 +7761,23 @@
     {
       "layer": "history_corrob",
       "t": {
-        "en": "The Geopolitical Reality of the Bereishis 14 Coalition",
-        "he": "המציאות הגאופוליטית של ברית בראשית י\"ד",
-        "fr": "La réalité géopolitique de la coalition de Genèse 14",
-        "es": "La realidad geopolítica de la coalición de Génesis 14"
+        "en": "The Four Kings of Bereishis 14 — Mari-Era Coalitions and Period Names",
+        "he": "ארבעת המלכים של בראשית יד — בריתות מלכים בתקופת מארי ושמות התואמים לתקופה",
+        "fr": "Les quatre rois de Bereshit 14 — coalitions de l'époque de Mari et noms d'époque",
+        "es": "Los cuatro reyes de Bereshit 14 — coaliciones de la época de Mari y nombres de la época"
       },
       "e": {
-        "en": "Bereishis 14 describes a massive geopolitical coalition of four Mesopotamian kings (Amraphel, Arioch, Chedorlaomer, Tidal) marching all the way to the Dead Sea to defeat a coalition of five Canaanite city-states. Critics long dismissed this as fiction. However, the Ebla tablets and other Mari texts confirm that coalitions of Mesopotamian kings did launch massive, long-range military campaigns into the Levant during the Early Bronze Age. The geopolitical dynamics of Bereishis 14 perfectly match the historical reality of the early 2nd millennium BCE.",
-        "he": "בראשית יד מתאר קואליציה גיאופוליטית עצומה של ארבעה מלכים מסופוטמים (אמרפל, אריוך, כדרלעומר, תדעל) הצועדים כל הדרך אל ים המלח כדי להביס קואליציה של חמש ערי-מדינה כנעניות. מבקרים פסלו זאת זה מכבר כבדיה. עם זאת, לוחות אבלה וטקסטים נוספים ממארי מאשרים שקואליציות של מלכים מסופוטמים אכן יזמו מסעות צבאיים עצומים למרחקים ארוכים אל הלבנט בתקופת הברונזה הקדומה. הדינמיקה הגיאופוליטית של בראשית יד תואמת בדיוק את המציאות ההיסטורית של תחילת האלף השני לפנה\"ס.",
-        "fr": "Genèse 14 décrit une coalition géopolitique massive de quatre rois mésopotamiens (Amraphel, Arioc, Kedorlaomer, Tidal) marchant jusqu'à la mer Morte pour vaincre une coalition de cinq cités-états cananéennes. Les critiques ont longtemps rejeté cela comme fiction. Cependant, les tablettes d'Ebla et d'autres textes de Mari confirment que des coalitions de rois mésopotamiens ont bien lancé des campagnes militaires massives et de longue portée vers le Levant durant l'âge du Bronze ancien. La dynamique géopolitique de Genèse 14 correspond parfaitement à la réalité historique du début du IIe millénaire av. J.-C.",
-        "es": "Génesis 14 describe una coalición geopolítica masiva de cuatro reyes mesopotámicos (Amrafel, Arioc, Quedorlaomer, Tidal) que marchan hasta el Mar Muerto para derrotar a una coalición de cinco ciudades-estado cananeas. Los críticos han descartado esto durante mucho tiempo como ficción. Sin embargo, las tablillas de Ebla y otros textos de Mari confirman que las coaliciones de reyes mesopotámicos sí lanzaron campañas militares masivas y de largo alcance hacia el Levante durante la Edad del Bronce Antiguo. La dinámica geopolítica de Génesis 14 coincide perfectamente con la realidad histórica de principios del segundo milenio a.C."
+        "en": "Bereishis 14 describes Chedorlaomer, king of Elam, leading three allied kings (Amraphel of Shinar, Arioch of Ellasar and Tidal, 'king of nations') on a campaign as far as the Dead Sea. Evidence from the early second millennium BCE shows that this kind of politics was real. (1) A letter from the Mari archive (c. 1770 BCE) says that 'there is no king who is mighty alone: ten or fifteen kings follow Hammurabi of Babylon', with similar numbers following the kings of Larsa, Eshnunna, Qatna and Yamhad; this shows rule by shifting coalitions of kings. (2) Around 1767 BCE the Elamite ruler Siwe-palar-huppak led a coalition that included Babylon and Mari against Eshnunna, and his diplomacy reached as far west as Aleppo and Qatna; this shows an Elamite king heading an alliance of Mesopotamian kings and reaching into Syria, as Chedorlaomer does. (3) The kings' names fit the period: Arioch resembles Ariyuk, a name attested at Mari; Tidal matches Tudhaliya, a name borne by several Hittite kings; and Chedorlaomer has the form of an Elamite name, kudur ('servant') followed by the name of the Elamite goddess Lagamar.",
+        "he": "בראשית יד מתאר את כדרלעמר מלך עילם המוביל שלושה מלכים בני ברית (אמרפל מלך שנער, אריוך מלך אלסר ותדעל \"מלך גוים\") במסע עד ים המלח. ראיות מראשית האלף השני לפנה\"ס מראות שפוליטיקה מסוג זה הייתה ממשית. (1) מכתב מארכיון מארי (בסביבות 1770 לפנה\"ס) אומר ש\"אין מלך שהוא חזק לבדו: עשרה או חמישה עשר מלכים הולכים אחרי חמורבי מבבל\", ומספרים דומים הולכים אחרי מלכי לרסה, אשנונה, קטנה וימחד; מכאן שהשלטון התנהל בבריתות משתנות של מלכים. (2) בסביבות 1767 לפנה\"ס הוביל השליט העילמי שיוה-פלר-חופק ברית שכללה את בבל ואת מארי נגד אשנונה, והדיפלומטיה שלו הגיעה מערבה עד חלב וקטנה; מכאן שמלך עילמי עמד בראש ברית של מלכי מסופוטמיה והגיע עד סוריה, כמו כדרלעמר. (3) שמות המלכים מתאימים לתקופה: אריוך דומה לאריוּכּ, שם המתועד במארי; תדעל תואם את תודחליה, שם שנשאו כמה ממלכי החתים; וכדרלעמר בנוי כשם עילמי, \"כודור\" (\"עבד\") ואחריו שם האלה העילמית לגמר.",
+        "fr": "Bereshit 14 décrit Kedorlaomer, roi d'Élam, à la tête de trois rois alliés (Amraphel de Shinéar, Aryokh d'Ellasar et Tideal, « roi des nations ») dans une campagne jusqu'à la mer Morte. Des témoignages du début du IIe millénaire av. J.-C. montrent que ce type de politique était réel. (1) Une lettre des archives de Mari (vers 1770 av. J.-C.) dit qu'« il n'y a pas de roi qui soit puissant seul : dix ou quinze rois suivent Hammurabi de Babylone », avec des nombres semblables derrière les rois de Larsa, d'Eshnunna, de Qatna et du Yamhad ; cela montre un pouvoir fondé sur des coalitions changeantes de rois. (2) Vers 1767 av. J.-C., le souverain élamite Siwe-palar-huppak mena contre Eshnunna une coalition comprenant Babylone et Mari, et sa diplomatie s'étendait à l'ouest jusqu'à Alep et Qatna ; cela montre un roi élamite à la tête d'une alliance de rois mésopotamiens et atteignant la Syrie, comme Kedorlaomer. (3) Les noms des rois conviennent à l'époque : Aryokh ressemble à Ariyuk, nom attesté à Mari ; Tideal correspond à Tudhaliya, nom porté par plusieurs rois hittites ; et Kedorlaomer a la forme d'un nom élamite, kudur (« serviteur ») suivi du nom de la déesse élamite Lagamar.",
+        "es": "Bereshit 14 describe a Quedorlaomer, rey de Elam, al frente de tres reyes aliados (Amrafel de Sinar, Arioc de Elasar y Tidal, «rey de naciones») en una campaña hasta el mar Muerto. Testimonios de comienzos del segundo milenio a.C. muestran que este tipo de política era real. (1) Una carta del archivo de Mari (hacia 1770 a.C.) dice que «no hay rey que sea poderoso solo: diez o quince reyes siguen a Hammurabi de Babilonia», con cifras semejantes detrás de los reyes de Larsa, Eshnunna, Qatna y Yamhad; esto muestra un poder basado en coaliciones cambiantes de reyes. (2) Hacia 1767 a.C. el soberano elamita Siwe-palar-huppak encabezó contra Eshnunna una coalición que incluía a Babilonia y Mari, y su diplomacia llegaba al oeste hasta Alepo y Qatna; esto muestra a un rey elamita al frente de una alianza de reyes mesopotámicos y llegando hasta Siria, como Quedorlaomer. (3) Los nombres de los reyes encajan con la época: Arioc se parece a Ariyuk, nombre atestiguado en Mari; Tidal corresponde a Tudhaliya, nombre de varios reyes hititas; y Quedorlaomer tiene la forma de un nombre elamita, kudur («siervo») seguido del nombre de la diosa elamita Lagamar."
       },
-      "s": "https://en.wikipedia.org/wiki/Genesis_14",
-      "u": "https://en.wikipedia.org/wiki/Genesis_14",
-      "consensus_status": "retracted",
+      "s": "Mari archive letter (c. 1770 BCE); Wikipedia: Battle of the Vale of Siddim; Wikipedia: Siwe-Palar-Khuppak; Wikipedia: Chedorlaomer",
+      "u": "https://en.wikipedia.org/wiki/Battle_of_the_Vale_of_Siddim",
+      "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1800
+      "date_sort": -1737,
+      "review_caveat": "No known text names any of the four kings of Bereishis 14, and Chedorlaomer does not appear among the roughly forty known kings of Elam. The old identification of Amraphel with Hammurabi has been abandoned. The evidence shows that the chapter fits the political world and naming patterns of the early second millennium, not that the campaign itself is attested; some scholars date the chapter much later."
     },
     {
       "layer": "coherence",
@@ -10850,7 +10851,7 @@
       },
       "s": "Mauro Perani, University of Bologna — National Geographic, Times of Israel",
       "u": "https://en.wikipedia.org/wiki/Bologna_Torah_Scroll",
-      "consensus_status": "retracted",
+      "consensus_status": "probabilistic",
       "source_tier": "popular"
     },
     {
