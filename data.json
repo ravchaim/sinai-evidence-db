@@ -216,7 +216,7 @@
       "u": "https://www.sefaria.org/Exodus.20.2",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "core",
@@ -276,7 +276,7 @@
       "u": "https://www.sefaria.org/Exodus.34.6",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "core",
@@ -316,7 +316,7 @@
       "u": "https://www.sefaria.org/Exodus.31.18",
       "consensus_status": "settled",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "core",
@@ -336,7 +336,7 @@
       "u": "https://www.sefaria.org/Numbers.12.6",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "core",
@@ -356,7 +356,7 @@
       "u": "https://www.sefaria.org/Leviticus.1.1",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "core",
@@ -376,7 +376,7 @@
       "u": "https://www.sefaria.org/Deuteronomy.7.9",
       "consensus_status": "settled",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "core",
@@ -416,7 +416,7 @@
       "u": "https://www.sefaria.org/Exodus.17.14",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "core",
@@ -436,7 +436,7 @@
       "u": "https://www.sefaria.org/Deuteronomy.31.24",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1272
     },
     {
       "layer": "core",
@@ -456,7 +456,7 @@
       "u": "https://www.sefaria.org/Deuteronomy.4.33",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "core",
@@ -516,7 +516,7 @@
       "u": "https://www.sefaria.org/Deuteronomy.31.11",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1272
     },
     {
       "layer": "core",
@@ -616,7 +616,7 @@
       "u": "https://www.sefaria.org/Deuteronomy.16.1",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "core",
@@ -656,7 +656,7 @@
       "u": "https://www.sefaria.org/Deuteronomy.30.19",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1272
     },
     {
       "layer": "core",
@@ -676,7 +676,7 @@
       "u": "https://www.sefaria.org/Deuteronomy.31.19",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1272
     },
     {
       "layer": "core",
@@ -716,7 +716,7 @@
       "u": "https://www.sefaria.org/Mishneh_Torah%2C_Foundations_of_the_Torah.8",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": 1180
     },
     {
       "layer": "core",
@@ -756,7 +756,7 @@
       "u": "https://www.sefaria.org/Rashi_on_Exodus.24.4",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": 1100
     },
     {
       "layer": "meta",
@@ -817,7 +817,7 @@
       "u": "https://en.wikipedia.org/wiki/Alvin_Plantinga",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "comparative",
@@ -837,7 +837,7 @@
       "u": "https://archive.org/details/amarnaletters0000unse_c3q4/page/326/mode/2up",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "transmission",
@@ -897,7 +897,7 @@
       "u": "https://en.wikipedia.org/wiki/Criterion_of_embarrassment",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "comparative",
@@ -977,7 +977,7 @@
       "u": "https://en.wikipedia.org/wiki/Covenant_(biblical)",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "cosmology",
@@ -1017,7 +1017,7 @@
       "u": "https://books.google.com/books?id=aml3tEWoOVEC&pg=PA216",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "history_corrob",
@@ -1100,7 +1100,7 @@
       "u": "https://en.wikipedia.org/wiki/Babylonian_captivity",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": -422
     },
     {
       "layer": "history_corrob",
@@ -1183,7 +1183,7 @@
       "u": "https://en.wikipedia.org/wiki/Egyptian_loanwords_in_Hebrew",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "linguistics",
@@ -1566,7 +1566,7 @@
       "u": "https://en.wikipedia.org/wiki/Hittite_suzerainty_treaty",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": -1272
     },
     {
       "layer": "literary",
@@ -1787,7 +1787,7 @@
       "u": "https://books.google.com/books?id=4DVHJRFW3mYC&q=michael+d+coogan&pg=PR5",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "literary",
@@ -1928,16 +1928,17 @@
         "es": "La Septuaginta (LXX) como testigo"
       },
       "e": {
-        "en": "The Greek translation of the Torah, commissioned by Ptolemy II (c. 3rd century BCE), predates the Dead Sea Scrolls and confirms the Hebrew text's stability 1300+ years after the conventional composition date. For the Torah specifically, the LXX is close to the MT, confirming stability by the 3rd century BCE. The LXX's existence as a Jewish religious institution demonstrates the Torah's canonical status centuries before the common era (Jobes & Silva, Invitation to the Septuagint, 2000).",
-        "he": "התרגום היווני של התורה, שהוזמן על ידי תלמי השני (כ-המאה ה-3 לפנה\"ס), קודם למגילות ים המלח ומאשר את יציבות הטקסט העברי למעלה מ-1,300 שנה לאחר תאריך החיבור המקובל. עבור התורה במיוחד, תרגום השבעים קרוב לנוסח המסורה, ומאשר יציבות עד המאה ה-3 לפנה\"ס. עצם קיומו של תרגום השבעים כמוסד דתי יהודי מדגים את המעמד הקנוני של התורה מאות שנים לפני הספירה (ג'ובס וסילבה, Invitation to the Septuagint, 2000).",
-        "fr": "La traduction grecque de la Torah, commandée par Ptolémée II (v. IIIe siècle av. J.-C.), précède les manuscrits de la mer Morte et confirme la stabilité du texte hébreu plus de 1 300 ans après la date de composition conventionnelle. Pour la Torah spécifiquement, la LXX est proche du TM, confirmant la stabilité dès le IIIe siècle av. J.-C. L'existence de la LXX comme institution religieuse juive démontre le statut canonique de la Torah des siècles avant l'ère commune (Jobes & Silva, Invitation to the Septuagint, 2000).",
-        "es": "La traducción griega de la Torá, encargada por Ptolomeo II (c. siglo III a.C.), precede a los Rollos del Mar Muerto y confirma la estabilidad del texto hebreo más de 1.300 años después de la fecha de composición convencional. Para la Torá específicamente, la LXX está cerca del TM, confirmando la estabilidad para el siglo III a.C. La existencia de la LXX como institución religiosa judía demuestra el estatus canónico de la Torá siglos antes de la era común (Jobes y Silva, Invitation to the Septuagint, 2000)."
+        "en": "The Greek translation of the Torah was made in Alexandria in the 3rd century BCE, in the reign of Ptolemy II according to the Letter of Aristeas. The Talmud (Megillah 9a–b) preserves a parallel tradition of seventy-two elders who translated the Torah for King Ptolemy. It is one of the earliest witnesses to the Torah's text, contemporary with the oldest Dead Sea Scrolls. In the Torah its text is generally close to the Masoretic Text, though it differs in some places, such as the ages in the genealogies of Bereishis 5 and 11 and the order of the Mishkan chapters at the end of Shemos. That a Jewish community translated the Torah as a whole, and that a Greek king is reported to have wanted it, shows that by the 3rd century BCE the Torah was already a fixed and authoritative book.",
+        "he": "התרגום היווני של התורה נעשה באלכסנדריה במאה ה-3 לפנה\"ס, בימי תלמי השני לפי איגרת אריסטיאס. התלמוד (מגילה ט ע\"א–ע\"ב) משמר מסורת מקבילה על שבעים ושניים זקנים שתרגמו את התורה לתלמי המלך. זהו אחד העדים המוקדמים ביותר לנוסח התורה, בן זמנן של מגילות ים המלח העתיקות ביותר. בתורה נוסחו קרוב בדרך כלל לנוסח המסורה, אף שהוא שונה בכמה מקומות, כמו הגילים ברשימות היחס שבבראשית ה ו-יא וסדר פרקי המשכן בסוף ספר שמות. העובדה שקהילה יהודית תרגמה את התורה כולה, ושמסופר שמלך יווני ביקש אותה, מלמדת שכבר במאה ה-3 לפנה\"ס הייתה התורה ספר קבוע ומוסמך.",
+        "fr": "La traduction grecque de la Torah fut réalisée à Alexandrie au IIIe siècle av. J.-C., sous le règne de Ptolémée II selon la Lettre d'Aristée. Le Talmud (Méguila 9a–b) conserve une tradition parallèle de soixante-douze anciens ayant traduit la Torah pour le roi Ptolémée. C'est l'un des plus anciens témoins du texte de la Torah, contemporain des plus anciens manuscrits de la mer Morte. Pour la Torah, son texte est en général proche du texte massorétique, bien qu'il en diffère en certains endroits, comme les âges dans les généalogies de Bereshit 5 et 11 et l'ordre des chapitres du Mishkan à la fin de Chemot. Le fait qu'une communauté juive ait traduit la Torah dans son ensemble, et qu'un roi grec l'ait, dit-on, désirée, montre qu'au IIIe siècle av. J.-C. la Torah était déjà un livre fixe et faisant autorité.",
+        "es": "La traducción griega de la Torá se hizo en Alejandría en el siglo III a.C., en el reinado de Ptolomeo II según la Carta de Aristeas. El Talmud (Meguilá 9a–b) conserva una tradición paralela de setenta y dos ancianos que tradujeron la Torá para el rey Ptolomeo. Es uno de los testigos más antiguos del texto de la Torá, contemporáneo de los Rollos del Mar Muerto más antiguos. En la Torá su texto está en general cerca del Texto Masorético, aunque difiere en algunos lugares, como las edades en las genealogías de Bereshit 5 y 11 y el orden de los capítulos del Mishkán al final de Shemot. Que una comunidad judía tradujera la Torá entera, y que se diga que un rey griego la quiso, muestra que en el siglo III a.C. la Torá ya era un libro fijo y con autoridad."
       },
-      "s": "Blowers, Paul M.; The Oxford Handbook of Early Christian Biblical Interpretation; 2019; Oxford University Press; pp. 59, 60",
-      "u": "https://books.google.com/books?id=jguXDwAAQBAJ&pg=PA59",
+      "s": "Letter of Aristeas; Talmud Bavli Megillah 9a–b; E. Tov, Textual Criticism of the Hebrew Bible, 3rd ed. (2012)",
+      "u": "https://www.sefaria.org/Megillah.9a",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -150
+      "date_sort": -250,
+      "review_caveat": "The Letter of Aristeas's account of the translation is partly legendary. The 3rd-century BCE date rests mainly on the Greek of the translation and on early papyrus fragments."
     },
     {
       "layer": "transmission",
@@ -2021,7 +2022,7 @@
       "u": "https://www.journals.uchicago.edu/doi/abs/10.1086/490456?journalCode=jr",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": 900
     },
     {
       "layer": "transmission",
@@ -2101,7 +2102,7 @@
       "u": "https://archive.org/details/oxfordbiblecomme0000unse",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1272
     },
     {
       "layer": "transmission",
@@ -2381,7 +2382,7 @@
       "u": "https://archive.org/details/interfacebetween00good",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "transmission",
@@ -2521,7 +2522,7 @@
       "u": "https://en.wikipedia.org/wiki/Tag_(Hebrew)",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": 500
     },
     {
       "layer": "transmission",
@@ -2862,7 +2863,7 @@
       "u": "https://doi.org/10.1073/pnas.0409848102",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "sociological",
@@ -2882,7 +2883,7 @@
       "u": "https://en.wikipedia.org/wiki/Episodic_memory",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "sociological",
@@ -2902,7 +2903,7 @@
       "u": "https://en.wikipedia.org/wiki/Psychological_trauma",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "sociological",
@@ -2922,7 +2923,7 @@
       "u": "https://en.wikipedia.org/wiki/Cultural_evolution",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "sociological",
@@ -3142,7 +3143,7 @@
       "u": "https://books.google.com/books?id=g9bBJusRJIMC",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "sociological",
@@ -3262,7 +3263,7 @@
       "u": "https://en.wikipedia.org/wiki/Network_theory",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "sociological",
@@ -3302,7 +3303,7 @@
       "u": "https://en.wikipedia.org/wiki/Jewish_communities",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "sociological",
@@ -4013,7 +4014,7 @@
       "u": "https://en.wikipedia.org/wiki/Fine-tuned_universe",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": 1986
     },
     {
       "layer": "philosophy",
@@ -4033,7 +4034,7 @@
       "u": "https://en.wikipedia.org/wiki/Maimonides",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": 1190
     },
     {
       "layer": "philosophy",
@@ -4084,16 +4085,16 @@
         "es": "El argumento de la existencia del libre albedrío"
       },
       "e": {
-        "en": "The Torah presupposes genuine moral freedom (Deut. 30:19: 'Choose life'). The existence of libertarian free will — the ability to make genuinely undetermined choices — is philosophically difficult to reconcile with materialist determinism but foundational to the Torah's moral system. C.S. Lewis (Mere Christianity) and Alvin Plantinga (The Nature of Necessity) argued that the existence of moral freedom is better explained by theistic creation than by naturalistic evolution. The Torah's coherent moral system presupposing free will is consistent with its claim of divine authorship.",
-        "he": "התורה מניחה חירות מוסרית אמיתית (דברים ל:יט: \"ובחרת בחיים\"). קיומה של בחירה חופשית ליברטריאנית — היכולת לקבל החלטות בלתי-נקבעות באמת — קשה להתאמה עם דטרמיניזם חומרני מבחינה פילוסופית, אך היא יסודית למערכת המוסרית של התורה. סי.אס לואיס (Mere Christianity) ואלווין פלנטינגה (The Nature of Necessity) טענו שקיום החירות המוסרית מוסבר טוב יותר על ידי בריאה תאיסטית מאשר על ידי אבולוציה נטורליסטית. המערכת המוסרית הקוהרנטית של התורה המניחה בחירה חופשית עולה בקנה אחד עם טענתה למחבר אלוקי.",
-        "fr": "La Torah présuppose une liberté morale authentique (Deut. 30:19 : « Choisis la vie »). L'existence du libre arbitre libertarien — la capacité de faire des choix véritablement indéterminés — est philosophiquement difficile à concilier avec le déterminisme matérialiste, mais elle est fondamentale pour le système moral de la Torah. C.S. Lewis (Les Fondements du christianisme) et Alvin Plantinga (The Nature of Necessity) ont soutenu que l'existence de la liberté morale s'explique mieux par une création théiste que par l'évolution naturaliste. Le système moral cohérent de la Torah, qui présuppose le libre arbitre, est cohérent avec sa revendication de paternité divine.",
-        "es": "La Torá presupone una libertad moral genuina (Deut. 30:19: \"Escoge, pues, la vida\"). La existencia del libre albedrío libertario — la capacidad de tomar decisiones genuinamente indeterminadas — es filosóficamente difícil de conciliar con el determinismo materialista, pero es fundamental para el sistema moral de la Torá. C.S. Lewis (Mero Cristianismo) y Alvin Plantinga (The Nature of Necessity) argumentaron que la existencia de la libertad moral se explica mejor mediante la creación teísta que mediante la evolución naturalista. El sistema moral coherente de la Torá, que presupone el libre albedrío, es consistente con su afirmación de autoría divina."
+        "en": "The Torah presupposes genuine moral freedom (Deut. 30:19: 'Choose life'). The existence of libertarian free will — the ability to make genuinely undetermined choices — is philosophically difficult to reconcile with materialist determinism but foundational to the Torah's moral system. The Rambam calls free will 'a great principle, the pillar of the Torah and the commandments' (Hilchot Teshuvah 5:3), since command, reward and punishment all presuppose it. The Torah's coherent moral system presupposing free will is consistent with its claim of divine authorship.",
+        "he": "התורה מניחה חירות מוסרית אמיתית (דברים ל:יט: \"ובחרת בחיים\"). קיומה של בחירה חופשית ליברטריאנית — היכולת לקבל החלטות בלתי-נקבעות באמת — קשה להתאמה עם דטרמיניזם חומרני מבחינה פילוסופית, אך היא יסודית למערכת המוסרית של התורה. הרמב\"ם מכנה את הבחירה החופשית \"עיקר גדול הוא, והוא עמוד התורה והמצוה\" (הלכות תשובה ה:ג), שכן ציווי, שכר ועונש מניחים אותה מראש. המערכת המוסרית הקוהרנטית של התורה המניחה בחירה חופשית עולה בקנה אחד עם טענתה למחבר אלוקי.",
+        "fr": "La Torah présuppose une liberté morale authentique (Deut. 30:19 : « Choisis la vie »). L'existence du libre arbitre libertarien — la capacité de faire des choix véritablement indéterminés — est philosophiquement difficile à concilier avec le déterminisme matérialiste, mais elle est fondamentale pour le système moral de la Torah. Le Rambam qualifie le libre arbitre de « grand principe, pilier de la Torah et des commandements » (Hilkhot Techouva 5:3), puisque le commandement, la récompense et la punition le présupposent tous. Le système moral cohérent de la Torah, qui présuppose le libre arbitre, est cohérent avec sa revendication de paternité divine.",
+        "es": "La Torá presupone una libertad moral genuina (Deut. 30:19: \"Escoge, pues, la vida\"). La existencia del libre albedrío libertario — la capacidad de tomar decisiones genuinamente indeterminadas — es filosóficamente difícil de conciliar con el determinismo materialista, pero es fundamental para el sistema moral de la Torá. El Rambam llama al libre albedrío «un gran principio, el pilar de la Torá y de los mandamientos» (Hiljot Teshuvá 5:3), ya que el mandato, la recompensa y el castigo lo presuponen. El sistema moral coherente de la Torá, que presupone el libre albedrío, es consistente con su afirmación de autoría divina."
       },
-      "s": "Bobzien, Susanne; Determinism and freedom in Stoic philosophy; Oxford University Press",
-      "u": "https://books.google.com/books?id=7kmTeOjHIqkC&pg=PR12",
+      "s": "Devarim 30:19; Rambam, Mishneh Torah, Hilchot Teshuvah 5:1–4",
+      "u": "https://mechon-mamre.org/i/1505.htm",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1400
+      "date_sort": -1272
     },
     {
       "layer": "philosophy",
@@ -4293,7 +4294,7 @@
       "u": "https://archive.org/details/oxfordbiblecomme0000unse",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "comparative",
@@ -4673,7 +4674,7 @@
       "u": "https://books.google.com/books?id=4DVHJRFW3mYC&q=michael+d+coogan&pg=PR5",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "comparative",
@@ -4893,7 +4894,7 @@
       "u": "https://archive.org/details/onlibertyotheres00mill",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "comparative",
@@ -4933,7 +4934,7 @@
       "u": "https://en.wikipedia.org/wiki/Plagues_of_Egypt",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": -1313
     },
     {
       "layer": "comparative",
@@ -5053,7 +5054,7 @@
       "u": "https://archive.org/details/oxfordbiblecomme0000unse",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "meta",
@@ -5073,7 +5074,7 @@
       "u": "https://en.wikipedia.org/wiki/Kuzari_argument",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "meta",
@@ -5113,7 +5114,7 @@
       "u": "https://en.wikipedia.org/wiki/Criterion_of_embarrassment",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "meta",
@@ -5173,7 +5174,7 @@
       "u": "https://archive.org/details/oxfordbiblecomme0000unse",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "meta",
@@ -5293,7 +5294,7 @@
       "u": "https://en.wikipedia.org/wiki/Chukim",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "meta",
@@ -5353,7 +5354,7 @@
       "u": "https://en.wikipedia.org/wiki/Sinai_covenant",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "meta",
@@ -5599,22 +5600,23 @@
     {
       "layer": "cosmology",
       "t": {
-        "en": "The Torah's Description of the 'Ordinances of Heaven'",
-        "he": "תיאור התורה את 'חוקות שמים'",
-        "fr": "La description par la Torah des « lois des cieux »",
-        "es": "La descripción de la Torá de las 'leyes de los cielos'"
+        "en": "The 'Ordinances of Heaven' — Fixed Laws of Nature in Tanach (Job 38:33; Jeremiah 33:25)",
+        "he": "\"חקות שמים\" — חוקי טבע קבועים בתנ\"ך (איוב לח:לג; ירמיהו לג:כה)",
+        "fr": "Les « lois des cieux » — des lois fixes de la nature dans le Tanakh (Job 38:33 ; Jérémie 33:25)",
+        "es": "Las «leyes de los cielos» — leyes fijas de la naturaleza en el Tanaj (Job 38:33; Jeremías 33:25)"
       },
       "e": {
-        "en": "Job 38:33 refers to the 'ordinances of heaven' (חֻקּוֹת שָׁמַיִם) — the fixed laws governing celestial bodies. This is a prescientific statement of the uniformity of natural law, foundational to modern science. The Torah's consistent portrayal of the natural world as governed by fixed divine decrees (rather than by the whims of divine personalities) provided the intellectual foundation for the scientific method: the assumption that nature is law-governed and therefore predictable and discoverable. Alfred Whitehead (Science and the Modern World, 1925) traced modern science to this biblical conviction.",
-        "he": "איוב לח:לג מתייחס ל\"חוקות שמים\" — החוקים הקבועים המסדירים גופים שמימיים. זוהי הצהרה טרום-מדעית על אחידות החוק הטבעי, יסודית למדע המודרני. תיאורה העקבי של התורה את העולם הטבעי כמונהג על ידי גזרות אלוקיות קבועות (ולא על ידי גחמות אישיויות אלוקיות) סיפק את הבסיס האינטלקטואלי לשיטה המדעית: ההנחה שהטבע מונהג על ידי חוק ולכן ניתן לחיזוי וגילוי. אלפרד וויטהד (Science and the Modern World, 1925) עקב אחר מקורות המדע המודרני עד לאמונה מקראית זו.",
-        "fr": "Job 38:33 fait référence aux « lois des cieux » (choukot shamayim) — les lois fixes régissant les corps célestes. Il s'agit d'une déclaration préscientifique de l'uniformité de la loi naturelle, fondatrice de la science moderne. La représentation constante par la Torah du monde naturel comme régi par des décrets divins fixes (plutôt que par les caprices de personnalités divines) a fourni le fondement intellectuel de la méthode scientifique : l'hypothèse que la nature est régie par des lois et donc prévisible et découvrable. Alfred Whitehead (Science and the Modern World, 1925) a retracé la science moderne jusqu'à cette conviction biblique.",
-        "es": "Job 38:33 se refiere a las \"leyes de los cielos\" (jukot shamáyim) — las leyes fijas que rigen los cuerpos celestes. Esta es una declaración precientífica de la uniformidad de la ley natural, fundamental para la ciencia moderna. La representación consistente de la Torá del mundo natural como gobernado por decretos divinos fijos (en lugar de por los caprichos de personalidades divinas) proporcionó el fundamento intelectual del método científico: la suposición de que la naturaleza está gobernada por leyes y, por lo tanto, es predecible y descubrible. Alfred Whitehead (Science and the Modern World, 1925) rastreó la ciencia moderna hasta esta convicción bíblica."
+        "en": "Two passages describe nature as governed by fixed laws. (1) Job 38:33 asks, 'Do you know the ordinances of heaven (chukot shamayim)?'; this presents the movements of the heavens as governed by set laws. (2) Jeremiah 33:25 compares God's covenant with Israel to 'My covenant with day and night, the ordinances of heaven and earth'; this treats the regularity of nature as fixed and dependable, and makes it the guarantee of the covenant (see also Jeremiah 31:35–36). Unlike the myths of the surrounding cultures, in which natural events follow the moods of rival gods, Tanach presents the natural world as the work of one Creator acting by consistent laws. That view of nature as lawful, and therefore open to study, is a premise that later science also relies on.",
+        "he": "שני קטעים מתארים את הטבע כמונהג בחוקים קבועים. (1) איוב לח:לג שואל: \"הידעת חקות שמים\"; בכך מוצגות תנועות השמים כמונהגות בחוקים קבועים. (2) ירמיהו לג:כה משווה את בריתו של ה' עם ישראל ל\"בריתי יומם ולילה, חקות שמים וארץ\"; בכך סדירות הטבע נתפסת כקבועה ונאמנה, והופכת לערובה לברית (וראו גם ירמיהו לא:לד–לה). בניגוד למיתוסים של התרבויות השכנות, שבהם אירועי הטבע תלויים במצבי רוחם של אלים יריבים, התנ\"ך מציג את עולם הטבע כמעשה ידיו של בורא אחד הפועל על פי חוקים עקביים. תפיסה זו של הטבע כמסודר בחוקים, ולכן כניתן לחקירה, היא הנחה שגם המדע המאוחר נשען עליה.",
+        "fr": "Deux passages décrivent la nature comme régie par des lois fixes. (1) Job 38:33 demande : « Connais-tu les lois des cieux (houkot shamayim) ? » ; les mouvements des cieux y sont présentés comme régis par des lois établies. (2) Jérémie 33:25 compare l'alliance de Dieu avec Israël à « Mon alliance avec le jour et la nuit, les lois des cieux et de la terre » ; la régularité de la nature y est tenue pour fixe et fiable, et devient la garantie de l'alliance (voir aussi Jérémie 31:35–36). À la différence des mythes des cultures voisines, où les événements naturels suivent l'humeur de dieux rivaux, le Tanakh présente le monde naturel comme l'œuvre d'un seul Créateur agissant selon des lois constantes. Cette vision d'une nature régie par des lois, et donc ouverte à l'étude, est une prémisse sur laquelle la science ultérieure s'appuie aussi.",
+        "es": "Dos pasajes describen la naturaleza como regida por leyes fijas. (1) Job 38:33 pregunta: «¿Conoces las leyes de los cielos (jukot shamáyim)?»; así presenta los movimientos de los cielos como regidos por leyes establecidas. (2) Jeremías 33:25 compara el pacto de Dios con Israel con «Mi pacto con el día y la noche, las leyes de los cielos y la tierra»; así trata la regularidad de la naturaleza como fija y fiable, y la convierte en garantía del pacto (véase también Jeremías 31:35–36). A diferencia de los mitos de las culturas vecinas, en los que los fenómenos naturales siguen el humor de dioses rivales, el Tanaj presenta el mundo natural como obra de un solo Creador que actúa según leyes constantes. Esa visión de la naturaleza como regida por leyes, y por tanto abierta al estudio, es una premisa en la que también se apoya la ciencia posterior."
       },
-      "s": "Cochrane, Charles Norris; Christianity and Classical Culture: A Study of Thought and Action from Augustus to Augustine; 1957; Oxford University Press",
-      "u": "https://archive.org/details/christianityclas00incoch",
+      "s": "Job 38:33; Jeremiah 33:25; 31:35–36; Talmud Bavli Bava Batra 14b–15a (on the authorship of Job)",
+      "u": "https://www.sefaria.org/Jeremiah.33.25",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1440
+      "date_sort": -1272,
+      "review_caveat": "Historians of science still debate how much the idea of a lawful creation contributed to the rise of modern science. The entry claims only that the premise is shared."
     },
     {
       "layer": "cosmology",
@@ -5794,7 +5796,7 @@
       "u": "https://en.wikipedia.org/wiki/Theophany",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "coherence",
@@ -5914,7 +5916,7 @@
       "u": "https://archive.org/details/oxfordbiblecomme0000unse",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1272
     },
     {
       "layer": "coherence",
@@ -6054,7 +6056,7 @@
       "u": "https://doi.org/10.1093/019513480X.003.0008",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "coherence",
@@ -6174,7 +6176,7 @@
       "u": "https://en.wikipedia.org/wiki/Stations_of_the_Exodus",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": -1272
     },
     {
       "layer": "coherence",
@@ -7094,7 +7096,7 @@
       },
       "s": "Tablets of Stone – Wikipedia",
       "u": "https://en.wikipedia.org/wiki/Tablets_of_Stone",
-      "date_sort": -1446,
+      "date_sort": -1312,
       "consensus_status": "probabilistic",
       "source_tier": "primary"
     },
@@ -7581,7 +7583,7 @@
       },
       "s": "McGeough, Kevin M.; Readers of the Lost Ark: Imagining the Ark of the Covenant from Ancient Times to the Present; 2025; Oxford University Press",
       "u": "https://books.google.com/books?id=2ihJEQAAQBAJ&pg=PA34",
-      "date_sort": -1446,
+      "date_sort": -1312,
       "consensus_status": "probabilistic",
       "source_tier": "primary"
     },
@@ -7900,10 +7902,10 @@
         "es": "El rechazo del dualismo en \"Varón y hembra los creó\""
       },
       "e": {
-        "en": "Bereishis 1:27 states that humanity was created \"male and female.\" In ancient Gnosticism, Persian dualism, and Greek philosophy, the physical body was viewed as evil, a prison for the soul, and gender/sexuality was often seen as a demonic flaw or a lower state of being. The Torah's declaration that the physical, gendered human body is the very \"Image of G-d\" provides a total philosophical refutation of ascetic dualism. This foundational Jewish concept permanently protected biblical theology from the neuroses of body-hatred that plagued early Christianity and Eastern religions.",
-        "he": "בראשית א:כז קובע שהאנושות נבראה \"זכר ונקבה\". בגנוסטיות עתיקה, בדואליזם הפרסי ובפילוסופיה היוונית, הגוף הפיזי נתפס כרע, בית כלא לנשמה, והמגדר/המיניות נתפסו לעיתים קרובות כפגם שדי או כמצב קיום נחות. הצהרת התורה שהגוף האנושי הפיזי והמגדרי הוא עצמו \"צלם האלוקים\" מספקת הפרכה פילוסופית מלאה לדואליזם הסגפני. מושג יהודי יסודי זה הגן לצמיתות על תיאולוגיה מקראית מהנוירוזות של שנאת הגוף שפקדו את הנצרות המוקדמת ואת הדתות המזרחיות.",
-        "fr": "Genèse 1:27 déclare que l'humanité fut créée « mâle et femelle ». Dans le gnosticisme ancien, le dualisme perse et la philosophie grecque, le corps physique était considéré comme mauvais, une prison pour l'âme, et le genre/la sexualité étaient souvent vus comme une faille démoniaque ou un état d'être inférieur. La déclaration de la Torah selon laquelle le corps humain physique et sexué est lui-même « l'Image de Dieu » fournit une réfutation philosophique totale du dualisme ascétique. Ce concept juif fondamental a protégé de façon permanente la théologie biblique des névroses de haine du corps qui ont affligé le christianisme primitif et les religions orientales.",
-        "es": "Génesis 1:27 declara que la humanidad fue creada \"varón y hembra\". En el gnosticismo antiguo, el dualismo persa y la filosofía griega, el cuerpo físico se consideraba malo, una prisión para el alma, y el género/la sexualidad a menudo se veían como un defecto demoníaco o un estado de ser inferior. La declaración de la Torá de que el cuerpo humano físico y sexuado es en sí mismo la \"Imagen de Dios\" proporciona una refutación filosófica total del dualismo ascético. Este concepto judío fundamental protegió permanentemente a la teología bíblica de las neurosis de odio al cuerpo que aquejaron al cristianismo primitivo y a las religiones orientales."
+        "en": "Bereishis 1:27 states that humanity was created \"male and female.\" In ancient Gnosticism, Persian dualism, and Greek philosophy, the physical body was viewed as evil, a prison for the soul, and gender/sexuality was often seen as a demonic flaw or a lower state of being. The Torah's declaration that the physical, gendered human being is created in the \"Image of G-d\" rejects this ascetic dualism. In Jewish thought the body and its drives are to be sanctified, not despised.",
+        "he": "בראשית א:כז קובע שהאנושות נבראה \"זכר ונקבה\". בגנוסטיות עתיקה, בדואליזם הפרסי ובפילוסופיה היוונית, הגוף הפיזי נתפס כרע, בית כלא לנשמה, והמגדר/המיניות נתפסו לעיתים קרובות כפגם שדי או כמצב קיום נחות. הצהרת התורה שהאדם הפיזי והמגדרי נברא \"בצלם אלוקים\" דוחה דואליזם סגפני זה. במחשבה היהודית יש לקדש את הגוף ויצריו, לא לבזותם.",
+        "fr": "Genèse 1:27 déclare que l'humanité fut créée « mâle et femelle ». Dans le gnosticisme ancien, le dualisme perse et la philosophie grecque, le corps physique était considéré comme mauvais, une prison pour l'âme, et le genre/la sexualité étaient souvent vus comme une faille démoniaque ou un état d'être inférieur. La déclaration de la Torah selon laquelle l'être humain physique et sexué est créé « à l'Image de Dieu » rejette ce dualisme ascétique. Dans la pensée juive, le corps et ses pulsions doivent être sanctifiés, non méprisés.",
+        "es": "Génesis 1:27 declara que la humanidad fue creada \"varón y hembra\". En el gnosticismo antiguo, el dualismo persa y la filosofía griega, el cuerpo físico se consideraba malo, una prisión para el alma, y el género/la sexualidad a menudo se veían como un defecto demoníaco o un estado de ser inferior. La declaración de la Torá de que el ser humano físico y sexuado es creado a la \"Imagen de Dios\" rechaza este dualismo ascético. En el pensamiento judío, el cuerpo y sus impulsos deben santificarse, no despreciarse."
       },
       "s": "https://en.wikipedia.org/wiki/Image_of_God",
       "u": "https://en.wikipedia.org/wiki/Image_of_God",
@@ -7929,7 +7931,7 @@
       "u": "https://ruj.uj.edu.pl/xmlui/bitstream/handle/item/4562/kosior_it_will_not_let_the_destroying_one_enter_2014.pdf?sequence=1&isAllowed=y",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1272
     },
     {
       "layer": "literary",
@@ -8129,7 +8131,7 @@
       "u": "https://doi.org/10.30965/21967954-bja10067",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "comparative",
@@ -8329,7 +8331,7 @@
       "u": "https://en.wikipedia.org/wiki/Mosaic_distinction",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "meta",
@@ -8369,7 +8371,7 @@
       "u": "https://en.wikipedia.org/wiki/Criterion_of_embarrassment",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": -1312
     },
     {
       "layer": "comparative",
@@ -8609,7 +8611,7 @@
       },
       "s": "Smithsonian Magazine (Oct 2025); Egyptian Ministry of Tourism and Antiquities",
       "u": "https://www.smithsonianmag.com/smart-news/archaeologists-discover-3500-year-old-egyptian-military-fortress-in-the-sinai-desert-180987542/",
-      "review_caveat": "The claim about a chain of Egyptian coastal fortresses (the 'Ways of Horus') is generally well established in Egyptology, but this specific 2025 find is sourced only to the apologetics-oriented Armstrong Institute of Biblical Archaeology rather than a primary Egyptian Ministry of Antiquities release or peer-reviewed report, despite attributing the announcement to that ministry — a sourcing gap worth flagging even if the underlying fortress is real.",
+      "review_caveat": "The find was announced by Egypt's Ministry of Tourism and Antiquities in 2025 and reported in the press (for example Smithsonian Magazine); as of this writing no peer-reviewed excavation report has been published. The wider chain of Egyptian fortresses on the Way of Horus is well established in Egyptology.",
       "date_sort": -1500,
       "consensus_status": "probabilistic",
       "source_tier": "popular"
@@ -8632,7 +8634,7 @@
       "u": "https://www.timesofisrael.com/archaeologists-find-first-evidence-of-epic-biblical-battle-at-armageddon/",
       "consensus_status": "probabilistic",
       "source_tier": "contemporary",
-      "date_sort": -1446,
+      "date_sort": -609,
       "places": [
         "megiddo"
       ]
@@ -8885,14 +8887,15 @@
         "fr": "La fouille en cours d'ABR de la zone D à Tel Silo a récupéré sept objets en or, dont des pendentifs et des bijoux, provenant d'une favissa (fosse de dépôt rituel) aux côtés de plus de 10 000 os d'animaux et de poterie cérémoniale fracassée, situés près de la plateforme proposée du Tabernacle du site. Une réanalyse de l'assemblage céramique date la favissa du début de l'âge du Bronze récent II. Les fouilleurs interprètent l'assemblage comme cohérent avec un dépôt rituel israélite intentionnel — comparable aux offrandes d'or décrites dans Nombres 31:54 — plutôt qu'un rebut ordinaire.",
         "es": "La excavación en curso de ABR del Área D en Tel Silo ha recuperado siete objetos de oro, incluyendo colgantes y joyas, de una favissa (fosa de depósito ritual) junto con más de 10.000 huesos de animales y cerámica ceremonial destrozada, ubicada cerca de la plataforma propuesta del Tabernáculo del sitio. Un reanálisis del conjunto cerámico fecha la favissa a principios de la Edad del Bronce Tardío II. Los excavadores interpretan el conjunto como consistente con una deposición ritual israelita intencional — comparable a las ofrendas de oro descritas en Números 31:54 — en lugar de basura ordinaria."
       },
-      "s": "Associates for Biblical Research",
-      "u": "https://biblearchaeologyreport.com/2024/12/14/help-me-dig-at-shiloh-in-2025/",
+      "s": "Associates for Biblical Research (excavators of Tel Shiloh, dir. Scott Stripling), \"The Shiloh Favissa: Israel's Only Levitically Sanctioned Cultic Deposit\"",
+      "u": "https://biblearchaeology.org/research-articles/the-shiloh-favissa-israels-only-levitically-sanctioned-cultic-deposit/",
       "date_sort": -1350,
       "consensus_status": "probabilistic",
       "source_tier": "primary",
       "places": [
         "shiloh"
-      ]
+      ],
+      "review_caveat": "The Shiloh excavation is directed by Associates for Biblical Research, an evangelical organization, and these results have so far appeared only in the excavators' own publications, not in an independent peer-reviewed report. The Israelite interpretation and the early Late Bronze II date are the excavators' own."
     },
     {
       "layer": "history_corrob",
@@ -9296,7 +9299,7 @@
         "fr": "Les Massorètes (VIIe-Xe siècle apr. J.-C.) ont mis en œuvre des garde-fous scribaux extrêmes : comptage des lettres/mots/versets, notes marginales *massora*, système *kere/ketiv* préservant les variantes, *tiqqouné soferim* (18 émendations scribales pour l'honneur divin). Les manuscrits de la mer Morte (250 av. J.-C.-70 apr. J.-C.) confirment plus de 95 % de concordance avec le TM ; les variantes sont massivement orthographiques. Aucun autre texte ancien n'approche cette précision de transmission sur un millénaire.",
         "es": "Los masoretas (siglos VII-X d.C.) implementaron salvaguardas escribales extremas: conteo de letras/palabras/versículos, notas marginales *masorá*, sistema *keré/ketiv* preservando variantes, *tikunéi soferim* (18 enmiendas escribales por honor divino). Los Rollos del Mar Muerto (250 a.C.-70 d.C.) confirman más del 95% de concordancia con el TM; las variantes son abrumadoramente ortográficas. Ningún otro texto antiguo se aproxima a esta precisión de transmisión durante un milenio."
       },
-      "s": "Tov, 'Textual Criticism of the Hebrew Bible' (2012); Armstrong Institute; Wikipedia",
+      "s": "E. Tov, Textual Criticism of the Hebrew Bible, 3rd ed. (2012); Wikipedia",
       "u": "https://en.wikipedia.org/wiki/Masoretic_Text",
       "consensus_status": "probabilistic",
       "source_tier": "contemporary",
@@ -9360,7 +9363,7 @@
       "u": "https://www.sefaria.org/Iggeret_Teiman.1",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": 1172
     },
     {
       "layer": "transmission",
@@ -9685,7 +9688,7 @@
       "u": "https://www.sefaria.org/Deuteronomy.31.16",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1272
     },
     {
       "layer": "meta",
@@ -9905,7 +9908,7 @@
       "u": "https://en.wikipedia.org/wiki/Hebrew_calendar",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": 359
     },
     {
       "layer": "coherence",
@@ -9925,7 +9928,7 @@
       "u": "https://books.google.com/books?id=ldMUDAAAQBAJ&q=%221860s%22%22leading+scholars%22%22supplementary+hypothesis%22&pg=PA18",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": -1272
     },
     {
       "layer": "core",
@@ -9945,7 +9948,7 @@
       "u": "https://en.wikipedia.org/wiki/Maimonides%27_thirteen_principles_of_faith",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": 1168
     },
     {
       "layer": "core",
@@ -9965,7 +9968,7 @@
       "u": "https://en.wikipedia.org/wiki/Saadia_Gaon",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": 933
     },
     {
       "layer": "core",
@@ -9985,7 +9988,7 @@
       "u": "https://en.wikipedia.org/wiki/Code_of_Hammurabi",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": -1272
     },
     {
       "layer": "archaeology",
@@ -10413,7 +10416,7 @@
       "u": "https://en.wikipedia.org/wiki/Death_of_Moses",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": -1272
     },
     {
       "layer": "meta",
@@ -10820,7 +10823,7 @@
       "u": "https://en.wikipedia.org/wiki/Sherira_Gaon",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "date_sort": -1446
+      "date_sort": 987
     },
     {
       "layer": "archaeology",
@@ -10920,7 +10923,7 @@
       "u": "https://www.chabad.org/library/article_cdo/aid/901656/jewish/Introduction-to-Mishneh-Torah.htm",
       "consensus_status": "contested",
       "source_tier": "contemporary",
-      "date_sort": -1446
+      "date_sort": 1180
     },
     {
       "layer": "archaeology",
@@ -10976,7 +10979,7 @@
         "fr": "Fouillé en 1976 près d'Aphek par l'équipe de Moshe Kochavi, cet ostracon de cinq lignes (tesson de poterie brisé) date d'environ 1200-1000 av. J.-C., la période de l'Âge du Fer I de l'époque des Juges. Sa cinquième ligne est un abécédaire complet de 22 lettres (les lettres de l'alphabet écrites dans l'ordre), mais avec une erreur de scribe : les lettres waw et resh apparaissent inversées, avec d'autres irrégularités mineures. Loin de compromettre la découverte, cette erreur est précisément ce que les épigraphistes citent comme preuve d'authenticité : un faussaire construisant un texte pour suggérer une alphabétisation ancienne n'introduirait pas une erreur typique d'un élève s'exerçant à l'alphabet. Il figure parmi les plus anciens abécédaires non cunéiformes connus et situe une alphabétisation fonctionnelle dans les hauts plateaux centraux précisément à l'époque que décrit le Livre des Juges.",
         "es": "Excavado en 1976 cerca de Afec por el equipo de Moshe Kochavi, este ostracón de cinco líneas (fragmento de cerámica) data de aproximadamente 1200-1000 a. e. c., el período de la Edad del Hierro I de la época de los Jueces. Su quinta línea es un abecedario completo de 22 letras (las letras del alfabeto escritas en orden), pero con un error de escriba: las letras vav y resh aparecen transpuestas, junto con otras irregularidades menores. Lejos de socavar el hallazgo, este error es precisamente lo que los epigrafistas señalan como evidencia de autenticidad: un falsificador que construyera un texto para sugerir alfabetización antigua no introduciría un error típico de un estudiante practicando el alfabeto. Se cuenta entre los abecedarios no cuneiformes más antiguos conocidos y sitúa una alfabetización alfabética funcional en las tierras altas centrales precisamente en el período que describe el Libro de los Jueces."
       },
-      "s": "Moshe Kochavi excavation / Associates for Biblical Research",
+      "s": "Moshe Kochavi excavation (1976); A. Demsky, \"A Proto-Canaanite Abecedary Dating from the Period of the Judges and Its Implications for the History of the Alphabet,\" Tel Aviv 4 (1977)",
       "u": "https://en.wikipedia.org/wiki/Izbet_Sartah",
       "date_sort": -1100,
       "consensus_status": "probabilistic",
@@ -11181,12 +11184,12 @@
         "es": "Los papiros de la escasez de paja (Anastasi IV) — Una correspondencia administrativa con Éxodo 5"
       },
       "e": {
-        "en": "Shemos 5 describes a very specific New Kingdom Egyptian administrative situation: Israelite brick-makers are supplied with straw, the straw supply is withdrawn, the brick quota is left unchanged, and Egyptian taskmasters (nogsim) enforce compliance. This exact combination is independently attested in surviving Egyptian scribal records: Papyrus Anastasi IV (13th century BCE) states plainly that 'there are no men to make bricks and no straw in the district,' and researchers at Associates for Biblical Research cite a parallel shortage recorded in Papyrus Anastasi V. A separate administrative document, the 'Leather Scroll' (dated to the reign of Ramesses II, c. 1274 BCE), independently records fixed brick-production quotas being tracked and enforced. Together these New Kingdom texts document the same bureaucratic mechanism the Exodus account describes — straw supply, fixed quotas, and enforcement — considerably more specific than the general claim that Israelites were enslaved in Egypt. A later author with no firsthand exposure to Egyptian labor administration would have little reason to invent this precise combination of quota, material-supply, and enforcement details.",
-        "he": "שמות פרק ה' מתאר מצב מנהלי מצרי ספציפי מאוד מתקופת הממלכה החדשה: לבני ישראל העושים לבנים מסופק תבן, אספקת התבן נפסקת, מכסת הלבנים נותרת ללא שינוי, והנוגשים המצרים אוכפים את העמידה במכסה. שילוב מדויק זה מתועד באופן עצמאי ברשומות סופרים מצריות ששרדו: פפירוס אנסטסי IV (המאה ה-13 לפנה\"ס) קובע במפורש כי 'אין אנשים לעשות לבנים ואין תבן במחוז', וחוקרים ב-Associates for Biblical Research מציינים מחסור מקביל המתועד בפפירוס אנסטסי V. מסמך מנהלי נפרד, 'מגילת העור' (מתוארכת לתקופת שלטונו של רעמסס השני, כ-1274 לפנה\"ס), מתעד באופן עצמאי מעקב ואכיפה של מכסות ייצור לבנים קבועות. יחד, טקסטים אלו מתקופת הממלכה החדשה מתעדים אותו מנגנון בירוקרטי שסיפור יציאת מצרים מתאר — אספקת תבן, מכסות קבועות ואכיפה — טיעון ספציפי הרבה יותר מהטענה הכללית שבני ישראל היו משועבדים במצרים. למחבר מאוחר שלא נחשף באופן ישיר למנהל העבודה המצרי לא היה סיבה רבה להמציא שילוב מדויק זה של מכסה, אספקת חומרים ואכיפה.",
-        "fr": "Exode 5 décrit une situation administrative égyptienne du Nouvel Empire très spécifique : les fabricants de briques israélites reçoivent de la paille, cet approvisionnement est retiré, le quota de briques reste inchangé, et des surveillants égyptiens (nogsim) en imposent le respect. Cette combinaison exacte est attestée indépendamment dans des documents scribaux égyptiens conservés : le papyrus Anastasi IV (XIIIe siècle av. J.-C.) déclare sans détour qu'« il n'y a ni hommes pour faire des briques ni paille dans le district », et des chercheurs des Associates for Biblical Research citent une pénurie parallèle consignée dans le papyrus Anastasi V. Un document administratif distinct, le « Rouleau de cuir » (daté du règne de Ramsès II, vers 1274 av. J.-C.), enregistre indépendamment le suivi et l'application de quotas fixes de production de briques. Ensemble, ces textes du Nouvel Empire documentent le même mécanisme bureaucratique que décrit le récit de l'Exode — approvisionnement en paille, quotas fixes et coercition —, nettement plus précis que l'affirmation générale selon laquelle les Israélites étaient asservis en Égypte. Un auteur tardif sans exposition directe à l'administration du travail égyptienne aurait eu peu de raisons d'inventer cette combinaison précise de quota, d'approvisionnement en matériaux et de mesures coercitives.",
-        "es": "Éxodo 5 describe una situación administrativa egipcia del Reino Nuevo muy específica: a los israelitas que fabrican ladrillos se les suministra paja, ese suministro se retira, la cuota de ladrillos permanece igual, y capataces egipcios (nogsim) hacen cumplir la cuota. Esta combinación exacta está atestiguada de forma independiente en registros escribales egipcios conservados: el papiro Anastasi IV (siglo XIII a.C.) declara sin rodeos que 'no hay hombres para hacer ladrillos ni paja en el distrito', e investigadores de Associates for Biblical Research citan una escasez paralela registrada en el papiro Anastasi V. Un documento administrativo aparte, el 'Rollo de cuero' (fechado en el reinado de Ramsés II, c. 1274 a.C.), registra de forma independiente el seguimiento y cumplimiento de cuotas fijas de producción de ladrillos. En conjunto, estos textos del Reino Nuevo documentan el mismo mecanismo burocrático que describe el relato del Éxodo — suministro de paja, cuotas fijas y coerción —, considerablemente más específico que la afirmación general de que los israelitas fueron esclavizados en Egipto. Un autor tardío sin exposición directa a la administración laboral egipcia habría tenido pocos motivos para inventar esta combinación precisa de cuota, suministro de materiales y coerción."
+        "en": "Shemos 5 describes a very specific New Kingdom Egyptian administrative situation: Israelite brick-makers are supplied with straw, the straw supply is withdrawn, the brick quota is left unchanged, and Egyptian taskmasters (nogsim) enforce compliance. This exact combination is independently attested in surviving Egyptian scribal records: Papyrus Anastasi IV (13th century BCE) states plainly that 'there are no men to make bricks and no straw in the district.' A separate administrative document, the 'Leather Scroll' (dated to the reign of Ramesses II, c. 1274 BCE), independently records fixed brick-production quotas being tracked and enforced. Together these New Kingdom texts document the same bureaucratic mechanism the Exodus account describes — straw supply, fixed quotas, and enforcement — considerably more specific than the general claim that Israelites were enslaved in Egypt. A later author with no firsthand exposure to Egyptian labor administration would have little reason to invent this precise combination of quota, material-supply, and enforcement details.",
+        "he": "שמות פרק ה' מתאר מצב מנהלי מצרי ספציפי מאוד מתקופת הממלכה החדשה: לבני ישראל העושים לבנים מסופק תבן, אספקת התבן נפסקת, מכסת הלבנים נותרת ללא שינוי, והנוגשים המצרים אוכפים את העמידה במכסה. שילוב מדויק זה מתועד באופן עצמאי ברשומות סופרים מצריות ששרדו: פפירוס אנסטסי IV (המאה ה-13 לפנה\"ס) קובע במפורש כי 'אין אנשים לעשות לבנים ואין תבן במחוז'. מסמך מנהלי נפרד, 'מגילת העור' (מתוארכת לתקופת שלטונו של רעמסס השני, כ-1274 לפנה\"ס), מתעד באופן עצמאי מעקב ואכיפה של מכסות ייצור לבנים קבועות. יחד, טקסטים אלו מתקופת הממלכה החדשה מתעדים אותו מנגנון בירוקרטי שסיפור יציאת מצרים מתאר — אספקת תבן, מכסות קבועות ואכיפה — טיעון ספציפי הרבה יותר מהטענה הכללית שבני ישראל היו משועבדים במצרים. למחבר מאוחר שלא נחשף באופן ישיר למנהל העבודה המצרי לא היה סיבה רבה להמציא שילוב מדויק זה של מכסה, אספקת חומרים ואכיפה.",
+        "fr": "Exode 5 décrit une situation administrative égyptienne du Nouvel Empire très spécifique : les fabricants de briques israélites reçoivent de la paille, cet approvisionnement est retiré, le quota de briques reste inchangé, et des surveillants égyptiens (nogsim) en imposent le respect. Cette combinaison exacte est attestée indépendamment dans des documents scribaux égyptiens conservés : le papyrus Anastasi IV (XIIIe siècle av. J.-C.) déclare sans détour qu'« il n'y a ni hommes pour faire des briques ni paille dans le district ». Un document administratif distinct, le « Rouleau de cuir » (daté du règne de Ramsès II, vers 1274 av. J.-C.), enregistre indépendamment le suivi et l'application de quotas fixes de production de briques. Ensemble, ces textes du Nouvel Empire documentent le même mécanisme bureaucratique que décrit le récit de l'Exode — approvisionnement en paille, quotas fixes et coercition —, nettement plus précis que l'affirmation générale selon laquelle les Israélites étaient asservis en Égypte. Un auteur tardif sans exposition directe à l'administration du travail égyptienne aurait eu peu de raisons d'inventer cette combinaison précise de quota, d'approvisionnement en matériaux et de mesures coercitives.",
+        "es": "Éxodo 5 describe una situación administrativa egipcia del Reino Nuevo muy específica: a los israelitas que fabrican ladrillos se les suministra paja, ese suministro se retira, la cuota de ladrillos permanece igual, y capataces egipcios (nogsim) hacen cumplir la cuota. Esta combinación exacta está atestiguada de forma independiente en registros escribales egipcios conservados: el papiro Anastasi IV (siglo XIII a.C.) declara sin rodeos que 'no hay hombres para hacer ladrillos ni paja en el distrito'. Un documento administrativo aparte, el 'Rollo de cuero' (fechado en el reinado de Ramsés II, c. 1274 a.C.), registra de forma independiente el seguimiento y cumplimiento de cuotas fijas de producción de ladrillos. En conjunto, estos textos del Reino Nuevo documentan el mismo mecanismo burocrático que describe el relato del Éxodo — suministro de paja, cuotas fijas y coerción —, considerablemente más específico que la afirmación general de que los israelitas fueron esclavizados en Egipto. Un autor tardío sin exposición directa a la administración laboral egipcia habría tenido pocos motivos para inventar esta combinación precisa de cuota, suministro de materiales y coerción."
       },
-      "s": "Papyrus Anastasi IV (BM 10249); Center for Online Judaic Studies; Associates for Biblical Research, \"Top Ten Discoveries Related to Moses and the Exodus\"",
+      "s": "Papyrus Anastasi IV (BM 10249); Louvre Leather Roll (reign of Ramesses II); Center for Online Judaic Studies",
       "u": "https://cojs.org/brickmaking-without-straw-1250-bce/",
       "consensus_status": "probabilistic",
       "source_tier": "contemporary",
@@ -11480,7 +11483,7 @@
       "u": "https://orion-bibliography.huji.ac.il/orion_editor/taxonomy/term/7989",
       "consensus_status": "probabilistic",
       "source_tier": "contemporary",
-      "date_sort": -1446
+      "date_sort": -250
     },
     {
       "layer": "transmission",
@@ -11646,8 +11649,8 @@
         "fr": "Le Livre de Ben Sira (composé vers 180 av. J.-C.) consacre un long hymne (Sirach 44–50) aux héros d'Israël, traitant Moïse et la Torah comme le fondement de l'identité d'Israël. Son prologue grec, ajouté vers 132 av. J.-C. par le petit-fils de l'auteur, fait déjà référence à un corpus tripartite reconnu — « la Loi, les Prophètes et les autres écrits » — le plus ancien témoignage externe montrant que la Torah fonctionnait déjà comme un corpus textuel fixe et faisant autorité, environ un siècle et demi avant les premières sources rabbiniques.",
         "es": "El Libro de Ben Sira (compuesto hacia el 180 a. C.) dedica un extenso himno (Sirach 44–50) a los héroes de Israel, tratando a Moisés y a la Torá como el fundamento de la identidad de Israel. Su prólogo griego, añadido hacia el 132 a. C. por el nieto del autor, ya hace referencia a un corpus tripartito reconocido — 'la Ley, los Profetas y los demás escritos' — el testimonio externo más antiguo de que la Torá funcionaba como un cuerpo textual fijo y autorizado, aproximadamente siglo y medio antes de las fuentes rabínicas más tempranas."
       },
-      "s": "Gallagher, Edmon L.; The Biblical Canon Lists from Early Christianity; 2017; Oxford University Press; pp. 9–17",
-      "u": "https://books.google.com/books?id=Fpg4DwAAQBAJ",
+      "s": "Wisdom of Ben Sira, Prologue and chs. 44–50",
+      "u": "https://en.wikipedia.org/wiki/Sirach",
       "review_caveat": "The claim that this is 'the earliest external witness to the Torah functioning as a fixed, authoritative text' overstates the prologue's distinctiveness: its significance in scholarship rests on being the earliest attestation of a tripartite canon structure ('Law, Prophets, and other writings'), not on Torah authority per se -- the Septuagint's Torah translation (~250 BCE) and this same database's own 4QExod-Lev entry already imply the Torah's fixed authoritative status roughly a century earlier.",
       "consensus_status": "probabilistic",
       "source_tier": "primary"
@@ -11932,7 +11935,7 @@
         "fr": "Une analyse isotopique de Naama Yahalom-Mack (Université hébraïque) a établi que le plomb de la tablette pliée contestée provenant de la fouille de l'autel du mont Ébal provenait des mines de Lavrion en Grèce, actives à l'âge du bronze récent. Les entrées antérieures de ce projet sur la tablette du mont Ébal ne doivent pas traiter cette provenance comme un ancrage de datation : les mines de Lavrion ont fonctionné en continu du 4e millénaire av. J.-C. jusqu'à la fin de la période romaine, de sorte qu'une origine de Lavrion est compatible avec pratiquement n'importe quelle date de cette période de quatre mille ans et ne peut, à elle seule, confirmer une date de l'âge du bronze récent/fer ancien pour l'objet. Les chercheurs débattant de l'authenticité et de la lecture de la tablette (voir l'entrée « L'autel du mont Ébal et la tablette de plomb maudite » de ce projet) considèrent les données de provenance du plomb comme non concluantes à des fins de datation — cela devrait être consigné comme une limite honnête dans l'argumentation en faveur de la datation précoce de la tablette, et non cité comme une preuve physique de celle-ci.",
         "es": "Un análisis isotópico de Naama Yahalom-Mack (Universidad Hebrea) estableció que el plomo de la disputada tablilla plegada de la excavación del altar del Monte Ebal provenía de las minas de Lavrión en Grecia, activas en la Edad del Bronce Tardío. Las entradas anteriores de este proyecto sobre la tablilla del Monte Ebal no deben tratar este origen como un ancla de datación: las minas de Lavrión operaron continuamente desde el 4º milenio a.C. hasta el período romano tardío, por lo que un origen en Lavrión es compatible con prácticamente cualquier fecha en ese lapso de cuatro mil años y no puede, por sí solo, confirmar una fecha de la Edad del Bronce Tardío/Hierro Temprano para el objeto. Los estudiosos que debaten la autenticidad y lectura de la tablilla (véase la entrada \"El altar del Monte Ebal y la tablilla de plomo maldita\" de este proyecto) tratan los datos de origen del plomo como no concluyentes para fines de datación —esto debería registrarse como una limitación honesta en el argumento a favor de la fecha temprana de la tablilla, no citarse como prueba física de ella."
       },
-      "s": "Naama Yahalom-Mack, \"The Source of the Lead of the Mount Ebal 'Tablet,'\" isotope analysis, Hebrew University — discussed in Haaretz and Bible Archaeology Report coverage",
+      "s": "Naama Yahalom-Mack, \"The Source of the Lead of the Mount Ebal 'Tablet,'\" isotope analysis, Hebrew University — discussed in Haaretz coverage",
       "u": "https://www.haaretz.com/archaeology/2023-11-30/ty-article/new-studies-debunk-controversial-biblical-curse-tablet-from-mt-ebal/0000018c-20b6-d21c-abae-76bee75f0000",
       "review_caveat": "This entry does not itself provide evidence supporting a Torah claim — it is a corrective note explicitly warning against overclaiming based on this data point, which is commendably honest and exactly the kind of self-correction the rubric rewards; it is graded here on the low end only because, as a 'proof' entry, it does not actually supply positive supporting evidence for any biblical claim, and its main value is methodological caution about a separate, already-flagged entry.",
       "consensus_status": "contested",
@@ -12235,7 +12238,7 @@
       "review_caveat": "Omits that while rabbinic authorities agree on the total of 613, they substantially disagree on which specific commandments compose that list (Maimonides' Sefer HaMitzvot, the Halachot Gedolot, Ramban's Hasagot, and Sefer HaChinuch offer conflicting enumerations) -- 613 is a traditional structural/numerological framework, not a single universally agreed list. The '248 limbs' figure (Mishnah Oholot 1:8) is a pre-modern rabbinic anatomical scheme, not a modern anatomical finding.",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1446
+      "date_sort": 250
     },
     {
       "layer": "archaeology",
@@ -12613,10 +12616,10 @@
         "es": "El Códice de Leningrado — el manuscrito completo más antiguo de la Biblia hebrea"
       },
       "e": {
-        "en": "The Leningrad Codex (Firkovich B19A), held today at the National Library of Russia in St. Petersburg, is the oldest complete manuscript of the entire Hebrew Bible still in existence. Its own colophon states it was copied in Cairo in 1008/9 CE by the scribe Samuel ben Jacob, based on exemplars corrected by the master Masorete Aaron ben Moses ben Asher — the same Ben-Asher tradition underlying the Aleppo Codex. Because the Aleppo Codex lost nearly its entire Torah text in the 1947 Aleppo riots, the Leningrad Codex is what actually serves as the textual base for the standard modern critical editions of the Hebrew Bible (Biblia Hebraica Stuttgartensia and Biblia Hebraica Quinta) and, through them, the Old Testament textual apparatus behind most modern Bible translations. Its consonantal Torah text agrees closely with the surviving portions of the Aleppo Codex and with the far older Dead Sea Scroll fragments, extending the chain of manuscript corroboration for a stable Torah text across roughly 1,100 years to the present day.",
+        "en": "The Leningrad Codex (Firkovich B19A), held today at the National Library of Russia in St. Petersburg, is the oldest complete manuscript of the entire Hebrew Bible still in existence. Its own colophon states it was copied in Cairo in 1008/9 CE by the scribe Samuel ben Jacob, based on exemplars corrected by the master Masorete Aaron ben Moses ben Asher — the same Ben-Asher tradition underlying the Aleppo Codex. Because the Aleppo Codex lost nearly its entire Torah text in the 1947 Aleppo riots, the Leningrad Codex is what actually serves as the textual base for the standard modern critical editions of the Hebrew Bible (Biblia Hebraica Stuttgartensia and Biblia Hebraica Quinta) and, through them, the textual basis of most modern Bible translations. Its consonantal Torah text agrees closely with the surviving portions of the Aleppo Codex and with the far older Dead Sea Scroll fragments, extending the chain of manuscript corroboration for a stable Torah text across roughly 1,100 years to the present day.",
         "he": "כתב יד לנינגרד (פירקוביץ' B19A), השמור כיום בספרייה הלאומית של רוסיה בסנקט פטרבורג, הוא כתב היד השלם העתיק ביותר של התנ\"ך העברי כולו שנותר בעולם. הקולופון שלו עצמו קובע שהוא הועתק בקהיר בשנים 1008/9 לספירה בידי הסופר שמואל בן יעקב, בהתבסס על טפסים שתוקנו על ידי בעל המסורה הגדול אהרן בן משה בן אשר — אותה מסורת בן-אשר העומדת גם בבסיס כתר ארם צובא. מאחר שכתר ארם צובא איבד כמעט את כל נוסח התורה שבו במהומות חלב של 1947, כתב יד לנינגרד הוא זה המשמש בפועל כבסיס הטקסטואלי למהדורות הביקורתיות המודרניות הסטנדרטיות של התנ\"ך העברי (Biblia Hebraica Stuttgartensia ו-Biblia Hebraica Quinta), ובאמצעותן, לבסיס הטקסטואלי של רוב תרגומי המקרא המודרניים. הטקסט העיצורי של התורה בו תואם באופן קרוב לחלקים ששרדו מכתר ארם צובא ולשברי מגילות ים המלח העתיקים בהרבה, ומאריך את שרשרת האישוש בכתבי-יד לנוסח תורה יציב על פני כ-1,100 שנה עד ימינו.",
-        "fr": "Le Codex de Léningrad (Firkovitch B19A), conservé aujourd'hui à la Bibliothèque nationale de Russie à Saint-Pétersbourg, est le plus ancien manuscrit complet de toute la Bible hébraïque encore existant. Son propre colophon indique qu'il fut copié au Caire en 1008/9 apr. J.-C. par le scribe Samuel ben Jacob, d'après des exemplaires corrigés par le grand massorète Aaron ben Moshé ben Asher — la même tradition Ben Asher qui sous-tend le Codex d'Alep. Le Codex d'Alep ayant perdu la quasi-totalité de son texte de la Torah lors des émeutes d'Alep de 1947, c'est le Codex de Léningrad qui sert en réalité de base textuelle aux éditions critiques modernes standard de la Bible hébraïque (Biblia Hebraica Stuttgartensia et Biblia Hebraica Quinta) et, à travers elles, à l'appareil textuel de l'Ancien Testament de la plupart des traductions bibliques modernes. Son texte consonantique de la Torah concorde étroitement avec les portions survivantes du Codex d'Alep et avec les fragments bien plus anciens des manuscrits de la mer Morte, prolongeant la chaîne de corroboration manuscrite d'un texte de la Torah stable sur environ 1 100 ans jusqu'à aujourd'hui.",
-        "es": "El Códice de Leningrado (Firkovich B19A), conservado hoy en la Biblioteca Nacional de Rusia en San Petersburgo, es el manuscrito completo más antiguo de toda la Biblia hebrea que se conserva. Su propio colofón indica que fue copiado en El Cairo en 1008/9 d.C. por el escriba Samuel ben Jacob, a partir de ejemplares corregidos por el gran masoreta Aarón ben Moshé ben Asher — la misma tradición Ben Asher que subyace al Códice de Alepo. Dado que el Códice de Alepo perdió casi la totalidad de su texto de la Torá en los disturbios de Alepo de 1947, es el Códice de Leningrado el que sirve en la práctica como base textual de las ediciones críticas modernas estándar de la Biblia hebrea (Biblia Hebraica Stuttgartensia y Biblia Hebraica Quinta) y, a través de ellas, del aparato textual del Antiguo Testamento de la mayoría de las traducciones bíblicas modernas. Su texto consonántico de la Torá concuerda estrechamente con las porciones que sobreviven del Códice de Alepo y con los fragmentos, mucho más antiguos, de los Rollos del Mar Muerto, extendiendo la cadena de corroboración manuscrita de un texto de la Torá estable durante unos 1.100 años hasta hoy."
+        "fr": "Le Codex de Léningrad (Firkovitch B19A), conservé aujourd'hui à la Bibliothèque nationale de Russie à Saint-Pétersbourg, est le plus ancien manuscrit complet de toute la Bible hébraïque encore existant. Son propre colophon indique qu'il fut copié au Caire en 1008/9 apr. J.-C. par le scribe Samuel ben Jacob, d'après des exemplaires corrigés par le grand massorète Aaron ben Moshé ben Asher — la même tradition Ben Asher qui sous-tend le Codex d'Alep. Le Codex d'Alep ayant perdu la quasi-totalité de son texte de la Torah lors des émeutes d'Alep de 1947, c'est le Codex de Léningrad qui sert en réalité de base textuelle aux éditions critiques modernes standard de la Bible hébraïque (Biblia Hebraica Stuttgartensia et Biblia Hebraica Quinta) et, à travers elles, à la base textuelle de la plupart des traductions bibliques modernes. Son texte consonantique de la Torah concorde étroitement avec les portions survivantes du Codex d'Alep et avec les fragments bien plus anciens des manuscrits de la mer Morte, prolongeant la chaîne de corroboration manuscrite d'un texte de la Torah stable sur environ 1 100 ans jusqu'à aujourd'hui.",
+        "es": "El Códice de Leningrado (Firkovich B19A), conservado hoy en la Biblioteca Nacional de Rusia en San Petersburgo, es el manuscrito completo más antiguo de toda la Biblia hebrea que se conserva. Su propio colofón indica que fue copiado en El Cairo en 1008/9 d.C. por el escriba Samuel ben Jacob, a partir de ejemplares corregidos por el gran masoreta Aarón ben Moshé ben Asher — la misma tradición Ben Asher que subyace al Códice de Alepo. Dado que el Códice de Alepo perdió casi la totalidad de su texto de la Torá en los disturbios de Alepo de 1947, es el Códice de Leningrado el que sirve en la práctica como base textual de las ediciones críticas modernas estándar de la Biblia hebrea (Biblia Hebraica Stuttgartensia y Biblia Hebraica Quinta) y, a través de ellas, de la base textual de la mayoría de las traducciones bíblicas modernas. Su texto consonántico de la Torá concuerda estrechamente con las porciones que sobreviven del Códice de Alepo y con los fragmentos, mucho más antiguos, de los Rollos del Mar Muerto, extendiendo la cadena de corroboración manuscrita de un texto de la Torá estable durante unos 1.100 años hasta hoy."
       },
       "s": "Leningrad Codex – Wikipedia",
       "u": "https://en.wikipedia.org/wiki/Leningrad_Codex",
@@ -13376,12 +13379,12 @@
         "es": "La favissa de Tel Shimron — 40.000 huesos quemados y toros de bronce en una ciudad nombrada en Josué"
       },
       "e": {
-        "en": "Since 2017, a Wheaton College/Tel Aviv University team led by Daniel Master and Mario Martin has excavated a Middle Bronze Age (c. 1800 BCE) megastructure at Tel Shimron in the Jezreel Valley -- a corbelled tower and passageway that raised the tell's summit by roughly five meters. Adjoining it, reported in November 2024, excavators found a large room converted into a favissa (a repository for cultic material no longer in use) containing an extraordinary concentration of ritual debris: some 40,000 animal bones (cattle, sheep, and goat) burned at temperatures consistent with sacrificial use rather than ordinary cooking, roughly 57,000 pottery fragments -- including miniature vessels of temple type and an imported Minoan jug -- and two bronze bull (or calf) figurines, likely representing the Canaanite deity El or Baal. The absence of internal stratification suggests the deposit accumulated in a single ceremony or a short burst of closely spaced ones, an assemblage the excavators describe as unique in the southern Levant. Shimron itself is named twice in the Torah's own account of the conquest: its king joins Jabin of Hazor's coalition against Israel in Joshua 11:1, and the town is later allotted to the tribe of Zevulun in Joshua 19:15. The find does not itself speak to the conquest narrative, but it gives a vividly detailed, physically dated picture of exactly the kind of large-scale Canaanite cultic activity -- animal sacrifice, temple-grade ceramics, and divine imagery -- that the Torah legislates Israel apart from and repeatedly polemicizes against. As of this writing, coverage is limited to excavation reports and archaeology press; full peer-reviewed publication was still pending.",
-        "he": "משנת 2017 חופר צוות מקולג' וויטון ואוניברסיטת תל אביב, בראשות דניאל מאסטר ומריו מרטין, מבנה-ענק מתקופת הברונזה התיכונה (כ-1800 לפנה\"ס) בתל שמרון שבעמק יזרעאל -- מגדל בעל גג משוקע ומעבר שהעלו את פסגת התל בכחמישה מטרים נוספים. בסמוך לו, כפי שדווח בנובמבר 2024, מצאו החופרים חדר גדול שהוסב לפאביסה (מאגר לחפצי פולחן שאינם עוד בשימוש) ובו ריכוז יוצא דופן של שיירי פולחן: כ-40,000 עצמות בעלי חיים (בקר, כבשים ועזים) שנשרפו בטמפרטורות התואמות שימוש קורבני ולא בישול רגיל, כ-57,000 שברי כלי חרס -- כולל כלים זעירים מטיפוס מקדשי וכד מינואי מיובא -- ושני פסלי שור (או עגל) מברונזה, המייצגים ככל הנראה את האל הכנעני אל או בעל. היעדר שכבות פנימיות מרמז שהמצבור הצטבר בטקס בודד או במספר טקסים סמוכים בזמן קצר, מכלול שהחופרים מתארים כייחודי בדרום הלבנט. שמרון עצמה נזכרת פעמיים בתיאור התורה עצמו את הכיבוש: מלכה מצטרף לקואליציית יבין מלך חצור נגד ישראל ביהושע יא:א, והעיר מוקצית מאוחר יותר לשבט זבולון ביהושע יט:טו. הממצא אינו מדבר בעצמו על סיפור הכיבוש, אך הוא מעניק תמונה חיה ומתוארכת פיזית בדיוק לסוג הפעילות הפולחנית הכנענית בקנה מידה גדול -- קורבנות בעלי חיים, כלי חרס ברמת מקדש, ודימויים אליליים -- שהתורה מחוקקת את ישראל להיבדל ממנה ומתפלמסת נגדה שוב ושוב. נכון לכתיבת שורות אלה, הסיקור מוגבל לדוחות חפירה ולעיתונות ארכיאולוגית; פרסום מלא בביקורת עמיתים טרם יצא.",
-        "fr": "Depuis 2017, une équipe du Wheaton College et de l'Université de Tel Aviv, dirigée par Daniel Master et Mario Martin, fouille une mégastructure de l'âge du Bronze moyen (v. 1800 av. J.-C.) à Tel Shimron, dans la vallée de Jezréel -- une tour à encorbellement reliée à un passage qui a rehaussé le sommet du tell d'environ cinq mètres. À proximité, selon un rapport de novembre 2024, les fouilleurs ont découvert une grande salle transformée en favissa (un dépôt pour du matériel cultuel devenu inutilisable) contenant une concentration extraordinaire de débris rituels : quelque 40 000 ossements d'animaux (bovins, ovins et caprins) brûlés à des températures compatibles avec un usage sacrificiel plutôt que culinaire ordinaire, environ 57 000 fragments de poterie -- dont des vases miniatures de type cultuel et une jarre minoenne importée -- et deux figurines de taureau (ou de veau) en bronze, représentant probablement le dieu cananéen El ou Baal. L'absence de stratification interne suggère que le dépôt s'est accumulé lors d'une seule cérémonie ou d'une brève série de cérémonies rapprochées, un ensemble que les fouilleurs qualifient d'unique dans le sud du Levant. Shimron elle-même est nommée deux fois dans le propre récit de la conquête que fait la Torah : son roi rejoint la coalition de Jabin, roi de Hatsor, contre Israël en Josué 11:1, et la ville est ensuite attribuée à la tribu de Zabulon en Josué 19:15. La découverte ne se prononce pas elle-même sur le récit de la conquête, mais elle offre une image vivante et datée avec précision du type même d'activité cultuelle cananéenne à grande échelle -- sacrifices d'animaux, céramique de qualité cultuelle et imagerie divine -- dont la Torah sépare Israël et contre laquelle elle polémique à maintes reprises. À l'heure où ces lignes sont écrites, la couverture se limite à des rapports de fouille et à la presse archéologique ; une publication complète évaluée par des pairs restait en attente.",
-        "es": "Desde 2017, un equipo del Wheaton College y la Universidad de Tel Aviv, dirigido por Daniel Master y Mario Martin, excava una megaestructura de la Edad del Bronce Medio (c. 1800 a.C.) en Tel Shimron, en el valle de Jezreel -- una torre con paso abovedado en voladizo que elevó la cima del tell unos cinco metros. Junto a ella, según se informó en noviembre de 2024, los excavadores hallaron una gran sala convertida en favissa (un depósito para material cultual ya inservible) que contenía una concentración extraordinaria de restos rituales: unos 40.000 huesos de animales (bovinos, ovinos y caprinos) quemados a temperaturas compatibles con un uso sacrificial más que culinario ordinario, unos 57.000 fragmentos de cerámica -- incluidos vasos en miniatura de tipo cultual y una jarra minoica importada -- y dos figurillas de toro (o becerro) de bronce, que probablemente representan al dios cananeo El o a Baal. La ausencia de estratificación interna sugiere que el depósito se acumuló en una sola ceremonia o en una breve serie de ceremonias cercanas entre sí, un conjunto que los excavadores describen como único en el sur del Levante. Shimron misma se nombra dos veces en el propio relato de la conquista de la Torá: su rey se une a la coalición de Jabín, rey de Hazor, contra Israel en Josué 11:1, y la ciudad es luego asignada a la tribu de Zabulón en Josué 19:15. El hallazgo no se pronuncia por sí mismo sobre el relato de la conquista, pero ofrece una imagen vívida y fechada con precisión del tipo mismo de actividad cultual cananea a gran escala -- sacrificio animal, cerámica de calidad cultual e imaginería divina -- de la que la Torá separa a Israel y contra la que polemiza repetidamente. Al momento de escribir esto, la cobertura se limita a informes de excavación y prensa arqueológica; la publicación completa revisada por pares aún estaba pendiente."
+        "en": "Since 2017, a Wheaton College/Tel Aviv University team led by Daniel Master and Mario Martin has excavated a Middle Bronze Age (c. 1800 BCE) megastructure at Tel Shimron in the Jezreel Valley -- a corbelled tower and passageway that raised the tell's summit by roughly five meters. Adjoining it, reported in November 2024, excavators found a large room converted into a favissa (a repository for cultic material no longer in use) containing an extraordinary concentration of ritual debris: some 40,000 animal bones (cattle, sheep, and goat) burned at temperatures consistent with sacrificial use rather than ordinary cooking, roughly 57,000 pottery fragments -- including miniature vessels of temple type and an imported Minoan jug -- and two bronze bull (or calf) figurines, likely representing the Canaanite deity El or Baal. The absence of internal stratification suggests the deposit accumulated in a single ceremony or a short burst of closely spaced ones, an assemblage the excavators describe as unique in the southern Levant. Shimron itself is named twice in the book of Joshua's account of the conquest: its king joins Jabin of Hazor's coalition against Israel in Joshua 11:1, and the town is later allotted to the tribe of Zevulun in Joshua 19:15. The find does not itself speak to the conquest narrative, but it gives a vividly detailed, physically dated picture of exactly the kind of large-scale Canaanite cultic activity -- animal sacrifice, temple-grade ceramics, and divine imagery -- that the Torah legislates Israel apart from and repeatedly polemicizes against. As of this writing, coverage is limited to excavation reports and archaeology press; full peer-reviewed publication was still pending.",
+        "he": "משנת 2017 חופר צוות מקולג' וויטון ואוניברסיטת תל אביב, בראשות דניאל מאסטר ומריו מרטין, מבנה-ענק מתקופת הברונזה התיכונה (כ-1800 לפנה\"ס) בתל שמרון שבעמק יזרעאל -- מגדל בעל גג משוקע ומעבר שהעלו את פסגת התל בכחמישה מטרים נוספים. בסמוך לו, כפי שדווח בנובמבר 2024, מצאו החופרים חדר גדול שהוסב לפאביסה (מאגר לחפצי פולחן שאינם עוד בשימוש) ובו ריכוז יוצא דופן של שיירי פולחן: כ-40,000 עצמות בעלי חיים (בקר, כבשים ועזים) שנשרפו בטמפרטורות התואמות שימוש קורבני ולא בישול רגיל, כ-57,000 שברי כלי חרס -- כולל כלים זעירים מטיפוס מקדשי וכד מינואי מיובא -- ושני פסלי שור (או עגל) מברונזה, המייצגים ככל הנראה את האל הכנעני אל או בעל. היעדר שכבות פנימיות מרמז שהמצבור הצטבר בטקס בודד או במספר טקסים סמוכים בזמן קצר, מכלול שהחופרים מתארים כייחודי בדרום הלבנט. שמרון עצמה נזכרת פעמיים בתיאור הכיבוש שבספר יהושע: מלכה מצטרף לקואליציית יבין מלך חצור נגד ישראל ביהושע יא:א, והעיר מוקצית מאוחר יותר לשבט זבולון ביהושע יט:טו. הממצא אינו מדבר בעצמו על סיפור הכיבוש, אך הוא מעניק תמונה חיה ומתוארכת פיזית בדיוק לסוג הפעילות הפולחנית הכנענית בקנה מידה גדול -- קורבנות בעלי חיים, כלי חרס ברמת מקדש, ודימויים אליליים -- שהתורה מחוקקת את ישראל להיבדל ממנה ומתפלמסת נגדה שוב ושוב. נכון לכתיבת שורות אלה, הסיקור מוגבל לדוחות חפירה ולעיתונות ארכיאולוגית; פרסום מלא בביקורת עמיתים טרם יצא.",
+        "fr": "Depuis 2017, une équipe du Wheaton College et de l'Université de Tel Aviv, dirigée par Daniel Master et Mario Martin, fouille une mégastructure de l'âge du Bronze moyen (v. 1800 av. J.-C.) à Tel Shimron, dans la vallée de Jezréel -- une tour à encorbellement reliée à un passage qui a rehaussé le sommet du tell d'environ cinq mètres. À proximité, selon un rapport de novembre 2024, les fouilleurs ont découvert une grande salle transformée en favissa (un dépôt pour du matériel cultuel devenu inutilisable) contenant une concentration extraordinaire de débris rituels : quelque 40 000 ossements d'animaux (bovins, ovins et caprins) brûlés à des températures compatibles avec un usage sacrificiel plutôt que culinaire ordinaire, environ 57 000 fragments de poterie -- dont des vases miniatures de type cultuel et une jarre minoenne importée -- et deux figurines de taureau (ou de veau) en bronze, représentant probablement le dieu cananéen El ou Baal. L'absence de stratification interne suggère que le dépôt s'est accumulé lors d'une seule cérémonie ou d'une brève série de cérémonies rapprochées, un ensemble que les fouilleurs qualifient d'unique dans le sud du Levant. Shimron elle-même est nommée deux fois dans le récit de la conquête du livre de Josué : son roi rejoint la coalition de Jabin, roi de Hatsor, contre Israël en Josué 11:1, et la ville est ensuite attribuée à la tribu de Zabulon en Josué 19:15. La découverte ne se prononce pas elle-même sur le récit de la conquête, mais elle offre une image vivante et datée avec précision du type même d'activité cultuelle cananéenne à grande échelle -- sacrifices d'animaux, céramique de qualité cultuelle et imagerie divine -- dont la Torah sépare Israël et contre laquelle elle polémique à maintes reprises. À l'heure où ces lignes sont écrites, la couverture se limite à des rapports de fouille et à la presse archéologique ; une publication complète évaluée par des pairs restait en attente.",
+        "es": "Desde 2017, un equipo del Wheaton College y la Universidad de Tel Aviv, dirigido por Daniel Master y Mario Martin, excava una megaestructura de la Edad del Bronce Medio (c. 1800 a.C.) en Tel Shimron, en el valle de Jezreel -- una torre con paso abovedado en voladizo que elevó la cima del tell unos cinco metros. Junto a ella, según se informó en noviembre de 2024, los excavadores hallaron una gran sala convertida en favissa (un depósito para material cultual ya inservible) que contenía una concentración extraordinaria de restos rituales: unos 40.000 huesos de animales (bovinos, ovinos y caprinos) quemados a temperaturas compatibles con un uso sacrificial más que culinario ordinario, unos 57.000 fragmentos de cerámica -- incluidos vasos en miniatura de tipo cultual y una jarra minoica importada -- y dos figurillas de toro (o becerro) de bronce, que probablemente representan al dios cananeo El o a Baal. La ausencia de estratificación interna sugiere que el depósito se acumuló en una sola ceremonia o en una breve serie de ceremonias cercanas entre sí, un conjunto que los excavadores describen como único en el sur del Levante. Shimron misma se nombra dos veces en el relato de la conquista del libro de Josué: su rey se une a la coalición de Jabín, rey de Hazor, contra Israel en Josué 11:1, y la ciudad es luego asignada a la tribu de Zabulón en Josué 19:15. El hallazgo no se pronuncia por sí mismo sobre el relato de la conquista, pero ofrece una imagen vívida y fechada con precisión del tipo mismo de actividad cultual cananea a gran escala -- sacrificio animal, cerámica de calidad cultual e imaginería divina -- de la que la Torá separa a Israel y contra la que polemiza repetidamente. Al momento de escribir esto, la cobertura se limita a informes de excavación y prensa arqueológica; la publicación completa revisada por pares aún estaba pendiente."
       },
-      "s": "Biblical Archaeology Society, Associates for Biblical Research, Haaretz, Times of Israel (Nov. 2024)",
+      "s": "Biblical Archaeology Society, Haaretz, Times of Israel (Nov. 2024)",
       "u": "https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/megastructure-uncovered-at-tel-shimron/",
       "places": [
         "tel-shimron"
