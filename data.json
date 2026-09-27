@@ -740,26 +740,6 @@
       "date_sort": 1100
     },
     {
-      "layer": "meta",
-      "t": {
-        "en": "The Distinction Between History and Legends",
-        "he": "ההבחנה בין היסטוריה לאגדות",
-        "fr": "La distinction entre histoire et légendes",
-        "es": "La distinción entre historia y leyendas"
-      },
-      "e": {
-        "en": "The primary variable distinguishing history from legend is not time elapsed but the number of original claimed eyewitnesses combined with subsequent widespread acceptance by their descendants. The Black Death vs. George Washington's cherry tree illustrates this. 600,000 witnesses, accepted continuously by descendants over 3,300 years without interruption or a competing internal tradition of denial, fit the category of reliable history (Maurice Halbwachs, On Collective Memory, 1992).",
-        "he": "המשתנה העיקרי המבחין בין היסטוריה לאגדה אינו הזמן שחלף אלא מספר עדי הראייה המקוריים הנטענים בשילוב עם הקבלה הנרחבת הבאה מצאצאיהם. 600,000 עדים, שהתקבלו ברציפות על ידי צאצאים במשך 3,300 שנה ללא הפרעה או מסורת פנימית מתחרה של הכחשה, מתאימים לקטגוריה של היסטוריה מהימנה (מוריס הלבוואקס, On Collective Memory, 1992).",
-        "fr": "La variable principale distinguant l'histoire de la légende n'est pas le temps écoulé, mais le nombre de témoins oculaires revendiqués combiné à la transmission ininterrompue par leurs descendants. 600 000 témoins, transmis de manière continue par des descendants pendant 3 300 ans sans interruption ni tradition interne concurrente de déni, correspondent à la catégorie de l'histoire fiable (Maurice Halbwachs, On Collective Memory, 1992).",
-        "es": "La variable principal que distingue la historia de la leyenda no es el tiempo transcurrido, sino el número de testigos presenciales originales reivindicados combinado con la transmisión ininterrumpida por sus descendientes. 600.000 testigos, transmitidos continuamente por descendientes durante 3.300 años sin interrupción ni tradición interna rival de negación, corresponden a la categoría de historia fiable (Maurice Halbwachs, On Collective Memory, 1992)."
-      },
-      "s": "Olick, Jeffrey K.; The Collective Memory Reader; Oxford University Press",
-      "u": "https://books.google.com/books?id=Fq8R3G-0t9gC&q=info:IPRb9NF4xF8J:scholar.google.com&pg=PR5",
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "date_sort": -1400
-    },
-    {
       "layer": "prophecy",
       "t": {
         "en": "Devarim 4:32–35 — A National Revelation Without Parallel",
@@ -779,26 +759,6 @@
       "source_tier": "primary",
       "date_sort": -1272,
       "review_caveat": "Devarim 4:32–35 asks about the past. Reading it as a prediction about the future is the Kuzari tradition's interpretation, not the verses' plain wording."
-    },
-    {
-      "layer": "meta",
-      "t": {
-        "en": "Reasonable Foundations vs. Unreasonable Foundations of Religion",
-        "he": "יסודות סבירים לעומת יסודות בלתי סבירים של הדת",
-        "fr": "Fondements raisonnables vs. fondements déraisonnables de la religion",
-        "es": "Fundamentos razonables frente a fundamentos irrazonables de la religión"
-      },
-      "e": {
-        "en": "Judaism uniquely claims a 'reasonable foundation' in which the prophet is validated before the people in a public setting. The Sinai event is structured as a juridical proceeding — G-d speaks publicly, the people hear and confirm (Ex. 19:8; 24:3), the covenant is ratified communally. Alvin Plantinga's reformed epistemology recognizes that properly basic beliefs formed in correct conditions — communal testimony of extraordinary events — can be rationally warranted without circularity.",
-        "he": "היהדות טוענת ייחודית ל'יסוד סביר' שבו הנביא מאומת בפני העם במסגרת ציבורית. אירוע סיני מובנה כהליך משפטי — אלוהים מדבר בפומבי, העם שומע ומאשר (שמות יט:ח; כד:ג), הברית מאושרת קהילתית. האפיסטמולוגיה הרפורמית של אלווין פלנטינגה מכירה בכך שאמונות בסיסיות שנוצרו בתנאים נכונים — עדות קהילתית לאירועים יוצאי דופן — יכולות להיות מוצדקות רציונלית ללא מעגליות.",
-        "fr": "Le judaïsme revendique un « fondement raisonnable » unique où le prophète est authentifié devant le peuple dans un cadre public. L'événement du Sinaï est structuré comme une procédure juridique — Dieu parle publiquement, le peuple entend et confirme (Ex 19:8; 24:3), l'alliance est ratifiée communautairement. L'épistémologie réformée d'Alvin Plantinga reconnaît que des croyances fondamentales formées dans les bonnes conditions — témoignage communautaire d'événements extraordinaires — peuvent être rationnellement justifiées.",
-        "es": "El judaísmo reivindica de manera única un 'fundamento razonable' donde el profeta es autenticado ante el pueblo en un entorno público. El evento del Sinaí está estructurado como un proceso jurídico — Dios habla públicamente, el pueblo escucha y confirma (Ex 19:8; 24:3), la alianza es ratificada comunitariamente. La epistemología reformada de Alvin Plantinga reconoce que las creencias básicas formadas en condiciones correctas — testimonio comunitario de eventos extraordinarios — pueden estar racionalmente justificadas."
-      },
-      "s": "Alvin Plantinga – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Alvin_Plantinga",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1312
     },
     {
       "layer": "transmission",
@@ -839,26 +799,6 @@
       "consensus_status": "probabilistic",
       "source_tier": "primary",
       "date_sort": -1400
-    },
-    {
-      "layer": "meta",
-      "t": {
-        "en": "The Criterion of Embarrassment",
-        "he": "קריטריון הביישנות",
-        "fr": "Le critère de l'embarras",
-        "es": "El criterio de la vergüenza"
-      },
-      "e": {
-        "en": "The historiographical criterion of embarrassment (standard in biblical scholarship since Käsemann) holds that unflattering details are more likely authentic because a fabricator would omit them. The Torah records: Moses killing an Egyptian (Ex. 2:12), Aaron's role in the Golden Calf (Ex. 32), Moses' punishment at Meribah (Num. 20:12), Reuben's sin (Gen. 35:22), Judah and Tamar (Gen. 38), Israel's persistent rebellions. These do not serve a propaganda function and are consistent with historical authenticity over legendary construction.",
-        "he": "קריטריון הביישנות ההיסטוריוגרפי קובע שפרטים מביכים סבירים יותר להיות אותנטיים כי מזייף יושמיט אותם. התורה מתעדת: משה הורג מצרי (שמות ב:יב), תפקיד אהרן בעגל הזהב (שמות לב), עונשו של משה במי מריבה (במדבר כ:יב), חטא ראובן (בראשית לה:כב), יהודה ותמר (בראשית לח), מרידות ישראל המתמשכות. אלה אינם משרתים פונקציה תעמולתית ועקביים עם אותנטיות היסטורית.",
-        "fr": "Le critère d'embarras historiographique stipule que les détails embarrassants sont plus susceptibles d'être authentiques car un faussaire les omettrait. La Torah documente : Moïse tuant un Égyptien (Ex 2:12), le rôle d'Aaron dans le veau d'or (Ex 32), la punition de Moïse aux eaux de Mériva (Nb 20:12), le péché de Ruben (Gn 35:22), Juda et Tamar (Gn 38), les rebellions répétées d'Israël. Ces éléments ne servent aucune fonction propagandiste et sont cohérents avec l'authenticité historique.",
-        "es": "El criterio de la vergüenza historiográfico estipula que los detalles embarazosos son más probablemente auténticos porque un falsificador los omitiría. La Torá documenta: Moisés matando a un egipcio (Ex 2:12), el papel de Aarón en el becerro de oro (Ex 32), el castigo de Moisés en las aguas de Meribá (Nm 20:12), el pecado de Rubén (Gn 35:22), Judá y Tamar (Gn 38), las rebeliones repetidas de Israel. Estos elementos no sirven ninguna función propagandista y son coherentes con la autenticidad histórica."
-      },
-      "s": "Criterion of embarrassment – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Criterion_of_embarrassment",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1312
     },
     {
       "layer": "coherence",
@@ -3241,106 +3181,6 @@
     {
       "layer": "meta",
       "t": {
-        "en": "The Argument from the Torah's Self-Authenticating Claim",
-        "he": "הטיעון מטענת האימות-העצמי של התורה",
-        "fr": "L'argument de la revendication auto-authentifiante de la Torah",
-        "es": "El argumento de la afirmación autoautenticada de la Torá"
-      },
-      "e": {
-        "en": "The Torah does not merely claim to be old or wise; it claims to be from G-d (Ex. 24:12; Deut. 4:13) and has survived for 3,300+ years. A document making such a claim and surviving this long is either the greatest fraud in history or exactly what it claims to be. The sustained survival of the Sinai claim — through every attempt at philosophical refutation, political suppression, cultural assimilation, and physical destruction — is itself a form of self-authentication. No comparable ancient religious fraud has survived even a fraction of this duration with consistent adherents.",
-        "he": "התורה אינה טוענת רק שהיא עתיקה או חכמה; היא טוענת שהיא מהאל (שמות כד:יב; דברים ד:יג) ושרדה למעלה מ-3,300 שנה. מסמך הטוען טענה כזו ושורד זמן כה רב הוא או ההונאה הגדולה ביותר בהיסטוריה או בדיוק מה שהוא טוען להיות. שרידותה המתמשכת של טענת סיני — דרך כל ניסיון להפרכה פילוסופית, דיכוי פוליטי, היטמעות תרבותית, והרס פיזי — היא עצמה סוג של אימות-עצמי. שום הונאה דתית עתיקה דומה לא שרדה אפילו חלק מזערי מתקופה זו עם דבקים עקביים.",
-        "fr": "La Torah ne prétend pas simplement être ancienne ou sage ; elle prétend venir de Dieu (Ex. 24:12 ; Deut. 4:13) et a survécu plus de 3 300 ans. Un document faisant une telle revendication et survivant si longtemps est soit la plus grande fraude de l'histoire, soit exactement ce qu'il prétend être. La survie soutenue de la revendication du Sinaï — à travers chaque tentative de réfutation philosophique, de suppression politique, d'assimilation culturelle et de destruction physique — est elle-même une forme d'auto-authentification. Aucune fraude religieuse ancienne comparable n'a survécu à ne serait-ce qu'une fraction de cette durée avec des adhérents constants.",
-        "es": "La Torá no solo afirma ser antigua o sabia; afirma provenir de Dios (Éx. 24:12; Deut. 4:13) y ha sobrevivido más de 3.300 años. Un documento que hace tal afirmación y sobrevive tanto tiempo es o el fraude más grande de la historia o exactamente lo que afirma ser. La supervivencia sostenida de la afirmación del Sinaí — a través de cada intento de refutación filosófica, supresión política, asimilación cultural y destrucción física — es en sí misma una forma de autoautenticación. Ningún fraude religioso antiguo comparable ha sobrevivido ni siquiera una fracción de esta duración con adherentes constantes."
-      },
-      "s": "Davies, G.I; Oxford Bible Commentary; Oxford University Press",
-      "u": "https://archive.org/details/oxfordbiblecomme0000unse",
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "date_sort": -1312
-    },
-    {
-      "layer": "meta",
-      "t": {
-        "en": "The Argument from the Impossibility of Retroactive National Consensus",
-        "he": "הטיעון מאי-האפשרות של קונצנזוס לאומי רטרואקטיבי",
-        "fr": "L'argument de l'impossibilité d'un consensus national rétroactif",
-        "es": "El argumento de la imposibilidad de un consenso nacional retroactivo"
-      },
-      "e": {
-        "en": "A nation cannot be convinced that it collectively experienced an event (Sinai) that it did not experience. The Torah's claim is not a secret known to priests but a public memory embedded in national identity directed at descendants. David Hume recognized that large-scale, well-documented events cannot be successfully fabricated ex post facto. If the Torah was composed in the 7th century BCE, the claim that 600,000+ men heard G-d at Sinai would be novel to its audience and rejected by those with contradictory family traditions. Universal acceptance presupposes continuity with existing communal memory.",
-        "he": "אין אפשרות לשכנע אומה שהיא חוותה באופן קולקטיבי אירוע (סיני) שלא חוותה. טענת התורה אינה סוד הידוע לכהנים אלא זיכרון ציבורי המוטמע בזהות לאומית ומכוון לצאצאים. דייויד יום זיהה שאירועים בקנה מידה גדול ומתועדים היטב לא ניתנים לזיוף בהצלחה בדיעבד. אם התורה חוברה במאה ה-7 לפנה\"ס, הטענה שלמעלה מ-600,000 גברים שמעו את האל בסיני הייתה חדשה עבור קהלה ונדחית על ידי בעלי מסורות משפחתיות סותרות. קבלה אוניברסלית מניחה מראש המשכיות עם זיכרון קהילתי קיים.",
-        "fr": "Une nation ne peut pas être convaincue qu'elle a collectivement vécu un événement (le Sinaï) qu'elle n'a pas vécu. La revendication de la Torah n'est pas un secret connu des prêtres, mais une mémoire publique intégrée à l'identité nationale et adressée aux descendants. David Hume a reconnu que les événements à grande échelle et bien documentés ne peuvent être fabriqués avec succès a posteriori. Si la Torah avait été composée au VIIe siècle av. J.-C., l'affirmation que plus de 600 000 hommes ont entendu Dieu au Sinaï aurait été nouvelle pour son audience et rejetée par ceux ayant des traditions familiales contradictoires. L'acceptation universelle présuppose une continuité avec une mémoire communautaire existante.",
-        "es": "Una nación no puede ser convencida de que colectivamente experimentó un evento (el Sinaí) que no experimentó. La afirmación de la Torá no es un secreto conocido por los sacerdotes, sino una memoria pública incrustada en la identidad nacional y dirigida a los descendientes. David Hume reconoció que los eventos a gran escala y bien documentados no pueden fabricarse exitosamente a posteriori. Si la Torá hubiera sido compuesta en el siglo VII a.C., la afirmación de que más de 600.000 hombres escucharon a Dios en el Sinaí habría sido novedosa para su audiencia y rechazada por quienes tuvieran tradiciones familiares contradictorias. La aceptación universal presupone continuidad con la memoria comunitaria existente."
-      },
-      "s": "Kuzari argument – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Kuzari_argument",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1312
-    },
-    {
-      "layer": "meta",
-      "t": {
-        "en": "The Argument from the Absence of a 'Discoverer' Narrative",
-        "he": "הטיעון מהיעדר נרטיב 'מגלה'",
-        "fr": "L'argument de l'absence d'un récit du « découvreur »",
-        "es": "El argumento de la ausencia de una narrativa de 'descubridor'"
-      },
-      "e": {
-        "en": "Unlike the Book of Mormon (discovered by Joseph Smith) or the Quran (revealed to Muhammad alone), the Torah was never 'discovered' by a single figure. It was always public, always communal, always known. The lack of a 'discovery narrative' — a colophon explaining how the text was found or revealed — is sociologically anomalous for a forgery. Ancient texts often include such colophons (the Epic of Gilgamesh, the Cylinders of Gudea). The absence of any apologetic framing in the Torah is consistent with a text that was never introduced but was always there.",
-        "he": "בשונה מספר מורמון (שגילה יוסף סמית') או הקוראן (שהתגלה למוחמד בלבד), התורה מעולם לא \"התגלתה\" על ידי דמות בודדת. היא הייתה תמיד ציבורית, תמיד קהילתית, תמיד ידועה. היעדרו של \"נרטיב גילוי\" — קולופון המסביר כיצד הטקסט נמצא או התגלה — הוא חריג מבחינה סוציולוגית עבור זיוף. טקסטים עתיקים כוללים לעיתים קרובות קולופונים כאלה (עלילות גילגמש, גלילי גודאה). היעדר כל מסגור אפולוגטי בתורה עולה בקנה אחד עם טקסט שמעולם לא הוצג אלא היה תמיד שם.",
-        "fr": "Contrairement au Livre de Mormon (découvert par Joseph Smith) ou au Coran (révélé à Muhammad seul), la Torah n'a jamais été « découverte » par une figure unique. Elle a toujours été publique, toujours communautaire, toujours connue. L'absence d'un « récit de découverte » — un colophon expliquant comment le texte a été trouvé ou révélé — est sociologiquement anormale pour une falsification. Les textes anciens incluent souvent de tels colophons (l'Épopée de Gilgamesh, les Cylindres de Gudea). L'absence de tout cadrage apologétique dans la Torah est cohérente avec un texte qui n'a jamais été introduit mais qui a toujours été là.",
-        "es": "A diferencia del Libro de Mormón (descubierto por Joseph Smith) o el Corán (revelado solo a Mahoma), la Torá nunca fue 'descubierta' por una figura única. Siempre fue pública, siempre comunitaria, siempre conocida. La ausencia de una 'narrativa de descubrimiento' — un colofón explicando cómo se encontró o reveló el texto — es sociológicamente anómala para una falsificación. Los textos antiguos a menudo incluyen tales colofones (la Epopeya de Gilgamesh, los Cilindros de Gudea). La ausencia de cualquier encuadre apologético en la Torá es consistente con un texto que nunca fue introducido sino que siempre estuvo ahí."
-      },
-      "s": "Davies, G.I; Oxford Bible Commentary; Oxford University Press",
-      "u": "https://archive.org/details/oxfordbiblecomme0000unse",
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "date_sort": -1700
-    },
-    {
-      "layer": "meta",
-      "t": {
-        "en": "The Argument from the Torah's Internal Honesty About Its Own Reception",
-        "he": "הטיעון מהיושר הפנימי של התורה לגבי קבלתה שלה",
-        "fr": "L'argument de l'honnêteté interne de la Torah concernant sa propre réception",
-        "es": "El argumento de la honestidad interna de la Torá sobre su propia recepción"
-      },
-      "e": {
-        "en": "The Torah records Israel's rebellions, complaints, and failures to observe the law (Ex. 32; Num. 11; Deut. 9). It depicts Moses arguing with G-d (Ex. 32:11–14), records priestly failures (Lev. 10), and preserves the people's repeated rejection of leadership (Num. 14:4). A forged document would paint the recipients as more compliant and the founders as more virtuous. The pervasive portrayal of weakness, failure, and sin is inconsistent with national myth-making and consistent with a divinely overseen historical record.",
-        "he": "התורה מתעדת את מרידותיה, תלונותיה וכישלונותיה של ישראל בשמירת החוק (שמות לב; במדבר יא; דברים ט). היא מתארת את משה מתווכח עם האל (שמות לב:יא-יד), מתעדת כישלונות כהוניים (ויקרא י), ומשמרת את דחיית העם החוזרת ונשנית של המנהיגות (במדבר יד:ד). מסמך מזויף היה מצייר את המקבלים כמצייתים יותר ואת המייסדים כצנועים יותר. התיאור המקיף של חולשה, כישלון וחטא אינו עקבי עם יצירת מיתוס לאומי ועקבי עם תיעוד היסטורי בהשגחה אלוקית.",
-        "fr": "La Torah enregistre les rébellions, les plaintes et les échecs d'Israël à observer la loi (Ex. 32 ; Nb. 11 ; Deut. 9). Elle dépeint Moïse débattant avec Dieu (Ex. 32:11-14), enregistre les échecs sacerdotaux (Lév. 10), et préserve le rejet répété du leadership par le peuple (Nb. 14:4). Un document falsifié aurait dépeint les destinataires comme plus conformes et les fondateurs comme plus vertueux. La représentation omniprésente de la faiblesse, de l'échec et du péché est incohérente avec la construction d'un mythe national et cohérente avec un enregistrement historique sous supervision divine.",
-        "es": "La Torá registra las rebeliones, quejas y fracasos de Israel en observar la ley (Éx. 32; Núm. 11; Deut. 9). Retrata a Moisés discutiendo con Dios (Éx. 32:11-14), registra fracasos sacerdotales (Lev. 10), y preserva el rechazo repetido del liderazgo por parte del pueblo (Núm. 14:4). Un documento falsificado habría retratado a los destinatarios como más obedientes y a los fundadores como más virtuosos. La representación generalizada de debilidad, fracaso y pecado es inconsistente con la creación de un mito nacional y consistente con un registro histórico bajo supervisión divina."
-      },
-      "s": "Criterion of embarrassment – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Criterion_of_embarrassment",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1312
-    },
-    {
-      "layer": "meta",
-      "t": {
-        "en": "The Argument from the Torah's Resistance to Hellenization",
-        "he": "הטיעון מהתנגדות התורה להתייוונות",
-        "fr": "L'argument de la résistance de la Torah à l'hellénisation",
-        "es": "El argumento de la resistencia de la Torá a la helenización"
-      },
-      "e": {
-        "en": "During the Hellenistic period (332–63 BCE), when Jewish elites were adopting Greek culture, the Torah was the focal point of resistance (Maccabean Revolt). The books of Maccabees document that Jewish resistance crystallized specifically around Torah observance — not around ethnic identity, territory, or political independence per se. A merely human document would have been Hellenized, as the religious texts of every other conquered people eventually were. The Torah's resistance to Hellenization is consistent with a community convinced of divine revelation.",
-        "he": "בתקופה ההלניסטית (332-63 לפנה\"ס), כשהאליטות היהודיות אימצו את התרבות היוונית, הייתה התורה מוקד ההתנגדות (מרד החשמונאים). ספרי המכבים מתעדים שההתנגדות היהודית התגבשה ספציפית סביב שמירת התורה — לא סביב זהות אתנית, טריטוריה או עצמאות פוליטית כשלעצמה. מסמך אנושי בלבד היה מתייוון, כפי שקרה בסופו של דבר לטקסטים הדתיים של כל עם כבוש אחר. התנגדות התורה להתייוונות עולה בקנה אחד עם קהילה משוכנעת בהתגלות אלוקית.",
-        "fr": "Durant la période hellénistique (332-63 av. J.-C.), alors que les élites juives adoptaient la culture grecque, la Torah était le point focal de la résistance (révolte des Maccabées). Les livres des Maccabées documentent que la résistance juive s'est cristallisée spécifiquement autour de l'observance de la Torah — non autour de l'identité ethnique, du territoire ou de l'indépendance politique en soi. Un document purement humain aurait été hellénisé, comme le furent finalement les textes religieux de tout autre peuple conquis. La résistance de la Torah à l'hellénisation est cohérente avec une communauté convaincue de la révélation divine.",
-        "es": "Durante el período helenístico (332-63 a.C.), cuando las élites judías adoptaban la cultura griega, la Torá fue el punto focal de la resistencia (Revuelta de los Macabeos). Los libros de los Macabeos documentan que la resistencia judía se cristalizó específicamente en torno a la observancia de la Torá — no en torno a la identidad étnica, el territorio o la independencia política per se. Un documento meramente humano habría sido helenizado, como eventualmente lo fueron los textos religiosos de todos los demás pueblos conquistados. La resistencia de la Torá a la helenización es consistente con una comunidad convencida de la revelación divina."
-      },
-      "s": "Maccabees – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Maccabees",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -165
-    },
-    {
-      "layer": "meta",
-      "t": {
         "en": "The Argument from the Torah's Non-Utilitarian Commands",
         "he": "הטיעון ממצוות התורה הלא-שימושיות",
         "fr": "L'argument des commandements non utilitaires de la Torah",
@@ -3361,166 +3201,6 @@
     {
       "layer": "meta",
       "t": {
-        "en": "The Argument from the Torah's Integration of Wisdom and Law",
-        "he": "הטיעון משילוב החוכמה והחוק בתורה",
-        "fr": "L'argument de l'intégration de la sagesse et de la loi dans la Torah",
-        "es": "El argumento de la integración de la sabiduría y la ley en la Torá"
-      },
-      "e": {
-        "en": "The Torah is simultaneously a law code, a history, a genealogy, a liturgical text, a wisdom book, and a prophetic document. No single human genre can account for this integration. Comparable ancient texts are genre-specific: Hammurabi's Code is purely legal; the Iliad purely narrative poetry; Egyptian wisdom literature purely sapiential. Robert Alter (The Five Books of Moses, 2004) argued that this generic integration is a literary achievement presupposing unified authorial design. The multi-dimensional character of the Torah is consistent with a divine author whose concerns encompass all aspects of human existence simultaneously.",
-        "he": "התורה היא בו-זמנית קוד חוקים, היסטוריה, שושלת יוחסין, טקסט ליטורגי, ספר חוכמה, ומסמך נבואי. שום ז'אנר אנושי בודד אינו יכול להסביר שילוב זה. טקסטים עתיקים דומים הם ספציפיים לז'אנר: קוד חמורבי הוא משפטי בלבד; האיליאדה שירה נרטיבית בלבד; ספרות החוכמה המצרית סאפייניאלית בלבד. רוברט אלטר (The Five Books of Moses, 2004) טען ששילוב ז'אנרי זה הוא הישג ספרותי המניח עיצוב מחבר מאוחד. האופי הרב-ממדי של התורה עולה בקנה אחד עם מחבר אלוקי שדאגותיו מקיפות בו-זמנית את כל היבטי הקיום האנושי.",
-        "fr": "La Torah est simultanément un code de lois, une histoire, une généalogie, un texte liturgique, un livre de sagesse, et un document prophétique. Aucun genre humain unique ne peut expliquer cette intégration. Les textes anciens comparables sont spécifiques à un genre : le Code de Hammurabi est purement juridique ; l'Iliade purement poésie narrative ; la littérature sapientielle égyptienne purement sapientielle. Robert Alter (The Five Books of Moses, 2004) a soutenu que cette intégration générique est une réalisation littéraire présupposant une conception auctoriale unifiée. Le caractère multidimensionnel de la Torah est cohérent avec un auteur divin dont les préoccupations englobent simultanément tous les aspects de l'existence humaine.",
-        "es": "La Torá es simultáneamente un código legal, una historia, una genealogía, un texto litúrgico, un libro de sabiduría y un documento profético. Ningún género humano único puede explicar esta integración. Los textos antiguos comparables son específicos de un género: el Código de Hammurabi es puramente legal; la Ilíada puramente poesía narrativa; la literatura sapiencial egipcia puramente sapiencial. Robert Alter (The Five Books of Moses, 2004) argumentó que esta integración genérica es un logro literario que presupone un diseño autoral unificado. El carácter multidimensional de la Torá es consistente con un autor divino cuyas preocupaciones abarcan simultáneamente todos los aspectos de la existencia humana."
-      },
-      "s": "Davies, G.I; Oxford Bible Commentary; Oxford University Press",
-      "u": "https://archive.org/details/oxfordbiblecomme0000unse",
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "date_sort": -1312
-    },
-    {
-      "layer": "meta",
-      "t": {
-        "en": "The Argument from the Torah's Emotional Range",
-        "he": "הטיעון מטווח הרגשות של התורה",
-        "fr": "L'argument de la gamme émotionnelle de la Torah",
-        "es": "El argumento del rango emocional de la Torá"
-      },
-      "e": {
-        "en": "The Torah encompasses the full emotional range of a nation — joy (Song at the Sea), despair (Golden Calf), hope (Blessings of Deut. 28), terror (Curses of Deut. 28), love (Deut. 6:5), and awe. Ancient law codes (Hammurabi, Hittite) and creation epics (Enuma Elish) are emotionally flat. The emotional depth and psychological realism documented by Alter (The Art of Biblical Narrative, 1981) and Sternberg (The Poetics of Biblical Narrative, 1985) reflects an author with extraordinary insight into human experience, inconsistent with a text invented for purely political or cultic purposes.",
-        "he": "התורה מקיפה את מלוא הטווח הרגשי של אומה — שמחה (שירת הים), ייאוש (עגל הזהב), תקווה (ברכות דברים כח), אימה (קללות דברים כח), אהבה (דברים ו:ה), ויראת כבוד. קודי חוקים עתיקים (חמורבי, חתי) ואפוסי בריאה (האנומה אליש) שטוחים רגשית. העומק הרגשי והריאליזם הפסיכולוגי המתועדים על ידי אלטר (The Art of Biblical Narrative, 1981) וסטרנברג (The Poetics of Biblical Narrative, 1985) משקפים מחבר בעל תובנה יוצאת דופן לחוויה האנושית, שאינה עקבית עם טקסט שהומצא למטרות פוליטיות או פולחניות בלבד.",
-        "fr": "La Torah englobe toute la gamme émotionnelle d'une nation — joie (Cantique de la mer), désespoir (Veau d'or), espoir (Bénédictions de Deut. 28), terreur (Malédictions de Deut. 28), amour (Deut. 6:5), et crainte révérencielle. Les codes de lois anciens (Hammurabi, hittite) et les épopées de création (Enuma Elish) sont émotionnellement plats. La profondeur émotionnelle et le réalisme psychologique documentés par Alter (The Art of Biblical Narrative, 1981) et Sternberg (The Poetics of Biblical Narrative, 1985) reflètent un auteur d'une perspicacité extraordinaire sur l'expérience humaine, incohérent avec un texte inventé à des fins purement politiques ou cultuelles.",
-        "es": "La Torá abarca toda la gama emocional de una nación — alegría (Cántico del Mar), desesperación (Becerro de Oro), esperanza (Bendiciones de Deut. 28), terror (Maldiciones de Deut. 28), amor (Deut. 6:5), y temor reverencial. Los códigos legales antiguos (Hammurabi, hitita) y las épicas de creación (Enuma Elish) son emocionalmente planos. La profundidad emocional y el realismo psicológico documentados por Alter (The Art of Biblical Narrative, 1981) y Sternberg (The Poetics of Biblical Narrative, 1985) reflejan un autor con una perspicacia extraordinaria sobre la experiencia humana, incompatible con un texto inventado con fines puramente políticos o cultuales."
-      },
-      "s": "Trible, Phyllis; Rhetorical Criticism: Context, Method, and the Book of Jonah; [[Fortress Press]]",
-      "u": "https://books.google.com/books?id=hIp0zV_tqaAC&pg=PA76",
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "date_sort": -1440
-    },
-    {
-      "layer": "meta",
-      "t": {
-        "en": "The Argument from the Torah's Geographical Precision",
-        "he": "הטיעון מהדיוק הגיאוגרפי של התורה",
-        "fr": "L'argument de la précision géographique de la Torah",
-        "es": "El argumento de la precisión geográfica de la Torá"
-      },
-      "e": {
-        "en": "The Torah names hundreds of places, mountains, rivers, and borders with precision that matches archaeological and geographical reality. The Table of Nations (Gen. 10) identifies 70 nations with known ethnonyms verifiable from ancient Near Eastern records. Anson Rainey and R. Steven Notley (The Sacred Bridge, 2006) produced a comprehensive historical geography documenting correspondence between biblical and archaeological data. The precision and specificity of the Torah's geography are inconsistent with legendary late composition and reflect authentic historical knowledge available only to contemporaneous observers.",
-        "he": "התורה נוקבת בשמות של מאות מקומות, הרים, נהרות וגבולות בדיוק התואם את המציאות הארכיאולוגית והגיאוגרפית. רשימת האומות (בראשית י) מזהה 70 אומות עם אתנונימים ידועים הניתנים לאימות מתיעוד המזרח הקדום. אנסון ריני וסטיבן נוטלי (The Sacred Bridge, 2006) הפיקו גיאוגרפיה היסטורית מקיפה המתעדת התאמה בין נתונים מקראיים לארכיאולוגיים. הדיוק והספציפיות של הגיאוגרפיה בתורה אינם עולים בקנה אחד עם חיבור אגדי מאוחר ומשקפים ידע היסטורי אותנטי הזמין רק לתצפיינים בני-הזמן.",
-        "fr": "La Torah nomme des centaines de lieux, montagnes, fleuves et frontières avec une précision correspondant à la réalité archéologique et géographique. La Table des Nations (Gen. 10) identifie 70 nations avec des ethnonymes connus vérifiables à partir des archives du Proche-Orient ancien. Anson Rainey et R. Steven Notley (The Sacred Bridge, 2006) ont produit une géographie historique complète documentant la correspondance entre les données bibliques et archéologiques. La précision et la spécificité de la géographie de la Torah sont incompatibles avec une composition tardive légendaire et reflètent une connaissance historique authentique disponible uniquement aux observateurs contemporains.",
-        "es": "La Torá nombra cientos de lugares, montañas, ríos y fronteras con una precisión que coincide con la realidad arqueológica y geográfica. La Tabla de las Naciones (Gén. 10) identifica 70 naciones con etnónimos conocidos verificables a partir de registros del antiguo Cercano Oriente. Anson Rainey y R. Steven Notley (The Sacred Bridge, 2006) produjeron una geografía histórica completa que documenta la correspondencia entre datos bíblicos y arqueológicos. La precisión y especificidad de la geografía de la Torá es incompatible con una composición legendaria tardía y refleja un conocimiento histórico auténtico disponible solo para observadores contemporáneos."
-      },
-      "s": "Table of Nations – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Table_of_Nations",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1400
-    },
-    {
-      "layer": "meta",
-      "t": {
-        "en": "The Argument from the Torah's Legal Complexity",
-        "he": "הטיעון מהמורכבות המשפטית של התורה",
-        "fr": "L'argument de la complexité juridique de la Torah",
-        "es": "El argumento de la complejidad legal de la Torá"
-      },
-      "e": {
-        "en": "The Torah's legal system includes torts, criminal law, family law, property law, ritual law, and constitutional law — all integrated into a single narrative. Legal sophistication encompasses mens rea, proportional restitution, due process (two witnesses), protection of the vulnerable (widow, orphan, stranger), animal welfare, environmental protection, and economic equity. This level of integration across all domains of law has no parallel in any other ancient text and is consistent with a divine legislator whose concern encompasses all aspects of human society.",
-        "he": "המערכת המשפטית של התורה כוללת נזיקין, דין פלילי, דיני משפחה, דיני קניין, דין טקסי, ודין חוקתי — כולם משולבים בנרטיב אחד. התחכום המשפטי מקיף כוונה פלילית, פיצוי יחסי, הליך הוגן (שני עדים), הגנה על הפגיעים (אלמנה, יתום, גר), רווחת בעלי חיים, הגנה סביבתית, וצדק כלכלי. רמת שילוב זו בכל תחומי המשפט אין לה מקבילה בשום טקסט עתיק אחר, ועולה בקנה אחד עם מחוקק אלוקי שדאגתו מקיפה את כל היבטי החברה האנושית.",
-        "fr": "Le système juridique de la Torah inclut les torts, le droit pénal, le droit de la famille, le droit de propriété, le droit rituel, et le droit constitutionnel — tous intégrés dans un seul récit. La sophistication juridique englobe la mens rea, la restitution proportionnelle, la procédure régulière (deux témoins), la protection des vulnérables (veuve, orphelin, étranger), le bien-être animal, la protection environnementale, et l'équité économique. Ce niveau d'intégration à travers tous les domaines du droit n'a de parallèle dans aucun autre texte ancien et est cohérent avec un législateur divin dont la préoccupation englobe tous les aspects de la société humaine.",
-        "es": "El sistema legal de la Torá incluye agravios, derecho penal, derecho de familia, derecho de propiedad, derecho ritual y derecho constitucional — todo integrado en una sola narrativa. La sofisticación legal abarca mens rea, restitución proporcional, debido proceso (dos testigos), protección de los vulnerables (viuda, huérfano, extranjero), bienestar animal, protección ambiental y equidad económica. Este nivel de integración en todos los dominios del derecho no tiene paralelo en ningún otro texto antiguo y es consistente con un legislador divino cuya preocupación abarca todos los aspectos de la sociedad humana."
-      },
-      "s": "Rubenstein, Jeffrey L.; Michael Berger. ''Rabbinic Authority.'' Oxford: Oxford University Press, 1998. xii, 226 pp.; AJS Review; 2002; 26; pp. 356–359; DOI: 10.1017/S0364009402250114",
-      "u": "https://doi.org/10.1017/S0364009402250114",
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "date_sort": -1440
-    },
-    {
-      "layer": "meta",
-      "t": {
-        "en": "The Argument from the Torah's Musical/Poetic Quality",
-        "he": "הטיעון מהאיכות המוזיקלית/שירית של התורה",
-        "fr": "L'argument de la qualité musicale/poétique de la Torah",
-        "es": "El argumento de la calidad musical/poética de la Torá"
-      },
-      "e": {
-        "en": "The Torah contains some of the oldest and most beautiful Hebrew poetry: the Song of the Sea (Ex. 15), the Blessing of Jacob (Gen. 49), the Song of Moses (Deut. 32), Balaam's oracles (Num. 23–24), and the Priestly Blessing (Num. 6:24–26). These poems combine aesthetic beauty, archaic linguistic authenticity, and theological depth. The aesthetic dimension of the Torah — its literary artistry alongside its legal precision — suggests an author whose purposes extend beyond the purely functional.",
-        "he": "התורה מכילה חלק מהשירה העברית העתיקה והיפה ביותר: שירת הים (שמות טו), ברכת יעקב (בראשית מט), שירת האזינו (דברים לב), נבואות בלעם (במדבר כג-כד), וברכת הכהנים (במדבר ו:כד-כו). שירים אלה משלבים יופי אסתטי, אותנטיות לשונית ארכאית, ועומק תיאולוגי. הממד האסתטי של התורה — אמנותה הספרותית לצד דיוקה המשפטי — מרמז על מחבר שמטרותיו חורגות מעבר לפונקציונלי בלבד.",
-        "fr": "La Torah contient certaines des plus anciennes et des plus belles poésies hébraïques : le Cantique de la mer (Ex. 15), la Bénédiction de Jacob (Gen. 49), le Cantique de Moïse (Deut. 32), les oracles de Balaam (Nb. 23-24), et la Bénédiction sacerdotale (Nb. 6:24-26). Ces poèmes combinent beauté esthétique, authenticité linguistique archaïque, et profondeur théologique. La dimension esthétique de la Torah — son art littéraire aux côtés de sa précision juridique — suggère un auteur dont les objectifs vont au-delà du purement fonctionnel.",
-        "es": "La Torá contiene parte de la poesía hebrea más antigua y hermosa: el Cántico del Mar (Éx. 15), la Bendición de Jacob (Gén. 49), el Cántico de Moisés (Deut. 32), los oráculos de Balaam (Núm. 23-24), y la Bendición Sacerdotal (Núm. 6:24-26). Estos poemas combinan belleza estética, autenticidad lingüística arcaica y profundidad teológica. La dimensión estética de la Torá — su arte literario junto a su precisión legal — sugiere un autor cuyos propósitos van más allá de lo puramente funcional."
-      },
-      "s": "Berman, Joshua A.; Inconsistency in the Torah; Oxford University Press; pp. 35-60",
-      "u": "https://doi.org/10.1093/acprof:oso/9780190658809.003.0003",
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "date_sort": -1800
-    },
-    {
-      "layer": "meta",
-      "t": {
-        "en": "The Argument from the Torah's Psychological Insight",
-        "he": "הטיעון מהתובנה הפסיכולוגית של התורה",
-        "fr": "L'argument de la perspicacité psychologique de la Torah",
-        "es": "El argumento de la perspicacia psicológica de la Torá"
-      },
-      "e": {
-        "en": "The Torah portrays human psychology with subtlety — sibling rivalry (Cain and Abel, Joseph and brothers), parental favoritism (Jacob and Joseph), envy, courage, cowardice, and faith. These are not caricatures but realistic portraits. Nahum Sarna (Understanding Genesis, 1966) and Robert Alter documented the psychological realism of biblical characters as a mark of literary sophistication. The Torah's psychological depth — capturing the complexity of human motivation across the full range of human experience — is consistent with an author with comprehensive insight into human nature.",
-        "he": "התורה מתארת את הפסיכולוגיה האנושית בעדינות — יריבות בין אחים (קין והבל, יוסף ואחיו), העדפה הורית (יעקב ויוסף), קנאה, אומץ, פחדנות, ואמונה. אלה אינם קריקטורות אלא דיוקנאות ריאליסטיים. נחום סרנה (Understanding Genesis, 1966) ורוברט אלטר תיעדו את הריאליזם הפסיכולוגי של דמויות מקראיות כסימן לתחכום ספרותי. העומק הפסיכולוגי של התורה — לכידת מורכבות המניע האנושי על פני מלוא טווח החוויה האנושית — עולה בקנה אחד עם מחבר בעל תובנה מקיפה בטבע האנושי.",
-        "fr": "La Torah dépeint la psychologie humaine avec subtilité — rivalité fraternelle (Caïn et Abel, Joseph et ses frères), favoritisme parental (Jacob et Joseph), envie, courage, lâcheté, et foi. Ce ne sont pas des caricatures mais des portraits réalistes. Nahum Sarna (Understanding Genesis, 1966) et Robert Alter ont documenté le réalisme psychologique des personnages bibliques comme une marque de sophistication littéraire. La profondeur psychologique de la Torah — capturant la complexité de la motivation humaine à travers toute la gamme de l'expérience humaine — est cohérente avec un auteur ayant une perspicacité globale de la nature humaine.",
-        "es": "La Torá retrata la psicología humana con sutileza — rivalidad entre hermanos (Caín y Abel, José y sus hermanos), favoritismo parental (Jacob y José), envidia, valentía, cobardía y fe. Estos no son caricaturas sino retratos realistas. Nahum Sarna (Understanding Genesis, 1966) y Robert Alter documentaron el realismo psicológico de los personajes bíblicos como marca de sofisticación literaria. La profundidad psicológica de la Torá — captando la complejidad de la motivación humana a través de toda la gama de la experiencia humana — es consistente con un autor con una perspicacia integral de la naturaleza humana."
-      },
-      "s": "Biblical narrative – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Biblical_narrative",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1800
-    },
-    {
-      "layer": "meta",
-      "t": {
-        "en": "The Argument from the Torah's Awareness of Its Own Limitations",
-        "he": "הטיעון ממודעות התורה למגבלותיה שלה",
-        "fr": "L'argument de la conscience de la Torah de ses propres limites",
-        "es": "El argumento de la conciencia de la Torá de sus propias limitaciones"
-      },
-      "e": {
-        "en": "The Torah admits what it does not know: the exact location of Mount Sinai, the reason for some commandments (chukim), and the identity of Moses' burial place (Deut. 34:6). The Talmud (Yoma 67b) itself designates the parah adumah as a decree without human-accessible rationale. A human forger claiming omniscience would not embed such epistemic humility. The Torah's self-acknowledged limitations are evidence of intellectual honesty inconsistent with fabrication and consistent with a divine author who reveals what is necessary without claiming to have revealed everything.",
-        "he": "התורה מודה במה שאינה יודעת: המיקום המדויק של הר סיני, הסיבה למספר מצוות (חוקים), וזהות מקום קבורתו של משה (דברים לד:ו). התלמוד עצמו (יומא סז ע\"ב) מגדיר את הפרה האדומה כגזרה ללא הסבר נגיש לאדם. זייפן אנושי הטוען לכל-יודעות לא היה משתיל ענווה אפיסטמית כזו. המגבלות המוכרות-עצמית של התורה הן עדות ליושר אינטלקטואלי שאינו עקבי עם זיוף ועקבי עם מחבר אלוקי המגלה מה שנחוץ מבלי לטעון שגילה הכול.",
-        "fr": "La Torah admet ce qu'elle ne sait pas : l'emplacement exact du mont Sinaï, la raison de certains commandements (chukim), et l'identité du lieu de sépulture de Moïse (Deut. 34:6). Le Talmud lui-même (Yoma 67b) désigne la para aduma comme un décret sans rationnel accessible à l'homme. Un faussaire humain revendiquant l'omniscience n'aurait pas intégré une telle humilité épistémique. Les limitations auto-reconnues de la Torah sont une preuve d'honnêteté intellectuelle incohérente avec la fabrication et cohérente avec un auteur divin qui révèle ce qui est nécessaire sans prétendre avoir tout révélé.",
-        "es": "La Torá admite lo que no sabe: la ubicación exacta del Monte Sinaí, la razón de algunos mandamientos (jukim), y la identidad del lugar de sepultura de Moisés (Deut. 34:6). El propio Talmud (Yoma 67b) designa la pará adumá como un decreto sin razón accesible al ser humano. Un falsificador humano que reclamara omnisciencia no habría incorporado tal humildad epistémica. Las limitaciones autoreconocidas de la Torá son evidencia de honestidad intelectual incompatible con la fabricación y consistente con un autor divino que revela lo necesario sin afirmar haberlo revelado todo."
-      },
-      "s": "Chukim – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Chukim",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1312
-    },
-    {
-      "layer": "meta",
-      "t": {
-        "en": "The Argument from the Consistency of Jewish Interpretation",
-        "he": "הטיעון מעקביות הפרשנות היהודית",
-        "fr": "L'argument de la cohérence de l'interprétation juive",
-        "es": "El argumento de la consistencia de la interpretación judía"
-      },
-      "e": {
-        "en": "Despite 2,000 years of dispersion, the basic interpretive framework of the Torah (peshat, derash, remez, sod) remains consistent across Yemenite, Sephardic, Ashkenazi, and Oriental traditions. Rambam's Mishneh Torah (12th century) was recognized across the entire Jewish world, and the Shulchan Aruch (16th century) codified practice accepted from Morocco to Poland. This hermeneutic consistency across communities with no mutual contact for centuries is inconsistent with independent local development and argues for a shared authoritative source.",
-        "he": "למרות 2,000 שנות פזורה, מסגרת הפרשנות הבסיסית של התורה (פשט, דרש, רמז, סוד) נותרת עקבית לאורך המסורות התימנית, הספרדית, האשכנזית והמזרחית. משנה תורה של הרמב\"ם (המאה ה-12) הוכרה בכל העולם היהודי, והשולחן ערוך (המאה ה-16) קידד מנהג שהתקבל ממרוקו ועד פולין. עקביות פרשנית זו על פני קהילות ללא מגע הדדי במשך מאות שנים אינה עקבית עם התפתחות מקומית בלתי תלויה ומצביעה על מקור סמכותי משותף.",
-        "fr": "Malgré 2 000 ans de dispersion, le cadre interprétatif fondamental de la Torah (peshat, derash, remez, sod) demeure cohérent à travers les traditions yéménite, séfarade, ashkénaze et orientale. Le Michné Torah de Maïmonide (XIIe siècle) fut reconnu dans tout le monde juif, et le Choulhan Aroukh (XVIe siècle) codifia une pratique acceptée du Maroc à la Pologne. Cette cohérence herméneutique à travers des communautés sans contact mutuel pendant des siècles est incohérente avec un développement local indépendant et plaide pour une source autoritaire partagée.",
-        "es": "A pesar de 2.000 años de dispersión, el marco interpretativo básico de la Torá (peshat, derash, remez, sod) permanece consistente a través de las tradiciones yemenita, sefardí, ashkenazí y oriental. El Mishné Torá de Maimónides (siglo XII) fue reconocido en todo el mundo judío, y el Shulján Aruj (siglo XVI) codificó una práctica aceptada desde Marruecos hasta Polonia. Esta consistencia hermenéutica a través de comunidades sin contacto mutuo durante siglos es incompatible con un desarrollo local independiente y aboga por una fuente autoritativa compartida."
-      },
-      "s": "Shulchan Aruch – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Shulchan_Aruch",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1400
-    },
-    {
-      "layer": "meta",
-      "t": {
         "en": "The Argument from the Torah's Influence on World Civilization",
         "he": "הטיעון מהשפעת התורה על הציוויליזציה העולמית",
         "fr": "L'argument de l'influence de la Torah sur la civilisation mondiale",
@@ -3537,66 +3217,6 @@
       "consensus_status": "probabilistic",
       "source_tier": "primary",
       "date_sort": -1312
-    },
-    {
-      "layer": "meta",
-      "t": {
-        "en": "The Argument from the Falsifiability of the Sinai Claim",
-        "he": "הטיעון מהפרכתיות של טענת סיני",
-        "fr": "L'argument de la falsifiabilité de la revendication du Sinaï",
-        "es": "El argumento de la falsabilidad de la afirmación del Sinaí"
-      },
-      "e": {
-        "en": "The Torah's claim that 600,000 adult males (plus women and children) witnessed the revelation is falsifiable in principle. Any contemporary who knew the claim was false could have denied it. The fact that this claim was universally accepted by the nation to whom it was directed — and has remained the founding narrative for 3,300 years without successful internal refutation — is significant. Karl Popper's criterion of falsifiability applied positively: a claim that could have been falsified by contemporaries and was not constitutes stronger evidence than a claim that could not have been falsified at all.",
-        "he": "טענת התורה ש-600,000 גברים בוגרים (בתוספת נשים וילדים) חזו בהתגלות ניתנת להפרכה עקרונית. כל בן-זמן שידע שהטענה שקרית יכול היה להכחישה. העובדה שטענה זו התקבלה באופן אוניברסלי על ידי האומה שאליה כוונה — ונשארה הנרטיב המכונן במשך 3,300 שנה ללא הפרכה פנימית מוצלחת — משמעותית. מבחן ההפרכתיות של קרל פופר מיושם באופן חיובי: טענה שיכולה הייתה להיות מופרכת על ידי בני-זמנה ולא נסתרה מהווה ראיה חזקה יותר מטענה שלא הייתה יכולה להיות מופרכת כלל.",
-        "fr": "L'affirmation de la Torah selon laquelle 600 000 hommes adultes (plus femmes et enfants) ont été témoins de la révélation est falsifiable en principe. Tout contemporain sachant que l'affirmation était fausse aurait pu la nier. Le fait que cette affirmation ait été universellement acceptée par la nation à qui elle était adressée — et soit restée le récit fondateur pendant 3 300 ans sans réfutation interne réussie — est significatif. Le critère de falsifiabilité de Karl Popper appliqué positivement : une affirmation qui aurait pu être falsifiée par des contemporains et ne l'a pas été constitue une preuve plus solide qu'une affirmation qui n'aurait pas pu être falsifiée du tout.",
-        "es": "La afirmación de la Torá de que 600.000 hombres adultos (más mujeres y niños) presenciaron la revelación es falsable en principio. Cualquier contemporáneo que supiera que la afirmación era falsa podría haberla negado. El hecho de que esta afirmación fuera universalmente aceptada por la nación a la que se dirigía — y haya permanecido como la narrativa fundacional durante 3.300 años sin refutación interna exitosa — es significativo. El criterio de falsabilidad de Karl Popper aplicado positivamente: una afirmación que podría haber sido falsada por contemporáneos y no lo fue constituye una evidencia más fuerte que una afirmación que no podría haber sido falsada en absoluto."
-      },
-      "s": "Sinai covenant – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Sinai_covenant",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1312
-    },
-    {
-      "layer": "meta",
-      "t": {
-        "en": "The Argument from the Torah's Cosmological Moderation",
-        "he": "הטיעון ממתינות הקוסמולוגית של התורה",
-        "fr": "L'argument de la modération cosmologique de la Torah",
-        "es": "El argumento de la moderación cosmológica de la Torá"
-      },
-      "e": {
-        "en": "Unlike the exaggerated cosmologies of surrounding cultures (Babylonian, Egyptian), the Torah's cosmology is restrained — no cosmic battles, no divine sex, no eternal cyclical destruction. The creation account (Gen. 1) is structurally orderly, moving from formlessness to form through a series of separations and namings. This cosmological moderation — consistent with scientific description of the universe as ordered, law-governed, and comprehensible — distinguishes the Torah from all ancient Near Eastern cosmological literature and is consistent with a divine author who has accurate knowledge of the universe's actual character.",
-        "he": "בשונה מהקוסמולוגיות המוגזמות של התרבויות הסובבות (הבבלית, המצרית), הקוסמולוגיה של התורה מרוסנת — אין קרבות קוסמיים, אין מין אלוקי, אין הרס מחזורי נצחי. תיאור הבריאה (בראשית א) מסודר מבנית, ונע מחוסר צורה לצורה דרך סדרה של הפרדות ומתן שמות. מתינות קוסמולוגית זו — עקבית עם תיאור מדעי של היקום כמסודר, מונהג על ידי חוק, וניתן להבנה — מבחינה את התורה מכל ספרות קוסמולוגית מהמזרח הקדום ועקבית עם מחבר אלוקי בעל ידע מדויק על אופיו האמיתי של היקום.",
-        "fr": "Contrairement aux cosmologies exagérées des cultures environnantes (babylonienne, égyptienne), la cosmologie de la Torah est retenue — aucune bataille cosmique, aucun sexe divin, aucune destruction cyclique éternelle. Le récit de la création (Gen. 1) est structurellement ordonné, passant de l'informe à la forme par une série de séparations et de nominations. Cette modération cosmologique — cohérente avec la description scientifique de l'univers comme ordonné, régi par des lois, et compréhensible — distingue la Torah de toute la littérature cosmologique du Proche-Orient ancien et est cohérente avec un auteur divin ayant une connaissance exacte du caractère réel de l'univers.",
-        "es": "A diferencia de las cosmologías exageradas de las culturas circundantes (babilónica, egipcia), la cosmología de la Torá es contenida — no hay batallas cósmicas, no hay sexo divino, no hay destrucción cíclica eterna. El relato de la creación (Gén. 1) está estructuralmente ordenado, moviéndose de lo informe a la forma a través de una serie de separaciones y nombramientos. Esta moderación cosmológica — consistente con la descripción científica del universo como ordenado, regido por leyes y comprensible — distingue a la Torá de toda la literatura cosmológica del antiguo Cercano Oriente y es consistente con un autor divino con conocimiento exacto del carácter real del universo."
-      },
-      "s": "Carr, David M.; The Formation of the Hebrew Bible: A New Reconstruction; Oxford University Press, USA",
-      "u": "https://books.google.com/books?id=MgVpAgAAQBAJ",
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "date_sort": -1440
-    },
-    {
-      "layer": "meta",
-      "t": {
-        "en": "The Argument from the Torah's Ultimate Simplicity",
-        "he": "הטיעון מהפשטות האולטימטיבית של התורה",
-        "fr": "L'argument de la simplicité ultime de la Torah",
-        "es": "El argumento de la simplicidad última de la Torá"
-      },
-      "e": {
-        "en": "Despite its complexity, the Torah's core message is simple: G-d is one; He created the world; He chose Israel; He gave the Torah; obey and live. This parsimony — a complex legal and narrative system unified by a single simple theological core — is a hallmark of genuine truth. A human forger would likely make the message more complex to impress. The Torah's combination of surface simplicity (accessible to children) with inexhaustible depth (capable of sustaining 3,300 years of interpretation) is consistent with a divine author whose wisdom encompasses all levels of human understanding.",
-        "he": "למרות מורכבותה, המסר המרכזי של התורה פשוט: האל אחד; הוא ברא את העולם; הוא בחר בישראל; הוא נתן את התורה; שמור וחיה. חסכנות זו — מערכת משפטית ונרטיבית מורכבת המאוחדת על ידי גרעין תיאולוגי פשוט יחיד — היא סימן היכר לאמת אמיתית. זייפן אנושי היה כנראה מסבך את המסר כדי להרשים. שילוב הפשטות השטחית של התורה (נגישה לילדים) עם עומק בלתי נדלה (מסוגל לקיים 3,300 שנות פרשנות) עולה בקנה אחד עם מחבר אלוקי שחוכמתו מקיפה את כל רמות ההבנה האנושית.",
-        "fr": "Malgré sa complexité, le message central de la Torah est simple : Dieu est un ; Il a créé le monde ; Il a choisi Israël ; Il a donné la Torah ; obéissez et vivez. Cette parcimonie — un système juridique et narratif complexe unifié par un seul noyau théologique simple — est une marque de vérité authentique. Un faussaire humain aurait probablement rendu le message plus complexe pour impressionner. La combinaison par la Torah d'une simplicité de surface (accessible aux enfants) avec une profondeur inépuisable (capable de soutenir 3 300 ans d'interprétation) est cohérente avec un auteur divin dont la sagesse englobe tous les niveaux de compréhension humaine.",
-        "es": "A pesar de su complejidad, el mensaje central de la Torá es simple: Dios es uno; Él creó el mundo; Él eligió a Israel; Él dio la Torá; obedece y vive. Esta parsimonia — un sistema legal y narrativo complejo unificado por un único núcleo teológico simple — es un sello de verdad genuina. Un falsificador humano probablemente habría hecho el mensaje más complejo para impresionar. La combinación de la Torá de simplicidad superficial (accesible a los niños) con profundidad inagotable (capaz de sostener 3.300 años de interpretación) es consistente con un autor divino cuya sabiduría abarca todos los niveles de comprensión humana."
-      },
-      "s": "Davies, G.I; Oxford Bible Commentary; Oxford University Press",
-      "u": "https://archive.org/details/oxfordbiblecomme0000unse",
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "date_sort": -1400
     },
     {
       "layer": "meta",
@@ -5302,26 +4922,6 @@
       "date_sort": -1312
     },
     {
-      "layer": "meta",
-      "t": {
-        "en": "The Biblical Minimalism Debate — A Caution Against Presuming Late Fabrication",
-        "he": "ויכוח המינימליזם המקראי — אזהרה מפני הנחת זיוף מאוחר",
-        "fr": "Le débat sur le minimalisme biblique — une mise en garde contre la présomption de fabrication tardive",
-        "es": "El debate del minimalismo bíblico — una advertencia contra presumir falsificación tardía"
-      },
-      "e": {
-        "en": "This isn't direct evidence for the Torah but a methodological point: the 'minimalist' school that treated most of the Bible as late invention has itself been heavily critiqued and partly walked back as archaeological finds (Tel Dan, Mesha Stele, etc.) confirmed details minimalists doubted. Useful for arguing that skepticism toward the Torah's historicity has repeatedly had to retreat, not advance, as evidence accumulated.",
-        "he": "זו אינה ראיה ישירה לתורה אלא נקודה מתודולוגית: האסכולה ה\"מינימליסטית\" שהתייחסה לרוב המקרא כהמצאה מאוחרת ספגה ביקורת חריפה ונסוגה בחלקה כאשר ממצאים ארכיאולוגיים (תל דן, מצבת מישע וכו') אישרו פרטים שהמינימליסטים פקפקו בהם. שימושי לטיעון שהספקנות כלפי ההיסטוריות של התורה נאלצה שוב ושוב לסגת, ולא להתקדם, ככל שהראיות הצטברו.",
-        "fr": "Ce n'est pas une preuve directe pour la Torah mais un point méthodologique : l'école « minimaliste » qui traitait la majeure partie de la Bible comme une invention tardive a elle-même été fortement critiquée et partiellement revue à la baisse à mesure que des découvertes archéologiques (Tel Dan, stèle de Mesha, etc.) confirmaient des détails que les minimalistes mettaient en doute. Utile pour argumenter que le scepticisme envers l'historicité de la Torah a dû reculer à plusieurs reprises, et non avancer, à mesure que les preuves s'accumulaient.",
-        "es": "Esto no es evidencia directa a favor de la Torá sino un punto metodológico: la escuela \"minimalista\" que trataba la mayor parte de la Biblia como invención tardía ha sido ella misma fuertemente criticada y parcialmente revertida a medida que hallazgos arqueológicos (Tel Dan, Estela de Mesa, etc.) confirmaron detalles que los minimalistas cuestionaban. Útil para argumentar que el escepticismo hacia la historicidad de la Torá ha tenido que retroceder repetidamente, no avanzar, a medida que se acumulaba evidencia."
-      },
-      "s": "Biblical minimalism – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Biblical_minimalism",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1400
-    },
-    {
       "layer": "sociological",
       "t": {
         "en": "The Cognitive Behavioral Mechanism of Tzitzit",
@@ -5706,26 +5306,6 @@
       "source_tier": "popular",
       "date_sort": -1312,
       "review_caveat": "Jan Assmann himself treats the 'Mosaic distinction' as a cultural construction that emerged gradually and was later remembered as a founding event; he does not argue for a historical revelation. The link to Sinai is this project's inference from his description, not his conclusion."
-    },
-    {
-      "layer": "meta",
-      "t": {
-        "en": "The Advanced Epidemiological Protocols",
-        "he": "הפרוטוקולים האפידמיולוגיים המתקדמים",
-        "fr": "Les protocoles épidémiologiques avancés",
-        "es": "Los protocolos epidemiológicos avanzados"
-      },
-      "e": {
-        "en": "The Torah contains a cluster of medically advanced protocols simultaneously: quarantine with running water (Lev. 13–15), sanitation (Deut. 23:12–14), and eighth-day circumcision timing (Gen. 17:12). The contemporary Ebers Papyrus of Egypt prescribed treating wounds with human feces and stagnant water — practices guaranteeing systemic sepsis. For a human author to specify running water for purification, strict respiratory quarantine, and mathematically pin a surgical procedure to day eight requires empirical data physically unavailable to human science for another 2,500 years.",
-        "he": "התורה מכילה אשכול של פרוטוקולים מתקדמים רפואית בו-זמנית: בידוד עם מים זורמים (ויקרא יג-טו), תברואה (דברים כג:יג-טו), ותזמון ברית מילה ביום השמיני (בראשית יז:יב). פפירוס אברס המצרי בן-הזמן קבע טיפול בפצעים בצואת אדם ובמים עומדים — נהלים המבטיחים אלח דם מערכתי. מחבר אנושי המציין מים זורמים לטהרה, בידוד נשימתי קפדני, וקובע מתמטית פרוצדורה כירורגית ליום השמיני מחייב נתונים אמפיריים שלא היו זמינים פיזית למדע האנושי במשך 2,500 שנה נוספות.",
-        "fr": "La Torah contient une grappe de protocoles médicalement avancés simultanément : quarantaine avec eau courante (Lév. 13-15), sanitation (Deut. 23:12-14), et le timing de la circoncision au huitième jour (Gen. 17:12). Le Papyrus Ebers égyptien contemporain prescrivait de traiter les blessures avec des excréments humains et de l'eau stagnante — des pratiques garantissant une septicémie systémique. Pour qu'un auteur humain spécifie de l'eau courante pour la purification, une quarantaine respiratoire stricte, et fixe mathématiquement une procédure chirurgicale au huitième jour, il faudrait des données empiriques physiquement indisponibles à la science humaine pendant encore 2 500 ans.",
-        "es": "La Torá contiene un conjunto de protocolos médicamente avanzados simultáneamente: cuarentena con agua corriente (Lev. 13-15), saneamiento (Deut. 23:12-14), y el momento de la circuncisión al octavo día (Gén. 17:12). El contemporáneo Papiro Ebers egipcio prescribía tratar heridas con excremento humano y agua estancada — prácticas que garantizaban sepsis sistémica. Para que un autor humano especificara agua corriente para la purificación, cuarentena respiratoria estricta, y fijara matemáticamente un procedimiento quirúrgico al octavo día, se requerirían datos empíricos físicamente no disponibles para la ciencia humana durante otros 2.500 años."
-      },
-      "s": "[Psoriasis, biblical afflictions and patients' dignity]; Harefuah; 2002; 141; pp. 479–82, 496",
-      "u": "https://pubmed.ncbi.nlm.nih.gov/12073533/",
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "date_sort": -1400
     },
     {
       "layer": "literary",
@@ -6813,46 +6393,6 @@
     {
       "layer": "meta",
       "t": {
-        "en": "Jewish Survival Defies Sociological Models — Pascal's Wager",
-        "he": "השרידות היהודית מתריסה מודלים סוציולוגיים — הימור פסקל",
-        "fr": "La survie juive défie les modèles sociologiques — le pari de Pascal",
-        "es": "La supervivencia judía desafía los modelos sociológicos — la apuesta de Pascal"
-      },
-      "e": {
-        "en": "No stateless, persecuted, dispersed people survived 2,000 years with identity, language, religion, and land-return intact. Mark Twain (1899): 'The Egyptian, Babylonian, Persian, Greek, Roman... are gone... the Jew saw them all, beat them all.' Tolstoy: 'The Jew is the symbol of eternity.' Nietzsche: 'A people that knows how to survive.' Pascal, *Pensées* §620: Jewish survival is a 'miracle' exceeding natural explanation. Demographic/historical anomaly points to providential covenant (Deut 28–30).",
-        "he": "שום עם חסר-מדינה, נרדף ומפוזר לא שרד 2,000 שנה עם זהות, שפה, דת ושיבה לארץ שלמים. מארק טוויין (1899): \"המצרי, הבבלי, הפרסי, היווני, הרומאי... נעלמו... היהודי ראה את כולם, ניצח את כולם\". טולסטוי: \"היהודי הוא סמל הנצח\". ניטשה: \"עם היודע כיצד לשרוד\". פסקל, *מחשבות* §620: השרידות היהודית היא \"נס\" החורג מהסבר טבעי. החריגה הדמוגרפית/היסטורית מצביעה על ברית השגחתית (דברים כח-ל).",
-        "fr": "Aucun peuple apatride, persécuté et dispersé n'a survécu 2 000 ans avec identité, langue, religion, et retour à la terre intacts. Mark Twain (1899) : « L'Égyptien, le Babylonien, le Perse, le Grec, le Romain... ont disparu... le Juif les a tous vus, il les a tous vaincus. » Tolstoï : « Le Juif est le symbole de l'éternité. » Nietzsche : « Un peuple qui sait survivre. » Pascal, *Pensées* §620 : la survie juive est un « miracle » dépassant l'explication naturelle. L'anomalie démographique/historique pointe vers une alliance providentielle (Deut. 28-30).",
-        "es": "Ningún pueblo apátrida, perseguido y disperso ha sobrevivido 2.000 años con su identidad, lengua, religión y retorno a la tierra intactos. Mark Twain (1899): \"El egipcio, el babilonio, el persa, el griego, el romano... han desaparecido... el judío los vio a todos, los venció a todos\". Tolstói: \"El judío es el símbolo de la eternidad\". Nietzsche: \"Un pueblo que sabe sobrevivir\". Pascal, *Pensamientos* §620: la supervivencia judía es un \"milagro\" que excede la explicación natural. La anomalía demográfica/histórica apunta a un pacto providencial (Deut. 28-30)."
-      },
-      "s": "Twain, 'Concerning the Jews' (1899); Dimont, 'Jews, God and History'",
-      "u": "https://www.bukharianjewishlink.com/index.php/feature/5901-prophecy-have-the-torah-s-predictions-been-realized",
-      "consensus_status": "probabilistic",
-      "source_tier": "modern",
-      "date_sort": -1440
-    },
-    {
-      "layer": "meta",
-      "t": {
-        "en": "Torah Predicts Its Own Forgetting and Recovery (Deut 31:16–21)",
-        "he": "התורה חוזה את שכחתה שלה ואת שיקומה (דברים לא:טז-כא)",
-        "fr": "La Torah prédit son propre oubli et son rétablissement (Deutéronome 31:16–21)",
-        "es": "La Torá predice su propio olvido y recuperación (Deuteronomio 31:16–21)"
-      },
-      "e": {
-        "en": "Deut 31:16–21: G-d tells Moses Israel will 'rise up and play the harlot after strange gods... break My covenant... many evils and troubles shall befall them... this song shall testify against them as a witness; for it shall not be forgotten from the mouth of their seed.' The Torah predicts its own marginalization, the nation's apostasy, and its own enduring role as witness — a self-referential prophecy fulfilled in every generation of exile and return.",
-        "he": "דברים לא:טז-כא: האל אומר למשה שישראל \"יקום וזנה אחרי אלוקי נכר הארץ... והפר את בריתי... ומצאוהו רעות רבות וצרות... וענתה השירה הזאת לפניו לעד, כי לא תישכח מפי זרעו\". התורה חוזה את שוליותה שלה, את כפירת האומה, ואת תפקידה המתמשך כעד — נבואה עצמית-הפנייתית המתגשמת בכל דור של גלות ושיבה.",
-        "fr": "Deut. 31:16-21 : Dieu dit à Moïse qu'Israël « se lèvera et se prostituera après les dieux étrangers du pays... rompra mon alliance... et de nombreux maux et angoisses l'atteindront... et ce cantique déposera comme témoin devant lui, car il ne sera pas oublié de la bouche de sa postérité. » La Torah prédit sa propre marginalisation, l'apostasie de la nation, et son propre rôle durable de témoin — une prophétie autoréférentielle accomplie à chaque génération d'exil et de retour.",
-        "es": "Deut. 31:16-21: Dios le dice a Moisés que Israel \"se levantará y se prostituirá tras los dioses ajenos de la tierra... invalidará mi pacto... le vendrán muchos males y angustias... y este cántico responderá en su cara como testigo, pues no será olvidado de la boca de sus descendientes\". La Torá predice su propia marginación, la apostasía de la nación, y su propio papel duradero como testigo — una profecía autorreferencial cumplida en cada generación de exilio y retorno."
-      },
-      "s": "Deut 31:16–21; Ramban ad loc.",
-      "u": "https://www.sefaria.org/Deuteronomy.31.16",
-      "consensus_status": "probabilistic",
-      "source_tier": "primary",
-      "date_sort": -1272
-    },
-    {
-      "layer": "meta",
-      "t": {
         "en": "Fixed Text, Authorized Courts — 'It Is Not in Heaven'",
         "he": "טקסט קבוע ובית דין מוסמך — \"לא בשמים היא\"",
         "fr": "Texte fixe, tribunaux habilités — « Elle n'est pas dans le ciel »",
@@ -7420,46 +6960,6 @@
       "consensus_status": "probabilistic",
       "source_tier": "popular",
       "date_sort": -1272
-    },
-    {
-      "layer": "meta",
-      "t": {
-        "en": "The Argument from the Torah's Refusal to Flatter Its Central Hero's Death",
-        "he": "הטיעון מסירובה של התורה להחמיא למות גיבורה המרכזי",
-        "fr": "L'argument du refus de la Torah de flatter la mort de son héros central",
-        "es": "El argumento del rechazo de la Torá a halagar la muerte de su héroe central"
-      },
-      "e": {
-        "en": "Moses, the Torah's central human figure and the one through whom the entire law is given, is explicitly barred by G-d from entering the Promised Land as punishment for striking the rock at Meribah (Bamidbar 20:12), dies outside the land he spent his life pursuing, and is buried in a location the text says \"no one knows... to this day\" (Devarim 34:6). A text seeking to glorify a founder-hero through ordinary propagandistic conventions would be expected to grant him a triumphant entry, a marked tomb, and freedom from consequence for a relatively minor infraction. The deliberate refusal to soften Moses' ending, even at the cost of denying him the goal that structures the entire narrative, runs directly against the self-aggrandizing conventions typical of the Torah's own historical genre.",
-        "he": "משה, הדמות האנושית המרכזית של התורה, ומי שדרכו ניתן החוק כולו, נאסר במפורש על ידי האל להיכנס לארץ המובטחת כעונש על הכאת הסלע במריבה (במדבר כ:יב), מת מחוץ לארץ שאותה חתר להשיג במשך כל חייו, ונקבר במקום שהטקסט אומר עליו \"לא ידע איש... עד היום הזה\" (דברים לד:ו). טקסט המבקש להאדיר גיבור-מייסד באמצעות מוסכמות תעמולתיות רגילות היה צפוי להעניק לו כניסה מנצחת, קבר מסומן, וחופש מתוצאות על עבירה קלה יחסית. הסירוב המכוון לרכך את סופו של משה, אפילו במחיר שלילת המטרה המבנה את הנרטיב כולו, מנוגד ישירות למוסכמות ההתגדלות-העצמית האופייניות לז'אנר ההיסטורי של התורה עצמה.",
-        "fr": "Moïse, la figure humaine centrale de la Torah et celui par qui toute la loi est donnée, se voit explicitement interdire par Dieu d'entrer en Terre promise en punition d'avoir frappé le rocher à Meriba (Nombres 20:12), meurt hors du pays qu'il a poursuivi toute sa vie, et est enterré en un lieu dont le texte dit que « personne ne connaît... jusqu'à ce jour » (Deutéronome 34:6). Un texte cherchant à glorifier un héros-fondateur selon les conventions propagandistes ordinaires serait censé lui accorder une entrée triomphale, une tombe marquée, et l'exemption de conséquences pour une infraction relativement mineure. Le refus délibéré d'adoucir la fin de Moïse, même au prix de lui refuser l'objectif qui structure tout le récit, va directement à l'encontre des conventions d'auto-glorification typiques du propre genre historique de la Torah.",
-        "es": "Moisés, la figura humana central de la Torá y aquel por quien se da toda la ley, tiene explícitamente prohibido por Dios entrar a la Tierra Prometida como castigo por golpear la roca en Meribá (Números 20:12), muere fuera de la tierra que persiguió toda su vida, y es enterrado en un lugar del cual el texto dice \"nadie conoce... hasta hoy\" (Deuteronomio 34:6). Se esperaría que un texto que buscara glorificar a un héroe fundador mediante convenciones propagandísticas ordinarias le otorgara una entrada triunfal, una tumba marcada, y libertad de consecuencias por una infracción relativamente menor. El rechazo deliberado a suavizar el final de Moisés, incluso al costo de negarle el objetivo que estructura toda la narrativa, va directamente en contra de las convenciones autoengrandecedoras típicas del propio género histórico de la Torá."
-      },
-      "s": "Death of Moses – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Death_of_Moses",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1272
-    },
-    {
-      "layer": "meta",
-      "t": {
-        "en": "The Argument from the Torah's Absence of a Political-Capital Bias",
-        "he": "הטיעון מהיעדר הטיה לכיוון בירת הכוח הפוליטית בתורה",
-        "fr": "L'argument de l'absence de biais en faveur de la capitale politique dans la Torah",
-        "es": "El argumento de la ausencia de sesgo hacia la capital política en la Torá"
-      },
-      "e": {
-        "en": "Jerusalem, which became central to later biblical, rabbinic, and liturgical life, is never named explicitly in the Five Books of Moses; the Torah instead refers only to an unnamed future site G-d \"will choose\" (Devarim 12:5, 11-14), and the closest textual antecedent, Salem (Bereishis 14:18), appears only obliquely. A text composed or substantially edited during or after the establishment of Jerusalem as the political and cultic capital — as later critical theories sometimes propose — would be an unusual candidate for such a conspicuous omission, since ancient royal and religious texts routinely name and glorify the reigning capital. The Torah's silence on the very city that later dominates Israelite religious geography is more naturally explained by a text substantially fixed before that centralization occurred.",
-        "he": "ירושלים, שהפכה מרכזית לחיים המקראיים, הרבניים והליטורגיים המאוחרים, אינה נזכרת מפורשות בחמישה חומשי תורה כלל; התורה מתייחסת במקום זאת רק לאתר עתידי בלתי-נקוב שהאל \"יבחר\" (דברים יב:ה, יא-יד), והתקדים הטקסטואלי הקרוב ביותר, שלם (בראשית יד:יח), מופיע רק באורח עקיף. טקסט שחובר או נערך בהיקף נרחב במהלך או לאחר הקמת ירושלים כבירה פוליטית וטקסית — כפי שמציעות לעיתים תיאוריות ביקורתיות מאוחרות — היה מועמד חריג להשמטה כה בולטת, שכן טקסטים מלכותיים ודתיים עתיקים נוהגים לרוב לנקוב בשם הבירה השלטת ולהאדירה. שתיקת התורה על העיר עצמה השולטת מאוחר יותר בגיאוגרפיה הדתית הישראלית מוסברת באופן טבעי יותר על ידי טקסט שנקבע במידה רבה לפני התרחשות ריכוזיות זו.",
-        "fr": "Jérusalem, qui devint centrale à la vie biblique, rabbinique et liturgique ultérieure, n'est jamais nommée explicitement dans les Cinq Livres de Moïse ; la Torah se réfère plutôt uniquement à un site futur non nommé que Dieu « choisira » (Deutéronome 12:5, 11-14), et l'antécédent textuel le plus proche, Salem (Genèse 14:18), n'apparaît que de manière oblique. Un texte composé ou substantiellement édité pendant ou après l'établissement de Jérusalem comme capitale politique et cultuelle — comme le proposent parfois des théories critiques ultérieures — serait un candidat inhabituel pour une telle omission flagrante, puisque les textes royaux et religieux anciens nomment et glorifient habituellement la capitale régnante. Le silence de la Torah sur la ville même qui domine plus tard la géographie religieuse israélite s'explique plus naturellement par un texte substantiellement fixé avant que cette centralisation ne se produise.",
-        "es": "Jerusalén, que se volvió central en la vida bíblica, rabínica y litúrgica posterior, nunca es nombrada explícitamente en los Cinco Libros de Moisés; la Torá en cambio se refiere solo a un sitio futuro sin nombre que Dios \"elegirá\" (Deuteronomio 12:5, 11-14), y el antecedente textual más cercano, Salem (Génesis 14:18), aparece solo de manera oblicua. Un texto compuesto o sustancialmente editado durante o después del establecimiento de Jerusalén como capital política y cultual — como a veces proponen teorías críticas posteriores — sería un candidato inusual para tal omisión llamativa, ya que los textos reales y religiosos antiguos nombran y glorifican habitualmente la capital reinante. El silencio de la Torá sobre la misma ciudad que domina posteriormente la geografía religiosa israelita se explica más naturalmente mediante un texto sustancialmente fijado antes de que ocurriera esa centralización."
-      },
-      "s": "Jerusalem in Judaism – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Jerusalem_in_Judaism",
-      "consensus_status": "probabilistic",
-      "source_tier": "popular",
-      "date_sort": -1800
     },
     {
       "layer": "cosmology",
