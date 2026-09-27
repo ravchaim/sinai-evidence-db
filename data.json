@@ -6804,26 +6804,6 @@
     {
       "layer": "archaeology",
       "t": {
-        "en": "The 'Bitter Waters' Remedy and Egyptian Wilderness Knowledge",
-        "he": "התרופה ל'מים המרים' וידע המדבר המצרי",
-        "fr": "Le remède des « eaux amères » et la connaissance égyptienne du désert",
-        "es": "El remedio de las 'aguas amargas' y el conocimiento egipcio del desierto"
-      },
-      "e": {
-        "en": "When the Israelites find bitter water at Marah, Moses throws a piece of wood into the water, making it sweet. Historians of science have noted that this exact method of water purification is documented in ancient Egyptian medical texts (such as the Erlenmeyer Papyrus) and is a known Bedouin wilderness technique. Certain tannin-rich woods (like the *Acacia* or *ratl* root) contain chemicals that can neutralize brackish water. This demonstrates that the author of Shemos possessed authentic, localized knowledge of Sinai/Egyptian wilderness survival, not just abstract theological ideas.",
-        "he": "כשהישראלים מוצאים מים מרים במרה, משה משליך פיסת עץ למים, והופך אותם למתוקים. היסטוריונים של המדע ציינו ששיטה מדויקת זו של טיהור מים מתועדת בטקסטים רפואיים מצריים עתיקים (כמו פפירוס ארלנמאייר) והיא טכניקת מדבר בדואית ידועה. עצים עשירים בטאנין מסוימים (כמו שורש *שיטה* או *רתל*) מכילים כימיקלים היכולים לנטרל מים מלוחים. הדבר מדגים שמחבר שמות החזיק בידע אותנטי ומקומי על הישרדות במדבר סיני/מצרי, ולא רק ברעיונות תיאולוגיים מופשטים.",
-        "fr": "Lorsque les Israélites trouvent de l'eau amère à Mara, Moïse jette un morceau de bois dans l'eau, la rendant douce. Les historiens des sciences ont noté que cette méthode exacte de purification de l'eau est documentée dans des textes médicaux égyptiens anciens (comme le papyrus Erlenmeyer) et constitue une technique bédouine connue du désert. Certains bois riches en tanins (comme la racine d'*Acacia* ou de *ratl*) contiennent des produits chimiques capables de neutraliser l'eau saumâtre. Cela démontre que l'auteur de l'Exode possédait une connaissance authentique et localisée de la survie dans le désert du Sinaï/égyptien, non simplement des idées théologiques abstraites.",
-        "es": "Cuando los israelitas encuentran agua amarga en Mara, Moisés arroja un pedazo de madera al agua, endulzándola. Los historiadores de la ciencia han señalado que este método exacto de purificación de agua está documentado en antiguos textos médicos egipcios (como el Papiro Erlenmeyer) y es una técnica beduina conocida del desierto. Ciertas maderas ricas en taninos (como la raíz de *Acacia* o *ratl*) contienen químicos que pueden neutralizar el agua salobre. Esto demuestra que el autor de Éxodo poseía conocimiento auténtico y localizado de la supervivencia en el desierto del Sinaí/egipcio, no solo ideas teológicas abstractas."
-      },
-      "s": "Hoffmeier, James K.; Ancient Israel in Sinai: The Evidence for the Authenticity of the Wilderness Traditions; 2005; Oxford University Press",
-      "u": "https://books.google.com/books?id=EVcSDAAAQBAJ&pg=PA162",
-      "date_sort": -1550,
-      "consensus_status": "probabilistic",
-      "source_tier": "primary"
-    },
-    {
-      "layer": "archaeology",
-      "t": {
         "en": "The Tel Zayit Abecedary",
         "he": "האבצדריון מתל זית",
         "fr": "L'abécédaire de Tel Zayit",
@@ -6989,26 +6969,6 @@
       "places": [
         "khirbet-qeiyafa"
       ]
-    },
-    {
-      "layer": "archaeology",
-      "t": {
-        "en": "Biomolecular Evidence of Pork Avoidance",
-        "he": "ראיה ביומולקולרית להימנעות מחזיר",
-        "fr": "Preuve biomoléculaire de l'évitement du porc",
-        "es": "Evidencia biomolecular de evitación del cerdo"
-      },
-      "e": {
-        "en": "In a 2021 study published in the *Journal of Archaeological Science*, researchers used palaeoproteomics (analyzing ancient protein residues) on Iron Age pottery from the Judean highlands. They found strong evidence of pork consumption in Philistine and Canaanite sites, but virtually zero pig proteins in contemporary Israelite sites. This biomolecular data physically corroborates the biblical claim that the Israelites actively observed dietary taboos that their neighbors ignored, proving the taboo was a real, practiced biological behavior, not just a literary ideal.",
-        "he": "במחקר מ-2021 שפורסם ב-*Journal of Archaeological Science*, חוקרים השתמשו בפליאופרוטאומיקה (ניתוח שרידי חלבון עתיקים) על קדרות מתקופת הברזל מרמות יהודה. הם מצאו ראיות חזקות לצריכת חזיר באתרים פלישתיים וכנעניים, אך כמעט אפס חלבוני חזיר באתרים ישראליים בני-זמן. נתונים ביומולקולריים אלה מאששים פיזית את הטענה המקראית שהישראלים שמרו באופן פעיל על טאבו תזונתי ששכניהם התעלמו ממנו, ומוכיחים שהטאבו היה התנהגות ביולוגית אמיתית ומעשית, לא רק אידיאל ספרותי.",
-        "fr": "Dans une étude de 2021 publiée dans le *Journal of Archaeological Science*, des chercheurs ont utilisé la paléoprotéomique (analyse de résidus de protéines anciens) sur de la poterie de l'âge du Fer des hautes terres judahites. Ils ont trouvé de fortes preuves de consommation de porc dans les sites philistins et cananéens, mais pratiquement aucune protéine porcine dans les sites israélites contemporains. Ces données biomoléculaires corroborent physiquement l'affirmation biblique selon laquelle les Israélites observaient activement des tabous alimentaires que leurs voisins ignoraient, prouvant que le tabou était un comportement biologique réel et pratiqué, non simplement un idéal littéraire.",
-        "es": "En un estudio de 2021 publicado en el *Journal of Archaeological Science*, investigadores usaron paleoproteómica (análisis de residuos de proteínas antiguas) en cerámica de la Edad del Hierro de las tierras altas de Judá. Encontraron fuerte evidencia de consumo de cerdo en sitios filisteos y cananeos, pero prácticamente cero proteínas de cerdo en sitios israelitas contemporáneos. Estos datos biomoleculares corroboran físicamente la afirmación bíblica de que los israelitas observaban activamente tabúes dietéticos que sus vecinos ignoraban, probando que el tabú era un comportamiento biológico real y practicado, no solo un ideal literario."
-      },
-      "s": "https://en.wikipedia.org/wiki/Philistines",
-      "u": "https://en.wikipedia.org/wiki/Philistines",
-      "date_sort": -1000,
-      "consensus_status": "probabilistic",
-      "source_tier": "popular"
     },
     {
       "layer": "archaeology",
@@ -7627,10 +7587,10 @@
         "es": "Taller de vasijas de piedra del Monte Scopus — evidencia de pureza a escala industrial"
       },
       "e": {
-        "en": "A cave workshop for stone vessels on Jerusalem's Mount Scopus provides physical industrial-scale evidence for purity practice in late Second Temple Judea; stone vessels do not contract ritual impurity under halakha, matching a documented 'outbreak of purity' practice (Tosefta Shabbos 1:7).",
-        "he": "בית מלאכה מערה לכלי אבן בהר הצופים בירושלים מספק עדות פיזית בקנה מידה תעשייתי לפרקטיקת הטהרה ביהודה של סוף בית שני; כלי אבן אינם מקבלים טומאה על פי ההלכה, בהתאמה לפרקטיקה מתועדת של 'פריצת טהרה' (תוספתא שבת א:ז).",
-        "fr": "Un atelier rupestre pour vases en pierre sur le Mont Scopus à Jérusalem fournit une preuve physique à l'échelle industrielle de la pratique de la pureté en Judée du Second Temple tardif; les vases en pierre ne contractent pas l'impureté rituelle selon la halakha, correspondant à une pratique documentée de « poussée de pureté » (Tosefta Chabbat 1:7).",
-        "es": "Un taller cavernícola para vasijas de piedra en el Monte Scopus de Jerusalén proporciona evidencia física a escala industrial de la práctica de pureza en la Judea del Segundo Templo tardío; las vasijas de piedra no contraen impureza ritual según la halajá, coincidiendo con una práctica documentada de 'brote de pureza' (Tosefta Shabat 1:7)."
+        "en": "A cave workshop for stone vessels on Jerusalem's Mount Scopus provides physical industrial-scale evidence for purity practice in late Second Temple Judea; stone vessels do not contract ritual impurity under halakha, matching a documented 'outbreak of purity' practice (Tosefta Shabbos 1:14; Talmud Shabbat 13b).",
+        "he": "בית מלאכה מערה לכלי אבן בהר הצופים בירושלים מספק עדות פיזית בקנה מידה תעשייתי לפרקטיקת הטהרה ביהודה של סוף בית שני; כלי אבן אינם מקבלים טומאה על פי ההלכה, בהתאמה לפרקטיקה מתועדת של 'פריצת טהרה' (תוספתא שבת א:יד; שבת יג ע\"ב).",
+        "fr": "Un atelier rupestre pour vases en pierre sur le Mont Scopus à Jérusalem fournit une preuve physique à l'échelle industrielle de la pratique de la pureté en Judée du Second Temple tardif; les vases en pierre ne contractent pas l'impureté rituelle selon la halakha, correspondant à une pratique documentée de « poussée de pureté » (Tosefta Chabbat 1:14 ; Talmud Chabbat 13b).",
+        "es": "Un taller cavernícola para vasijas de piedra en el Monte Scopus de Jerusalén proporciona evidencia física a escala industrial de la práctica de pureza en la Judea del Segundo Templo tardío; las vasijas de piedra no contraen impureza ritual según la halajá, coincidiendo con una práctica documentada de 'brote de pureza' (Tosefta Shabat 1:14; Talmud Shabat 13b)."
       },
       "u": "https://www.biblicalarchaeology.org/departments/second-temple-jerusalem/",
       "s": "Israel Antiquities Authority / Jerusalem Excavations",
@@ -10741,13 +10701,13 @@
         "es": "Las asas de jarras de Gabaón"
       },
       "e": {
-        "en": "Excavations at el-Jib (biblical Gibeon) in the 1950s-60s recovered numerous jar handles stamped with the Hebrew letters gb'n (\"Gibeon\"), some explicitly reading \"Gibeon wine.\" This confirms Gibeon as an established, wine-producing Israelite town in the biblical period, matching the geographical and economic details attached to it in the text (Joshua 9; 2 Samuel 2:12-24).",
-        "he": "חפירות באל-ג'יב (גבעון המקראית) בשנות ה-50 וה-60 של המאה ה-20 חשפו ידיות כדים רבות החתומות באותיות העבריות gb'n (\"גבעון\"), חלקן קוראות במפורש \"יין גבעון\". הממצא מאשר את גבעון כעיר ישראלית מבוססת ומייצרת יין בתקופה המקראית, בהתאמה לפרטים הגיאוגרפיים והכלכליים המיוחסים לה בטקסט (יהושע ט; שמואל ב ב, יב-כד).",
-        "fr": "Les fouilles à el-Jib (Gabaon biblique) dans les années 1950-60 ont mis au jour de nombreuses anses de jarres estampillées des lettres hébraïques gb'n (« Gabaon »), certaines portant explicitement l'inscription « vin de Gabaon ». Ceci confirme Gabaon comme ville israélite établie et productrice de vin à l'époque biblique, correspondant aux détails géographiques et économiques qui lui sont attachés dans le texte (Josué 9 ; 2 Samuel 2:12-24).",
-        "es": "Las excavaciones en el-Jib (Gabaón bíblica) en las décadas de 1950-60 recuperaron numerosas asas de jarras estampadas con las letras hebreas gb'n (\"Gabaón\"), algunas con la inscripción explícita \"vino de Gabaón\". Esto confirma a Gabaón como una ciudad israelita establecida y productora de vino en el período bíblico, coincidiendo con los detalles geográficos y económicos que el texto le atribuye (Josué 9; 2 Samuel 2:12-24)."
+        "en": "Excavations at el-Jib (biblical Gibeon) in the 1950s-60s recovered more than 60 jar handles inscribed with the Hebrew name gb'n (\"Gibeon\"), usually followed by gdr and a personal name such as Amaryahu; they are read as shipping labels for jars of wine, and the site also has large rock-cut wine cellars. This confirms Gibeon as an established, wine-producing Israelite town in the biblical period, matching the geographical and economic details attached to it in the text (Joshua 9; 2 Samuel 2:12-24).",
+        "he": "חפירות באל-ג'יב (גבעון המקראית) בשנות ה-50 וה-60 של המאה ה-20 חשפו למעלה מ-60 ידיות כדים שנחרת עליהן השם \"גבען\", לרוב יחד עם \"גדר\" ושם פרטי כמו אמריהו; הן מתפרשות כתוויות משלוח לכדי יין, ובאתר נמצאו גם מרתפי יין גדולים חצובים בסלע. הממצא מאשר את גבעון כעיר ישראלית מבוססת ומייצרת יין בתקופה המקראית, בהתאמה לפרטים הגיאוגרפיים והכלכליים המיוחסים לה בטקסט (יהושע ט; שמואל ב ב, יב-כד).",
+        "fr": "Les fouilles à el-Jib (Gabaon biblique) dans les années 1950-60 ont mis au jour plus de 60 anses de jarres portant, incisé, le nom hébreu gb'n (« Gabaon »), généralement suivi de gdr et d'un nom propre comme Amaryahou ; on y voit des étiquettes d'expédition pour des jarres de vin, et le site possède aussi de grandes caves à vin taillées dans le roc. Ceci confirme Gabaon comme ville israélite établie et productrice de vin à l'époque biblique, correspondant aux détails géographiques et économiques qui lui sont attachés dans le texte (Josué 9 ; 2 Samuel 2:12-24).",
+        "es": "Las excavaciones en el-Jib (Gabaón bíblica) en las décadas de 1950-60 recuperaron más de 60 asas de jarras con el nombre hebreo gb'n («Gabaón») inciso, por lo general seguido de gdr y un nombre propio como Amaryahu; se interpretan como etiquetas de envío de jarras de vino, y el sitio tiene además grandes bodegas talladas en la roca. Esto confirma a Gabaón como una ciudad israelita establecida y productora de vino en el período bíblico, coincidiendo con los detalles geográficos y económicos que el texto le atribuye (Josué 9; 2 Samuel 2:12-24)."
       },
       "s": "Pritchard, Hebrew Inscriptions and Stamps from Gibeon (1959)",
-      "u": "https://en.wikipedia.org/wiki/Gibeon_(ancient_city)",
+      "u": "https://en.wikipedia.org/wiki/Al_Jib_jar_handles",
       "consensus_status": "probabilistic",
       "source_tier": "popular"
     },
@@ -11368,11 +11328,12 @@
         "fr": "Le Papyrus Anastasi III, un texte administratif/scribal du Nouvel Empire, contient le toponyme pr-ḥwt-ḥrt, que les égyptologues (dont James Hoffmeier) identifient comme la source du Pi-Hahiroth biblique, aux côtés de références à un plan d'eau (« la mer ») et à Baal-Tsephon — les trois mêmes termes qui apparaissent ensemble dans Exode 14:2, décrivant où les Israélites campèrent avant de traverser la mer. La convergence de ces trois termes spécifiques, chacun lié à un plan d'eau dans le delta nord-est du Nil, au sein d'une seule source égyptienne indépendante, constitue une correspondance géographique notable. Cela ne confirme pas l'événement de l'Exode lui-même, mais cela montre que le groupe spécifique de noms de lieux d'Exode 14:2 correspond à un regroupement géographique réel et attesté dans des documents administratifs égyptiens de l'époque ramesside, plutôt qu'à un cadre inventé.",
         "es": "El Papiro Anastasi III, un texto administrativo/escriba del Reino Nuevo, contiene el topónimo pr-ḥwt-ḥrt, que los egiptólogos (incluido James Hoffmeier) identifican como la fuente del Pi-Hahirot bíblico, junto con referencias a un cuerpo de agua ('el mar') y a Baal-Zefón — los mismos tres términos que aparecen juntos en Éxodo 14:2, describiendo dónde acamparon los israelitas antes de cruzar el mar. La convergencia de estos tres términos específicos, cada uno vinculado a un cuerpo de agua en el delta nororiental del Nilo, dentro de una única fuente egipcia independiente, es una correspondencia geográfica notable. Esto no confirma el evento del Éxodo en sí, pero sí muestra que el grupo específico de topónimos de Éxodo 14:2 corresponde a una agrupación geográfica real y atestiguada en documentos administrativos egipcios de la era ramésida, y no a un escenario inventado."
       },
-      "s": "Clements, R. E. (Ronald Ernest); Exodus; Cambridge [Eng.] Cambridge University Press",
-      "u": "http://archive.org/details/exodus00ntar",
+      "s": "J. K. Hoffmeier, Ancient Israel in Sinai (Oxford, 2005); Papyrus Anastasi III",
+      "u": "https://en.wikipedia.org/wiki/Pi-HaHiroth",
       "date_sort": -1250,
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "review_caveat": "The equation of pr-ḥwt-ḥrt with Pi-Hahiroth is one scholarly proposal, not a consensus; the papyrus dates to the reign of Merneptah."
     },
     {
       "layer": "coherence",
@@ -12138,10 +12099,10 @@
         "es": "Las improntas 'Yehud' de Ramat Rachel — infraestructura administrativa del período persa"
       },
       "e": {
-        "en": "Excavations at Ramat Rachel, just south of Jerusalem, have recovered roughly 85% of all known Persian-period 'Yehud' stamp impressions (seal impressions on storage-jar handles marking the province of Judah) found anywhere in the region — around 280 of the roughly 330 documented examples. The comprehensive study by Oded Lipschits and David Vanderhooft identified specific named provincial officials among the impressions, including previously unknown governors Jehoezer and Ahiyab. This concentration establishes Ramat Rachel as the central administrative hub of Persian-period Yehud, providing physical, non-textual confirmation of exactly the kind of functioning provincial governance structure — with named governors administering taxation and produce under Persian authority — that the books of Ezra and Nehemiah describe for this same period.",
-        "he": "חפירות ברמת רחל, ממש דרומית לירושלים, שיחזרו כ-85% מכלל חותמות \"יהוד\" הידועות מהתקופה הפרסית (חותמות על ידיות כדי אחסון המציינות את פחוות יהודה) שנמצאו בכל האזור — כ-280 מתוך כ-330 דוגמאות מתועדות. המחקר המקיף של עודד ליפשיץ ודיוויד ואנדרהופט זיהה פקידים פרובינציאליים ספציפיים בעלי שם בין החותמות, ובהם המושלים יהועזר ואחיאב שלא היו ידועים בעבר. ריכוז זה מבסס את רמת רחל כמרכז המנהלי המרכזי של יהוד בתקופה הפרסית, ומספק אישוש פיזי, לא-טקסטואלי, בדיוק לסוג מבנה הממשל הפרובינציאלי הפעיל — עם מושלים בעלי שם המנהלים מיסוי ותוצרת תחת סמכות פרסית — שספרי עזרא ונחמיה מתארים לתקופה זו עצמה.",
-        "fr": "Les fouilles à Ramat Rachel, juste au sud de Jérusalem, ont mis au jour environ 85 % de toutes les empreintes de sceaux « Yehud » connues de la période perse (empreintes sur des anses de jarres de stockage marquant la province de Juda) trouvées dans toute la région — environ 280 des quelque 330 exemples documentés. L'étude exhaustive d'Oded Lipschits et David Vanderhooft a identifié des fonctionnaires provinciaux nommément désignés parmi ces empreintes, dont les gouverneurs jusque-là inconnus Jehoezer et Ahiyab. Cette concentration établit Ramat Rachel comme le centre administratif principal de Yehud à l'époque perse, fournissant une confirmation physique, non textuelle, exactement du type de structure de gouvernance provinciale fonctionnelle — avec des gouverneurs nommés administrant la fiscalité et la production sous l'autorité perse — que les livres d'Esdras et de Néhémie décrivent pour cette même période.",
-        "es": "Las excavaciones en Ramat Rachel, justo al sur de Jerusalén, han recuperado aproximadamente el 85% de todas las improntas de sello 'Yehud' conocidas del período persa (impresiones en asas de tinajas de almacenamiento que marcan la provincia de Judá) halladas en toda la región — unas 280 de los aproximadamente 330 ejemplares documentados. El estudio exhaustivo de Oded Lipschits y David Vanderhooft identificó funcionarios provinciales específicos nombrados entre las improntas, incluidos los gobernadores previamente desconocidos Jehoezer y Ahiyab. Esta concentración establece a Ramat Rachel como el centro administrativo principal de Yehud en el período persa, proporcionando una confirmación física, no textual, exactamente del tipo de estructura de gobernanza provincial en funcionamiento — con gobernadores nombrados que administraban impuestos y producción bajo autoridad persa — que los libros de Esdras y Nehemías describen para este mismo período."
+        "en": "Excavations at Ramat Rachel, just south of Jerusalem, have recovered more than half of all known 'Yehud' stamp impressions (seal impressions on storage-jar handles marking the province of Judah) — 307 of the 582 catalogued in the 2011 corpus. The comprehensive study by Oded Lipschits and David Vanderhooft catalogues them; some impressions name an official with the title 'governor' (pḥw'), such as Yehoezer. This concentration establishes Ramat Rachel as the central administrative hub of Persian-period Yehud, providing physical, non-textual confirmation of exactly the kind of functioning provincial governance structure — with named governors administering taxation and produce under Persian authority — that the books of Ezra and Nehemiah describe for this same period.",
+        "he": "חפירות ברמת רחל, ממש דרומית לירושלים, העלו יותר ממחצית כל טביעות החותם \"יהוד\" הידועות (חותמות על ידיות כדי אחסון המציינות את פחוות יהודה) — 307 מתוך 582 שנכללו בקורפוס של 2011. המחקר המקיף של עודד ליפשיץ ודיוויד ואנדרהופט מקטלג אותן; חלק מהטביעות נוקבות בשם פקיד בתואר \"פחוא\" (מושל), כמו יהועזר. ריכוז זה מבסס את רמת רחל כמרכז המנהלי המרכזי של יהוד בתקופה הפרסית, ומספק אישוש פיזי, לא-טקסטואלי, בדיוק לסוג מבנה הממשל הפרובינציאלי הפעיל — עם מושלים בעלי שם המנהלים מיסוי ותוצרת תחת סמכות פרסית — שספרי עזרא ונחמיה מתארים לתקופה זו עצמה.",
+        "fr": "Les fouilles à Ramat Rachel, juste au sud de Jérusalem, ont livré plus de la moitié de toutes les empreintes « Yehud » connues (empreintes sur des anses de jarres de stockage marquant la province de Juda) — 307 des 582 recensées dans le corpus de 2011. L'étude exhaustive d'Oded Lipschits et David Vanderhooft les répertorie ; certaines empreintes nomment un fonctionnaire portant le titre de « gouverneur » (pḥw'), comme Yehoézer. Cette concentration établit Ramat Rachel comme le centre administratif principal de Yehud à l'époque perse, fournissant une confirmation physique, non textuelle, exactement du type de structure de gouvernance provinciale fonctionnelle — avec des gouverneurs nommés administrant la fiscalité et la production sous l'autorité perse — que les livres d'Esdras et de Néhémie décrivent pour cette même période.",
+        "es": "Las excavaciones en Ramat Rachel, justo al sur de Jerusalén, han recuperado más de la mitad de todas las improntas 'Yehud' conocidas (impresiones en asas de tinajas de almacenamiento que marcan la provincia de Judá) — 307 de las 582 catalogadas en el corpus de 2011. El estudio exhaustivo de Oded Lipschits y David Vanderhooft las cataloga; algunas improntas nombran a un funcionario con el título de «gobernador» (pḥw'), como Yehoezer. Esta concentración establece a Ramat Rachel como el centro administrativo principal de Yehud en el período persa, proporcionando una confirmación física, no textual, exactamente del tipo de estructura de gobernanza provincial en funcionamiento — con gobernadores nombrados que administraban impuestos y producción bajo autoridad persa — que los libros de Esdras y Nehemías describen para este mismo período."
       },
       "s": "Lipschits, O. & Vanderhooft, D., The Yehud Stamp Impressions (Eisenbrauns, 2011)",
       "u": "https://en.wikipedia.org/wiki/Ramat_Rachel",
