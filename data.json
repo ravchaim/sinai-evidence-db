@@ -9652,6 +9652,75 @@
         "jerusalem"
       ],
       "review_caveat": "So far the find has been announced in the press; a full scholarly publication has not yet appeared. It shows how the Torah's laws were practiced in the Second Temple period, not when they originated."
+    },
+    {
+      "layer": "archaeology",
+      "t": {
+        "en": "The Samaria Ivories — Ahab's \"House of Ivory\" and Amos's \"Beds of Ivory\"",
+        "he": "שנהבי שומרון — \"בית השן\" של אחאב ו\"מטות שן\" של עמוס",
+        "fr": "Les ivoires de Samarie — la « maison d'ivoire » d'Achab et les « lits d'ivoire » d'Amos",
+        "es": "Los marfiles de Samaria — la \"casa de marfil\" de Acab y las \"camas de marfil\" de Amós"
+      },
+      "e": {
+        "en": "Excavations of the royal palace at Samaria, capital of the northern Kingdom of Israel, uncovered some 500 fragments of carved ivory — furniture inlays showing animals, plants, sphinxes and other motifs in a Phoenician-influenced style. Most were found by the Joint Expedition under J. W. Crowfoot (1931–35) and published in Early Ivories from Samaria (1938); some are displayed today in the Israel Museum. Two passages in Tanach describe exactly this kind of luxury at Samaria. 1. Melachim I 22:39 records among Ahab's deeds \"the house of ivory that he built.\" 2. A century later the prophet Amos condemns the wealthy of Samaria who \"lie upon beds of ivory\" (Amos 6:4) and warns that \"the houses of ivory shall perish\" (Amos 3:15). The palace ivories give physical form to both descriptions.",
+        "he": "החפירות בארמון המלוכה בשומרון, בירת ממלכת ישראל, חשפו כחמש מאות שברים של שנהב מגולף — שיבוצי רהיטים המציגים בעלי חיים, צמחים, ספינקסים ומוטיבים אחרים בסגנון בהשפעה פיניקית. רובם נמצאו במשלחת המשותפת בראשות ג\"ו קראופוט (1931–35) ופורסמו בספר Early Ivories from Samaria (1938); חלקם מוצגים היום במוזיאון ישראל. שני מקראות מתארים בדיוק מותרות מסוג זה בשומרון. 1. מלכים א כב:לט מונה בין מעשי אחאב את \"בית השן אשר בנה\". 2. כמאה שנה אחר כך מוכיח עמוס הנביא את עשירי שומרון ה\"שוכבים על מטות שן\" (עמוס ו:ד) ומזהיר ש\"אבדו בתי השן\" (עמוס ג:טו). שנהבי הארמון נותנים צורה מוחשית לשני התיאורים.",
+        "fr": "Les fouilles du palais royal de Samarie, capitale du royaume d'Israël du Nord, ont mis au jour quelque 500 fragments d'ivoire sculpté — des incrustations de meubles représentant des animaux, des plantes, des sphinx et d'autres motifs dans un style d'influence phénicienne. La plupart furent trouvés par l'expédition conjointe dirigée par J. W. Crowfoot (1931-1935) et publiés dans Early Ivories from Samaria (1938) ; certains sont exposés aujourd'hui au Musée d'Israël. Deux passages du Tanakh décrivent précisément ce genre de luxe à Samarie. 1. 1 Rois 22:39 mentionne parmi les actes d'Achab « la maison d'ivoire qu'il bâtit ». 2. Un siècle plus tard, le prophète Amos condamne les riches de Samarie « couchés sur des lits d'ivoire » (Amos 6:4) et avertit que « les maisons d'ivoire périront » (Amos 3:15). Les ivoires du palais donnent une forme matérielle aux deux descriptions.",
+        "es": "Las excavaciones del palacio real de Samaria, capital del reino de Israel del norte, sacaron a la luz unos 500 fragmentos de marfil tallado — incrustaciones de muebles con animales, plantas, esfinges y otros motivos en un estilo de influencia fenicia. La mayoría fueron hallados por la Expedición Conjunta dirigida por J. W. Crowfoot (1931-1935) y publicados en Early Ivories from Samaria (1938); algunos se exhiben hoy en el Museo de Israel. Dos pasajes del Tanaj describen precisamente este tipo de lujo en Samaria. 1. 1 Reyes 22:39 menciona entre los hechos de Acab \"la casa de marfil que construyó\". 2. Un siglo después, el profeta Amós condena a los ricos de Samaria que \"duermen en camas de marfil\" (Amós 6:4) y advierte que \"las casas de marfil perecerán\" (Amós 3:15). Los marfiles del palacio dan forma material a ambas descripciones."
+      },
+      "s": "J. W. Crowfoot & G. M. Crowfoot, Early Ivories from Samaria (Samaria-Sebaste II, 1938); 1 Kings 22:39; Amos 3:15, 6:4; Israel Museum, Jerusalem",
+      "u": "https://en.wikipedia.org/wiki/Samaria_(ancient_city)",
+      "date_sort": -850,
+      "consensus_status": "probabilistic",
+      "source_tier": "primary",
+      "places": [
+        "shomron"
+      ],
+      "review_caveat": "The ivories are dated to the 9th or 8th century BCE — scholars debate whether they belong to Ahab's reign or to the later monarchy of Amos's day; either way they match the luxury both passages describe at Samaria."
+    },
+    {
+      "layer": "archaeology",
+      "t": {
+        "en": "The Seal of \"Shema, Servant of Jeroboam\" from Megiddo (2 Kings 14:23–29)",
+        "he": "חותם \"שמע עבד ירבעם\" ממגידו (מלכים ב יד:כג–כט)",
+        "fr": "Le sceau de « Shema, serviteur de Jéroboam » de Megiddo (2 Rois 14:23-29)",
+        "es": "El sello de \"Shemá, siervo de Jeroboam\" de Meguido (2 Reyes 14:23-29)"
+      },
+      "e": {
+        "en": "In 1904, during Gottlieb Schumacher's excavations at Megiddo, a large jasper seal was found bearing a roaring lion and the Paleo-Hebrew inscription \"Belonging to Shema, servant of Jeroboam\" (לשמע עבד ירבעם). \"Servant of the king\" is a title of a royal official, and the seal is generally attributed to the reign of Jeroboam II, who ruled the northern kingdom in the 8th century BCE (2 Kings 14:23–29). The original was sent to the Ottoman sultan in Istanbul and has been lost, but a bronze cast made before it left survives and is displayed in the Israel Museum. It is one of the earliest finds naming a king of Israel known from Tanach, and unlike many seals it comes from a recorded excavation.",
+        "he": "ב־1904, בחפירותיו של גוטליב שומכר במגידו, נמצא חותם גדול מאבן ישפה ועליו אריה שואג והכתובת בכתב עברי קדום \"לשמע עבד ירבעם\". \"עבד המלך\" הוא תוארו של פקיד מלכותי, והחותם מיוחס בדרך כלל לימי ירבעם השני, שמלך בממלכת ישראל במאה ה־8 לפנה\"ס (מלכים ב יד:כג–כט). המקור נשלח אל הסולטן העות'מאני באיסטנבול ואבד, אך יציקת ארד שנעשתה לפני שליחתו השתמרה ומוצגת במוזיאון ישראל. זהו מן הממצאים הקדומים ביותר הנוקבים בשם מלך ישראל הידוע מן התנ\"ך, ובשונה מחותמות רבים הוא בא מחפירה מתועדת.",
+        "fr": "En 1904, lors des fouilles de Gottlieb Schumacher à Megiddo, on trouva un grand sceau de jaspe portant un lion rugissant et l'inscription paléo-hébraïque « Appartenant à Shema, serviteur de Jéroboam » (לשמע עבד ירבעם). « Serviteur du roi » est le titre d'un haut fonctionnaire royal, et le sceau est généralement attribué au règne de Jéroboam II, qui régna sur le royaume du Nord au VIIIe siècle av. J.-C. (2 Rois 14:23-29). L'original fut envoyé au sultan ottoman à Istanbul et a été perdu, mais un moulage en bronze réalisé avant son départ subsiste et est exposé au Musée d'Israël. C'est l'une des plus anciennes trouvailles nommant un roi d'Israël connu du Tanakh et, contrairement à de nombreux sceaux, elle provient d'une fouille documentée.",
+        "es": "En 1904, durante las excavaciones de Gottlieb Schumacher en Meguido, se halló un gran sello de jaspe con un león rugiente y la inscripción paleohebrea \"Perteneciente a Shemá, siervo de Jeroboam\" (לשמע עבד ירבעם). \"Siervo del rey\" es el título de un alto funcionario real, y el sello se atribuye generalmente al reinado de Jeroboam II, que gobernó el reino del norte en el siglo VIII a.C. (2 Reyes 14:23-29). El original fue enviado al sultán otomano en Estambul y se perdió, pero se conserva un molde de bronce hecho antes de su envío, expuesto en el Museo de Israel. Es uno de los hallazgos más antiguos que nombran a un rey de Israel conocido por el Tanaj y, a diferencia de muchos sellos, procede de una excavación documentada."
+      },
+      "s": "G. Schumacher, Tell el-Mutesellim I (1908); N. Avigad & B. Sass, Corpus of West Semitic Stamp Seals (1997), no. 2; 2 Kings 14:23–29; Israel Museum, Jerusalem (bronze cast)",
+      "u": "https://en.wikipedia.org/wiki/Shema_seal",
+      "date_sort": -780,
+      "consensus_status": "probabilistic",
+      "source_tier": "primary",
+      "places": [
+        "megiddo"
+      ],
+      "review_caveat": "The seal was recovered from Schumacher's excavation dump rather than a sealed layer, and the original is lost; most scholars assign it to Jeroboam II, while a minority have argued for Jeroboam I. A clay bulla with the same text that later appeared on the antiquities market has been shown to be a forgery; it is a different object from this seal."
+    },
+    {
+      "layer": "archaeology",
+      "t": {
+        "en": "Seals of Two Ministers of King Uzziah — \"Abiyahu\" and \"Shebanyahu, Servant of Uzziah\"",
+        "he": "חותמותיהם של שני שרי המלך עוזיהו — \"אביו\" ו\"שבניו עבד עזיו\"",
+        "fr": "Les sceaux de deux ministres du roi Ozias — « Abiyahu » et « Shebanyahu, serviteur d'Ozias »",
+        "es": "Los sellos de dos ministros del rey Uzías — \"Abiyahu\" y \"Shebanyahu, siervo de Uzías\""
+      },
+      "e": {
+        "en": "Two decorated stone seals of the 8th century BCE carry the name of King Uzziah of Judah (2 Kings 15:1–7; 2 Chronicles 26), written in its long form ʻUzziyahu. 1. The first reads \"Belonging to Abiyahu, servant of Uzziyahu\" (לאביו עבד עזיו). 2. The second reads \"Belonging to Shebanyahu, servant of Uzziyahu\" (לשבניו עבד עזיו). \"Servant of\" a king is the title of a senior royal official. Both seals entered collections in the 19th century, the first reported in 1858 and the second in 1863, before the main era of forged Hebrew seals, and scholars such as Lawrence Mykytiuk regard them as authentic. They are the earliest objects naming Uzziah, some seven centuries older than the Second Temple-era plaque that marked his reburial.",
+        "he": "שני חותמות אבן מעוטרים מן המאה ה־8 לפנה\"ס נושאים את שמו של עוזיהו מלך יהודה (מלכים ב טו:א–ז; דברי הימים ב כו) בצורתו המלאה, עזיו. 1. הראשון: \"לאביו עבד עזיו\". 2. השני: \"לשבניו עבד עזיו\". \"עבד\" המלך הוא תוארו של שר בכיר בחצר. שני החותמות הגיעו לאוספים במאה ה־19, הראשון ב־1858 והשני ב־1863, לפני התקופה העיקרית של זיופי חותמות עבריים, וחוקרים כמו לורנס מיקיטיוק רואים בהם אותנטיים. הם הממצאים הקדומים ביותר הנוקבים בשם עוזיהו, עתיקים בכשבע מאות שנה מלוח הקבורה מימי בית שני שציין את קבורתו מחדש.",
+        "fr": "Deux sceaux de pierre décorés du VIIIe siècle av. J.-C. portent le nom du roi Ozias de Juda (2 Rois 15:1-7 ; 2 Chroniques 26), écrit sous sa forme longue ʻOuzziyahou. 1. Le premier porte « Appartenant à Abiyahu, serviteur d'Ouzziyahou » (לאביו עבד עזיו). 2. Le second porte « Appartenant à Shebanyahu, serviteur d'Ouzziyahou » (לשבניו עבד עזיו). « Serviteur » d'un roi est le titre d'un haut fonctionnaire royal. Les deux sceaux sont entrés dans des collections au XIXe siècle, le premier signalé en 1858 et le second en 1863, avant la grande époque des faux sceaux hébreux, et des savants comme Lawrence Mykytiuk les tiennent pour authentiques. Ce sont les plus anciens objets nommant Ozias, antérieurs d'environ sept siècles à la plaque de l'époque du Second Temple qui marqua sa réinhumation.",
+        "es": "Dos sellos de piedra decorados del siglo VIII a.C. llevan el nombre del rey Uzías de Judá (2 Reyes 15:1-7; 2 Crónicas 26), escrito en su forma larga ʻUziyahu. 1. El primero dice \"Perteneciente a Abiyahu, siervo de Uziyahu\" (לאביו עבד עזיו). 2. El segundo dice \"Perteneciente a Shebanyahu, siervo de Uziyahu\" (לשבניו עבד עזיו). \"Siervo\" de un rey es el título de un alto funcionario real. Ambos sellos entraron en colecciones en el siglo XIX, el primero registrado en 1858 y el segundo en 1863, antes de la época principal de los sellos hebreos falsificados, y estudiosos como Lawrence Mykytiuk los consideran auténticos. Son los objetos más antiguos que nombran a Uzías, unos siete siglos anteriores a la placa de la época del Segundo Templo que marcó su nuevo entierro."
+      },
+      "s": "N. Avigad & B. Sass, Corpus of West Semitic Stamp Seals (1997), nos. 3–4; L. J. Mykytiuk, Identifying Biblical Persons in Northwest Semitic Inscriptions of 1200–539 B.C.E. (2004); 2 Kings 15:1–7; 2 Chronicles 26",
+      "u": "https://en.wikipedia.org/wiki/Uzziah#Archaeology",
+      "date_sort": -760,
+      "consensus_status": "probabilistic",
+      "source_tier": "primary",
+      "review_caveat": "Both seals are unprovenanced: they were acquired, not excavated, so their findspots are unknown. Their appearance in the mid-19th century predates the main era of forged Hebrew seals, which is one reason scholars accept them; authenticity is a judgment, not a certainty."
     }
   ]
 }
