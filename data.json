@@ -9604,6 +9604,54 @@
       "u": "https://biblische-notizen.digitheo.de/ojs/index.php/bn/article/download/97662/97494/97698",
       "consensus_status": "probabilistic",
       "source_tier": "primary"
+    },
+    {
+      "layer": "linguistics",
+      "t": {
+        "en": "The Root Š-L-Ṭ (\"to Rule\") in a 12th-Century BCE Lachish Inscription — Joseph \"HaShalit\" (Bereishis 42:6)",
+        "he": "השורש של\"ט בכתובת מלכיש מהמאה ה־12 לפנה\"ס — \"ויוסף הוא השליט\" (בראשית מב:ו)",
+        "fr": "La racine š-l-ṭ (« gouverner ») dans une inscription de Lakhish du XIIe siècle av. J.-C. — Joseph « hachalit » (Genèse 42:6)",
+        "es": "La raíz š-l-ṭ (\"gobernar\") en una inscripción de Laquis del siglo XII a.C. — José \"hashalit\" (Génesis 42:6)"
+      },
+      "e": {
+        "en": "A jar fragment from the last Late Bronze Age settlement at Lachish (12th century BCE), found in the 2025 season, carries six partly preserved letters in red ink that the excavators read as the personal name Bʻlšlṭ, \"Baal rules\" (Vainstub et al., Jerusalem Journal of Archaeology 9, 2026). The name is built on the root š-l-ṭ, \"to rule.\" In Tanach this root appears mainly in late books such as Esther, Nechemiah and Koheles, and it has widely been treated as an Aramaic loanword of the Persian period. That view has been used to argue that the Torah's statement \"and Joseph was the ruler (הַשַּׁלִּיט) over the land\" (Bereishis 42:6) must be late. The authors discuss this verse directly: their inscription shows the root in a Canaanite name centuries before the Persian period, and they note, following Wenham, that the root also occurs in Old Assyrian, so it is common Semitic rather than a late borrowing from Aramaic.",
+        "he": "שבר כד מן היישוב האחרון של תקופת הברונזה המאוחרת בלכיש (המאה ה־12 לפנה\"ס), שנמצא בעונת 2025, נושא שש אותיות שהשתמרו בחלקן בדיו אדומה, שהחופרים קוראים כשם הפרטי \"בעלשלט\" — \"הבעל שולט\" (ויינשטוב ואחרים, Jerusalem Journal of Archaeology 9, 2026). השם בנוי על השורש של\"ט, \"למשול\". בתנ\"ך שורש זה מופיע בעיקר בספרים מאוחרים כמו אסתר, נחמיה וקהלת, והוא נחשב בדרך כלל למילה שאולה מארמית מתקופת שלטון פרס. עמדה זו שימשה לטענה שהפסוק \"ויוסף הוא השליט על הארץ\" (בראשית מב:ו) מאוחר בהכרח. המחברים דנים בפסוק זה במפורש: הכתובת שלהם מראה את השורש בשם כנעני מאות שנים לפני התקופה הפרסית, והם מציינים, בעקבות ונהם, שהשורש מופיע גם באשורית העתיקה, ולכן הוא שמי משותף ולא שאילה מאוחרת מארמית.",
+        "fr": "Un fragment de jarre provenant du dernier établissement du Bronze récent à Lakhish (XIIe siècle av. J.-C.), trouvé lors de la saison 2025, porte six lettres partiellement conservées à l'encre rouge, que les fouilleurs lisent comme le nom propre Bʻlšlṭ, « Baal règne » (Vainstub et al., Jerusalem Journal of Archaeology 9, 2026). Le nom est formé sur la racine š-l-ṭ, « gouverner ». Dans le Tanakh, cette racine apparaît surtout dans des livres tardifs comme Esther, Néhémie et l'Ecclésiaste, et elle a largement été considérée comme un emprunt araméen de l'époque perse. Cette opinion a servi à soutenir que la phrase de la Torah « Joseph était le gouverneur (הַשַּׁלִּיט) du pays » (Genèse 42:6) serait forcément tardive. Les auteurs discutent directement ce verset : leur inscription montre la racine dans un nom cananéen des siècles avant l'époque perse, et ils notent, à la suite de Wenham, que la racine existe aussi en vieil assyrien ; elle est donc sémitique commune, et non un emprunt tardif à l'araméen.",
+        "es": "Un fragmento de jarra del último asentamiento del Bronce Tardío en Laquis (siglo XII a.C.), hallado en la temporada de 2025, lleva seis letras parcialmente conservadas en tinta roja que los excavadores leen como el nombre propio Bʻlšlṭ, \"Baal gobierna\" (Vainstub et al., Jerusalem Journal of Archaeology 9, 2026). El nombre se basa en la raíz š-l-ṭ, \"gobernar\". En el Tanaj esta raíz aparece sobre todo en libros tardíos como Ester, Nehemías y Eclesiastés, y se ha considerado en general un préstamo arameo de la época persa. Esa opinión se ha usado para sostener que la frase de la Torá \"y José era el gobernante (הַשַּׁלִּיט) sobre la tierra\" (Génesis 42:6) tiene que ser tardía. Los autores discuten este versículo directamente: su inscripción muestra la raíz en un nombre cananeo siglos antes de la época persa, y señalan, siguiendo a Wenham, que la raíz también aparece en asirio antiguo, por lo que es semítica común y no un préstamo tardío del arameo."
+      },
+      "s": "D. Vainstub, I. Weissbein, H.-G. Kang, S. Halevi & Y. Garfinkel, \"A Late Bronze Age Canaanite Jar Inscription from the 2025 Excavation Season at Lachish,\" Jerusalem Journal of Archaeology 9 (2026): 14–30, doi:10.52486/01.00009.2; Genesis 42:6",
+      "u": "https://jjar.huji.ac.il/sites/default/files/jjar/files/jjar09_02_lachish.pdf",
+      "date_sort": -1150,
+      "consensus_status": "probabilistic",
+      "source_tier": "primary",
+      "places": [
+        "lachish"
+      ],
+      "review_caveat": "The reading rests on six half-preserved letters, and the authors themselves caution that definitive conclusions cannot be drawn from them. The find removes one argument for a late date of Bereishis 42:6; it does not by itself date the Joseph narrative."
+    },
+    {
+      "layer": "archaeology",
+      "t": {
+        "en": "The Ophel Mikvaot — A Public Purification Complex for Festival Pilgrims at the Temple's Southern Gates",
+        "he": "המקוואות בעופל — מתחם טהרה ציבורי לעולי הרגל בשערי המקדש הדרומיים",
+        "fr": "Les mikvaot de l'Ophel — un complexe public de purification pour les pèlerins des fêtes aux portes sud du Temple",
+        "es": "Las mikvaot del Ofel — un complejo público de purificación para los peregrinos de las fiestas junto a las puertas sur del Templo"
+      },
+      "e": {
+        "en": "In September 2026 the Hebrew University's Ophel excavation, directed by Uzi Leibner and Orit Peleg-Barkat, announced a complex of three large public mikvaot built around 10 CE, about 50 meters from the southern entrance to the Temple Mount. Built of ashlar, with a drainage system running down to the Kidron Valley and one pool still preserved up to its vaulted ceiling 4.2 meters above the floor, it was designed for crowds: one staircase has a low divider separating those going down to immerse from those coming up. The excavators connect it with the thousands of pilgrims who came for Pesach, Shavuos and Sukkos and had to enter the Temple in a state of purity. The complex is physical evidence of two Torah commands being kept on a mass scale in the late Second Temple period. 1. Devarim 16:16 requires every male to appear before HASHEM three times a year. 2. Vayikra 15:31 and Bamidbar 19:20 forbid entering the sanctuary while impure.",
+        "he": "בספטמבר 2026 הודיעה חפירת העופל של האוניברסיטה העברית, בניהול עוזי ליבנר ואורית פלג־ברקת, על מתחם של שלושה מקוואות ציבוריים גדולים שנבנו בערך בשנת 10 לספירה, כחמישים מטר מן הכניסה הדרומית להר הבית. המתחם בנוי אבני גזית, ובו מערכת ניקוז היורדת עד נחל קדרון, ובריכה אחת השתמרה עד תקרתה המקומרת, 4.2 מטר מעל הרצפה. הוא תוכנן לקהל רב: באחד מגרמי המדרגות יש מחיצה נמוכה המפרידה בין היורדים לטבול לבין העולים. החופרים מקשרים אותו לאלפי עולי הרגל שבאו בפסח, בשבועות ובסוכות והיו צריכים להיכנס למקדש בטהרה. המתחם הוא עדות פיזית לכך ששתי מצוות תורה קוימו בהמוניהם בשלהי ימי בית שני. 1. דברים טז:טז מחייב כל זכר להיראות לפני ה' שלוש פעמים בשנה. 2. ויקרא טו:לא ובמדבר יט:כ אוסרים להיכנס למקדש בטומאה.",
+        "fr": "En septembre 2026, la fouille de l'Ophel de l'Université hébraïque, dirigée par Uzi Leibner et Orit Peleg-Barkat, a annoncé un complexe de trois grands mikvaot publics construits vers 10 de notre ère, à une cinquantaine de mètres de l'entrée sud du mont du Temple. Bâti en pierres de taille, avec un système de drainage descendant jusqu'à la vallée du Cédron et un bassin conservé jusqu'à sa voûte, à 4,2 mètres au-dessus du sol, il était conçu pour les foules : l'un des escaliers comporte une cloison basse séparant ceux qui descendaient s'immerger de ceux qui remontaient. Les fouilleurs le rattachent aux milliers de pèlerins venus pour Pessah, Chavouot et Souccot, qui devaient entrer au Temple en état de pureté. Le complexe est une preuve matérielle que deux commandements de la Torah étaient observés en masse à la fin de l'époque du Second Temple. 1. Deutéronome 16:16 exige que chaque homme se présente devant Hachem trois fois par an. 2. Lévitique 15:31 et Nombres 19:20 interdisent d'entrer dans le sanctuaire en état d'impureté.",
+        "es": "En septiembre de 2026 la excavación del Ofel de la Universidad Hebrea, dirigida por Uzi Leibner y Orit Peleg-Barkat, anunció un complejo de tres grandes mikvaot públicas construidas hacia el año 10 d.C., a unos cincuenta metros de la entrada sur del Monte del Templo. Construido en sillería, con un sistema de drenaje que baja hasta el valle del Cedrón y una piscina conservada hasta su techo abovedado, a 4,2 metros sobre el suelo, estaba diseñado para multitudes: una de las escaleras tiene un divisor bajo que separaba a quienes bajaban a sumergirse de quienes subían. Los excavadores lo relacionan con los miles de peregrinos que acudían en Pésaj, Shavuot y Sucot y debían entrar al Templo en estado de pureza. El complejo es una prueba física de que dos mandamientos de la Torá se cumplían masivamente a finales de la época del Segundo Templo. 1. Deuteronomio 16:16 exige que todo varón se presente ante Hashem tres veces al año. 2. Levítico 15:31 y Números 19:20 prohíben entrar en el santuario en estado de impureza."
+      },
+      "s": "Hebrew University of Jerusalem, Ophel excavation (U. Leibner & O. Peleg-Barkat), announced September 2026; Z. Stub, \"Ancient public mikveh complex, used for festival pilgrimage, uncovered at foot of Temple Mount,\" The Times of Israel, 24 September 2026; Deuteronomy 16:16; Leviticus 15:31; Numbers 19:20",
+      "u": "https://www.timesofisrael.com/ancient-public-mikveh-complex-used-for-festival-pilgrimage-uncovered-at-foot-of-temple-mount/",
+      "date_sort": 10,
+      "consensus_status": "probabilistic",
+      "source_tier": "secondary",
+      "places": [
+        "jerusalem"
+      ],
+      "review_caveat": "So far the find has been announced in the press; a full scholarly publication has not yet appeared. It shows how the Torah's laws were practiced in the Second Temple period, not when they originated."
     }
   ]
 }
