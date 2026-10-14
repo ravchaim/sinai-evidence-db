@@ -5094,7 +5094,8 @@
       "u": "https://www.timesofisrael.com/tiny-2600-year-old-clay-sealing-inscribed-with-biblical-name-found-in-temple-mount-soil/",
       "date_sort": -620,
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "review_caveat": "The \"highly plausible\" identification is the Temple Mount Sifting Project's own assessment. The Biblical Archaeology Society's coverage is more cautious: it cannot be proven that the bulla's Asayahu is the Asaiah of 2 Kings 22:12, though the find does show the name was in use in Judah's administration in the right period. The bulla also comes from sifted Temple Mount soil, so it has no stratified find context."
     },
     {
       "layer": "archaeology",
