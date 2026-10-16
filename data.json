@@ -3641,12 +3641,12 @@
         "es": "La inscripción de Siloé"
       },
       "e": {
-        "en": "Carved into Hezekiah's tunnel in Jerusalem (2 Kings 20:20; 2 Chr. 32:30), dated epigraphically to c. 701 BCE, it describes the moment two digging teams met in the middle — matching the biblical account with remarkable specificity. The tunnel itself (533 meters, height variation of only 30 cm) is an extraordinary engineering achievement confirming the biblical narrative of Jerusalem's water preparations under Assyrian siege.",
-        "he": "חקוקה במנהרת חזקיהו בירושלים (מלכים ב כ:כ; דברי הימים ב לב:ל), מתוארכת אפיגרפית לכ-701 לפנה\"ס, היא מתארת את הרגע שבו שני צוותי חפירה נפגשו באמצע — תואמת את התיאור המקראי בספציפיות מרשימה. המנהרה עצמה (533 מטרים, שינוי גובה של 30 ס\"מ בלבד) היא הישג הנדסי יוצא דופן המאשר את הנרטיב המקראי של הכנות המים של ירושלים תחת מצור אשורי.",
-        "fr": "Gravée dans le tunnel d'Ézéchias à Jérusalem (2 Rois 20:20 ; 2 Chr. 32:30), datée épigraphiquement de v. 701 av. J.-C., elle décrit le moment où deux équipes de creusement se sont rencontrées au milieu — correspondant au récit biblique avec une spécificité remarquable. Le tunnel lui-même (533 mètres, variation de hauteur de seulement 30 cm) est une réalisation d'ingénierie extraordinaire confirmant le récit biblique des préparatifs hydrauliques de Jérusalem sous le siège assyrien.",
-        "es": "Tallada en el túnel de Ezequías en Jerusalén (2 Reyes 20:20; 2 Cr. 32:30), fechada epigráficamente c. 701 a.C., describe el momento en que dos equipos de excavación se encontraron en el medio — coincidiendo con el relato bíblico con notable especificidad. El propio túnel (533 metros, variación de altura de solo 30 cm) es un extraordinario logro de ingeniería que confirma el relato bíblico de los preparativos hídricos de Jerusalén bajo el asedio asirio."
+        "en": "Carved into Hezekiah's tunnel in Jerusalem (2 Kings 20:20; 2 Chr. 32:30) and dated by its script to the late 8th century BCE, it describes the moment two digging teams met in the middle, consistent with the biblical account. The tunnel itself (533 meters, height variation of only 30 cm) is an extraordinary engineering achievement, consistent with the biblical account of Jerusalem's water preparations under Assyrian siege.",
+        "he": "חקוקה במנהרת חזקיהו בירושלים (מלכים ב כ:כ; דברי הימים ב לב:ל) ומתוארכת על פי צורת האותיות לסוף המאה ה־8 לפנה\"ס, היא מתארת את הרגע שבו שני צוותי חפירה נפגשו באמצע, בהתאם לתיאור המקראי. המנהרה עצמה (533 מטרים, שינוי גובה של 30 ס\"מ בלבד) היא הישג הנדסי יוצא דופן, התואם את התיאור המקראי של הכנות המים של ירושלים לקראת המצור האשורי.",
+        "fr": "Gravée dans le tunnel d'Ézéchias à Jérusalem (2 Rois 20:20 ; 2 Chr. 32:30) et datée par son écriture de la fin du VIIIe siècle av. J.-C., elle décrit le moment où deux équipes de creusement se sont rencontrées au milieu, en accord avec le récit biblique. Le tunnel lui-même (533 mètres, variation de hauteur de seulement 30 cm) est une réalisation d'ingénierie extraordinaire, en accord avec le récit biblique des préparatifs hydrauliques de Jérusalem face au siège assyrien.",
+        "es": "Tallada en el túnel de Ezequías en Jerusalén (2 Reyes 20:20; 2 Cr. 32:30) y fechada por su escritura a finales del siglo VIII a.C., describe el momento en que dos equipos de excavación se encontraron en el medio, en concordancia con el relato bíblico. El propio túnel (533 metros, variación de altura de solo 30 cm) es un extraordinario logro de ingeniería, en concordancia con el relato bíblico de los preparativos hídricos de Jerusalén ante el asedio asirio."
       },
-      "s": "Shanks, Hershel; Sound Proof",
+      "s": "Shanks, Hershel; Sound Proof; A. Frumkin, A. Shimron & J. Rosenbaum, \"Radiometric dating of the Siloam Tunnel, Jerusalem,\" Nature 425 (2003): 169–171",
       "u": "http://www.bib-arch.org/bar/article.asp?PubID=BSBA&Volume=34&Issue=5&ArticleID=13",
       "date_sort": -701,
       "consensus_status": "probabilistic",
@@ -3654,7 +3654,8 @@
       "highlight_rank": 5,
       "places": [
         "jerusalem"
-      ]
+      ],
+      "review_caveat": "The tunnel's date is debated. Radiocarbon dates on plant material in its plaster and uranium-thorium dates on its stalactites place it in Iron Age II, around 700 BCE, consistent with Hezekiah (Frumkin, Shimron & Rosenbaum, Nature 425, 2003). Reich and Shukron, drawing on their excavations at the Gihon Spring, argue it was completed by the early 8th century BCE, before Hezekiah (Tel Aviv 38, 2011); Sneh, Shalev and Weinberger (BASOR 359, 2010) argue for Manasseh's reign. The inscription itself is dated by its letter forms to the late 8th century BCE and names no king, so the link to Hezekiah rests on the tunnel's dating and on Melachim II 20:20 and Divrei HaYamim II 32:30, not on the inscription."
     },
     {
       "layer": "archaeology",
