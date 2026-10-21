@@ -9207,7 +9207,8 @@
       },
       "s": "Israel Antiquities Authority / Tower of David Museum (Dr. Amit Re'em), announced December 2025",
       "u": "https://www.timesofisrael.com/2100-year-old-mystery-unearthed-with-dismantled-hasmonean-era-wall-in-jerusalem/",
-      "consensus_status": "probabilistic"
+      "consensus_status": "probabilistic",
+      "source_tier": "contemporary"
     },
     {
       "layer": "archaeology",
