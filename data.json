@@ -9187,7 +9187,8 @@
       "places": [
         "nineveh"
       ],
-      "consensus_status": "probabilistic"
+      "consensus_status": "probabilistic",
+      "source_tier": "contemporary"
     },
     {
       "layer": "archaeology",
