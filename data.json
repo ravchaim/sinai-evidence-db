@@ -962,7 +962,10 @@
       "u": "https://www.eisenbrauns.org/books/titles/978-1-934309-57-5.html",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -422
+      "date_sort": -422,
+      "places": [
+        "babylon"
+      ]
     },
     {
       "id": 183,
@@ -1042,7 +1045,11 @@
       "u": "https://www.britishmuseum.org/collection/object/W_1855-1003-1",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -701
+      "date_sort": -701,
+      "places": [
+        "jerusalem",
+        "lachish"
+      ]
     },
     {
       "id": 227,
@@ -1059,8 +1066,8 @@
         "fr": "La Torah contient des dizaines de mots d'emprunt égyptiens dans les récits d'Égypte et du désert : Moïse (de l'égyptien ms) ; Pinhas (p3-nḥsy) ; Putiphar, Tsafnat-Panéah, Asnath ; Yaor (le Nil), hartumim (magiciens), souf (roseau), téva (corbeille). James Hoffmeier (Israel in Egypt, 1997) a documenté ces éléments comme cohérents avec le contexte égyptien du XIIIe siècle av. J.-C., qu'il est peu probable que des auteurs tardifs sans lien égyptien direct aient inventés.",
         "es": "La Torá contiene docenas de palabras prestadas del egipcio en las narraciones de Egipto y el desierto: Moisés (del egipcio ms); Pinjas (p3-nḥsy); Putifar, Safenat-panéaj, Asnat; Yaor (el Nilo), hartumim (magos), suf (caña), tevá (cesta). James Hoffmeier (Israel in Egypt, 1997) documentó estas palabras como coherentes con el contexto egipcio del siglo XIII a.C., que difícilmente habrían inventado autores tardíos sin conexión egipcia directa."
       },
-      "s": "Egyptian loanwords in Hebrew – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Egyptian_loanwords_in_Hebrew",
+      "s": "J. K. Hoffmeier, Israel in Egypt: The Evidence for the Authenticity of the Exodus Tradition (Oxford University Press, 1997); Y. Muchiki, Egyptian Proper Names and Loanwords in North-West Semitic (SBL Dissertation Series 173, 1999)",
+      "u": "https://cart.sbl-site.org/books/062173P",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
       "date_sort": -1312
@@ -1280,7 +1287,7 @@
         "es": "Martin Buber y Franz Rosenzweig llamaron Leitwort, o \"palabra guía\", a una raíz hebrea repetida a lo largo de un pasaje para llevar su tema. 1. En el relato de la creación (Génesis 1:1-2:3) la palabra Elokim aparece 35 veces, cinco veces siete, como señaló Cassuto. 2. En Éxodo la raíz ע-ב-ד va de la esclavitud (avodá) de Israel bajo el Faraón al comienzo del libro al servicio (avodá) de Dios en el Mishkán al final, inscribiendo en el propio vocabulario el paso de la servidumbre al culto. Robert Alter mostró cómo funcionan estas repeticiones en la narrativa bíblica. La técnica muestra un control cuidadoso de la redacción a lo largo de extensos pasajes."
       },
       "s": "M. Buber & F. Rosenzweig, Die Schrift und ihre Verdeutschung (1936); U. Cassuto, A Commentary on the Book of Genesis (1961); R. Alter, The Art of Biblical Narrative (1981)",
-      "u": "https://en.wikipedia.org/wiki/Leitwort",
+      "u": "https://www.hbgacademic.com/titles/robert-alter/the-art-of-biblical-narrative/9780465022557/",
       "consensus_status": "probabilistic",
       "source_tier": "secondary",
       "date_sort": -1272
@@ -1855,7 +1862,7 @@
         "es": "La Mejiltá enumera versículos en los que \"el versículo usa un eufemismo\" (kiná hakatuv) por respeto a Dios, y listas masoréticas posteriores cuentan dieciocho de estos lugares con el nombre de tikún soferim. Rashí menciona el término (por ejemplo, sobre Génesis 18:22), y muchos comentaristas tradicionales explican que los versículos se escribieron así desde el principio y que la lista solo señala el eufemismo. Se entienda como se entienda el término, la tradición registró abiertamente estas lecturas inusuales, lugar por lugar, en vez de ocultarlas: señal de una cultura escribal atenta a cada detalle de su texto."
       },
       "s": "Mekhilta d'Rabbi Yishmael, Beshalach, Shirah 6; Rashi on Genesis 18:22; E. Tov, Textual Criticism of the Hebrew Bible, 3rd ed. (2012)",
-      "u": "https://en.wikipedia.org/wiki/Tikkun_Soferim",
+      "u": "https://en.wikipedia.org/wiki/Tiqqun_soferim",
       "consensus_status": "probabilistic",
       "source_tier": "secondary",
       "date_sort": 200
@@ -2638,8 +2645,8 @@
         "fr": "Deutéronome 23:13-14 exige que le camp militaire maintienne des latrines désignées hors du camp et que les soldats enterrent leurs déchets — prévenant directement la propagation de la typhoïde, du choléra, de la dysenterie et d'autres agents pathogènes fécaux-oraux. Le lien entre la contamination fécale et les maladies infectieuses n'a été établi qu'avec les travaux de John Snow sur le choléra (1854) et la théorie des germes de Koch (années 1880). Le Deutéronome prescrit un assainissement médicalement efficace des millénaires avant que sa base scientifique ne soit comprise.",
         "es": "Deuteronomio 23:13-14 exige que el campamento militar mantenga letrinas designadas fuera del campamento y que los soldados entierren sus desechos — previniendo directamente la propagación de tifoidea, cólera, disentería y otros patógenos fecal-orales. La conexión entre la contaminación fecal y las enfermedades infecciosas no se estableció hasta el trabajo de John Snow sobre el cólera (1854) y la teoría de los gérmenes de Koch (década de 1880). Deuteronomio prescribe un saneamiento médicamente eficaz milenios antes de que se comprendiera su base científica."
       },
-      "s": "Sanitation in the Torah – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Hygiene_in_Jewish_law",
+      "s": "Devarim 23:13–15 (23:12–14 in many English editions)",
+      "u": "https://www.sefaria.org/Deuteronomy.23.13-15",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
       "date_sort": -1440
@@ -2882,8 +2889,8 @@
         "fr": "Deux passages promettent qu'Israël ne sera jamais détruit. (1) Lévitique 26:44 dit que même en exil « je ne les rejetterai pas et ne les aurai pas en horreur au point de les exterminer » ; c'est la promesse d'une survie en exil. (2) Jérémie 31:35–36 dit qu'Israël ne cessera pas d'être une nation tant que dureront les lois du soleil, de la lune et des étoiles ; cela lie la survie d'Israël comme nation à la permanence de l'ordre naturel. Le peuple juif a survécu à des massacres et à des expulsions répétés : les guerres romaines (70 et 135 apr. J.-C.), les massacres des croisés en 1096, les expulsions d'Angleterre (1290), de France (1306) et d'Espagne (1492), les massacres de Chmielnicki (1648–1649) et la Shoah, où six millions furent assassinés. À travers tout cela, il est resté un peuple distinct. Une telle survie est rare parmi les nations antiques : les voisins d'Israël à l'époque biblique, comme les Moabites, les Ammonites, les Édomites et les Philistins, ont disparu depuis longtemps.",
         "es": "Dos pasajes prometen que Israel nunca será destruido. (1) Levítico 26:44 dice que aun en el exilio «no los desecharé ni los aborreceré hasta consumirlos»; esto promete la supervivencia en el exilio. (2) Jeremías 31:35–36 dice que Israel no dejará de ser una nación mientras perduren las leyes del sol, la luna y las estrellas; esto vincula la supervivencia de Israel como nación a la permanencia del orden natural. El pueblo judío ha sobrevivido a masacres y expulsiones repetidas: las guerras romanas (70 y 135 d.C.), las masacres de los cruzados de 1096, las expulsiones de Inglaterra (1290), Francia (1306) y España (1492), las masacres de Chmielnicki (1648–1649) y el Holocausto, en el que fueron asesinados seis millones. A través de todo ello siguió siendo un pueblo distinto. Una supervivencia así es rara entre las naciones antiguas: los vecinos de Israel en la época bíblica, como moabitas, amonitas, edomitas y filisteos, desaparecieron hace mucho."
       },
-      "s": "Jewish continuity – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Jewish_continuity",
+      "s": "Vayikra 26:44; Yirmeyahu 31:35–37",
+      "u": "https://www.sefaria.org/Jeremiah.31.35-37",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
       "date_sort": -1312
@@ -3275,7 +3282,7 @@
         "es": "La Torá contiene protecciones concretas para los animales: el descanso del Shabat incluye al ganado (Éxodo 20:10); hay que ayudar a descargar incluso el asno del enemigo caído bajo su carga (Éxodo 23:5), versículo del que el Talmud deriva la prohibición de causar sufrimiento innecesario a los animales (Babá Metziá 32b); no se pone bozal al buey mientras trilla (Deuteronomio 25:4); se debe despedir a la madre antes de tomar a las crías (Deuteronomio 22:6-7); y no se sacrifica a un animal y a su cría el mismo día (Levítico 22:28). El Rambam explica varias de estas leyes como destinadas a enseñar compasión (Guía 3:48). Las colecciones de leyes del antiguo Cercano Oriente tratan a los animales sobre todo como propiedad; las disposiciones a favor del animal mismo son raras."
       },
       "s": "Exodus 20:10, 23:5; Leviticus 22:28; Deuteronomy 22:6–7, 25:4; Bava Metzia 32b; Rambam, Guide for the Perplexed 3:48",
-      "u": "https://en.wikipedia.org/wiki/Tza%27ar_ba%27alei_chaim",
+      "u": "https://en.wikipedia.org/wiki/Tza%27ar_ba%27alei_chayim",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
       "date_sort": -1312
@@ -4030,8 +4037,8 @@
         "fr": "Les fouilles d'Eilat Mazar dans la Cité de David ont identifié une tour nord et un segment de mur d'enceinte sous lesquels se trouvaient deux sépultures canines perses et de la poterie, mais aucune empreinte de sceau Yehud (celles-ci ne devinrent courantes qu'après ~450 av. J.-C.). Cette absence date la couche antérieure au milieu du Ve siècle, correspondant à la construction du mur par Néhémie (Ne 2:17). Mazar elle-même a conclu que les preuves archéologiques et bibliques pointent ensemble vers cette structure comme faisant partie des fortifications de Néhémie.",
         "es": "Las excavaciones de Eilat Mazar en la Ciudad de David identificaron una torre norte y un segmento de muralla conectante debajo del cual había dos enterramientos caninos persas y cerámica, pero sin impresiones de sellos Yehud (estos solo se hicieron comunes después del ~450 a.C.). Esa ausencia data el estrato anterior a mediados del siglo V, coincidiendo con la construcción del muro por Nehemías (Neh 2:17). La propia Mazar concluyó que la evidencia arqueológica y bíblica apuntan conjuntamente a que esto es parte de las fortificaciones de Nehemías."
       },
-      "u": "https://www.biblicalarchaeology.org/departments/nehemiah-wall/",
-      "s": "Biblical Archaeology Society / City of David Foundation",
+      "u": "https://www.nbcnews.com/id/wbna22031220",
+      "s": "Eilat Mazar, City of David excavations, announced November 2007 (Associated Press report)",
       "date_sort": -450,
       "consensus_status": "probabilistic",
       "source_tier": "popular",
@@ -4061,8 +4068,8 @@
         "fr": "Gravée dans le tunnel d'Ézéchias à Jérusalem (2 Rois 20:20 ; 2 Chr. 32:30) et datée par son écriture de la fin du VIIIe siècle av. J.-C., elle décrit le moment où deux équipes de creusement se sont rencontrées au milieu, en accord avec le récit biblique. Le tunnel lui-même (533 mètres, variation de hauteur de seulement 30 cm) est une réalisation d'ingénierie extraordinaire, en accord avec le récit biblique des préparatifs hydrauliques de Jérusalem face au siège assyrien.",
         "es": "Tallada en el túnel de Ezequías en Jerusalén (2 Reyes 20:20; 2 Cr. 32:30) y fechada por su escritura a finales del siglo VIII a.C., describe el momento en que dos equipos de excavación se encontraron en el medio, en concordancia con el relato bíblico. El propio túnel (533 metros, variación de altura de solo 30 cm) es un extraordinario logro de ingeniería, en concordancia con el relato bíblico de los preparativos hídricos de Jerusalén ante el asedio asirio."
       },
-      "s": "Shanks, Hershel; Sound Proof; A. Frumkin, A. Shimron & J. Rosenbaum, \"Radiometric dating of the Siloam Tunnel, Jerusalem,\" Nature 425 (2003): 169–171",
-      "u": "http://www.bib-arch.org/bar/article.asp?PubID=BSBA&Volume=34&Issue=5&ArticleID=13",
+      "s": "A. Frumkin, A. Shimron & J. Rosenbaum, \"Radiometric dating of the Siloam Tunnel, Jerusalem,\" Nature 425 (2003): 169–171",
+      "u": "https://doi.org/10.1038/nature01875",
       "date_sort": -701,
       "consensus_status": "probabilistic",
       "source_tier": "primary",
@@ -4123,7 +4130,10 @@
       "date_sort": -539,
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "highlight_rank": 9
+      "highlight_rank": 9,
+      "places": [
+        "babylon"
+      ]
     },
     {
       "id": 103,
@@ -4144,7 +4154,10 @@
       "u": "https://www.britishmuseum.org/collection/object/W_1848-1104-1",
       "date_sort": -841,
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "nimrud"
+      ]
     },
     {
       "id": 122,
@@ -4166,7 +4179,11 @@
       "date_sort": -701,
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "highlight_rank": 6
+      "highlight_rank": 6,
+      "places": [
+        "nineveh",
+        "jerusalem"
+      ]
     },
     {
       "id": 104,
@@ -4212,7 +4229,12 @@
       "u": "https://archive.org/details/amarnaletters0000unse_c3q4/page/326/mode/2up",
       "date_sort": -1350,
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "jerusalem",
+        "megiddo",
+        "shechem"
+      ]
     },
     {
       "id": 95,
@@ -4335,7 +4357,10 @@
         "he": "שם ושם אב תואמים מן התקופה הנכונה הופכים את הזיהוי עם גמריהו לסביר אך לא לוודאי, שכן הבולה אינה מציינת תפקיד.",
         "fr": "Un nom et un patronyme concordants, de la bonne époque, rendent l'identification avec Guemaryahou probable mais non certaine, la bulle ne mentionnant aucune fonction.",
         "es": "Un nombre y un patronímico coincidentes, del periodo correcto, hacen probable pero no segura la identificación con Guemaryahu, ya que la bula no menciona ningún cargo."
-      }
+      },
+      "places": [
+        "jerusalem"
+      ]
     },
     {
       "id": 79,
@@ -4363,7 +4388,10 @@
         "he": "העפר שננפה הוצא בלי הקשר ארכאולוגי, ולכן הממצאים מראים מה היה פעם בהר הבית, אך אינם יכולים לבדם לתארך מבנה כלשהו.",
         "fr": "La terre tamisée a été retirée sans contexte archéologique ; les trouvailles montrent ce qui se trouvait jadis sur le mont du Temple, mais ne peuvent à elles seules dater aucune construction.",
         "es": "La tierra tamizada se retiró sin contexto arqueológico, así que los hallazgos muestran lo que hubo en el Monte del Templo, pero no pueden fechar por sí solos ninguna estructura."
-      }
+      },
+      "places": [
+        "jerusalem"
+      ]
     },
     {
       "id": 118,
@@ -4375,12 +4403,12 @@
         "es": "Los relieves del palacio de Sargón II"
       },
       "e": {
-        "en": "Sargon II's palace at Dur-Sharrukin (Khorsabad, Iraq) contains reliefs and annals describing the conquest of Samaria in 722/721 BCE and the deportation of 27,290 Israelites — consistent with 2 Kings 17:3–6. They also describe resettling other conquered peoples in Samaria and making it an Assyrian province, which matches 2 Kings 17:24. (The Israelite kings Pekah and Hoshea are named in the annals of Sargon's predecessor, Tiglath-Pileser III, not in Sargon's own records.)",
-        "he": "ארמונו של סרגון השני בדור-שרוקין (חורסאבד, עיראק) מכיל תבליטים ואנלים המתארים את כיבוש שומרון ב-722/721 לפנה\"ס וגלות 27,290 ישראלים — עולה בקנה אחד עם מלכים ב יז:ג-ו. הם מתארים גם את יישובם של עמים כבושים אחרים בשומרון ואת הפיכתה לפלך אשורי, בהתאם למלכים ב יז:כד. (מלכי ישראל פקח והושע נזכרים בדברי הימים של קודמו של סרגון, תגלת-פלאסר השלישי, ולא ברשומותיו של סרגון עצמו.)",
-        "fr": "Le palais de Sargon II à Dur-Sharrukin (Khorsabad, Irak) contient des reliefs et des annales décrivant la conquête de Samarie en 722/721 av. J.-C. et la déportation de 27 290 Israélites — cohérent avec 2 Rois 17:3-6. Elles décrivent aussi l'installation d'autres peuples conquis en Samarie et sa transformation en province assyrienne, ce qui correspond à 2 Rois 17:24. (Les rois israélites Pékah et Osée sont nommés dans les annales du prédécesseur de Sargon, Téglath-Phalasar III, et non dans les archives de Sargon lui-même.)",
-        "es": "El palacio de Sargón II en Dur-Sharrukin (Jorsabad, Irak) contiene relieves y anales que describen la conquista de Samaria en 722/721 a.C. y la deportación de 27.290 israelitas — consistente con 2 Reyes 17:3-6. También describen el asentamiento de otros pueblos conquistados en Samaria y su conversión en provincia asiria, lo que coincide con 2 Reyes 17:24. (Los reyes israelitas Pécah y Oseas aparecen en los anales del predecesor de Sargón, Tiglat-Piléser III, no en los registros del propio Sargón.)"
+        "en": "Sargon II's palace at Dur-Sharrukin (Khorsabad, Iraq) contains reliefs and annals describing the conquest of Samaria in 722/721 BCE and the deportation of 27,290 Israelites — consistent with 2 Kings 17:3–6. They also describe resettling other conquered peoples in Samaria and making it an Assyrian province, which matches 2 Kings 17:24. (The Israelite kings Pekah and Hoshea are named in the annals of Sargon's predecessor, Tiglath-Pileser III, not in Sargon's own records.) The Babylonian Chronicle (ABC 1 i 27–30) supplies the earlier half of the story: Shalmaneser V took the throne in Tevet 727 BCE, \"ravaged Shamara'in,\" and died in Tevet of his fifth year (722 BCE). Most scholars read Shamara'in as Samaria. This matches Melachim II 17:3–6 and 18:9–10, where Shalmaneser is the king who besieges Shomron and \"the king of Assyria,\" unnamed, takes it; a minority questions the reading.",
+        "he": "ארמונו של סרגון השני בדור-שרוקין (חורסאבד, עיראק) מכיל תבליטים ואנלים המתארים את כיבוש שומרון ב-722/721 לפנה\"ס וגלות 27,290 ישראלים — עולה בקנה אחד עם מלכים ב יז:ג-ו. הם מתארים גם את יישובם של עמים כבושים אחרים בשומרון ואת הפיכתה לפלך אשורי, בהתאם למלכים ב יז:כד. (מלכי ישראל פקח והושע נזכרים בדברי הימים של קודמו של סרגון, תגלת-פלאסר השלישי, ולא ברשומותיו של סרגון עצמו.) הכרוניקה הבבלית (ABC 1 i 27–30) משלימה את החלק הראשון של הסיפור: שלמנאסר החמישי עלה למלוכה בטבת 727 לפנה\"ס, \"החריב את שמרין\", ומת בטבת של שנתו החמישית (722 לפנה\"ס). רוב החוקרים קוראים \"שמרין\" כשומרון. זה מתאים למלכים ב יז, ג-ו ויח, ט-י, שבהם שלמנאסר הוא המלך הצר על שומרון, ו\"מלך אשור\", שאינו נקרא בשמו, לוכד אותה; מיעוט מן החוקרים מפקפק בקריאה זו.",
+        "fr": "Le palais de Sargon II à Dur-Sharrukin (Khorsabad, Irak) contient des reliefs et des annales décrivant la conquête de Samarie en 722/721 av. J.-C. et la déportation de 27 290 Israélites — cohérent avec 2 Rois 17:3-6. Elles décrivent aussi l'installation d'autres peuples conquis en Samarie et sa transformation en province assyrienne, ce qui correspond à 2 Rois 17:24. (Les rois israélites Pékah et Osée sont nommés dans les annales du prédécesseur de Sargon, Téglath-Phalasar III, et non dans les archives de Sargon lui-même.) La Chronique babylonienne (ABC 1 i 27–30) fournit la première moitié de l'histoire : Salmanasar V monta sur le trône en Tévet 727 av. J.-C., « ravagea Shamara'in », et mourut en Tévet de sa cinquième année (722 av. J.-C.). La plupart des chercheurs lisent Shamara'in comme Samarie. Cela correspond à 2 Rois 17:3–6 et 18:9–10, où Salmanasar est le roi qui assiège Samarie et où « le roi d'Assyrie », non nommé, la prend ; une minorité conteste cette lecture.",
+        "es": "El palacio de Sargón II en Dur-Sharrukin (Jorsabad, Irak) contiene relieves y anales que describen la conquista de Samaria en 722/721 a.C. y la deportación de 27.290 israelitas — consistente con 2 Reyes 17:3-6. También describen el asentamiento de otros pueblos conquistados en Samaria y su conversión en provincia asiria, lo que coincide con 2 Reyes 17:24. (Los reyes israelitas Pécah y Oseas aparecen en los anales del predecesor de Sargón, Tiglat-Piléser III, no en los registros del propio Sargón.) La Crónica babilónica (ABC 1 i 27–30) aporta la primera mitad de la historia: Salmanasar V subió al trono en Tevet de 727 a.C., \"asoló Shamara'in\" y murió en Tevet de su quinto año (722 a.C.). La mayoría de los estudiosos lee Shamara'in como Samaria. Esto coincide con 2 Reyes 17:3–6 y 18:9–10, donde Salmanasar es el rey que sitia Samaria y \"el rey de Asiria\", sin nombre, la toma; una minoría cuestiona esa lectura."
       },
-      "s": "Bagg, Ariel; Making Pictures of War: Realia et Imaginaria in the Iconology of the Ancient Near East; 2016; Archaeopress; DOI: 10.2307/j.ctvxrq18w.12",
+      "s": "Bagg, Ariel; Making Pictures of War: Realia et Imaginaria in the Iconology of the Ancient Near East; 2016; Archaeopress; DOI: 10.2307/j.ctvxrq18w.12; Babylonian Chronicle ABC 1 i 27–30 (A. K. Grayson, Assyrian and Babylonian Chronicles, 1975)",
       "u": "https://doi.org/10.2307/j.ctvxrq18w.12",
       "date_sort": -720,
       "consensus_status": "probabilistic",
@@ -4391,7 +4419,11 @@
         "he": "לפי מלכים ב יז:ג–ו שלמנאסר החמישי צר על שומרון ו\"מלך אשור\" לכדה; סרגון השני ייחס את הכיבוש לעצמו, וההיסטוריונים חלוקים בשאלה כמה ממנו הושלם לפני עלייתו לשלטון.",
         "fr": "Selon 2 Rois 17:3–6, Salmanasar V assiège Samarie et « le roi d'Assyrie » la prend ; Sargon II s'est attribué la conquête, et les historiens débattent de ce qui fut achevé avant son avènement.",
         "es": "Según 2 Reyes 17:3–6, Salmanasar V asedia Samaria y «el rey de Asiria» la toma; Sargón II se atribuyó la conquista, y los historiadores debaten cuánto se completó antes de que subiera al trono."
-      }
+      },
+      "places": [
+        "khorsabad",
+        "shomron"
+      ]
     },
     {
       "id": 52,
@@ -4499,7 +4531,10 @@
       "date_sort": -800,
       "consensus_status": "probabilistic",
       "source_tier": "secondary",
-      "highlight_rank": 15
+      "highlight_rank": 15,
+      "places": [
+        "deir-alla"
+      ]
     },
     {
       "id": 148,
@@ -4613,7 +4648,10 @@
       "u": "https://www.journals.uchicago.edu/doi/10.1086/375915",
       "date_sort": -350,
       "consensus_status": "probabilistic",
-      "source_tier": "secondary"
+      "source_tier": "secondary",
+      "places": [
+        "shomron"
+      ]
     },
     {
       "id": 41,
@@ -4679,7 +4717,10 @@
       "u": "https://www.academia.edu/33394553",
       "date_sort": -1700,
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "pi-ramesses"
+      ]
     },
     {
       "id": 89,
@@ -4707,7 +4748,10 @@
         "he": "האבן נמצאה בשימוש משני בתוך קיר מאוחר, ותיארוכה למאה ה-10 הועמד בספק (פינקלשטיין, סאס וזינגר-אביץ; טפי השיב ב-2011). אבג\"ד מעיד על הכשרת סופרים, לא כשלעצמו על חיבורים ספרותיים ארוכים.",
         "fr": "La pierre a été trouvée en remploi dans un mur plus tardif, et sa datation au Xe siècle a été contestée (Finkelstein, Sass et Singer-Avitz ; Tappy a répondu en 2011). Un abécédaire atteste la formation de scribes, non à lui seul de longues œuvres littéraires.",
         "es": "La piedra se halló reutilizada en un muro posterior, y su datación en el siglo X ha sido cuestionada (Finkelstein, Sass y Singer-Avitz; Tappy respondió en 2011). Un abecedario es prueba de formación de escribas, no por sí solo de obras literarias extensas."
-      }
+      },
+      "places": [
+        "tel-zayit"
+      ]
     },
     {
       "id": 90,
@@ -4796,7 +4840,10 @@
       "u": "https://books.google.com/books?id=L2T_4KVwpTQC&pg=PA20",
       "date_sort": -1350,
       "consensus_status": "probabilistic",
-      "source_tier": "secondary"
+      "source_tier": "secondary",
+      "places": [
+        "ugarit"
+      ]
     },
     {
       "id": 125,
@@ -5020,7 +5067,10 @@
         "he": "אין טקסט ידוע המזכיר את אחד מארבעת המלכים, וכדרלעמר אינו מופיע בין כארבעים מלכי עילם הידועים. הראיות מראות שהפרק תואם את העולם הפוליטי ואת דפוסי השמות של ראשית האלף השני, לא שהמערכה עצמה מתועדת.",
         "fr": "Aucun texte connu ne nomme l'un des quatre rois, et Kedorlaomer ne figure pas parmi la quarantaine de rois d'Élam connus. Les données montrent que le chapitre s'accorde avec le monde politique et l'onomastique du début du IIe millénaire, non que la campagne elle-même soit attestée.",
         "es": "Ningún texto conocido nombra a ninguno de los cuatro reyes, y Kedorlaómer no figura entre los cerca de cuarenta reyes conocidos de Elam. Los datos muestran que el capítulo encaja con el mundo político y los patrones de nombres de comienzos del II milenio, no que la campaña misma esté atestiguada."
-      }
+      },
+      "places": [
+        "mari"
+      ]
     },
     {
       "id": 381,
@@ -5074,13 +5124,13 @@
         "es": "La geografía terrestre del Jardín del Edén"
       },
       "e": {
-        "en": "Pagan origin myths universally placed the dwelling place of the gods in an unreachable, mystical, celestial realm (e.g., Mount Olympus, the celestial sea). Bereishis 2 locates the Garden of Eden at the confluence of four real, named geographical rivers: the Tigris, the Euphrates, the Pishon, and the Gihon. By grounding the origin of humanity in physical, mappable geography rather than a metaphysical dream-realm, the Torah declares that G-d's interaction with man begins in the concrete, physical universe.",
-        "he": "מיתוסי מוצא אליליים מיקמו באופן אוניברסלי את מקום מגורי האלים בתחום שמימי, מיסטי ובלתי נגיש (למשל, הר האולימפוס, הים השמימי). בראשית ב ממקם את גן עדן במפגש של ארבעה נהרות גיאוגרפיים אמיתיים ובעלי שם: החידקל, הפרת, הפישון והגיחון. באמצעות עיגון מוצא האנושות בגיאוגרפיה פיזית וניתנת למיפוי ולא בתחום חלום מטפיזי, מכריזה התורה שהאינטראקציה של האל עם האדם מתחילה ביקום הקונקרטי והפיזי.",
-        "fr": "Les mythes d'origine païens plaçaient universellement la demeure des dieux dans un royaume céleste, mystique et inaccessible (par exemple, le mont Olympe, la mer céleste). Genèse 2 situe le Jardin d'Éden à la confluence de quatre fleuves géographiques réels et nommés : le Tigre, l'Euphrate, le Pishon et le Guihon. En ancrant l'origine de l'humanité dans une géographie physique et cartographiable plutôt que dans un royaume de rêve métaphysique, la Torah déclare que l'interaction de Dieu avec l'homme commence dans l'univers concret et physique.",
-        "es": "Los mitos paganos de origen situaban universalmente la morada de los dioses en un reino celestial, místico e inalcanzable (por ejemplo, el Monte Olimpo, el mar celestial). Génesis 2 ubica el Jardín del Edén en la confluencia de cuatro ríos geográficos reales y nombrados: el Tigris, el Éufrates, el Pisón y el Gihón. Al anclar el origen de la humanidad en una geografía física y cartografiable en lugar de en un reino onírico metafísico, la Torá declara que la interacción de Dios con el hombre comienza en el universo concreto y físico."
+        "en": "The Torah describes Eden as a place on the map. A river goes out from Eden and divides into four named rivers, two of which, the Chidekel (Tigris) and the Peras (Euphrates), are among the best-known rivers of the region; it also names the lands they pass, Chavilah with its gold and shoham stone, and Kush (Bereishis 2:10–14). Chazal read this as real geography: Rashi, following Bereishis Rabbah 16:2, identifies the Pishon with the Nile. The ancient Near East also told of a pure, unspoiled land. The Sumerian myth of Enki and Ninhursag describes Dilmun, a real place also known from trade texts and usually located in the Persian Gulf, where \"the lion did not slay, the wolf was not carrying off lambs.\" What the Torah places in its garden is different: not a home of the gods, but man, whom G-d sets there \"to work it and to guard it\" (2:15), under a command that leaves him a choice (2:16–17).",
+        "he": "התורה מתארת את גן עדן כמקום על המפה. נהר יוצא מעדן ומתחלק לארבעה נהרות בשמם, ושניים מהם, החידקל והפרת, הם מן הנהרות הידועים ביותר באזור; היא גם מזכירה את הארצות שהם עוברים בהן, החווילה עם הזהב ואבן השוהם, וכוש (בראשית ב, י-יד). חז\"ל הבינו זאת כגאוגרפיה ממשית: רש\"י, בעקבות בראשית רבה טז, ב, מזהה את הפישון עם הנילוס. גם במזרח הקדום סופר על ארץ טהורה שלא נפגמה. המיתוס השומרי של אנכי ונינחורסג מתאר את דילמון, מקום ממשי הידוע גם מתעודות מסחר ומזוהה בדרך כלל במפרץ הפרסי, שבו \"האריה לא טרף, הזאב לא חטף טלאים\". מה שהתורה מציבה בגן שלה שונה: לא משכן של אלים, אלא את האדם, שהשם מניח אותו שם \"לעבדה ולשמרה\" (ב, טו), תחת ציווי שמשאיר בידו בחירה (ב, טז-יז).",
+        "fr": "La Torah décrit l'Éden comme un lieu sur la carte. Un fleuve sort d'Éden et se divise en quatre fleuves nommés, dont deux, le Hidéqel (Tigre) et le Perat (Euphrate), comptent parmi les fleuves les plus connus de la région ; elle nomme aussi les pays qu'ils traversent, Havila avec son or et la pierre de shoham, et Koush (Genèse 2:10–14). Les Sages y ont lu une géographie réelle : Rachi, à la suite de Bereshit Rabba 16:2, identifie le Pishon au Nil. Le Proche-Orient ancien racontait lui aussi une terre pure et intacte. Le mythe sumérien d'Enki et Ninhursag décrit Dilmun, un lieu réel connu aussi par des textes commerciaux et généralement situé dans le golfe Persique, où « le lion ne tuait pas, le loup n'emportait pas les agneaux ». Ce que la Torah place dans son jardin est différent : non une demeure des dieux, mais l'homme, que Dieu y établit « pour le cultiver et le garder » (2:15), sous un commandement qui lui laisse un choix (2:16–17).",
+        "es": "La Torá describe el Edén como un lugar en el mapa. Un río sale del Edén y se divide en cuatro ríos con nombre, dos de los cuales, el Jidékel (Tigris) y el Perat (Éufrates), están entre los ríos más conocidos de la región; también nombra las tierras que atraviesan, Javilá con su oro y la piedra de shoham, y Cus (Génesis 2:10–14). Los Sabios lo leyeron como geografía real: Rashí, siguiendo a Bereshit Rabá 16:2, identifica el Pishón con el Nilo. El Oriente Próximo antiguo también hablaba de una tierra pura e intacta. El mito sumerio de Enki y Ninhursag describe Dilmún, un lugar real conocido también por textos comerciales y situado por lo general en el golfo Pérsico, donde \"el león no mataba, el lobo no se llevaba los corderos\". Lo que la Torá coloca en su jardín es distinto: no una morada de dioses, sino al hombre, a quien Dios pone allí \"para labrarlo y guardarlo\" (2:15), bajo un mandato que le deja una elección (2:16–17)."
       },
-      "s": "Shullenberger, William; Imagining Eden; The Cambridge Companion to Paradise Lost; 2014; Cambridge University Press; pp. 125–127; DOI: 10.1017/CCO9781139333719",
-      "u": "https://doi.org/10.1017/CCO9781139333719",
+      "s": "Bereishis 2:8–17; Rashi on Bereishis 2:11 (from Bereishis Rabbah 16:2); \"Enki and Ninhursag,\" Electronic Text Corpus of Sumerian Literature (ETCSL 1.1.1), University of Oxford",
+      "u": "https://etcsl.orinst.ox.ac.uk/section1/tr111.htm",
       "consensus_status": "probabilistic",
       "source_tier": "secondary",
       "date_sort": -1800,
@@ -5132,7 +5182,10 @@
       "u": "https://archive.org/stream/cu31924086199563#page/n376/mode/1up",
       "date_sort": -735,
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "jerusalem"
+      ]
     },
     {
       "id": 229,
@@ -5219,11 +5272,14 @@
         "fr": "Un atelier rupestre pour vases en pierre sur le Mont Scopus à Jérusalem fournit une preuve physique à l'échelle industrielle de la pratique de la pureté en Judée du Second Temple tardif; les vases en pierre ne contractent pas l'impureté rituelle selon la halakha, correspondant à une pratique documentée de « poussée de pureté » (Tosefta Chabbat 1:14 ; Talmud Chabbat 13b).",
         "es": "Un taller cavernícola para vasijas de piedra en el Monte Scopus de Jerusalén proporciona evidencia física a escala industrial de la práctica de pureza en la Judea del Segundo Templo tardío; las vasijas de piedra no contraen impureza ritual según la halajá, coincidiendo con una práctica documentada de 'brote de pureza' (Tosefta Shabat 1:14; Talmud Shabat 13b)."
       },
-      "u": "https://www.biblicalarchaeology.org/departments/second-temple-jerusalem/",
+      "u": "https://en.wikipedia.org/wiki/Scopus_stone_vessels_cave",
       "s": "Israel Antiquities Authority / Jerusalem Excavations",
       "date_sort": -50,
       "consensus_status": "probabilistic",
-      "source_tier": "popular"
+      "source_tier": "popular",
+      "places": [
+        "jerusalem"
+      ]
     },
     {
       "id": 181,
@@ -5338,8 +5394,8 @@
         "fr": "L'égyptologue Jan Assmann a forgé la « distinction mosaïque » pour décrire l'invention unique par Israël d'une binarité rigide entre religion « vraie » et « fausse » — le rejet absolu de tous les autres dieux, contrairement à la norme syncrétiste et inclusive du monde antique. Assmann soutient que cela a créé un type nouveau et sans précédent de mémoire culturelle qui a fondamentalement changé l'histoire humaine. Cette révolution sociologique est difficile à expliquer comme une évolution graduelle et naturelle de la religion cananéenne ; elle s'aligne précisément sur la revendication de la Torah d'une révélation nationale soudaine et décisive au Sinaï exigeant une allégeance exclusive et non négociable.",
         "es": "El egiptólogo Jan Assmann acuñó la \"distinción mosaica\" para describir la invención única de Israel de una binariedad rígida entre religión \"verdadera\" y \"falsa\" — el rechazo absoluto de todos los demás dioses, a diferencia de la norma sincrética e inclusiva del mundo antiguo. Assmann argumenta que esto creó un tipo nuevo y sin precedentes de memoria cultural que cambió fundamentalmente la historia humana. Esta revolución sociológica es difícil de explicar como una evolución gradual y natural de la religión cananea; se alinea precisamente con la afirmación de la Torá de una revelación nacional repentina y decisiva en el Sinaí que exigía lealtad exclusiva y no negociable."
       },
-      "s": "https://en.wikipedia.org/wiki/Mosaic_distinction",
-      "u": "https://en.wikipedia.org/wiki/Mosaic_distinction",
+      "s": "J. Assmann, Moses the Egyptian: The Memory of Egypt in Western Monotheism (Harvard University Press, 1997); J. Assmann, The Price of Monotheism (Stanford University Press, 2010)",
+      "u": "https://doi.org/10.4159/9780674020306",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
       "date_sort": -1312,
@@ -5613,12 +5669,12 @@
         "es": "Cerámica egipcia en Meguido — corroboración de la batalla de la muerte de Josías"
       },
       "e": {
-        "en": "2 Chronicles 35:20-25 records King Josiah's death in battle against Pharaoh Necho II at Megiddo, a site far from Judah's own territory — a detail that has puzzled historians for lack of independent confirmation. A January 2025 report in the Scandinavian Journal of the Old Testament, led by archaeologist Israel Finkelstein, documented a late-seventh-century BCE structure at Tel Megiddo (Area X, Building 16) containing the highest quantity of imported Egyptian pottery ever found at the site — interpreted as evidence of a steady Egyptian supply stream, most likely for Necho's stationed army. This is the first archaeological evidence from Megiddo itself substantiating an Egyptian military presence there at exactly the time and place the biblical text describes Josiah's fatal confrontation.",
-        "he": "דברי הימים ב לה:כ-כה מתעד את מותו של המלך יאשיהו בקרב נגד פרעה נכה השני במגידו, אתר רחוק משטחה של יהודה עצמה — פרט שהטריד היסטוריונים בשל היעדר אישוש בלתי תלוי. דוח מינואר 2025 ב-Scandinavian Journal of the Old Testament, בהובלת הארכיאולוג ישראל פינקלשטיין, תיעד מבנה מסוף המאה השביעית לפנה\"ס בתל מגידו (אזור X, בניין 16) המכיל את הכמות הגדולה ביותר של קדרות מצרית מיובאת שנמצאה אי-פעם באתר — המתפרש כעדות לזרם אספקה מצרי סדיר, ככל הנראה עבור צבאו הממוקם של נכה. זוהי הראיה הארכיאולוגית הראשונה ממגידו עצמה המבססת נוכחות צבאית מצרית בדיוק בזמן ובמקום שהטקסט המקראי מתאר את עימותו הקטלני של יאשיהו.",
-        "fr": "2 Chroniques 35:20-25 rapporte la mort du roi Josias au combat contre le Pharaon Necho II à Megiddo, un site loin du propre territoire de Juda — un détail qui a longtemps intrigué les historiens faute de confirmation indépendante. Un rapport de janvier 2025 dans le Scandinavian Journal of the Old Testament, dirigé par l'archéologue Israel Finkelstein, a documenté une structure de la fin du VIIe siècle av. J.-C. à Tel Megiddo (zone X, bâtiment 16) contenant la plus grande quantité de poterie égyptienne importée jamais trouvée sur le site — interprétée comme la preuve d'un flux d'approvisionnement égyptien régulier, très probablement destiné à l'armée stationnée de Necho. C'est la première preuve archéologique provenant de Megiddo elle-même corroborant une présence militaire égyptienne exactement au moment et à l'endroit où le texte biblique décrit la confrontation fatale de Josias.",
-        "es": "2 Crónicas 35:20-25 registra la muerte del rey Josías en batalla contra el Faraón Necao II en Meguido, un sitio lejos del propio territorio de Judá — un detalle que ha desconcertado a los historiadores por falta de confirmación independiente. Un informe de enero de 2025 en el Scandinavian Journal of the Old Testament, liderado por el arqueólogo Israel Finkelstein, documentó una estructura de finales del siglo VII a.C. en Tel Meguido (Área X, Edificio 16) que contenía la mayor cantidad de cerámica egipcia importada jamás encontrada en el sitio — interpretada como evidencia de un flujo constante de suministro egipcio, muy probablemente para el ejército estacionado de Necao. Esta es la primera evidencia arqueológica del propio Meguido que corrobora una presencia militar egipcia exactamente en el momento y lugar que el texto bíblico describe para la confrontación fatal de Josías."
+        "en": "2 Chronicles 35:20-25 records King Josiah's death in battle against Pharaoh Necho II at Megiddo, a site far from Judah's own territory — a detail that has puzzled historians for lack of independent confirmation. A January 2025 report in the Scandinavian Journal of the Old Testament, led by archaeologist Israel Finkelstein, documented a late-seventh-century BCE structure at Tel Megiddo (Area X, Building 16) containing the highest quantity of imported Egyptian pottery ever found at the site — interpreted as evidence of a steady Egyptian supply stream, most likely for Necho's stationed army. This is the first archaeological evidence from Megiddo itself substantiating an Egyptian military presence there at exactly the time and place the biblical text describes Josiah's fatal confrontation. Necho II himself is well documented outside Tanach. The Babylonian Chronicle (ABC 5) records Nebuchadnezzar's defeat of \"the Egyptian army which lay in Carchemish\" in 605 BCE, the battle that Yirmeyahu 46:2 dates to the fourth year of Yehoyakim and places against \"the army of Pharaoh Necho … at Carchemish.\" The Greek historian Herodotus (2.159) writes that Necos defeated \"the Syrians\" in a battle at Magdolus and then took the city of Cadytis; Magdolus is often identified with Megiddo, though some scholars prefer Migdol.",
+        "he": "דברי הימים ב לה:כ-כה מתעד את מותו של המלך יאשיהו בקרב נגד פרעה נכה השני במגידו, אתר רחוק משטחה של יהודה עצמה — פרט שהטריד היסטוריונים בשל היעדר אישוש בלתי תלוי. דוח מינואר 2025 ב-Scandinavian Journal of the Old Testament, בהובלת הארכיאולוג ישראל פינקלשטיין, תיעד מבנה מסוף המאה השביעית לפנה\"ס בתל מגידו (אזור X, בניין 16) המכיל את הכמות הגדולה ביותר של קדרות מצרית מיובאת שנמצאה אי-פעם באתר — המתפרש כעדות לזרם אספקה מצרי סדיר, ככל הנראה עבור צבאו הממוקם של נכה. זוהי הראיה הארכיאולוגית הראשונה ממגידו עצמה המבססת נוכחות צבאית מצרית בדיוק בזמן ובמקום שהטקסט המקראי מתאר את עימותו הקטלני של יאשיהו. נכה השני עצמו מתועד היטב מחוץ לתנ\"ך. הכרוניקה הבבלית (ABC 5) מתעדת את ניצחון נבוכדנצר על \"צבא מצרים שחנה בכרכמיש\" בשנת 605 לפנה\"ס, הקרב שירמיהו מו, ב מתארך לשנה הרביעית ליהויקים ומציב מול \"חיל פרעה נכו... בכרכמיש\". ההיסטוריון היווני הרודוטוס (ב, 159) כותב שנכוס ניצח את \"הסורים\" בקרב במגדולוס ואחר כך כבש את העיר קדיטיס; מגדולוס מזוהה לעתים קרובות עם מגידו, אף שיש חוקרים המעדיפים את מגדל.",
+        "fr": "2 Chroniques 35:20-25 rapporte la mort du roi Josias au combat contre le Pharaon Necho II à Megiddo, un site loin du propre territoire de Juda — un détail qui a longtemps intrigué les historiens faute de confirmation indépendante. Un rapport de janvier 2025 dans le Scandinavian Journal of the Old Testament, dirigé par l'archéologue Israel Finkelstein, a documenté une structure de la fin du VIIe siècle av. J.-C. à Tel Megiddo (zone X, bâtiment 16) contenant la plus grande quantité de poterie égyptienne importée jamais trouvée sur le site — interprétée comme la preuve d'un flux d'approvisionnement égyptien régulier, très probablement destiné à l'armée stationnée de Necho. C'est la première preuve archéologique provenant de Megiddo elle-même corroborant une présence militaire égyptienne exactement au moment et à l'endroit où le texte biblique décrit la confrontation fatale de Josias. Néko II lui-même est bien documenté hors du Tanakh. La Chronique babylonienne (ABC 5) rapporte la défaite infligée par Nabuchodonosor à « l'armée égyptienne qui se trouvait à Karkemish » en 605 av. J.-C., la bataille que Jérémie 46:2 date de la quatrième année de Joiakim et situe contre « l'armée du Pharaon Néko… à Karkemish ». L'historien grec Hérodote (2.159) écrit que Nécos vainquit « les Syriens » dans une bataille à Magdolos, puis prit la ville de Kadytis ; Magdolos est souvent identifiée à Megiddo, bien que certains chercheurs préfèrent Migdol.",
+        "es": "2 Crónicas 35:20-25 registra la muerte del rey Josías en batalla contra el Faraón Necao II en Meguido, un sitio lejos del propio territorio de Judá — un detalle que ha desconcertado a los historiadores por falta de confirmación independiente. Un informe de enero de 2025 en el Scandinavian Journal of the Old Testament, liderado por el arqueólogo Israel Finkelstein, documentó una estructura de finales del siglo VII a.C. en Tel Meguido (Área X, Edificio 16) que contenía la mayor cantidad de cerámica egipcia importada jamás encontrada en el sitio — interpretada como evidencia de un flujo constante de suministro egipcio, muy probablemente para el ejército estacionado de Necao. Esta es la primera evidencia arqueológica del propio Meguido que corrobora una presencia militar egipcia exactamente en el momento y lugar que el texto bíblico describe para la confrontación fatal de Josías. El propio Necao II está bien documentado fuera del Tanaj. La Crónica babilónica (ABC 5) registra la derrota que Nabucodonosor infligió al \"ejército egipcio que estaba en Carquemis\" en 605 a.C., la batalla que Jeremías 46:2 fecha en el cuarto año de Joacim y sitúa contra \"el ejército del faraón Necao… en Carquemis\". El historiador griego Heródoto (2.159) escribe que Necos venció a \"los sirios\" en una batalla en Magdolo y luego tomó la ciudad de Caditis; Magdolo se identifica a menudo con Meguido, aunque algunos estudiosos prefieren Migdol."
       },
-      "s": "The Times of Israel; Finkelstein et al., Scandinavian Journal of the Old Testament (2025)",
+      "s": "The Times of Israel; Finkelstein et al., Scandinavian Journal of the Old Testament (2025); Babylonian Chronicle ABC 5 (Grayson 1975); Herodotus, Histories 2.159; Yirmeyahu 46:2",
       "u": "https://www.timesofisrael.com/archaeologists-find-first-evidence-of-epic-biblical-battle-at-armageddon/",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
@@ -5681,7 +5737,10 @@
         "he": "הזיהוי ה\"סביר מאוד\" הוא הערכת פרויקט סינון עפר הר הבית עצמו; האגודה לארכאולוגיה מקראית (BAS) זהירה יותר. הבולה באה מעפר שננפה, ולכן אין לה הקשר חפירה.",
         "fr": "L'identification « très plausible » est l'évaluation du projet de tamisage du mont du Temple lui-même ; la Biblical Archaeology Society est plus prudente. La bulle provient de terre tamisée et n'a donc pas de contexte de fouille.",
         "es": "La identificación «muy plausible» es la valoración del propio proyecto de tamizado del Monte del Templo; la Biblical Archaeology Society es más cautelosa. La bula procede de tierra tamizada, por lo que no tiene contexto de excavación."
-      }
+      },
+      "places": [
+        "jerusalem"
+      ]
     },
     {
       "id": 108,
@@ -5726,7 +5785,11 @@
       "u": "https://www.timesofisrael.com/smashed-by-isis-a-2700-year-old-carving-may-have-been-the-earliest-known-depiction-of-jerusalem/",
       "date_sort": -701,
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "nineveh",
+        "jerusalem"
+      ]
     },
     {
       "id": 371,
@@ -5877,7 +5940,10 @@
       "u": "https://www.eurekalert.org/news-releases/1132292",
       "date_sort": -710,
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "tel-eton"
+      ]
     },
     {
       "id": 60,
@@ -5925,12 +5991,16 @@
         "fr": "Cette tablette cunéiforme de la série de la Chronique babylonienne du British Museum enregistre, dans les propres archives de la cour babylonienne plutôt que dans le récit biblique, que Nabuchodonosor II a capturé Jérusalem le deuxième jour du mois d'Adar et y a installé un roi de son choix — correspondant à la déportation de Jehoïachin et à l'installation de Sédécias décrites dans 2 Rois 24:10-17.",
         "es": "Esta tablilla cuneiforme de la serie de la Crónica babilónica del Museo Británico registra, en los propios registros de la corte babilónica y no en el relato bíblico, que Nabucodonosor II capturó Jerusalén el segundo día del mes de Adar e instaló a un rey de su elección — coincidiendo con la deportación de Joaquín y la instalación de Sedecías descritas en 2 Reyes 24:10-17."
       },
-      "s": "British Museum / Livius.org",
-      "u": "https://www.livius.org/sources/content/mesopotamian-chronicles/content/babylonian-chronicle-605-595-bc/",
+      "s": "Babylonian Chronicle ABC 5 (British Museum BM 21946), in A. K. Grayson, Assyrian and Babylonian Chronicles (1975)",
+      "u": "https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-5-jerusalem-chronicle/",
       "date_sort": -597,
       "consensus_status": "probabilistic",
       "source_tier": "popular",
-      "highlight_rank": 13
+      "highlight_rank": 13,
+      "places": [
+        "jerusalem",
+        "babylon"
+      ]
     },
     {
       "id": 209,
@@ -5958,7 +6028,10 @@
         "he": "הטקסטים הבבליים קוראים לבלשאצר נסיך הכתר ואינם נותנים לו מעולם את התואר \"מלך\". כינויו מלך בספר דניאל משקף את הסמכות המלכותית שהופקדה בידיו, אף שיש חוקרים הרואים בתואר אי-דיוק.",
         "fr": "Les textes babyloniens appellent Balthazar prince héritier et ne lui donnent jamais le titre de « roi ». Le titre de roi dans Daniel reflète l'autorité royale qui lui fut confiée, même si certains chercheurs le tiennent pour une inexactitude.",
         "es": "Los textos babilónicos llaman a Belsasar príncipe heredero y nunca le dan el título de «rey». El título de rey en Daniel refleja la autoridad real que se le confió, aunque algunos estudiosos lo consideran una inexactitud."
-      }
+      },
+      "places": [
+        "babylon"
+      ]
     },
     {
       "id": 91,
@@ -6243,7 +6316,10 @@
       "u": "https://library.biblicalarchaeology.org/article/the-new-ain-dara-temple-closest-solomonic-parallel/",
       "date_sort": -1000,
       "consensus_status": "probabilistic",
-      "source_tier": "secondary"
+      "source_tier": "secondary",
+      "places": [
+        "ain-dara"
+      ]
     },
     {
       "id": 356,
@@ -6289,7 +6365,7 @@
         "es": "Estudios de genoma completo (Atzmon et al. 2010; Behar et al. 2010; Ostrer et al. 2012; Carmi et al. 2014) muestran que todos los principales grupos judíos (asquenazí, sefardí, mizrají, yemenita, etíope, indio) comparten una ascendencia levantina significativa que data de hace ~2.500-3.000 años, con mezcla local variable. Ningún grupo muestra la firma turca/jázara predicha por la hipótesis jázara. La evidencia genética respalda un origen israelita común para el pueblo judío como se describe en la Torá/la historia."
       },
       "s": "Atzmon et al., Am. J. Hum. Genet. 86 (2010); Behar et al., Nature 466 (2010); Carmi et al., Nat. Commun. 5 (2014)",
-      "u": "https://en.wikipedia.org/wiki/Jewish_population_genetics",
+      "u": "https://en.wikipedia.org/wiki/Genetic_studies_of_Jews",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
       "date_sort": 2010
@@ -6673,8 +6749,8 @@
         "fr": "Le huitième des Treize Principes de la foi de Maïmonide formalise l'affirmation que la Torah entière, y compris ses portions narratives et juridiques, fut transmise à Moïse « de la bouche du Tout-Puissant » plutôt que composée par Moïse de manière indépendante. Ce principe exclut explicitement une origine partielle ou humaine, exigeant la croyance en une transmission divine mot pour mot de chaque lettre. Son statut de marqueur normatif de l'orthodoxie juive depuis neuf siècles démontre que la revendication de paternité divine n'est pas une glose apologétique moderne mais un article de foi continu et contraignant, intégré dans la propre compréhension de soi de la tradition.",
         "es": "El octavo de los Trece Principios de Fe de Maimónides formaliza la afirmación de que toda la Torá, incluidas sus porciones narrativas y legales, fue transmitida a Moisés \"de boca del Todopoderoso\" en lugar de compuesta por Moisés de manera independiente. Este principio descarta explícitamente un origen parcial o de autoría humana, requiriendo la creencia en una transmisión divina literal de cada letra. Su estatus como marcador normativo de la ortodoxia judía durante nueve siglos demuestra que la afirmación de autoría divina no es un barniz apologético moderno sino un artículo de fe continuo y vinculante incorporado en la propia autocomprensión de la tradición."
       },
-      "s": "Maimonides' Thirteen Principles of Faith – Wikipedia",
-      "u": "https://en.wikipedia.org/wiki/Maimonides%27_thirteen_principles_of_faith",
+      "s": "Rambam, Commentary on the Mishnah, Sanhedrin 10:1 (Introduction to Perek Chelek), the Eighth Principle",
+      "u": "https://www.sefaria.org/Rambam_on_Mishnah_Sanhedrin.10.1.25",
       "consensus_status": "probabilistic",
       "source_tier": "popular",
       "date_sort": 1168
@@ -6764,7 +6840,10 @@
       "u": "https://whitelevy.fas.harvard.edu/publications/kuntillet-ajrud-horvat-teman-iron-age-ii-religious-site-judah-sinai-border",
       "date_sort": -800,
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "kuntillet-ajrud"
+      ]
     },
     {
       "id": 97,
@@ -6785,7 +6864,10 @@
       "u": "https://doi.org/10.1179/0334435515Z.00000000052",
       "date_sort": -900,
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "tel-motza"
+      ]
     },
     {
       "id": 178,
@@ -7107,7 +7189,7 @@
         "es": "Peter Singer (The Expanding Circle, 1981) describe la historia de la ética como una ampliación gradual de la consideración moral, desde el propio grupo hacia los extranjeros, los pobres e incluso los animales. Varios pasos de esa ampliación aparecen ya en la ley de la Torá: el mandamiento de amar al extranjero \"como a ti mismo, porque extranjeros fuisteis en la tierra de Egipto\" (Levítico 19:33-34; Éxodo 22:20, 23:9); la obligación de juzgar igual al pobre y al rico, sin favorecer a ninguno (Levítico 19:15); y el descanso del Shabat extendido a siervos, extranjeros y animales (Éxodo 20:10). El propio Singer explica el progreso moral por la razón y la evolución, no por la revelación; el punto aquí es que la Torá enunció estos principios en el antiguo Cercano Oriente, mucho antes de que fueran ampliamente aceptados."
       },
       "s": "P. Singer, The Expanding Circle (1981); Exodus 20:10, 22:20, 23:9; Leviticus 19:15, 19:33–34",
-      "u": "https://en.wikipedia.org/wiki/Expanding_circle",
+      "u": "https://en.wikipedia.org/wiki/The_Expanding_Circle",
       "consensus_status": "probabilistic",
       "source_tier": "secondary",
       "date_sort": -1312
@@ -7243,7 +7325,12 @@
       "u": "https://poj.peeters-leuven.be/content.php?id=2040712&url=article",
       "date_sort": -732,
       "consensus_status": "probabilistic",
-      "source_tier": "secondary"
+      "source_tier": "secondary",
+      "places": [
+        "nimrud",
+        "damascus",
+        "shomron"
+      ]
     },
     {
       "id": 446,
@@ -7302,8 +7389,8 @@
         "fr": "Un point épistémologique fondamental souvent concédé sans argument : l'affirmation que la Torah est historiquement fiable n'est pas automatiquement la partie obligée de prouver une négation. Une fois que les preuves manuscrites, la cohérence interne, et la corroboration archéologique convergente soutiennent déjà le texte (voir les couches archéologie, transmission, et history_corrob), le fardeau se déplace vers quiconque affirme « cela a été inventé tardivement » ou « cela ne s'est jamais produit » de produire une preuve positive pour cette affirmation contraire plutôt que de simplement affirmer le doute. Le naturalisme méthodologique qui exclut le surnaturel par définition avant même que toute preuve soit pesée n'est pas lui-même une découverte — c'est un présupposé qui porte son propre fardeau de justification. Cadrer le débat de cette manière empêche la thèse d'être tenue à une norme impossible pendant que la position contraire échappe à l'examen.",
         "es": "Un punto epistemológico fundamental a menudo concedido sin argumento: la afirmación de que la Torá es históricamente fiable no es automáticamente la parte obligada a probar una negativa. Una vez que la evidencia manuscrita, la coherencia interna, y la corroboración arqueológica convergente ya respaldan el texto (véanse las capas de arqueología, transmisión, e history_corrob), la carga se traslada a quien afirme 'esto se inventó tarde' o 'esto nunca sucedió' para producir evidencia positiva de esa afirmación contraria en lugar de simplemente afirmar duda. El naturalismo metodológico que descarta lo sobrenatural por definición antes de sopesar cualquier evidencia no es en sí mismo un hallazgo — es una presuposición que lleva su propia carga de justificación. Enmarcar el debate de esta manera evita que la tesis sea sostenida a un estándar imposible mientras la posición contraria escapa al escrutinio."
       },
-      "s": "Hales, Steven D.; Thinking tools: You ''can'' prove a negative; [[Think (journal); [[Cambridge University Press]]; 4; pp. 109–112; DOI: 10.1017/S1477175600001287",
-      "u": "http://departments.bloomu.edu/philosophy/pages/content/hales/articlepdf/proveanegative.pdf",
+      "s": "S. D. Hales, \"Thinking Tools: You Can Prove a Negative,\" Think 4:10 (2005): 109–112, doi:10.1017/S1477175600001287",
+      "u": "https://philarchive.org/rec/HALTTY",
       "date_sort": 2005,
       "consensus_status": "probabilistic",
       "source_tier": "secondary"
@@ -7394,7 +7481,11 @@
       "s": "Sapir, Neria; A New Assemblage of 'Private' Stamped Jar Handles from the Mordot Arnona Excavations, Jerusalem; 'Atiqot; 110; pp. 8, 19",
       "u": "https://www.jstor.org/stable/pdf/27204896.pdf",
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "jerusalem",
+        "lachish"
+      ]
     },
     {
       "id": 115,
@@ -7460,7 +7551,10 @@
       "s": "Tomb of Khnumhotep II, Beni Hasan — Encyclopaedia Britannica",
       "u": "https://www.britannica.com/place/Beni-Hasan",
       "consensus_status": "probabilistic",
-      "source_tier": "popular"
+      "source_tier": "popular",
+      "places": [
+        "beni-hasan"
+      ]
     },
     {
       "id": 203,
@@ -7488,7 +7582,10 @@
         "he": "הקריאה \"לפני שבת\" מקובלת ברבים אך אינה ודאית; יש הקוראים את המילה כ\"שביתה (מעבודה)\". הקשר לדיני משכון הבגד הוא פרשנות, שכן העתירה אינה מצטטת אותם.",
         "fr": "La lecture « avant le chabbat » est largement admise mais non certaine ; certains lisent le mot au sens d'« arrêt (du travail) ». Le lien avec les lois du gage de vêtement est une interprétation, la requête ne les citant pas.",
         "es": "La lectura «antes del Shabat» está muy aceptada pero no es segura; algunos leen la palabra como «cese (del trabajo)». El vínculo con las leyes de la prenda de vestir es una interpretación, ya que la petición no las cita."
-      }
+      },
+      "places": [
+        "mesad-hashavyahu"
+      ]
     },
     {
       "id": 189,
@@ -7603,7 +7700,10 @@
       "s": "Israel Antiquities Authority / Tower of David Museum — Jerusalem Post, Times of Israel",
       "u": "https://www.timesofisrael.com/first-temple-era-mold-offers-clues-to-mystery-of-pagan-female-figurines-in-holy-city/",
       "consensus_status": "probabilistic",
-      "source_tier": "news"
+      "source_tier": "news",
+      "places": [
+        "jerusalem"
+      ]
     },
     {
       "id": 301,
@@ -7729,7 +7829,10 @@
       "u": "https://keibi.uni-tuebingen.de/Record/KEI00073813",
       "date_sort": -1100,
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "izbet-sartah"
+      ]
     },
     {
       "id": 93,
@@ -7890,7 +7993,10 @@
       "u": "https://www.biblicalarchaeology.org/daily/biblical-artifacts/artifacts-and-the-bible/nathan-melek-servant-of-the-king/",
       "date_sort": -620,
       "consensus_status": "probabilistic",
-      "source_tier": "news"
+      "source_tier": "news",
+      "places": [
+        "jerusalem"
+      ]
     },
     {
       "id": 46,
@@ -8047,7 +8153,10 @@
       "u": "https://madainproject.com/avaris_statue",
       "date_sort": -1750,
       "consensus_status": "contested",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "pi-ramesses"
+      ]
     },
     {
       "id": 140,
@@ -8090,7 +8199,7 @@
         "es": "Un corpus publicado de unas 200 tablillas cuneiformes babilónicas, en su mayoría de los siglos VI-V a.C., procedentes de un asentamiento llamado literalmente Al-Yahudu, \"Ciudad de Judá\". Las tablillas son registros comerciales y administrativos ordinarios que nombran a exiliados judíos con nombres judeo-yahvistas distintivos (Yahu-, Hageo, Zacarías, Shabbetai), quienes se casaban, comerciaban y poseían propiedades bajo la ley babilónica mientras mantenían una identidad comunitaria. Es una ventana documental independiente y no bíblica sobre exactamente la comunidad que los libros de Jeremías, Ezequiel y Esdras describen como deportada a Babilonia."
       },
       "s": "Pearce & Wunsch, Documents of Judean Exiles and West Semites in Babylonia (CDL Press, 2014)",
-      "u": "https://en.wikipedia.org/wiki/Al-Yahudu_tablets",
+      "u": "https://en.wikipedia.org/wiki/Al-Yahudu_Tablets",
       "consensus_status": "probabilistic",
       "source_tier": "primary"
     },
@@ -8137,7 +8246,10 @@
       "s": "Avigad, Discovering Jerusalem (1983)",
       "u": "https://library.biblicalarchaeology.org/department/books-in-brief-36/",
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "jerusalem"
+      ]
     },
     {
       "id": 133,
@@ -8158,7 +8270,10 @@
       "s": "Pritchard, Hebrew Inscriptions and Stamps from Gibeon (1959)",
       "u": "https://archive.org/details/hebrewinscriptio00prit",
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "gibeon"
+      ]
     },
     {
       "id": 174,
@@ -8208,7 +8323,7 @@
         "es": "Un gran conjunto de registros comerciales cuneiformes del siglo V a.C., de la casa bancaria Murashu en Nippur, Babilonia, nombra a numerosos individuos con nombres judeo-yahvistas distintivos (Yahu-, Shabbetai, Menahem), activos como testigos, acreedores y deudores en la vida comercial ordinaria."
       },
       "s": "Coogan, West Semitic Personal Names in the Murašu Documents (1976)",
-      "u": "https://en.wikipedia.org/wiki/Murashu_archive",
+      "u": "https://en.wikipedia.org/wiki/Mura%C5%A1%C3%BB_Archive",
       "consensus_status": "probabilistic",
       "source_tier": "secondary"
     },
@@ -8251,8 +8366,8 @@
         "fr": "Un fragment de rouleau en cuir de la grotte 4 de Qumrân, contenant des portions d'Exode 38-40 et de Lévitique 1-2, daté paléographiquement du milieu à la fin du IIIe siècle av. J.-C. — parmi les plus anciens manuscrits de la Torah ayant survécu, antérieur à toute la période hasmonéenne. Son existence à cette date mine les théories plaçant la composition finale ou la standardisation de la Torah des siècles plus tard : quel que soit le processus ayant produit ce texte, il était déjà complet et en circulation scribale bien avant les événements que certaines théories critiques exigeraient pour une Torah « tardive ».",
         "es": "Un fragmento de rollo de cuero de la Cueva 4 de Qumrán, que contiene porciones de Éxodo 38-40 y Levítico 1-2, fechado paleográficamente a mediados o finales del siglo III a.C. — entre los manuscritos de la Torá más antiguos que se conservan, anterior a todo el período asmoneo. Su existencia en esta fecha socava las teorías que sitúan la composición final o la estandarización de la Torá siglos más tarde: sea cual sea el proceso que produjo el texto, ya estaba completo y en circulación escriba mucho antes de los eventos que algunas teorías críticas requerirían para una Torá \"tardía\"."
       },
-      "s": "4Q17, Rockefeller Museum, Jerusalem",
-      "u": "https://orion-bibliography.huji.ac.il/orion_editor/taxonomy/term/7989",
+      "s": "4Q17 (4QExod-Lev f), Rockefeller Museum, Jerusalem; Leon Levy Dead Sea Scrolls Digital Library",
+      "u": "https://deadseascrolls.org.il/explore-the-archive/manuscript/4Q17-1",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
       "date_sort": -250
@@ -8273,7 +8388,7 @@
         "es": "4QMMT (\"Algunos preceptos de la Torá\"), reconstruido a partir de seis manuscritos fragmentarios hallados en la Cueva 4 de Qumrán y publicado formalmente por Elisha Qimron y John Strugnell (DJD X, 1994), es una carta de unas 120 líneas, probablemente fechada a mediados del siglo II a.C., en la que la comunidad de Qumrán expone su posición sobre una veintena de puntos específicos de la ley de la Torá en los que discrepa de la práctica del establecimiento religioso de Jerusalén — incluyendo los requisitos de pureza para quienes manejan las cenizas de la vaca roja (Números 19) y si un chorro de líquido vertido transmite impureza ritual entre recipientes. La carta demuestra que el razonamiento halájico detallado y basado en el texto, así como la disputa sobre la aplicación precisa de la ley de la Torá, ya eran una práctica técnica madura a mediados del período del Segundo Templo — aproximadamente contemporánea, o anterior, a la datación tradicional que los críticos asignan a varios libros bíblicos de esta época — en lugar de un desarrollo rabínico mucho más tardío."
       },
       "s": "Qimron, E. & Strugnell, J., Qumran Cave 4.V: Miqsat Ma'ase Ha-Torah (DJD X, 1994)",
-      "u": "https://en.wikipedia.org/wiki/Miksat_Ma%27ase_Ha-Torah",
+      "u": "https://en.wikipedia.org/wiki/4QMMT",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
       "date_sort": -150,
@@ -8300,7 +8415,10 @@
       "u": "https://www.bfhu.org/2019/07/10/we-have-found-biblical-ziklag/",
       "date_sort": -1050,
       "consensus_status": "contested",
-      "source_tier": "news"
+      "source_tier": "news",
+      "places": [
+        "khirbet-al-rai"
+      ]
     },
     {
       "id": 221,
@@ -8342,7 +8460,10 @@
       "u": "https://cris.huji.ac.il/en/publications/a-new-hebrew-ostracon-from-lachish/",
       "date_sort": -586,
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "lachish"
+      ]
     },
     {
       "id": 283,
@@ -8495,7 +8616,11 @@
         "es": "La tablilla confirma la existencia, el nombre y el título del funcionario; es anterior al asedio y no lo describe. La división de los nombres en Jeremías 39:3 se debate, y algunas lecturas debilitarían la coincidencia."
       },
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "jerusalem",
+        "babylon"
+      ]
     },
     {
       "id": 141,
@@ -8516,7 +8641,10 @@
       "u": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10273384/",
       "date_sort": -650,
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "ein-gedi"
+      ]
     },
     {
       "id": 233,
@@ -8658,15 +8786,18 @@
         "es": "Las tablillas de raciones de Joaquín — corroboración babilónica directa del rey exiliado"
       },
       "e": {
-        "en": "Cuneiform tablets excavated in Nebuchadnezzar II's Babylon palace archive list monthly oil rations for 'Ya'u-kīnu, king of the land of Yahudu' — Jehoiachin, king of Judah — and his five sons, dated to the 10th–35th years of Nebuchadnezzar's reign (597–570s BCE). The tablets independently confirm 2 Kings 24:12–15 and 25:27–30: that Jehoiachin was deported to Babylon, kept alive, and still recognized with royal rations decades after his capture.",
-        "he": "לוחות יתדות שנחפרו בארכיון הארמון של נבוכדנצר השני בבבל מפרטים הקצבות שמן חודשיות ל'יאוכין, מלך ארץ יהוד' — יהויכין מלך יהודה — ולחמשת בניו, מתוארכים לשנים 10–35 למלכות נבוכדנצר (כ-597–570 לפנה״ס). הלוחות מאששים באופן עצמאי את מלכים ב כד:יב–טו וכה:כז–ל: שיהויכין הוגלה לבבל, נשמר בחיים, והוסיף להיות מוכר בהקצבות מלכותיות עשרות שנים לאחר שנשבה.",
-        "fr": "Des tablettes cunéiformes découvertes dans les archives du palais de Nabuchodonosor II à Babylone énumèrent des rations mensuelles d'huile pour « Ya'u-kīnu, roi du pays de Yahoud » — Joiachin, roi de Juda — et ses cinq fils, datées des 10e à 35e années du règne de Nabuchodonosor (597–570 av. J.-C. environ). Ces tablettes confirment de manière indépendante 2 Rois 24:12–15 et 25:27–30 : Joiachin fut déporté à Babylone, maintenu en vie, et continuait de recevoir des rations royales des décennies après sa capture.",
-        "es": "Tablillas cuneiformes halladas en el archivo del palacio de Nabucodonosor II en Babilonia registran raciones mensuales de aceite para 'Ya'u-kīnu, rey de la tierra de Yahud' — Joaquín, rey de Judá — y sus cinco hijos, fechadas entre los años 10 y 35 del reinado de Nabucodonosor (c. 597–570 a. C.). Las tablillas confirman de forma independiente 2 Reyes 24:12–15 y 25:27–30: que Joaquín fue deportado a Babilonia, mantenido con vida, y seguía siendo reconocido con raciones reales décadas después de su captura."
+        "en": "Cuneiform tablets excavated in Nebuchadnezzar II's Babylon palace archive list monthly oil rations for 'Ya'u-kīnu, king of the land of Yahudu' — Jehoiachin, king of Judah — and his five sons, dated to the 10th–35th years of Nebuchadnezzar's reign (597–570s BCE). The tablets independently confirm 2 Kings 24:12–15 and 25:27–30: that Jehoiachin was deported to Babylon, kept alive, and still recognized with royal rations decades after his capture. The king who freed Yehoyachin is also known from Babylonian records. Melachim II 25:27 says Evil-merodach released him \"in the year he became king.\" Amel-Marduk (\"man of Marduk\"), Nebuchadnezzar's son, reigned only from 562 to 560 BCE, and contract tablets dated to his reign confirm him as king of Babylon. Vayikra Rabbah 18:2 preserves a tradition that Nebuchadnezzar had imprisoned Evil-merodach; in 1999 the Assyriologist Irving Finkel proposed that a cuneiform lament by an imprisoned son of Nebuchadnezzar, Nabû-šuma-ukîn, was written by the future Amel-Marduk, a proposal many scholars accept.",
+        "he": "לוחות יתדות שנחפרו בארכיון הארמון של נבוכדנצר השני בבבל מפרטים הקצבות שמן חודשיות ל'יאוכין, מלך ארץ יהוד' — יהויכין מלך יהודה — ולחמשת בניו, מתוארכים לשנים 10–35 למלכות נבוכדנצר (כ-597–570 לפנה״ס). הלוחות מאששים באופן עצמאי את מלכים ב כד:יב–טו וכה:כז–ל: שיהויכין הוגלה לבבל, נשמר בחיים, והוסיף להיות מוכר בהקצבות מלכותיות עשרות שנים לאחר שנשבה. גם המלך ששחרר את יהויכין ידוע מן התעודות הבבליות. מלכים ב כה, כז אומר שאויל מרודך שחרר אותו \"בשנת מלכו\". אמל-מרדוך (\"איש מרדוך\"), בנו של נבוכדנצר, מלך רק משנת 562 עד 560 לפנה\"ס, ושטרות מתוארכים לימי מלכותו מאשרים אותו כמלך בבל. ויקרא רבה יח, ב משמר מסורת שנבוכדנצר כלא את אויל מרודך; בשנת 1999 הציע האשורולוג אירווינג פינקל שקינה ביתדות של בן כלוא של נבוכדנצר, נבו-שומה-אוכין, נכתבה בידי מי שנעשה לימים אמל-מרדוך, הצעה שחוקרים רבים מקבלים.",
+        "fr": "Des tablettes cunéiformes découvertes dans les archives du palais de Nabuchodonosor II à Babylone énumèrent des rations mensuelles d'huile pour « Ya'u-kīnu, roi du pays de Yahoud » — Joiachin, roi de Juda — et ses cinq fils, datées des 10e à 35e années du règne de Nabuchodonosor (597–570 av. J.-C. environ). Ces tablettes confirment de manière indépendante 2 Rois 24:12–15 et 25:27–30 : Joiachin fut déporté à Babylone, maintenu en vie, et continuait de recevoir des rations royales des décennies après sa capture. Le roi qui libéra Joiakhin est lui aussi connu par les documents babyloniens. 2 Rois 25:27 dit qu'Évil-Merodakh le libéra « l'année de son avènement ». Amel-Marduk (« homme de Marduk »), fils de Nabuchodonosor, ne régna que de 562 à 560 av. J.-C., et des tablettes de contrats datées de son règne le confirment comme roi de Babylone. Vayikra Rabba 18:2 conserve une tradition selon laquelle Nabuchodonosor avait emprisonné Évil-Merodakh ; en 1999, l'assyriologue Irving Finkel a proposé qu'une lamentation cunéiforme d'un fils emprisonné de Nabuchodonosor, Nabû-šuma-ukîn, ait été écrite par le futur Amel-Marduk, proposition que beaucoup de chercheurs acceptent.",
+        "es": "Tablillas cuneiformes halladas en el archivo del palacio de Nabucodonosor II en Babilonia registran raciones mensuales de aceite para 'Ya'u-kīnu, rey de la tierra de Yahud' — Joaquín, rey de Judá — y sus cinco hijos, fechadas entre los años 10 y 35 del reinado de Nabucodonosor (c. 597–570 a. C.). Las tablillas confirman de forma independiente 2 Reyes 24:12–15 y 25:27–30: que Joaquín fue deportado a Babilonia, mantenido con vida, y seguía siendo reconocido con raciones reales décadas después de su captura. El rey que liberó a Joaquín también es conocido por los documentos babilónicos. 2 Reyes 25:27 dice que Evil-merodac lo liberó \"en el año en que comenzó a reinar\". Amel-Marduk (\"hombre de Marduk\"), hijo de Nabucodonosor, reinó solo de 562 a 560 a.C., y tablillas de contratos fechadas en su reinado lo confirman como rey de Babilonia. Vayikrá Rabá 18:2 conserva una tradición según la cual Nabucodonosor había encarcelado a Evil-merodac; en 1999 el asiriólogo Irving Finkel propuso que un lamento cuneiforme de un hijo encarcelado de Nabucodonosor, Nabû-šuma-ukîn, fue escrito por el futuro Amel-Marduk, propuesta que muchos estudiosos aceptan."
       },
-      "s": "Staatliche Museen zu Berlin, Vorderasiatisches Museum, VAT 16378 (ration list naming the king of Judah)",
+      "s": "Staatliche Museen zu Berlin, Vorderasiatisches Museum, VAT 16378 (ration list naming the king of Judah); R. H. Sack, Amēl-Marduk 562–560 B.C. (AOAT 4, 1972); I. L. Finkel, \"The Lament of Nabû-šuma-ukîn\" (1999); Vayikra Rabbah 18:2",
       "u": "https://search.smb.museum/en/object/obj-1743721",
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "babylon"
+      ]
     },
     {
       "id": 68,
@@ -8729,7 +8860,10 @@
       "u": "https://books.google.com/books?id=TsctDwAAQBAJ&q=%22Sargon+II%22&pg=PP1",
       "consensus_status": "probabilistic",
       "source_tier": "secondary",
-      "date_sort": -703
+      "date_sort": -703,
+      "places": [
+        "babylon"
+      ]
     },
     {
       "id": 69,
@@ -8782,7 +8916,10 @@
         "es": "Los excavadores atribuyen el sitio de Timna a un control edomita, no israelita, en este periodo. El hallazgo muestra que el verdadero tinte argamán y su comercio existían en la región y la época, no que el sitio fuera israelita."
       },
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "timna"
+      ]
     },
     {
       "id": 63,
@@ -8908,7 +9045,10 @@
         "es": "Tanto la identificación de Tell el-Qudeirat con Cadés-Barnea como la datación de esta cerámica se debaten."
       },
       "consensus_status": "contested",
-      "source_tier": "popular"
+      "source_tier": "popular",
+      "places": [
+        "kadesh-barnea"
+      ]
     },
     {
       "id": 110,
@@ -8929,7 +9069,10 @@
       "u": "https://www.tandfonline.com/doi/full/10.1080/00758914.2026.2639908",
       "date_sort": -780,
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "ein-hatzeva"
+      ]
     },
     {
       "id": 57,
@@ -9085,7 +9228,10 @@
       "u": "https://cityofdavid.org.il/en/adneyahu-asher-al-habayit-eng/",
       "date_sort": -650,
       "consensus_status": "probabilistic",
-      "source_tier": "news"
+      "source_tier": "news",
+      "places": [
+        "jerusalem"
+      ]
     },
     {
       "id": 175,
@@ -9106,7 +9252,10 @@
       "u": "https://www.hup.harvard.edu/books/9780674088795",
       "date_sort": 81,
       "consensus_status": "probabilistic",
-      "source_tier": "secondary"
+      "source_tier": "secondary",
+      "places": [
+        "jerusalem"
+      ]
     },
     {
       "id": 197,
@@ -9123,8 +9272,8 @@
         "fr": "Ésaïe 20:1 date une prophétie de « l'année où le Tartan (commandant) vint à Asdod, envoyé par Sargon, roi d'Assyrie, et qu'il combattit contre Asdod et la prit » — avant la découverte des propres archives de Sargon II en 1843, ce verset était la seule source ancienne nommant un roi appelé « Sargon », et certains critiques du XIXe siècle doutaient de l'existence d'un tel roi. Les fouilles de Paul-Émile Botta au palais de Sargon II à Khorsabad ont mis au jour les annales royales décrivant la campagne contre Asdod (713-711 av. J.-C.), commémorée par un relief de palais aujourd'hui au Louvre. Des fragments de la propre stèle de victoire de Sargon, commémorant cette même campagne, ont ensuite été excavés directement sur le site d'Asdod lui-même. L'épisode est un cas rare où un seul verset biblique nomme un roi précis, attesté indépendamment, et une campagne militaire précise, attestée indépendamment — et où le scepticisme initial quant à l'exactitude du verset a été entièrement résolu en faveur du texte.",
         "es": "Isaías 20:1 fecha una profecía en 'el año en que el Tartán vino a Asdod, cuando lo envió Sargón, rey de Asiria, y peleó contra Asdod y la tomó' — antes del descubrimiento de los propios registros de Sargón II en 1843, este versículo era la única fuente antigua que nombraba a un rey llamado 'Sargón', y algunos críticos del siglo XIX dudaban de la existencia de tal rey. La excavación de Paul-Émile Botta del palacio de Sargón II en Jorsabad reveló los anales reales que describen la campaña contra Asdod (713-711 a.C.), conmemorada en un relieve del palacio hoy en el Louvre. Fragmentos de la propia estela de victoria de Sargón, conmemorando esta misma campaña, fueron excavados posteriormente directamente en el sitio de Asdod mismo. El episodio es un caso raro en el que un solo versículo bíblico nombra a un rey específico, atestiguado independientemente, y una campaña militar específica, atestiguada independientemente — y en el que el escepticismo inicial sobre la exactitud del versículo se resolvió completamente a favor del texto."
       },
-      "s": "Sargon II Cylinder",
-      "u": "https://museum.imj.org.il/journal/archive/2018-2019/pdf/cylinder.pdf",
+      "s": "Fragments of a basalt stele of Sargon II from Ashdod (RINAP 2, Sargon II 104; Israel Museum, IAA 1963-1053); H. Tadmor, \"Fragments of an Assyrian Stele of Sargon II,\" 'Atiqot 9–10 (1971): 192–197",
+      "u": "https://cdli.earth/artifacts/567416",
       "consensus_status": "settled",
       "source_tier": "primary",
       "date_sort": -711,
@@ -9207,7 +9356,11 @@
         "es": "Es egiptología establecida desde hace mucho. Coincide con la fragmentación política de Canaán en el Bronce Medio, el marco de los relatos patriarcales; no atestigua a Abraham, Isaac o Jacob mismos."
       },
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "jerusalem",
+        "shechem"
+      ]
     },
     {
       "id": 85,
@@ -9335,7 +9488,10 @@
       "u": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0266085",
       "date_sort": -586,
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "jerusalem"
+      ]
     },
     {
       "id": 134,
@@ -9364,7 +9520,10 @@
       "date_sort": -700,
       "consensus_status": "probabilistic",
       "source_tier": "news",
-      "highlight_rank": 11
+      "highlight_rank": 11,
+      "places": [
+        "jerusalem"
+      ]
     },
     {
       "id": 303,
@@ -9479,7 +9638,7 @@
         "es": "Las excavaciones de Yigael Yadin en Masada en 1963-65 recuperaron fragmentos del Génesis, dos rollos de Levítico y un fragmento de Deuteronomio, fechados a finales del período del Segundo Templo. Su texto es prácticamente idéntico a la tradición masorética posterior. Dado que Masada era una fortaleza herodiana/zelote sin ninguna conexión con la comunidad sectaria de Qumrán, estos rollos demuestran que el mismo tipo de texto estabilizado circulaba de forma independiente en más de una comunidad judía — la estabilidad textual observada en los rollos del Mar Muerto no era una peculiaridad local de una sola secta aislada."
       },
       "s": "S. Talmon & Y. Yadin, Masada VI: Hebrew Fragments from Masada (Israel Exploration Society, 1999)",
-      "u": "https://archive.org/details/holylandoxfordar00murp",
+      "u": "https://www.israelexplorationsociety.com/product-page/masada-vi-hebrew-fragments-from-masada",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
       "date_sort": -50,
@@ -9653,7 +9812,10 @@
       "u": "https://www.eisenbrauns.org/books/titles/978-1-57506-183-2.html",
       "date_sort": -450,
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "ramat-rachel"
+      ]
     },
     {
       "id": 352,
@@ -9820,7 +9982,11 @@
         "es": "La estela confirma a un rey israelita Joás que pagaba tributo hacia el 796 a.C., no hechos concretos de 2 Reyes 13–14."
       },
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "shomron",
+        "damascus"
+      ]
     },
     {
       "id": 169,
@@ -9862,7 +10028,10 @@
       "s": "Price, Jonathan; Volume 1/Part 1 Jerusalem: 1-704; 2011; De Gruyter; pp. 53–56",
       "u": "https://www.degruyterbrill.com/document/doi/10.1515/9783110222203.39/html?lang=en&srsltid=AfmBOoqdXCNZplMmjMWGUXb7BhFF3PW_KxCneFfjI31kwA_wAOYWXGW_",
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "jerusalem"
+      ]
     },
     {
       "id": 460,
@@ -9901,7 +10070,7 @@
         "es": "La Torá reutiliza el vocabulario específico de la creación de Génesis 1 al menos cuatro veces, en puntos de inflexión estructuralmente significativos, según un patrón reconocido tanto por fuentes judías clásicas como por la investigación académica moderna. (1) El propio Edén se describe con un lenguaje reservado más tarde para el santuario: Adán es colocado allí «para labrarla y guardarla» (Génesis 2:15), los mismos dos verbos que no se usan en ningún otro lugar para el trabajo ordinario, pero sí repetidamente para el servicio levítico (Números 3:7-8, 8:26, 18:5-6); que Dios «vista» a Adán y Eva (Génesis 3:21) hace eco de la investidura sacerdotal; los querubines custodian la entrada del Edén como más tarde custodiarán el Arca; Dios «paseándose» por el jardín (Génesis 3:8) usa el verbo que más tarde describe la presencia divina moviéndose por el campamento (Levítico 26:12; Deuteronomio 23:15) —la influyente lectura de Gordon Wenham considera el Edén como el primer santuario. (2) La narrativa del Diluvio describe su inicio usando las mismas dos fuentes de agua que Génesis 1:6-7 había separado el segundo día de la creación, ahora reunidas («se rompieron todas las fuentes del gran abismo, y las cataratas de los cielos se abrieron», Génesis 7:11), presentando el diluvio como una anulación temporal de la creación (Sarna, Cassuto) que el pacto de Génesis 8:22 luego revierte. (3) El cruce del mar Rojo (Éxodo 14) repite la misma secuencia de creación: un viento (ruaj) —que hace eco del ruaj que se cernía sobre las aguas primordiales en Génesis 1:2— divide el mar, y aparece tierra seca para que Israel cruce, haciendo eco del segundo y tercer día de Génesis 1; el cruce se lee ampliamente como la propia recreación de Israel como pueblo. (4) Las instrucciones del Tabernáculo (Éxodo 25-31) están estructuradas en siete secciones, cada una introducida por «Hashem dijo a Moisés» —haciendo eco de los siete discursos divinos de Génesis 1— siendo la séptima sección de nuevo el mandamiento del sábado (Éxodo 31:12-17), un paralelo estructural identificado por Peter Kearney y Sarna. Este cuarto caso cuenta con atestación clásica independiente: la introducción de Ramban al Sefer Shemot considera la finalización del Tabernáculo como el cumplimiento del propósito mismo de la creación, citando un Midrash sobre oraciones paralelas en cada finalización; el Midrash Tanjuma (Pekudei 3) afirma directamente que «el Mishkán equivale al mundo entero», y otro pasaje (Pekudei 11:2) señala el eco verbal específico entre el «y Dios bendijo» de Génesis y el «y Moisés los bendijo» de Éxodo en la finalización del Tabernáculo —la misma correspondencia identificada más tarde de forma independiente por la investigación académica. En conjunto, se trata de una técnica compositiva real y atestiguada por fuentes cruzadas, no de una lectura aislada de un solo versículo."
       },
       "s": "Sarna, N., Understanding Genesis (1966) and JPS Torah Commentary: Exodus (1991); Cassuto, U., Commentary on Genesis and Commentary on Exodus; Kearney, P., \"Creation and Liturgy: The P Redaction of Ex 25-40,\" Zeitschrift fur die alttestamentliche Wissenschaft 89 (1977); Wenham, G., \"Sanctuary Symbolism in the Garden of Eden Story,\" Proceedings of the World Congress of Jewish Studies (1986); Ramban's introduction to Sefer Shemot; Midrash Tanchuma, Pekudei 3 and 11:2",
-      "u": "https://www.thetorah.com/article/the-tabernacle-the-creation-and-the-ideal-of-an-orderly-world",
+      "u": "https://www.thetorah.com/article/tabernacle-creation-and-the-ideal-of-an-orderly-world",
       "review_caveat": "This documents a real, cross-attested literary pattern (independently recognized in classical Midrash/Ramban for the Tabernacle instance, and in modern academic scholarship for all four), arguing for deliberate compositional design and thematic unity across widely separated passages. It does not by itself establish a specific composition date or single authorship -- a sufficiently skilled later redactor working with inherited material could also have produced or reinforced these connections -- and classical-source attestation is confirmed specifically for the Tabernacle/creation parallel, not (in this entry) independently verified for the Eden, Flood, or Red Sea instances.",
       "c": {
         "en": "The pattern argues for deliberate design across distant passages; it does not by itself establish a date or single authorship. Classical sources note the Mishkan–creation parallel specifically.",
@@ -9928,11 +10097,14 @@
         "fr": "Une pierre basaltique portant l'inscription hébraïque « vers le lieu de la sonnerie, pour... » a été découverte par Benjamin Mazar en 1968 à la base de l'angle sud-ouest du mont du Temple, étant tombée d'un point plus élevé du mur. Datée du Ier siècle apr. J.-C., elle correspond directement à la description de Josèphe d'un endroit désigné où un prêtre sonnait de la trompette pour annoncer le début et la fin du sabbat. C'est une confirmation matérielle rare d'une pratique rituelle spécifique et nommée, décrite uniquement dans des sources littéraires jusqu'à la découverte de cette pierre.",
         "es": "Una piedra de basalto con la inscripción hebrea «al lugar del toque, para...» fue descubierta por Benjamin Mazar en 1968 en la base de la esquina suroeste del Monte del Templo, tras haber caído desde un punto más alto del muro. Fechada en el siglo I d.C., coincide directamente con la descripción de Josefo de un lugar designado donde un sacerdote tocaba trompetas para anunciar el inicio y el final del sabbat. Es una confirmación física poco común de una práctica ritual específica y nombrada, descrita solo en fuentes literarias hasta que se encontró esta piedra."
       },
-      "s": "Aaron Demsky; When the Priests Trumpeted the Onset of the Sabbath; Biblical Archaeology Review",
-      "u": "http://members.bib-arch.org/publication.asp?PubID=BSBA&Volume=12&Issue=6&ArticleID=3",
+      "s": "A. Demsky, \"When the Priests Trumpeted the Onset of the Sabbath,\" Biblical Archaeology Review 12:6 (1986)",
+      "u": "https://library.biblicalarchaeology.org/article/when-the-priests-trumpeted-the-onset-of-the-sabbath/",
       "date_sort": 30,
       "consensus_status": "probabilistic",
-      "source_tier": "secondary"
+      "source_tier": "secondary",
+      "places": [
+        "jerusalem"
+      ]
     },
     {
       "id": 116,
@@ -10002,8 +10174,8 @@
         "fr": "Deux inscriptions rupestres découvertes dans le désert occidental d'Égypte en 1993, datées d'environ 1900–1800 av. J.-C., conservent certaines des plus anciennes écritures alphabétiques connues — une écriture sémitique précoce adaptée des hiéroglyphes égyptiens, probablement par des ouvriers ou soldats cananeens au service de l'Égypte. Leur datation et leur localisation placent un alphabet fonctionnel en Égypte des siècles avant l'époque traditionnelle de l'Exode, affaiblissant l'affirmation selon laquelle les Israélites de cette époque n'auraient pas eu accès à une écriture capable de consigner un texte juridique.",
         "es": "Dos inscripciones rupestres halladas en el desierto occidental de Egipto en 1993, fechadas hacia 1900–1800 a. C., conservan parte de la escritura alfabética más antigua conocida — una escritura semita temprana adaptada de los jeroglíficos egipcios, probablemente por trabajadores o soldados cananeos al servicio de Egipto. Su fecha y ubicación sitúan un alfabeto funcional en Egipto siglos antes de la época tradicional del Éxodo, debilitando la afirmación de que los israelitas de esa época no podrían haber tenido acceso a una escritura capaz de registrar un texto legal."
       },
-      "s": "Goldwasser, Orly; How the Alphabet Was Born from Hieroglyphs; [[Biblical Archaeology Review]]; Biblical Archaeology Society; 36",
-      "u": "http://members.bib-arch.org/publication.asp?PubID=BSBA&Volume=36&Issue=02&ArticleID=06",
+      "s": "O. Goldwasser, \"How the Alphabet Was Born from Hieroglyphs,\" Biblical Archaeology Review 36:2 (2010)",
+      "u": "https://cris.huji.ac.il/en/publications/how-the-alphabet-was-born-from-hieroglyphs/",
       "consensus_status": "probabilistic",
       "source_tier": "secondary"
     },
@@ -10026,7 +10198,10 @@
       "u": "https://www.timesofisrael.com/extremely-rare-beautiful-first-temple-era-genie-seal-discovered-in-jerusalem/",
       "date_sort": -700,
       "consensus_status": "probabilistic",
-      "source_tier": "news"
+      "source_tier": "news",
+      "places": [
+        "jerusalem"
+      ]
     },
     {
       "id": 74,
@@ -10054,7 +10229,10 @@
         "es": "El hallazgo abarca tres cargamentos distintos a lo largo de unos cinco siglos (del siglo XI al VI a.C.)."
       },
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "dor"
+      ]
     },
     {
       "id": 226,
@@ -10072,7 +10250,7 @@
         "es": "La prosa narrativa de la Torá se basa en la forma verbal wayyiqtol (también llamada waw consecutivo o waw conversivo) -- una estructura sintáctica distintiva, común en todo el hebreo bíblico temprano, que desapareció en gran medida del hebreo posterior. El lingüista Avi Hurvitz desarrolló una metodología rigurosa y refutable para poner a prueba afirmaciones de este tipo: en lugar de basarse en impresiones, comparar la frecuencia real de un rasgo a través de textos fechados con seguridad, controlando el género, ya que el vocabulario de la poesía difiere del de la prosa independientemente de la fecha, por lo que la comparación debe hacerse prosa con prosa o poesía con poesía (Hurvitz et al., A Concise Lexicon of Late Biblical Hebrew, 2014).\n\nAl aplicar ese estándar directamente a los textos de esta misma base de datos: la densidad del wayyiqtol sí muestra un declive real y sustancial en los libros tardíos fechados con seguridad -- Esdras, Nehemías, Ester y Daniel -- una caída de 14 a 24 puntos porcentuales en comparación con la prosa narrativa clásica. Este es el resultado más sólido que sobrevive de aplicar el método de Hurvitz aquí, y respalda la afirmación general de que la prosa narrativa de la Torá refleja una etapa lingüística anterior a la de los libros postexílicos, no una forma construida artificialmente para imitarla.\n\nUna limitación merece igual peso, ya que la misma prueba controlada por género la reveló: los propios poemas arcaicos de la Torá (el Cántico del Mar, Ha'azinu) no muestran una densidad de wayyiqtol elevada en comparación con la propia prosa narrativa clásica de la Torá (82.1% frente a 78.8%) -- si acaso, ligeramente más alta. Así que, aunque este rasgo distingue la narrativa hebrea bíblica clásica de los libros postexílicos genuinamente tardíos, no distingue, por sí solo, a estos poemas específicos como lingüísticamente más antiguos que la prosa que los rodea en la propia Torá. El campo también está genuinamente dividido sobre cuánto peso puede sostener la morfología arcaica como herramienta de datación en general: Ian Young, Robert Rezetko y Martin Ehrensvärd han argumentado que la distinción entre hebreo bíblico temprano y tardío no es un marcador cronológico confiable, una postura que Hurvitz y otros han refutado pero que esta entrada no resuelve."
       },
       "s": "A. Hurvitz, L. Gottlieb, A. Hornkohl, E. Mastey, A Concise Lexicon of Late Biblical Hebrew: Linguistic Innovations in the Writings of the Second Temple Period (Brill, 2014)",
-      "u": "https://en.wikipedia.org/wiki/Wayyiqtol",
+      "u": "https://cris.tau.ac.il/en/publications/a-concise-lexicon-of-late-biblical-hebrew-linguistic-innovations-/",
       "review_caveat": "This entry consolidates three prior separate entries that made the same core claim redundantly. The claim's strongest support (genuine wayyiqtol decline in Ezra/Nehemiah/Esther/Daniel) is quantitatively confirmed; its weakest implicit extension (that this feature also proves the Torah's archaic poems are older than its own classical prose) is not supported by the same genre-controlled test. The Young/Rezetko/Ehrensvard critique of Early/Late Biblical Hebrew as a dating tool is a genuine, unresolved methodological dispute, not a fringe objection.",
       "c": {
         "en": "Using linguistic features to date biblical texts is a debated method (Young, Rezetko and Ehrensvärd). The decline of this verb form in late books such as Ezra, Nechemiah and Esther is well documented.",
@@ -10110,7 +10288,10 @@
         "es": "La destrucción de Bab edh-Dhra y Numeira data de hacia el 2350 a.C., antes de donde la mayoría de las cronologías sitúan a los Patriarcas. Identificar estos sitios con Sodoma y Gomorra es una posición minoritaria antigua, no el consenso."
       },
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "sodom"
+      ]
     },
     {
       "id": 136,
@@ -10138,7 +10319,10 @@
         "es": "Por ahora solo se conoce por un comunicado de prensa (octubre de 2025), no por una publicación revisada por pares. El fragmento no conserva el rey ni el año, así que el vínculo con Jizkiyahu es una inferencia de los excavadores."
       },
       "consensus_status": "probabilistic",
-      "source_tier": "news"
+      "source_tier": "news",
+      "places": [
+        "jerusalem"
+      ]
     },
     {
       "id": 201,
@@ -10184,7 +10368,10 @@
       "u": "https://www.timesofisrael.com/islamic-state-looting-uncovers-ancient-palace-beneath-jonahs-tomb/",
       "consensus_status": "settled",
       "source_tier": "news",
-      "highlight_rank": 12
+      "highlight_rank": 12,
+      "places": [
+        "nineveh"
+      ]
     },
     {
       "id": 208,
@@ -10205,7 +10392,10 @@
         "es": "Dos cilindros de arcilla con inscripciones en cuneiforme neobabilónico, hallados cerca del zigurat de Kish, en el centro de Irak, en 2013, y conservados actualmente en el Museo de Irak, fueron publicados en diciembre de 2025 en la revista Iraq. Escritos en primera persona, los cilindros registran al rey Nabucodonosor II (r. 605-562 a.C.) describiendo su restauración de los templos de Kish dedicados a los dioses Zababa e Ishtar: \"Puse en orden su ladrillería... embellecí su apariencia exterior y la hice brillar como la luz del día\", seguido de oraciones por la larga vida del rey y el éxito militar. Este estilo de inscripción real autoglorificadora sobre construcciones se asemeja estrechamente a la jactancia que Daniel 4:30 pone en boca del propio Nabucodonosor, contemplando Babilonia desde el techo de su palacio: \"¿No es esta la gran Babilonia que yo edifiqué... con la fuerza de mi poder?\". Los cilindros no llevan un año de reinado específico, por lo que no pueden fecharse con precisión dentro de su reinado, y lo presentan en su papel real mesopotámico más típico -- constructor y restaurador de templos -- más que como conquistador, un recordatorio de que el retrato bíblico de Nabucodonosor como destructor de Jerusalén y exiliador de Judá (2 Reyes 24-25) es solo una faceta de un rey cuyas propias inscripciones enfatizan sobre todo la piedad y la construcción. Leído junto con la Crónica Babilónica y las tablillas de raciones de Joaquín ya documentadas en otra parte de esta colección, el hallazgo añade evidencia documental adicional en primera persona sobre el reinado y la autopresentación característica del rey específico que la Biblia nombra como conquistador de Judá."
       },
       "s": "Study published in Iraq (Dec. 2025); Jerusalem Post, Ancient Origins, Arkeonews, phys.org (Jan. 2026)",
-      "u": "https://www.jpost.com/archaeology/article-892640"
+      "u": "https://www.jpost.com/archaeology/article-892640",
+      "places": [
+        "kish"
+      ]
     },
     {
       "id": 43,
@@ -10322,7 +10512,10 @@
       "s": "Israel Antiquities Authority / Tower of David Museum (Dr. Amit Re'em), announced December 2025",
       "u": "https://www.timesofisrael.com/2100-year-old-mystery-unearthed-with-dismantled-hasmonean-era-wall-in-jerusalem/",
       "consensus_status": "probabilistic",
-      "source_tier": "news"
+      "source_tier": "news",
+      "places": [
+        "jerusalem"
+      ]
     },
     {
       "id": 155,
@@ -10417,7 +10610,10 @@
       "s": "Vaknin, Y. et al., \"Reconstructing biblical military campaigns using geomagnetic field data,\" Proceedings of the National Academy of Sciences 119(44): e2209117119 (2022)",
       "u": "https://doi.org/10.1073/pnas.2209117119",
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "tel-rehov"
+      ]
     },
     {
       "id": 272,
@@ -10523,7 +10719,10 @@
         "he": "המחקר עוסק בתולדות כת קומראן; המסקנה בדבר לוח השנה של התורה היא מסקנה של פרויקט זה.",
         "fr": "L'étude porte sur l'histoire de la secte de Qoumrân ; la conclusion concernant le calendrier de la Torah est une déduction de ce projet.",
         "es": "El estudio trata de la historia de la secta de Qumrán; la conclusión sobre el calendario de la Torá es una inferencia de este proyecto."
-      }
+      },
+      "places": [
+        "qumran"
+      ]
     },
     {
       "id": 101,
@@ -10683,7 +10882,10 @@
       "u": "https://publications.iaa.org.il/atiqot/vol111/iss1/15/",
       "date_sort": -701,
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "lachish"
+      ]
     },
     {
       "id": 193,
@@ -10704,7 +10906,10 @@
       "u": "https://faculty.washington.edu/snoegel/PDFs/articles/Noegel%2047%20-%20ANEHST%202006b.pdf",
       "date_sort": -800,
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "damascus"
+      ]
     },
     {
       "id": 182,
@@ -10788,7 +10993,11 @@
       "s": "L. G. Herr, \"The Servant of Baalis,\" Biblical Archaeologist 48 (1985) 169-172; B. Becking, \"The Seal of Ba'alisha, King of the Ammonites: Some Remarks,\" Biblische Notizen 97 (1999)",
       "u": "https://biblische-notizen.digitheo.de/ojs/index.php/bn/article/download/97662/97494/97698",
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "tell-el-umeiri",
+        "rabbah-ammon"
+      ]
     },
     {
       "id": 234,
@@ -11015,10 +11224,10 @@
         "es": "Sanbalat, gobernador de Samaria, en los papiros de Elefantina (Nehemías 2:10; 13:28)"
       },
       "e": {
-        "en": "Nechemiah names Sanballat the Horonite as the leader of the opposition to rebuilding Jerusalem's walls. 1. He is distressed that someone has come to seek the welfare of Israel (Nechemiah 2:10). 2. He mocks the builders and, with his allies, plots to stop the work and to lure Nechemiah away (Nechemiah 3:33–35; 6:1–14). 3. A grandson of the Kohen Gadol Elyashiv had married Sanballat's daughter, and Nechemiah drove him away (Nechemiah 13:28). An Aramaic letter from the Jewish community of Elephantine in southern Egypt, dated \"the 20th of Marheshvan, year 17 of King Darius\" (late 407 BCE), confirms that a Sanballat governed Samaria. The letter, addressed to Bagohi, the Persian governor of Judah, asks for help in rebuilding the community's destroyed temple. It says the writers had earlier written \"to Jehohanan the High Priest and his colleagues the priests who are in Jerusalem,\" and had sent the same appeal \"to Delaiah and Shelemiah sons of Sanballat governor of Samaria.\" The letter survives in two drafts (TAD A4.7 in Berlin and A4.8 in Cairo). It shows Sanballat's family still ruling Samaria, with his sons acting for him, some decades after Nechemiah's mission by the conventional dating. Its High Priest Jehohanan also bears the name that Nechemiah 12:22–23 gives in the line of Kohanim Gedolim after Elyashiv.",
-        "he": "נחמיה מציג את סנבלט החרני כראש המתנגדים לבניין חומות ירושלים. 1. רע לו כי בא אדם לבקש טובה לבני ישראל (נחמיה ב:י). 2. הוא לועג לבונים, ועם בעלי בריתו זומם לעצור את המלאכה ולפתות את נחמיה לצאת מן העיר (נחמיה ג:לג–לה; ו:א–יד). 3. נכדו של הכהן הגדול אלישיב נשא את בת סנבלט, ונחמיה הבריח אותו מעליו (נחמיה יג:כח). מכתב ארמי מן הקהילה היהודית ביֵב שבדרום מצרים, המתוארך \"ב־20 במרחשוון, שנת 17 לדריווש המלך\" (סוף 407 לפנה\"ס), מאשר שסנבלט אחד היה פחת שומרון. המכתב, הממוען לבגוהי, הפחה הפרסי של יהודה, מבקש עזרה בבניין מקדש הקהילה שנחרב. כותביו מספרים שכבר כתבו \"אל יהוחנן הכהן הגדול וחבריו הכהנים אשר בירושלים\", ושלחו את אותה בקשה \"אל דליה ושלמיה בני סנבלט פחת שומרון\". המכתב השתמר בשתי טיוטות (TAD A4.7 בברלין ו־A4.8 בקהיר). הוא מראה שמשפחת סנבלט עדיין שלטה בשומרון, ובניו פועלים בשמו, כמה עשרות שנים אחרי שליחותו של נחמיה לפי התיארוך המקובל. גם הכהן הגדול יהוחנן שבמכתב נושא את השם שנחמיה יב:כב–כג מונה בשושלת הכהנים הגדולים אחרי אלישיב.",
-        "fr": "Néhémie présente Sanballat le Horonite comme le chef de l'opposition à la reconstruction des murailles de Jérusalem. 1. Il s'afflige que quelqu'un soit venu rechercher le bien d'Israël (Néhémie 2:10). 2. Il se moque des bâtisseurs et, avec ses alliés, complote pour arrêter les travaux et attirer Néhémie hors de la ville (Néhémie 3:33-35 ; 6:1-14). 3. Un petit-fils du Cohen Gadol Éliachiv avait épousé la fille de Sanballat, et Néhémie le chassa (Néhémie 13:28). Une lettre araméenne de la communauté juive d'Éléphantine, en Haute-Égypte, datée « le 20 Marheshvan, an 17 du roi Darius » (fin 407 av. J.-C.), confirme qu'un Sanballat gouvernait la Samarie. Adressée à Bagohi, gouverneur perse de Juda, la lettre demande de l'aide pour reconstruire le temple détruit de la communauté. Les auteurs y disent avoir écrit auparavant « à Yehohanan le grand prêtre et à ses collègues les prêtres qui sont à Jérusalem », et avoir envoyé la même requête « à Delaïa et Shelemia, fils de Sanballat, gouverneur de Samarie ». La lettre est conservée en deux brouillons (TAD A4.7 à Berlin et A4.8 au Caire). Elle montre la famille de Sanballat toujours au pouvoir en Samarie, ses fils agissant en son nom, quelques décennies après la mission de Néhémie selon la datation conventionnelle. Son grand prêtre Yehohanan porte aussi le nom que Néhémie 12:22-23 donne dans la lignée des Cohanim Guedolim après Éliachiv.",
-        "es": "Nehemías presenta a Sanbalat el horonita como el jefe de la oposición a la reconstrucción de las murallas de Jerusalén. 1. Le disgusta que alguien haya venido a procurar el bien de Israel (Nehemías 2:10). 2. Se burla de los constructores y, con sus aliados, conspira para detener la obra y atraer a Nehemías fuera de la ciudad (Nehemías 3:33-35; 6:1-14). 3. Un nieto del Cohén Gadol Eliashiv se había casado con la hija de Sanbalat, y Nehemías lo expulsó (Nehemías 13:28). Una carta aramea de la comunidad judía de Elefantina, en el sur de Egipto, fechada \"el 20 de Marjeshván, año 17 del rey Darío\" (finales de 407 a.C.), confirma que un Sanbalat gobernaba Samaria. Dirigida a Bagohi, gobernador persa de Judá, la carta pide ayuda para reconstruir el templo destruido de la comunidad. Sus autores dicen que antes habían escrito \"a Yehojanán el sumo sacerdote y a sus colegas los sacerdotes que están en Jerusalén\", y que enviaron la misma petición \"a Delaías y Selemías, hijos de Sanbalat, gobernador de Samaria\". La carta se conserva en dos borradores (TAD A4.7 en Berlín y A4.8 en El Cairo). Muestra a la familia de Sanbalat todavía en el poder en Samaria, con sus hijos actuando en su nombre, algunas décadas después de la misión de Nehemías según la datación convencional. Su sumo sacerdote Yehojanán lleva además el nombre que Nehemías 12:22-23 da en la línea de los Cohaním Guedolím después de Eliashiv."
+        "en": "Nechemiah names Sanballat the Horonite as the leader of the opposition to rebuilding Jerusalem's walls. 1. He is distressed that someone has come to seek the welfare of Israel (Nechemiah 2:10). 2. He mocks the builders and, with his allies, plots to stop the work and to lure Nechemiah away (Nechemiah 3:33–35; 6:1–14). 3. A grandson of the Kohen Gadol Elyashiv had married Sanballat's daughter, and Nechemiah drove him away (Nechemiah 13:28). An Aramaic letter from the Jewish community of Elephantine in southern Egypt, dated \"the 20th of Marheshvan, year 17 of King Darius\" (late 407 BCE), confirms that a Sanballat governed Samaria. The letter, addressed to Bagohi, the Persian governor of Judah, asks for help in rebuilding the community's destroyed temple. It says the writers had earlier written \"to Jehohanan the High Priest and his colleagues the priests who are in Jerusalem,\" and had sent the same appeal \"to Delaiah and Shelemiah sons of Sanballat governor of Samaria.\" The letter survives in two drafts (TAD A4.7 in Berlin and A4.8 in Cairo). It shows Sanballat's family still ruling Samaria, with his sons acting for him, some decades after Nechemiah's mission by the conventional dating. Its High Priest Jehohanan also bears the name that Nechemiah 12:22–23 gives in the line of Kohanim Gedolim after Elyashiv. The \"King Darius\" of this letter is Darius II (reigned 424–404 BCE). Nechemiah 12:22 records the Levites and Kohanim of the days of Elyashiv, Yoyada, Yochanan and Yaddua \"until the reign of Darius the Persian.\" Many scholars identify that Darius as Darius II, which agrees with this letter's High Priest Jehohanan serving under him; others argue for Darius III.",
+        "he": "נחמיה מציג את סנבלט החרני כראש המתנגדים לבניין חומות ירושלים. 1. רע לו כי בא אדם לבקש טובה לבני ישראל (נחמיה ב:י). 2. הוא לועג לבונים, ועם בעלי בריתו זומם לעצור את המלאכה ולפתות את נחמיה לצאת מן העיר (נחמיה ג:לג–לה; ו:א–יד). 3. נכדו של הכהן הגדול אלישיב נשא את בת סנבלט, ונחמיה הבריח אותו מעליו (נחמיה יג:כח). מכתב ארמי מן הקהילה היהודית ביֵב שבדרום מצרים, המתוארך \"ב־20 במרחשוון, שנת 17 לדריווש המלך\" (סוף 407 לפנה\"ס), מאשר שסנבלט אחד היה פחת שומרון. המכתב, הממוען לבגוהי, הפחה הפרסי של יהודה, מבקש עזרה בבניין מקדש הקהילה שנחרב. כותביו מספרים שכבר כתבו \"אל יהוחנן הכהן הגדול וחבריו הכהנים אשר בירושלים\", ושלחו את אותה בקשה \"אל דליה ושלמיה בני סנבלט פחת שומרון\". המכתב השתמר בשתי טיוטות (TAD A4.7 בברלין ו־A4.8 בקהיר). הוא מראה שמשפחת סנבלט עדיין שלטה בשומרון, ובניו פועלים בשמו, כמה עשרות שנים אחרי שליחותו של נחמיה לפי התיארוך המקובל. גם הכהן הגדול יהוחנן שבמכתב נושא את השם שנחמיה יב:כב–כג מונה בשושלת הכהנים הגדולים אחרי אלישיב. \"דריוש המלך\" של מכתב זה הוא דריוש השני (מלך 424–404 לפנה\"ס). נחמיה יב, כב רושם את הלוויים והכהנים בימי אלישיב, יוידע, יוחנן וידוע \"על מלכות דריוש הפרסי\". חוקרים רבים מזהים את דריוש זה עם דריוש השני, וזה מתאים לכהן הגדול יהוחנן של המכתב, שכיהן בימיו; אחרים טוענים שמדובר בדריוש השלישי.",
+        "fr": "Néhémie présente Sanballat le Horonite comme le chef de l'opposition à la reconstruction des murailles de Jérusalem. 1. Il s'afflige que quelqu'un soit venu rechercher le bien d'Israël (Néhémie 2:10). 2. Il se moque des bâtisseurs et, avec ses alliés, complote pour arrêter les travaux et attirer Néhémie hors de la ville (Néhémie 3:33-35 ; 6:1-14). 3. Un petit-fils du Cohen Gadol Éliachiv avait épousé la fille de Sanballat, et Néhémie le chassa (Néhémie 13:28). Une lettre araméenne de la communauté juive d'Éléphantine, en Haute-Égypte, datée « le 20 Marheshvan, an 17 du roi Darius » (fin 407 av. J.-C.), confirme qu'un Sanballat gouvernait la Samarie. Adressée à Bagohi, gouverneur perse de Juda, la lettre demande de l'aide pour reconstruire le temple détruit de la communauté. Les auteurs y disent avoir écrit auparavant « à Yehohanan le grand prêtre et à ses collègues les prêtres qui sont à Jérusalem », et avoir envoyé la même requête « à Delaïa et Shelemia, fils de Sanballat, gouverneur de Samarie ». La lettre est conservée en deux brouillons (TAD A4.7 à Berlin et A4.8 au Caire). Elle montre la famille de Sanballat toujours au pouvoir en Samarie, ses fils agissant en son nom, quelques décennies après la mission de Néhémie selon la datation conventionnelle. Son grand prêtre Yehohanan porte aussi le nom que Néhémie 12:22-23 donne dans la lignée des Cohanim Guedolim après Éliachiv. Le « roi Darius » de cette lettre est Darius II (règne 424–404 av. J.-C.). Néhémie 12:22 enregistre les Lévites et les Cohanim des jours d'Elyashiv, Yoyada, Yohanan et Yaddoua « jusqu'au règne de Darius le Perse ». Beaucoup de chercheurs identifient ce Darius à Darius II, ce qui concorde avec le grand prêtre Jehohanan de la lettre, en fonction sous son règne ; d'autres plaident pour Darius III.",
+        "es": "Nehemías presenta a Sanbalat el horonita como el jefe de la oposición a la reconstrucción de las murallas de Jerusalén. 1. Le disgusta que alguien haya venido a procurar el bien de Israel (Nehemías 2:10). 2. Se burla de los constructores y, con sus aliados, conspira para detener la obra y atraer a Nehemías fuera de la ciudad (Nehemías 3:33-35; 6:1-14). 3. Un nieto del Cohén Gadol Eliashiv se había casado con la hija de Sanbalat, y Nehemías lo expulsó (Nehemías 13:28). Una carta aramea de la comunidad judía de Elefantina, en el sur de Egipto, fechada \"el 20 de Marjeshván, año 17 del rey Darío\" (finales de 407 a.C.), confirma que un Sanbalat gobernaba Samaria. Dirigida a Bagohi, gobernador persa de Judá, la carta pide ayuda para reconstruir el templo destruido de la comunidad. Sus autores dicen que antes habían escrito \"a Yehojanán el sumo sacerdote y a sus colegas los sacerdotes que están en Jerusalén\", y que enviaron la misma petición \"a Delaías y Selemías, hijos de Sanbalat, gobernador de Samaria\". La carta se conserva en dos borradores (TAD A4.7 en Berlín y A4.8 en El Cairo). Muestra a la familia de Sanbalat todavía en el poder en Samaria, con sus hijos actuando en su nombre, algunas décadas después de la misión de Nehemías según la datación convencional. Su sumo sacerdote Yehojanán lleva además el nombre que Nehemías 12:22-23 da en la línea de los Cohaním Guedolím después de Eliashiv. El \"rey Darío\" de esta carta es Darío II (reinó 424–404 a.C.). Nehemías 12:22 registra a los levitas y kohanim de los días de Elyashiv, Yoyadá, Yojanán y Yadúa \"hasta el reinado de Darío el persa\". Muchos estudiosos identifican a ese Darío con Darío II, lo que concuerda con el sumo sacerdote Jehohanán de la carta, que sirvió bajo él; otros defienden que se trata de Darío III."
       },
       "s": "Papyrus Cairo EM JdE 43465 = TAD A4.8 (first draft TAD A4.7 = Berlin P. 13495); B. Porten & A. Yardeni, Textbook of Aramaic Documents from Ancient Egypt, vol. 1 (1986); Nechemiah 2:10, 3:33–35, 6:1–14, 12:22–23, 13:28",
       "u": "https://elephantine.smb.museum/objects/object.php?o=308133",
@@ -11208,6 +11417,167 @@
         "he": "האתר שכן במקום שבו נפגשו ישראל, ארם דמשק ופיניקיה, ושאלת השליטה בו במאה ה-9 שנויה במחלוקת. המחברים מציגים את השם כעדות לזיקה אפשרית, לא כהוכחה, והכתובת היא מילה אחת בלבד.",
         "fr": "Le site se trouvait au point de rencontre d'Israël, d'Aram-Damas et de la Phénicie, et la question de son contrôle au IXe siècle est débattue. Les auteurs présentent le nom comme l'indice d'une affiliation possible, non comme une preuve, et l'inscription ne compte qu'un mot.",
         "es": "El sitio estaba donde se encontraban Israel, Aram-Damasco y Fenicia, y quién lo controlaba en el siglo IX se debate. Los autores presentan el nombre como indicio de una posible afiliación, no como prueba, y la inscripción es una sola palabra."
+      },
+      "places": [
+        "abel-beth-maacah"
+      ]
+    },
+    {
+      "id": 466,
+      "layer": "history_corrob",
+      "t": {
+        "en": "Tirhakah, King of Kush — Sennacherib's Kushite Opponent (Melachim II 19:9)",
+        "he": "תרהקה מלך כוש — יריבו הכושי של סנחריב (מלכים ב יט, ט)",
+        "fr": "Tirhaqa, roi de Koush — l'adversaire koushite de Sennachérib (2 Rois 19:9)",
+        "es": "Tirhaca, rey de Cus — el adversario cusita de Senaquerib (2 Reyes 19:9)"
+      },
+      "e": {
+        "en": "Melachim II 19:9 (= Yeshayahu 37:9) reports that while Sennacherib was campaigning in Judah in 701 BCE, he heard that \"Tirhakah king of Kush\" had come out to fight him. Taharqa (Tirhakah) is one of the best-documented kings of the period: a pharaoh of Egypt's Kushite 25th Dynasty (reigned 690–664 BCE), whose name appears on temples from Karnak in Egypt to Kawa and Jebel Barkal in Sudan. The Assyrian kings Esarhaddon and Ashurbanipal name him in their own inscriptions as their enemy, \"Tarqû, king of Egypt and Kush,\" and Esarhaddon's victory stele shows Taharqa's captured son. Sennacherib's own annals for 701 describe a battle at Eltekeh against \"the kings of Egypt\" and the troops \"of the king of Meluhha,\" the Assyrian name for Kush, so a Kushite force in the field that year is independently attested. Tanach names the right ruler of the right kingdom: a Kushite dynasty that controlled Egypt for only a few generations.",
+        "he": "מלכים ב יט, ט (= ישעיהו לז, ט) מספר שבשעה שסנחריב נלחם ביהודה בשנת 701 לפנה\"ס, שמע ש\"תרהקה מלך כוש\" יצא להילחם בו. טהרקא (תרהקה) הוא מן המלכים המתועדים ביותר של התקופה: פרעה מן השושלת ה-25, הכושית, של מצרים (מלך 690–664 לפנה\"ס), ששמו מופיע על מקדשים מכרנך שבמצרים ועד כאווה וג'בל ברקל שבסודן. מלכי אשור אסרחדון ואשורבניפל מזכירים אותו בכתובותיהם כאויבם, \"תרקו, מלך מצרים וכוש\", ובאסטלת הניצחון של אסרחדון מתואר בנו השבוי של טהרקא. גם ספרי הימים של סנחריב עצמו לשנת 701 מתארים קרב באלתקא נגד \"מלכי מצרים\" ונגד חיילי \"מלך מלוחה\", כינויה האשורי של כוש, כך שנוכחות של צבא כושי בשדה באותה שנה מתועדת באופן עצמאי. התנ\"ך נוקב בשמו של השליט הנכון של הממלכה הנכונה: שושלת כושית ששלטה במצרים דורות ספורים בלבד.",
+        "fr": "2 Rois 19:9 (= Isaïe 37:9) rapporte que, pendant la campagne de Sennachérib en Juda en 701 av. J.-C., celui-ci apprit que « Tirhaqa, roi de Koush » sortait pour le combattre. Taharqa (Tirhaqa) est l'un des rois les mieux documentés de l'époque : un pharaon de la XXVe dynastie, koushite, d'Égypte (règne 690–664 av. J.-C.), dont le nom figure sur des temples allant de Karnak en Égypte jusqu'à Kawa et au Djebel Barkal au Soudan. Les rois assyriens Assarhaddon et Assurbanipal le nomment dans leurs propres inscriptions comme leur ennemi, « Tarqû, roi d'Égypte et de Koush », et la stèle de victoire d'Assarhaddon montre le fils captif de Taharqa. Les annales de Sennachérib lui-même pour 701 décrivent une bataille à Elteqé contre « les rois d'Égypte » et les troupes « du roi de Meluhha », le nom assyrien de Koush ; la présence d'une armée koushite sur le terrain cette année-là est donc attestée de façon indépendante. Le Tanakh nomme le bon souverain du bon royaume : une dynastie koushite qui ne régna sur l'Égypte que quelques générations.",
+        "es": "2 Reyes 19:9 (= Isaías 37:9) relata que, durante la campaña de Senaquerib en Judá en 701 a.C., este oyó que \"Tirhaca, rey de Cus\" había salido a pelear contra él. Taharqa (Tirhaca) es uno de los reyes mejor documentados de la época: un faraón de la dinastía XXV, cusita, de Egipto (reinó 690–664 a.C.), cuyo nombre aparece en templos desde Karnak en Egipto hasta Kawa y Yebel Barkal en Sudán. Los reyes asirios Asarhadón y Asurbanipal lo nombran en sus propias inscripciones como su enemigo, \"Tarqû, rey de Egipto y de Cus\", y la estela de victoria de Asarhadón muestra al hijo cautivo de Taharqa. Los anales del propio Senaquerib para 701 describen una batalla en Eltequé contra \"los reyes de Egipto\" y las tropas \"del rey de Meluhha\", el nombre asirio de Cus, de modo que la presencia de un ejército cusita en el campo ese año está atestiguada de forma independiente. El Tanaj nombra al gobernante correcto del reino correcto: una dinastía cusita que dominó Egipto solo unas pocas generaciones."
+      },
+      "s": "D. Kahn, \"Tirhakah, King of Kush and Sennacherib,\" Journal of Ancient Egyptian Interconnections 6:1 (2014): 29–41; Sennacherib's annals (Rassam cylinder and prisms), Esarhaddon's Zinjirli stele and Ashurbanipal's annals; Melachim II 19:9; Yeshayahu 37:9",
+      "u": "https://journals.librarypublishing.arizona.edu/jaei/article/id/1102",
+      "consensus_status": "probabilistic",
+      "source_tier": "secondary",
+      "date_sort": -701,
+      "places": [
+        "thebes"
+      ],
+      "review_caveat": "Taharqa became king only in 690 BCE, eleven years after the 701 campaign. Most scholars read \"king\" in Melachim II 19:9 as his later title, used in hindsight. Egyptologists such as Dan'el Kahn and Jeremy Pope argue that the young prince could have commanded or nominally headed the Kushite force in 701; others see his name there as an anachronism. The entry confirms the person and his kingdom, not his exact role in 701.",
+      "c": {
+        "en": "Taharqa became king only in 690 BCE, eleven years after the 701 campaign. Most scholars read \"king\" in Melachim II 19:9 as his later title, used in hindsight. Egyptologists such as Dan'el Kahn and Jeremy Pope argue that the young prince could have commanded or nominally headed the Kushite force in 701; others see his name there as an anachronism. The entry confirms the person and his kingdom, not his exact role in 701.",
+        "he": "טהרקא עלה למלוכה רק בשנת 690 לפנה\"ס, אחת-עשרה שנה אחרי מסע 701. רוב החוקרים מבינים את התואר \"מלך\" שבמלכים ב יט, ט כתוארו המאוחר, שנכתב במבט לאחור. אגיפטולוגים כמו דניאל כהן וג'רמי פופ טוענים שהנסיך הצעיר יכול היה לפקד, או לעמוד באופן סמלי בראש הכוח הכושי בשנת 701; אחרים רואים בהזכרת שמו שם אנכרוניזם. הערך מאשש את האדם ואת ממלכתו, לא את תפקידו המדויק בשנת 701.",
+        "fr": "Taharqa ne devint roi qu'en 690 av. J.-C., onze ans après la campagne de 701. La plupart des chercheurs lisent « roi » en 2 Rois 19:9 comme son titre ultérieur, employé rétrospectivement. Des égyptologues comme Dan'el Kahn et Jeremy Pope soutiennent que le jeune prince a pu commander, ou diriger nominalement, la force koushite en 701 ; d'autres y voient un anachronisme. L'entrée confirme la personne et son royaume, non son rôle exact en 701.",
+        "es": "Taharqa llegó al trono solo en 690 a.C., once años después de la campaña de 701. La mayoría de los estudiosos lee \"rey\" en 2 Reyes 19:9 como su título posterior, usado en retrospectiva. Egiptólogos como Dan'el Kahn y Jeremy Pope sostienen que el joven príncipe pudo mandar, o encabezar nominalmente, la fuerza cusita en 701; otros ven allí un anacronismo. La entrada confirma a la persona y su reino, no su papel exacto en 701."
+      }
+    },
+    {
+      "id": 467,
+      "layer": "history_corrob",
+      "t": {
+        "en": "Adrammelech — Sennacherib's Murderer Named in an Assyrian Letter (Melachim II 19:37)",
+        "he": "אדרמלך — רוצח סנחריב בשמו במכתב אשורי (מלכים ב יט, לז)",
+        "fr": "Adrammélek — le meurtrier de Sennachérib nommé dans une lettre assyrienne (2 Rois 19:37)",
+        "es": "Adramelec — el asesino de Senaquerib nombrado en una carta asiria (2 Reyes 19:37)"
+      },
+      "e": {
+        "en": "Melachim II 19:37 (= Yeshayahu 37:38) says that Sennacherib was killed while bowing in the temple of his god by his sons Adrammelech and Sharezer, who fled to the land of Ararat, and that his son Esarhaddon became king in his place. The Babylonian Chronicle (ABC 1 iii 34–38) confirms the core of the account: in the month of Tevet 681 BCE \"Sennacherib, king of Assyria, was killed by his son in a rebellion\"; the revolt went on for about two months, and then \"Esarhaddon, his son, ascended the throne in Assyria.\" The chronicle does not name the killer. In 1980 the Assyriologist Simo Parpola republished a fragmentary letter to Esarhaddon that names the conspirator as Arda-Mullissi (Urad-Mullissu), an elder son of Sennacherib, and argued that \"Adrammelech\" is the Hebrew rendering of that name. His identification became the near-consensus view. A prince who appears only once in Tanach thus matches a name recovered from Assyrian court letters.",
+        "he": "מלכים ב יט, לז (= ישעיהו לז, לח) מספר שסנחריב נרצח בשעה שהשתחווה בבית אלוהיו בידי בניו אדרמלך ושראצר, שנמלטו לארץ אררט, ושבנו אסרחדון מלך תחתיו. הכרוניקה הבבלית (ABC 1 iii 34–38) מאשרת את עיקר הסיפור: בחודש טבת 681 לפנה\"ס \"סנחריב מלך אשור נהרג בידי בנו במרד\"; המרד נמשך כחודשיים, ואחר כך \"אסרחדון בנו עלה על כס המלוכה באשור\". הכרוניקה אינה נוקבת בשם הרוצח. בשנת 1980 פרסם מחדש האשורולוג סימו פרפולה מכתב מקוטע לאסרחדון, הנוקב בשם הקושר: ארדא-מוליסי (אורד-מוליסו), בן בכור יותר של סנחריב, וטען ש\"אדרמלך\" הוא הצורה העברית של שם זה. זיהויו הפך לעמדה המקובלת כמעט על כולם. כך נסיך שמופיע בתנ\"ך פעם אחת בלבד מתאים לשם שנמצא בהתכתבות של החצר האשורית.",
+        "fr": "2 Rois 19:37 (= Isaïe 37:38) rapporte que Sennachérib fut tué, alors qu'il se prosternait dans le temple de son dieu, par ses fils Adrammélek et Sharetser, qui s'enfuirent au pays d'Ararat, et que son fils Assarhaddon régna à sa place. La Chronique babylonienne (ABC 1 iii 34–38) confirme l'essentiel : au mois de Tévet 681 av. J.-C., « Sennachérib, roi d'Assyrie, fut tué par son fils lors d'une rébellion » ; la révolte dura environ deux mois, puis « Assarhaddon, son fils, monta sur le trône en Assyrie ». La chronique ne nomme pas le meurtrier. En 1980, l'assyriologue Simo Parpola a republié une lettre fragmentaire adressée à Assarhaddon qui nomme le conjuré Arda-Mullissi (Urad-Mullissu), un fils aîné de Sennachérib, et a soutenu qu'« Adrammélek » est la forme hébraïque de ce nom. Son identification est devenue l'opinion presque unanime. Un prince qui n'apparaît qu'une fois dans le Tanakh correspond ainsi à un nom retrouvé dans la correspondance de la cour assyrienne.",
+        "es": "2 Reyes 19:37 (= Isaías 37:38) relata que Senaquerib fue asesinado, mientras se postraba en el templo de su dios, por sus hijos Adramelec y Sarézer, que huyeron a la tierra de Ararat, y que su hijo Asarhadón reinó en su lugar. La Crónica babilónica (ABC 1 iii 34–38) confirma lo esencial: en el mes de Tevet de 681 a.C. \"Senaquerib, rey de Asiria, fue muerto por su hijo en una rebelión\"; la revuelta duró unos dos meses, y luego \"Asarhadón, su hijo, subió al trono en Asiria\". La crónica no nombra al asesino. En 1980 el asiriólogo Simo Parpola volvió a publicar una carta fragmentaria dirigida a Asarhadón que nombra al conspirador Arda-Mullissi (Urad-Mullissu), un hijo mayor de Senaquerib, y sostuvo que \"Adramelec\" es la forma hebrea de ese nombre. Su identificación se convirtió en la opinión casi unánime. Un príncipe que aparece una sola vez en el Tanaj coincide así con un nombre recuperado de la correspondencia de la corte asiria."
+      },
+      "s": "Babylonian Chronicle ABC 1 iii 34–38 (A. K. Grayson, Assyrian and Babylonian Chronicles, 1975); S. Parpola, \"The Murderer of Sennacherib,\" in B. Alster (ed.), Death in Mesopotamia (1980); A. Knapp, \"The Murderer of Sennacherib, yet Again,\" Journal of the American Oriental Society 140:1 (2020)",
+      "u": "https://www.livius.org/sources/content/mesopotamian-chronicles-content/abc-1-from-nabu-nasir-to-samas-suma-ukin/abc-1.iii/",
+      "consensus_status": "probabilistic",
+      "source_tier": "secondary",
+      "date_sort": -681,
+      "places": [
+        "nineveh"
+      ],
+      "review_caveat": "The identification of Adrammelech rests on a single broken letter. Andrew Knapp (Journal of the American Oriental Society, 2020) accepts that Parpola's reading is coherent but argues that the field relies too heavily on it, and revives the theory that Esarhaddon himself was behind the murder. Sharezer and the flight to Ararat are not confirmed by these texts.",
+      "c": {
+        "en": "The identification of Adrammelech rests on a single broken letter. Andrew Knapp (Journal of the American Oriental Society, 2020) accepts that Parpola's reading is coherent but argues that the field relies too heavily on it, and revives the theory that Esarhaddon himself was behind the murder. Sharezer and the flight to Ararat are not confirmed by these texts.",
+        "he": "זיהוי אדרמלך נשען על מכתב שבור אחד. אנדרו נאפ (Journal of the American Oriental Society, 2020) מקבל שקריאתו של פרפולה עקבית, אך טוען שהמחקר נשען עליה יותר מדי, ומחייה את ההשערה שאסרחדון עצמו עמד מאחורי הרצח. שראצר והבריחה לאררט אינם מאושרים בטקסטים אלה.",
+        "fr": "L'identification d'Adrammélek repose sur une seule lettre brisée. Andrew Knapp (Journal of the American Oriental Society, 2020) admet la cohérence de la lecture de Parpola, mais estime que la recherche s'y appuie trop, et relance l'hypothèse selon laquelle Assarhaddon lui-même aurait été derrière le meurtre. Sharetser et la fuite en Ararat ne sont pas confirmés par ces textes.",
+        "es": "La identificación de Adramelec descansa en una sola carta rota. Andrew Knapp (Journal of the American Oriental Society, 2020) acepta que la lectura de Parpola es coherente, pero sostiene que la investigación se apoya demasiado en ella, y revive la hipótesis de que el propio Asarhadón estuvo detrás del asesinato. Sarézer y la huida a Ararat no están confirmados por estos textos."
+      }
+    },
+    {
+      "id": 468,
+      "layer": "history_corrob",
+      "t": {
+        "en": "Nebuzaradan and Nergal-sharezer on Nebuchadnezzar's Court List (Yirmeyahu 39:3, 13)",
+        "he": "נבוזראדן ונרגל שראצר ברשימת אנשי החצר של נבוכדנצר (ירמיהו לט, ג, יג)",
+        "fr": "Nebouzaradân et Nergal-Sharetser sur la liste de cour de Nabuchodonosor (Jérémie 39:3, 13)",
+        "es": "Nebuzaradán y Nergal-sarézer en la lista de la corte de Nabucodonosor (Jeremías 39:3, 13)"
+      },
+      "e": {
+        "en": "Yirmeyahu 39 lists the Babylonian officers who sat in the gate of Jerusalem after the city fell in 586 BCE, among them \"Nergal-sharezer, Samgar-nebo\" and \"Nebuzaradan the rav tabbachim,\" the officer who later burned the Beis HaMikdash and led the exile (Melachim II 25:8–11; Yirmeyahu 52:12–16). A clay prism of Nebuchadnezzar II, now in the Istanbul Archaeological Museum (EŞ 7834), lists the senior officials of his court. It includes Nabû-zēr-iddin, whose title is the Akkadian for \"chief cook\" (rab nuḫatimmi), the literal meaning of the Hebrew rav tabbachim, and Nergal-šarru-uṣur with the title simmagir, which matches the \"samgar\" that Yirmeyahu attaches to Nergal-sharezer's name. Names, titles and reign all agree, for officials who appear only briefly in Tanach. Together with the Nebo-Sarsekim tablet (see that entry), three of the officers named in Yirmeyahu 39:3–13 are now known from Babylonian records.",
+        "he": "ירמיהו לט מונה את שרי בבל שישבו בשער ירושלים אחרי נפילת העיר בשנת 586 לפנה\"ס, ובהם \"נרגל שראצר סמגר נבו\" ו\"נבוזראדן רב טבחים\", השר שלימים שרף את בית המקדש והוביל את הגלות (מלכים ב כה, ח-יא; ירמיהו נב, יב-טז). מנסרת חרס של נבוכדנצר השני, הנמצאת היום במוזיאון הארכיאולוגי של איסטנבול (EŞ 7834), מונה את בכירי חצרו. ברשימה נמצא נבו-זר-אדן, שתוארו באכדית הוא \"ראש האופים/הטבחים\" (rab nuḫatimmi), המשמעות המילולית של \"רב טבחים\" העברי, ונרגל-שרו-אוצר בתואר סִמַּגִּר, התואם את \"סמגר\" שירמיהו מצמיד לשמו של נרגל שראצר. השמות, התארים ותקופת המלוכה מתאימים כולם, לגבי שרים שמופיעים בתנ\"ך רק בקצרה. יחד עם לוח נבו שר-סכים (ראו ערך זה), שלושה מן השרים הנזכרים בירמיהו לט, ג-יג ידועים היום מן התעודות הבבליות.",
+        "fr": "Jérémie 39 énumère les officiers babyloniens qui siégèrent à la porte de Jérusalem après la chute de la ville en 586 av. J.-C., parmi lesquels « Nergal-Sharetser, Samgar-Nebo » et « Nebouzaradân, le rav tabbahim », l'officier qui incendia ensuite le Temple et conduisit l'exil (2 Rois 25:8–11 ; Jérémie 52:12–16). Un prisme d'argile de Nabuchodonosor II, conservé aujourd'hui au Musée archéologique d'Istanbul (EŞ 7834), énumère les hauts dignitaires de sa cour. On y trouve Nabû-zēr-iddin, dont le titre est l'akkadien « chef cuisinier » (rab nuḫatimmi), le sens littéral de l'hébreu rav tabbahim, et Nergal-šarru-uṣur avec le titre de simmagir, qui correspond au « samgar » que Jérémie accole au nom de Nergal-Sharetser. Noms, titres et règne concordent, pour des officiers qui n'apparaissent que brièvement dans le Tanakh. Avec la tablette de Nébo-Sarsekim (voir cette entrée), trois des officiers nommés en Jérémie 39:3–13 sont désormais connus par les documents babyloniens.",
+        "es": "Jeremías 39 enumera a los oficiales babilonios que se sentaron en la puerta de Jerusalén tras la caída de la ciudad en 586 a.C., entre ellos \"Nergal-sarézer, Samgar-nebo\" y \"Nebuzaradán, el rav tabbajim\", el oficial que después incendió el Templo y condujo el exilio (2 Reyes 25:8–11; Jeremías 52:12–16). Un prisma de arcilla de Nabucodonosor II, hoy en el Museo Arqueológico de Estambul (EŞ 7834), enumera a los altos funcionarios de su corte. Incluye a Nabû-zēr-iddin, cuyo título es el acadio \"jefe de cocineros\" (rab nuḫatimmi), el sentido literal del hebreo rav tabbajim, y a Nergal-šarru-uṣur con el título de simmagir, que coincide con el \"samgar\" que Jeremías añade al nombre de Nergal-sarézer. Nombres, títulos y reinado concuerdan, para oficiales que aparecen solo brevemente en el Tanaj. Junto con la tablilla de Nebo-Sarsequim (véase esa entrada), tres de los oficiales nombrados en Jeremías 39:3–13 se conocen ahora por documentos babilónicos."
+      },
+      "s": "Nebuchadnezzar II's prism, Istanbul Archaeological Museum EŞ 7834; R. Da Riva, \"Nebuchadnezzar II's Prism (EŞ 7834): A New Edition,\" Zeitschrift für Assyriologie 103 (2013): 196–229; Yirmeyahu 39:3, 9–13; 52:12–16",
+      "u": "https://keibi.uni-tuebingen.de/Record/KEI00123944?lng=en",
+      "consensus_status": "probabilistic",
+      "source_tier": "primary",
+      "date_sort": -586,
+      "places": [
+        "babylon",
+        "jerusalem"
+      ],
+      "review_caveat": "The prism does not mention Jerusalem; the match rests on names, titles and period. Whether this Nergal-sharezer is the same man as Neriglissar, who later became king of Babylon, is debated, and the division of the names in Yirmeyahu 39:3 is itself uncertain.",
+      "c": {
+        "en": "The prism does not mention Jerusalem; the match rests on names, titles and period. Whether this Nergal-sharezer is the same man as Neriglissar, who later became king of Babylon, is debated, and the division of the names in Yirmeyahu 39:3 is itself uncertain.",
+        "he": "המנסרה אינה מזכירה את ירושלים; ההתאמה נשענת על שמות, תארים ותקופה. אם נרגל שראצר זה הוא נריגליסר, שמלך לימים בבבל, שנוי במחלוקת, וגם חלוקת השמות בירמיהו לט, ג עצמה אינה ודאית.",
+        "fr": "Le prisme ne mentionne pas Jérusalem ; la correspondance repose sur les noms, les titres et l'époque. On débat de savoir si ce Nergal-Sharetser est le même homme que Nériglissar, devenu plus tard roi de Babylone, et le découpage des noms en Jérémie 39:3 est lui-même incertain.",
+        "es": "El prisma no menciona Jerusalén; la coincidencia descansa en nombres, títulos y época. Se discute si este Nergal-sarézer es el mismo hombre que Neriglisar, que más tarde fue rey de Babilonia, y la división de los nombres en Jeremías 39:3 es en sí misma incierta."
+      }
+    },
+    {
+      "id": 469,
+      "layer": "history_corrob",
+      "t": {
+        "en": "Xerxes I — Achashverosh in His Own Inscriptions (Esther 1:1; Ezra 4:6)",
+        "he": "כסרכסס הראשון — אחשורוש בכתובותיו שלו (אסתר א, א; עזרא ד, ו)",
+        "fr": "Xerxès Ier — Assuérus dans ses propres inscriptions (Esther 1:1 ; Esdras 4:6)",
+        "es": "Jerjes I — Asuero en sus propias inscripciones (Ester 1:1; Esdras 4:6)"
+      },
+      "e": {
+        "en": "The Persian king Xerxes I (reigned 486–465 BCE) wrote his name Xšayāršā in Old Persian; through its Babylonian form it gives the Hebrew Achashverosh, and most scholars identify the Achashverosh of Megillas Esther and Ezra 4:6 with Xerxes. Many of his own inscriptions survive at Persepolis. In one of them, the \"Daiva inscription\" (XPh), he lists the lands he ruled, a list that includes Hinduš (India) and Kušiya (Kush), the same two ends of the empire that Esther 1:1 gives for Achashverosh's rule, \"from Hodu to Kush.\" Ezra 4:5–7 also names the Persian kings in the right order: Koresh, Daryavesh, Achashverosh, Artachshasta, which is the succession Cyrus, Darius I, Xerxes, Artaxerxes I (passing over Cyrus's son Cambyses).",
+        "he": "המלך הפרסי כסרכסס הראשון (מלך 486–465 לפנה\"ס) כתב את שמו בפרסית עתיקה Xšayāršā; דרך הצורה הבבלית של השם הוא נעשה ל\"אחשורוש\" העברי, ורוב החוקרים מזהים את אחשורוש של מגילת אסתר ושל עזרא ד, ו עם כסרכסס. רבות מכתובותיו שלו השתמרו בפרספוליס. באחת מהן, \"כתובת הדאיווה\" (XPh), הוא מונה את הארצות שמשל בהן, ורשימה זו כוללת את הינדוש (הודו) ואת כושיה (כוש), אותם שני קצוות של הממלכה שאסתר א, א מייחס לשלטון אחשורוש, \"מהודו ועד כוש\". גם עזרא ד, ה-ז מונה את מלכי פרס בסדר הנכון: כורש, דריוש, אחשורוש, ארתחשסתא, שהוא רצף המלכים כורש, דריוש הראשון, כסרכסס, ארתחשסתא הראשון (בדילוג על כנבוזי בן כורש).",
+        "fr": "Le roi perse Xerxès Ier (règne 486–465 av. J.-C.) écrivait son nom Xšayāršā en vieux perse ; par sa forme babylonienne, il donne l'hébreu Ahashvérosh, et la plupart des chercheurs identifient l'Assuérus du livre d'Esther et d'Esdras 4:6 à Xerxès. Beaucoup de ses propres inscriptions sont conservées à Persépolis. Dans l'une d'elles, l'« inscription des daivas » (XPh), il énumère les pays qu'il gouvernait, liste qui comprend Hinduš (l'Inde) et Kušiya (Koush), les deux mêmes extrémités de l'empire qu'Esther 1:1 donne au règne d'Assuérus, « depuis l'Inde jusqu'à Koush ». Esdras 4:5–7 nomme aussi les rois perses dans le bon ordre : Koresh, Daryavesh, Ahashvérosh, Artahshasta, c'est-à-dire la succession Cyrus, Darius Ier, Xerxès, Artaxerxès Ier (en omettant Cambyse, fils de Cyrus).",
+        "es": "El rey persa Jerjes I (reinó 486–465 a.C.) escribía su nombre Xšayāršā en persa antiguo; a través de su forma babilónica da el hebreo Ajashverosh, y la mayoría de los estudiosos identifica al Asuero del libro de Ester y de Esdras 4:6 con Jerjes. Muchas de sus propias inscripciones se conservan en Persépolis. En una de ellas, la \"inscripción de los daivas\" (XPh), enumera las tierras que gobernaba, una lista que incluye Hinduš (India) y Kušiya (Cus), los mismos dos extremos del imperio que Ester 1:1 atribuye al reinado de Asuero, \"desde la India hasta Cus\". Esdras 4:5–7 también nombra a los reyes persas en el orden correcto: Koresh, Daryavesh, Ajashverosh, Artajshastá, es decir, la sucesión Ciro, Darío I, Jerjes, Artajerjes I (omitiendo a Cambises, hijo de Ciro)."
+      },
+      "s": "Xerxes, Persepolis \"Daiva\" inscription (XPh), in P. Lecoq, Les inscriptions de la Perse achéménide (1997); Esther 1:1; Ezra 4:5–7",
+      "u": "https://www.livius.org/sources/content/achaemenid-royal-inscriptions/xph/",
+      "consensus_status": "probabilistic",
+      "source_tier": "primary",
+      "date_sort": -480,
+      "places": [
+        "persepolis",
+        "susa"
+      ],
+      "review_caveat": "The inscriptions confirm the king, not the events of Megillas Esther, which no Persian source records. The Septuagint renders the king's name as Artaxerxes. Darius I's inscriptions describe the empire's extent in similar terms, so \"from India to Kush\" was a standard description of Persian rule rather than something unique to Xerxes.",
+      "c": {
+        "en": "The inscriptions confirm the king, not the events of Megillas Esther, which no Persian source records. The Septuagint renders the king's name as Artaxerxes. Darius I's inscriptions describe the empire's extent in similar terms, so \"from India to Kush\" was a standard description of Persian rule rather than something unique to Xerxes.",
+        "he": "הכתובות מאששות את המלך, לא את מאורעות מגילת אסתר, שאף מקור פרסי אינו מתעד. תרגום השבעים מתרגם את שם המלך \"ארתחשסתא\". גם כתובות דריוש הראשון מתארות את גבולות הממלכה במונחים דומים, כך ש\"מהודו ועד כוש\" היה תיאור מקובל של השלטון הפרסי, ולא דבר המיוחד לכסרכסס.",
+        "fr": "Les inscriptions confirment le roi, non les événements du livre d'Esther, qu'aucune source perse ne rapporte. La Septante rend le nom du roi par Artaxerxès. Les inscriptions de Darius Ier décrivent l'étendue de l'empire en termes semblables : « de l'Inde à Koush » était donc une description courante de la domination perse, et non une particularité de Xerxès.",
+        "es": "Las inscripciones confirman al rey, no los hechos del libro de Ester, que ninguna fuente persa registra. La Septuaginta traduce el nombre del rey como Artajerjes. Las inscripciones de Darío I describen la extensión del imperio en términos parecidos, de modo que \"desde la India hasta Cus\" era una descripción habitual del dominio persa y no algo exclusivo de Jerjes."
+      }
+    },
+    {
+      "id": 470,
+      "layer": "history_corrob",
+      "t": {
+        "en": "Artaxerxes I — The King of Nechemiah's Mission in His Own Inscriptions",
+        "he": "ארתחשסתא הראשון — מלך שליחותו של נחמיה בכתובותיו שלו",
+        "fr": "Artaxerxès Ier — le roi de la mission de Néhémie dans ses propres inscriptions",
+        "es": "Artajerjes I — el rey de la misión de Nehemías en sus propias inscripciones"
+      },
+      "e": {
+        "en": "Nechemiah dates his mission to \"the twentieth year of Artachshasta the king\" (Nechemiah 2:1) and his return to the king to the thirty-second year (13:6); Ezra 7 also places Ezra's journey under an Artachshasta. Artaxerxes I (reigned 465–424 BCE) is known from his own inscriptions: at Persepolis (A1Pa) he calls himself \"Artaxerxes, the great king … son of king Xerxes, grandson of Darius,\" the same order of kings as Ezra 4:5–7. Business documents from the Murashu archive at Nippur and legal papyri from Elephantine are dated by his regnal years. An outside text also shows which of the three Persian kings named Artaxerxes sent Nechemiah: the Elephantine letter of 407 BCE (see the Sanballat entry) has Sanballat's sons acting for their father and names Yohanan as High Priest, which fits a Nechemiah working about a generation earlier, in 445 BCE, the twentieth year of Artaxerxes I.",
+        "he": "נחמיה מתארך את שליחותו ל\"שנת עשרים לארתחשסתא המלך\" (נחמיה ב, א) ואת שובו אל המלך לשנה השלושים ושתיים (יג, ו); גם עזרא ז מציב את עלייתו של עזרא בימי ארתחשסתא. ארתחשסתא הראשון (מלך 465–424 לפנה\"ס) ידוע מכתובותיו שלו: בפרספוליס (A1Pa) הוא מכנה את עצמו \"ארתחשסתא, המלך הגדול... בן המלך כסרכסס, נכד דריוש\", אותו סדר מלכים כמו בעזרא ד, ה-ז. תעודות מסחריות מארכיון מורשו בניפור ושטרות משפטיים מיב מתוארכים לפי שנות מלכותו. מקור חיצוני מראה גם איזה משלושת מלכי פרס שנקראו ארתחשסתא שלח את נחמיה: מכתב יב משנת 407 לפנה\"ס (ראו ערך סנבלט) מציג את בני סנבלט פועלים בשם אביהם ומזכיר את יוחנן ככהן הגדול, וזה מתאים לנחמיה שפעל כדור אחד קודם לכן, בשנת 445 לפנה\"ס, שנת העשרים לארתחשסתא הראשון.",
+        "fr": "Néhémie date sa mission de « la vingtième année du roi Artahshasta » (Néhémie 2:1) et son retour auprès du roi de la trente-deuxième année (13:6) ; Esdras 7 place aussi le voyage d'Esdras sous un Artahshasta. Artaxerxès Ier (règne 465–424 av. J.-C.) est connu par ses propres inscriptions : à Persépolis (A1Pa), il se nomme « Artaxerxès, le grand roi… fils du roi Xerxès, petit-fils de Darius », le même ordre des rois qu'en Esdras 4:5–7. Les documents d'affaires des archives Murashu à Nippur et des papyrus juridiques d'Éléphantine sont datés par ses années de règne. Un texte extérieur indique aussi lequel des trois rois perses nommés Artaxerxès envoya Néhémie : la lettre d'Éléphantine de 407 av. J.-C. (voir l'entrée sur Sanballat) montre les fils de Sanballat agissant pour leur père et nomme Yohanan comme grand prêtre, ce qui convient à un Néhémie actif environ une génération plus tôt, en 445 av. J.-C., la vingtième année d'Artaxerxès Ier.",
+        "es": "Nehemías fecha su misión en \"el año veinte del rey Artajshastá\" (Nehemías 2:1) y su regreso al rey en el año treinta y dos (13:6); Esdras 7 sitúa también el viaje de Esdras bajo un Artajshastá. Artajerjes I (reinó 465–424 a.C.) es conocido por sus propias inscripciones: en Persépolis (A1Pa) se llama a sí mismo \"Artajerjes, el gran rey… hijo del rey Jerjes, nieto de Darío\", el mismo orden de reyes que en Esdras 4:5–7. Los documentos comerciales del archivo Murashu en Nippur y los papiros jurídicos de Elefantina están fechados por sus años de reinado. Un texto externo muestra además cuál de los tres reyes persas llamados Artajerjes envió a Nehemías: la carta de Elefantina de 407 a.C. (véase la entrada sobre Sambalat) presenta a los hijos de Sambalat actuando por su padre y nombra a Yojanán como sumo sacerdote, lo que encaja con un Nehemías activo una generación antes, en 445 a.C., el año veinte de Artajerjes I."
+      },
+      "s": "Artaxerxes I, Persepolis inscription A1Pa, in P. Lecoq, Les inscriptions de la Perse achéménide (1997); Elephantine letter TAD A4.7–8 (407 BCE); Ezra 4:7; 7:1; Nechemiah 2:1; 13:6",
+      "u": "https://www.livius.org/sources/content/achaemenid-royal-inscriptions/a1pa/",
+      "consensus_status": "probabilistic",
+      "source_tier": "primary",
+      "date_sort": -445,
+      "places": [
+        "persepolis",
+        "susa"
+      ],
+      "review_caveat": "Ezra's Artachshasta is debated: many scholars date Ezra to the seventh year of Artaxerxes I (458 BCE), others to Artaxerxes II (398 BCE). The Elephantine synchronism fixes Nechemiah's date; it does not settle Ezra's.",
+      "c": {
+        "en": "Ezra's Artachshasta is debated: many scholars date Ezra to the seventh year of Artaxerxes I (458 BCE), others to Artaxerxes II (398 BCE). The Elephantine synchronism fixes Nechemiah's date; it does not settle Ezra's.",
+        "he": "זהותו של ארתחשסתא שבספר עזרא שנויה במחלוקת: חוקרים רבים מתארכים את עזרא לשנה השביעית לארתחשסתא הראשון (458 לפנה\"ס), ואחרים לארתחשסתא השני (398 לפנה\"ס). ההתאמה ממכתב יב קובעת את זמנו של נחמיה; היא אינה מכריעה את זמנו של עזרא.",
+        "fr": "L'Artahshasta d'Esdras est débattu : beaucoup de chercheurs datent Esdras de la septième année d'Artaxerxès Ier (458 av. J.-C.), d'autres d'Artaxerxès II (398 av. J.-C.). Le synchronisme d'Éléphantine fixe la date de Néhémie ; il ne tranche pas celle d'Esdras.",
+        "es": "El Artajshastá de Esdras es objeto de debate: muchos estudiosos fechan a Esdras en el séptimo año de Artajerjes I (458 a.C.), otros en Artajerjes II (398 a.C.). El sincronismo de Elefantina fija la fecha de Nehemías; no resuelve la de Esdras."
       }
     }
   ]
