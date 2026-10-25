@@ -941,7 +941,10 @@
         "he": "הגמל נעשה נפוץ בדרום הלבנט מאוחר בהרבה: ממצאי תמנע והערבה מתארכים את הופעתו המשמעותית שם לסוף המאה ה-10 לפנה\"ס. החותם נקנה ולא נחפר, והקריאה מאללח נשענת על תעודה אחת. הממצאים מראים שגמלים היו מוכרים בסוריה מוקדם, לא שהשימוש בהם היה נפוץ.",
         "fr": "Le chameau ne s'est répandu dans le sud du Levant que bien plus tard : les découvertes de Timna et de l'Arava datent sa première apparition significative de la fin du Xe siècle av. J.-C. Le sceau a été acheté, non fouillé, et la lecture d'Alalakh repose sur un seul texte. Ces découvertes montrent que le chameau était connu tôt en Syrie, non qu'il y était largement utilisé.",
         "es": "El camello se hizo común en el sur del Levante mucho más tarde: los hallazgos de Timna y la Aravá fechan su primera aparición significativa allí a finales del siglo X a.C. El sello fue comprado, no excavado, y la lectura de Alalakh se basa en un solo texto. Los hallazgos muestran que el camello se conocía temprano en Siria, no que su uso fuera extendido."
-      }
+      },
+      "places": [
+        "haran"
+      ]
     },
     {
       "id": 211,
@@ -4627,7 +4630,10 @@
       "u": "https://archive.org/details/sculpturesinscri00brituoft",
       "date_sort": -520,
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "behistun"
+      ]
     },
     {
       "id": 164,
@@ -5307,7 +5313,10 @@
         "he": "כמה מטיפוסי השמות האלה מתועדים בעיקר באלף הראשון לפנה\"ס, ויש חוקרים הרואים בכך סימן לזמן מאוחר של סיפור יוסף. אחרים טוענים שהשמות אולי עודכנו במהלך המסירה, או שיש להם צורות מוקדמות שטרם נמצאו.",
         "fr": "Plusieurs de ces types de noms sont surtout attestés au Ier millénaire av. J.-C., ce que certains chercheurs prennent pour l'indice d'une date tardive du récit de Joseph. D'autres estiment que les noms ont pu être actualisés au cours de la transmission ou avoir des formes anciennes encore non retrouvées.",
         "es": "Varios de estos tipos de nombres se atestiguan sobre todo en el I milenio a.C., lo que algunos estudiosos toman como señal de una fecha tardía del relato de Yosef. Otros sostienen que los nombres pudieron actualizarse en la transmisión o tener formas tempranas aún no halladas."
-      }
+      },
+      "places": [
+        "on-heliopolis"
+      ]
     },
     {
       "id": 386,
@@ -5356,7 +5365,10 @@
         "he": "נחל מצרים נשאר גבול מוכר עד התקופה האשורית, ולכן השימוש בו בתורה אינו מצביע לבדו על זמן מוקדם; הוא מראה שהגבול עוקב אחר גבול ממשי. יש חוקרים המזהים את הנחל עם נחל הבשור ולא עם ואדי אל-עריש.",
         "fr": "Le torrent d'Égypte resta une frontière reconnue jusqu'à l'époque assyrienne ; son emploi dans la Torah n'indique donc pas à lui seul une date ancienne, mais montre que la limite suit une frontière réelle. Certains l'identifient au Nahal Besor plutôt qu'au Ouadi el-Arich.",
         "es": "El Torrente de Egipto siguió siendo una frontera reconocida hasta el periodo asirio, así que su uso en la Torá no indica por sí solo una fecha temprana; muestra que el límite sigue una frontera real. Algunos lo identifican con el Najal Besor y no con el Wadi el-Arish."
-      }
+      },
+      "places": [
+        "brook-of-egypt"
+      ]
     },
     {
       "id": 387,
@@ -5657,7 +5669,10 @@
       },
       "date_sort": -1500,
       "consensus_status": "probabilistic",
-      "source_tier": "news"
+      "source_tier": "news",
+      "places": [
+        "tell-el-kharouba"
+      ]
     },
     {
       "id": 204,
@@ -5709,7 +5724,10 @@
         "he": "מחברי המחקר (אשל ושותפיו, 2025) מתארכים את ייצור הארד לתקופת הברזל I ואינם קושרים אותו לדוד או לשליטה ישראלית באדום; הם משאירים פתוחה את השאלה מי שלט בסחר הנחושת. הקשר לשמואל ב ח:יד הוא פרשנות של פרויקט זה.",
         "fr": "Les auteurs de l'étude (Eshel et al., 2025) datent la production de bronze du Fer I et ne la relient ni à David ni à un contrôle israélite d'Édom ; ils laissent ouverte la question de savoir qui contrôlait le commerce du cuivre. Le lien avec 2 Samuel 8:14 est une interprétation de ce projet.",
         "es": "Los autores del estudio (Eshel et al., 2025) fechan la producción de bronce en la Edad del Hierro I y no la vinculan con David ni con un control israelita de Edom; dejan abierto quién controlaba el comercio del cobre. La conexión con 2 Samuel 8:14 es una interpretación de este proyecto."
-      }
+      },
+      "places": [
+        "el-ahwat"
+      ]
     },
     {
       "id": 145,
@@ -6131,7 +6149,10 @@
         "he": "משקולות בקע שעליהן הכתובת \"בקע\" נמצאו באתרים יהודאיים רבים; הממצא מ-2018 הוא דוגמה אחת מני רבות, וערכו באישור המונח.",
         "fr": "Des poids béka inscrits bq' ont été trouvés dans de nombreux sites judéens ; cette découverte de 2018 en est un exemple parmi d'autres, et sa valeur tient à la confirmation du terme.",
         "es": "Se han hallado pesas beka con la inscripción bq' en muchos sitios judaítas; este hallazgo de 2018 es un ejemplo entre muchos, y su valor está en confirmar el término."
-      }
+      },
+      "places": [
+        "jerusalem"
+      ]
     },
     {
       "id": 261,
@@ -6174,7 +6195,10 @@
       "date_sort": -1208,
       "consensus_status": "probabilistic",
       "source_tier": "secondary",
-      "highlight_rank": 1
+      "highlight_rank": 1,
+      "places": [
+        "thebes"
+      ]
     },
     {
       "id": 99,
@@ -7304,7 +7328,10 @@
       "u": "http://www.jstor.org/stable/27924525",
       "date_sort": -700,
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "jerusalem"
+      ]
     },
     {
       "id": 196,
@@ -7506,7 +7533,10 @@
       "s": "J. A. Fitzmyer, The Aramaic Inscriptions of Sefire (Biblica et Orientalia; Rome, 1967)",
       "u": "https://ocb.uni-tuebingen.de/Record/KEI00091722?lng=en",
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "sefire"
+      ]
     },
     {
       "id": 100,
@@ -7606,7 +7636,10 @@
       "s": "Jackson, Howard M.; \"The Shadow of Pharaoh, Your Lord, Falls upon You\": Once again Wenamun 2.46; Journal of Near Eastern Studies; University of Chicago Press; 54; pp. 273–86; DOI: 10.1086/373770",
       "u": "https://www.jstor.org/stable/545847",
       "consensus_status": "probabilistic",
-      "source_tier": "secondary"
+      "source_tier": "secondary",
+      "places": [
+        "byblos"
+      ]
     },
     {
       "id": 279,
@@ -7787,7 +7820,10 @@
       "u": "https://doi.org/10.3138/9781442671072",
       "date_sort": -853,
       "consensus_status": "contested",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "qarqar"
+      ]
     },
     {
       "id": 195,
@@ -8083,7 +8119,10 @@
       "u": "https://www.britishmuseum.org/collection/object/Y_EA10245-1",
       "consensus_status": "probabilistic",
       "source_tier": "primary",
-      "date_sort": -1250
+      "date_sort": -1250,
+      "places": [
+        "goshen"
+      ]
     },
     {
       "id": 185,
@@ -8104,7 +8143,11 @@
       "u": "https://www.tiu.edu/divinity/books/israel-in-egypt-the-evidence-for-the-authenticity-of-the-exodus-tradition/",
       "consensus_status": "probabilistic",
       "source_tier": "secondary",
-      "date_sort": -1400
+      "date_sort": -1400,
+      "places": [
+        "pi-ramesses",
+        "goshen"
+      ]
     },
     {
       "id": 432,
@@ -9328,7 +9371,10 @@
       },
       "date_sort": 244,
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "dura-europos"
+      ]
     },
     {
       "id": 38,
@@ -9763,7 +9809,10 @@
         "es": "La primera letra solo se conserva en parte. Los editores prefieren la yod, pero señalan que otras letras, o leer la línea en sentido contrario, son posibles. El nombre por sí solo no puede identificar al Gedeón bíblico."
       },
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "khirbet-al-rai"
+      ]
     },
     {
       "id": 375,
@@ -9954,7 +10003,10 @@
       "u": "https://www.dailynewsegypt.com/2026/08/15/new-archaeological-discovery-at-tell-abu-saifi-sheds-light-on-ancient-horus-military-road/",
       "date_sort": -1250,
       "consensus_status": "contested",
-      "source_tier": "news"
+      "source_tier": "news",
+      "places": [
+        "tell-abu-seifi"
+      ]
     },
     {
       "id": 194,
@@ -10007,7 +10059,10 @@
       "u": "https://en.wikipedia.org/wiki/Temple_Warning_inscription",
       "date_sort": -10,
       "consensus_status": "probabilistic",
-      "source_tier": "popular"
+      "source_tier": "popular",
+      "places": [
+        "jerusalem"
+      ]
     },
     {
       "id": 171,
@@ -10930,7 +10985,10 @@
       "u": "https://www.metmuseum.org/art/collection/search/544648",
       "date_sort": -1450,
       "consensus_status": "probabilistic",
-      "source_tier": "primary"
+      "source_tier": "primary",
+      "places": [
+        "thebes"
+      ]
     },
     {
       "id": 87,
@@ -11272,7 +11330,10 @@
         "he": "הקערה מזכירה את גשם רק כאביו של קינו. החוקרים חלוקים אם גשם זה הוא יריבו של נחמיה, והקערות הגיעו דרך שוק העתיקות, ולכן מקום מציאתן אינו מתועד.",
         "fr": "Le bol ne nomme Guéchem que comme père de Qaïnou. Les chercheurs divergent sur l'identité de ce Guéchem avec l'adversaire de Néhémie, et les bols sont passés par le marché des antiquités ; leur lieu de découverte n'est donc pas documenté.",
         "es": "El cuenco nombra a Guéshem solo como padre de Qainu. Los estudiosos discrepan sobre si este Guéshem es el adversario de Nejemías, y los cuencos llegaron por el mercado de antigüedades, así que su lugar de hallazgo no está documentado."
-      }
+      },
+      "places": [
+        "goshen"
+      ]
     },
     {
       "id": 217,
