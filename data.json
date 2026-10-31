@@ -11671,6 +11671,37 @@
         "fr": "Aucune inscription ne nomme Shémer. Relier ces installations à lui est une proposition savante qui s'accorde avec le verset, mais ne le prouve pas.",
         "es": "Ninguna inscripción nombra a Semer. Relacionar estas instalaciones con él es una propuesta académica que concuerda con el versículo, pero no lo demuestra."
       }
+    },
+    {
+      "id": 472,
+      "layer": "archaeology",
+      "t": {
+        "en": "The Ya'azanyahu Seal from Mizpah — A \"Servant of the King\" in Gedaliah's Town (Melachim II 25:23)",
+        "he": "חותם יאזניהו מהמצפה — \"עבד המלך\" בעירו של גדליה (מלכים ב כה:כג)",
+        "fr": "Le sceau de Yaazanyahou à Mitspa — un « serviteur du roi » dans la ville de Guedalia (2 Rois 25:23)",
+        "es": "El sello de Yaazanyahu de Mizpá — un \"siervo del rey\" en la ciudad de Guedalías (2 Reyes 25:23)"
+      },
+      "e": {
+        "en": "Two passages name the same officer at Mizpah: (1) Melachim II 25:23 lists Ya'azanyahu son of the Maachathite among the army officers who came to Gedaliah at Mizpah after Jerusalem fell. (2) Yirmeyahu 40:8 gives the same list and spells his name Yezanyahu. William Badè's excavations at Tell en-Nasbeh (1926–1935), the site widely identified as Mizpah in Binyamin, found a banded onyx seal in a tomb there. It reads \"(Belonging) to Ya'azanyahu, servant of the king,\" and shows a rooster below the name, one of the earliest known depictions of the bird. Its script dates it to about the late 7th or early 6th century BCE. \"Servant of the king\" is a title Tanach uses for high court officials. The seal thus places a royal official with this name at this town at about the time Melachim and Yirmeyahu place Gedaliah's officer there. The name, the rank, the town and the period all fit the verses.",
+        "he": "שני כתובים מזכירים את אותו שר במצפה: (1) מלכים ב כה:כג מונה את יאזניהו בן המעכתי בין שרי החיילים שבאו אל גדליה המצפתה לאחר נפילת ירושלים. (2) ירמיהו מ:ח מביא את אותה רשימה וכותב את שמו יזניהו. בחפירותיו של ויליאם באדה בתל א-נצבה (1926–1935), האתר המזוהה בדרך כלל עם המצפה שבבנימין, נמצא בקבר חותם של אוניקס מפוספס. כתוב עליו \"ליאזניהו עבד המלך\", ומתחת לשם חרוט תרנגול, אחד התיאורים הקדומים ביותר הידועים של עוף זה. כתב החותם מתארך אותו בקירוב לסוף המאה השביעית או לראשית המאה השישית לפני הספירה. \"עבד המלך\" הוא תואר שהתנ\"ך משתמש בו לשרים רמי מעלה בחצר המלוכה. החותם מציב אפוא פקיד מלכותי בשם זה בעיר זו בקירוב בזמן שבו מלכים וירמיהו מציבים שם את שרו של גדליה. השם, הדרגה, העיר והתקופה תואמים כולם את הפסוקים.",
+        "fr": "Deux passages nomment le même officier à Mitspa : (1) 2 Rois 25:23 compte Yaazanyahou, fils du Maakathite, parmi les chefs de l'armée venus auprès de Guedalia à Mitspa après la chute de Jérusalem. (2) Jérémie 40:8 donne la même liste et écrit son nom Yezanyahou. Les fouilles de William Badè à Tell en-Nasbeh (1926-1935), site généralement identifié à Mitspa en Benjamin, ont mis au jour dans une tombe un sceau d'onyx rubané. On y lit « (Appartenant) à Yaazanyahou, serviteur du roi », et un coq est gravé sous le nom, l'une des plus anciennes représentations connues de cet oiseau. Son écriture le date approximativement de la fin du VIIe ou du début du VIe siècle avant notre ère. « Serviteur du roi » est un titre que le Tanakh emploie pour de hauts dignitaires de la cour. Le sceau situe donc un officier royal de ce nom dans cette ville à peu près à l'époque où les Rois et Jérémie y situent l'officier de Guedalia. Le nom, le rang, la ville et l'époque s'accordent tous avec les versets.",
+        "es": "Dos pasajes nombran al mismo oficial en Mizpá: (1) 2 Reyes 25:23 enumera a Yaazanyahu, hijo del maacateo, entre los jefes del ejército que acudieron a Guedalías en Mizpá tras la caída de Jerusalén. (2) Jeremías 40:8 da la misma lista y escribe su nombre Yezanyahu. Las excavaciones de William Badè en Tell en-Nasbeh (1926-1935), sitio identificado generalmente con Mizpá de Benjamín, hallaron en una tumba un sello de ónice bandeado. Dice \"(Perteneciente) a Yaazanyahu, siervo del rey\", y bajo el nombre lleva grabado un gallo, una de las representaciones más antiguas conocidas de esta ave. Su escritura lo fecha aproximadamente a finales del siglo VII o comienzos del VI a. e. c. \"Siervo del rey\" es un título que el Tanaj usa para altos funcionarios de la corte. El sello sitúa así a un oficial real de este nombre en esta ciudad aproximadamente en la época en que Reyes y Jeremías sitúan allí al oficial de Guedalías. El nombre, el rango, la ciudad y el período concuerdan con los versículos."
+      },
+      "s": "W. F. Badè, \"The Seal of Jaazaniah,\" Zeitschrift für die alttestamentliche Wissenschaft 51 (1933): 150–56; J. R. Zorn, \"Mizpah: Newly Discovered Stratum Reveals Judah's Other Capital,\" Biblical Archaeology Review 23:5 (1997); Encyclopaedia Judaica, \"Mizpeh or Mizpah\"; Israel Museum, Jerusalem; 2 Kings 25:23; Jeremiah 40:8",
+      "u": "https://cojs.org/onyx_seal-_c-_586_bce/",
+      "consensus_status": "probabilistic",
+      "source_tier": "primary",
+      "date_sort": -422,
+      "places": [
+        "mizpah"
+      ],
+      "review_caveat": "The seal has no patronymic, so it cannot be tied to 'son of the Maachathite'. Encyclopaedia Judaica says only that it is 'ascribed by some' to the officer. The name recurs in Tanach (Yirmeyahu 35:3; Yechezkel 8:11, 11:1). Encyclopaedia Judaica also cites Yirmeyahu 42:1, but that verse has Yezanyah ben Hoshayah, a different patronymic, so it is not used here. COJS's '2 Kings 24' is wrong; the verse is 25:23. Stratum reports conflict (Wikipedia Stratum 3, COJS discusses Stratum 2) and dates vary (Israel Museum 7th century; Posen late 7th–early 6th), so the entry dates it by script only and gives no stratum. The report's 'Roman-period tomb' was not found on the Posen page and is omitted. Badè 1933 and Zorn 1997 were not read in full; their details come from secondary accounts. date_sort -422 is the Mesorah date of Gedaliah's governorship after the destruction (secular 586 BCE), not a date for the seal itself.",
+      "c": {
+        "en": "The seal gives no father's name, and Tanach mentions other men called Ya'azanyahu, so it may not have belonged to Gedaliah's officer. The match is possible, not proven, and only some scholars propose it.",
+        "he": "החותם אינו מזכיר שם אב, והתנ\"ך מזכיר אנשים נוספים בשם יאזניהו, ולכן ייתכן שלא היה שייך לשרו של גדליה. הזיהוי אפשרי אך אינו מוכח, ורק חלק מהחוקרים מציעים אותו.",
+        "fr": "Le sceau ne donne pas le nom du père, et le Tanakh mentionne d'autres hommes appelés Yaazanyahou ; il n'a donc peut-être pas appartenu à l'officier de Guedalia. L'identification est possible, non prouvée, et seuls certains savants la proposent.",
+        "es": "El sello no da el nombre del padre, y el Tanaj menciona a otros hombres llamados Yaazanyahu, de modo que quizá no perteneció al oficial de Guedalías. La identificación es posible, no está demostrada y solo algunos estudiosos la proponen."
+      }
     }
   ]
 }
